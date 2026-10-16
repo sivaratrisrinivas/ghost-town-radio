@@ -1,0 +1,40 @@
+1
+00:00:00,600 --> 00:00:09,093
+Most AI history tools sound sure of themselves, and you cannot tell what is real. So I built a radio station that is not allowed to guess.
+
+2
+00:00:09,643 --> 00:00:19,014
+This is Ghost Town Radio. The town is Bodie, California, in eighteen seventy-nine and eighty. Every word comes from public domain newspapers.
+
+3
+00:00:19,564 --> 00:00:23,530
+Turn the dial to pick an hour. It works by touch, mouse, or keyboard.
+
+4
+00:00:24,080 --> 00:00:30,950
+Press play. The D J is fictional. But look at the card. Every line shows the exact quote, and a link to the page.
+
+5
+00:00:31,500 --> 00:00:39,553
+DJ Hollis Vane (fictional): They have good hoisting works and an incline.
+
+6
+00:00:40,003 --> 00:00:43,495
+Quote: “They have good hoisti works and an incline”
+
+7
+00:00:43,695 --> 00:00:49,683
+The quote is word for word, typos and all. A code check rejects any quote that is not in the source.
+
+8
+00:00:50,233 --> 00:00:54,704
+Some hours are silent. When the archive has nothing, the D J says nothing.
+
+9
+00:00:55,254 --> 00:01:05,156
+A free language model got seventy one percent of its quotes exact on the first try. After the checks, all forty claims on air are verbatim, and I read every one.
+
+10
+00:01:05,706 --> 00:01:09,276
+It is open source, and the link is below. Ghost Town Radio.
+
