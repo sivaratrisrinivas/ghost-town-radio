@@ -60,7 +60,7 @@ I found related work but nothing that does this exact thing. I cannot prove noth
 `pip install requests rapidfuzz kokoro-onnx soundfile`, then run `scripts/01` to `09` in order. Needs `GROQ_API_KEY`. Pages serves `docs/`. Code is MIT. The corpus text is public domain.
 
 ## New towns: eval numbers
-Pipeline: `TOWN=<slug>` selects the town (`data/towns.json`). `02b_fetch_town.py` fetches Internet Archive text, `03` picks passages that mention the town, `04` asks a free LLM for claim plus quote, `06` runs the same code checks, `07` builds the schedule, `08` renders audio, `09` re-checks the shipped data. CI runs `09` for all five towns.
+Pipeline: `TOWN=<slug>` selects the town (`data/towns.json`). `02b_fetch_town.py` fetches Internet Archive text, `03` picks passages that mention the town, `04` asks a free LLM for claim plus quote, `06` runs the same code checks, `07` builds the schedule, `08` renders audio, `09` re-checks the shipped data. `09` with no `TOWN` set checks all five towns, and that is what CI runs.
 - **Licensing:** every source is dated 1930 or earlier, so it is public domain in the US by age. Only the 1875 Bangalore Gazetteer carries an explicit Public Domain Mark on the Internet Archive. The other items have no rights statement there, and the license line on each card says so. This is my age based reading, not a legal opinion.
 - **Raw LLM quote exactly verbatim:** Bangalore 93.2% (n=117), Coorg 90.5% (n=137), Hyderabad 83.8% (n=142), Mumbai 88.1% (n=118). Models: Groq gpt-oss-120b for the first passages of Bangalore, Mumbai, Coorg and Hyderabad, then gpt-oss-20b once the 120b daily free quota ran out. The rates mix both models.
 - **Passed all code checks:** Bangalore 70, Coorg 88, Hyderabad 56, Mumbai 60.

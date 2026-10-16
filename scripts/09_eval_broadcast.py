@@ -1,5 +1,11 @@
 """Code evals on the FINAL broadcast (what listeners hear). Also self-tests the checker on planted failures."""
-import json,re,sys
+import json,re,sys,os,subprocess
+if "TOWN" not in os.environ and __name__=="__main__":
+    # no town given: check every town (this is what CI runs)
+    rc=0
+    for t in json.load(open("data/towns.json")):
+        print("== town",t); rc|=subprocess.call([sys.executable,__file__],env=dict(os.environ,TOWN=t,PYTHONPATH="scripts"),stdout=subprocess.DEVNULL)
+    print("all towns ok" if rc==0 else "FAILED"); sys.exit(rc)
 from common import *
 meta=load_meta(); texts={i:norm(doc_text(m)) for i,m in meta.items()}
 ALLOW0={"Ghost","Town","Radio","Hollis","Vane","This","Let","Here","Now","Listen","Another","In","The","Word","That","Where","Static","Stay","Nothing","So","I","And","Bodie"}
