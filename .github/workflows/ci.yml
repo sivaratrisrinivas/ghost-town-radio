@@ -13,7 +13,11 @@ jobs:
           python-version: '3.12'
       - run: pip install rapidfuzz
       - name: Every quote verbatim, every claim sourced, planted-failure self test
-        run: PYTHONPATH=scripts python scripts/09_eval_broadcast.py
+        run: |
+          for t in bodie bangalore coorg hyderabad mumbai; do
+            echo "== $t"; TOWN=$t PYTHONPATH=scripts python scripts/09_eval_broadcast.py > /dev/null || exit 1
+          done
+          python scripts/10_towns_index.py
       - name: Audio under 40 MB
         run: |
           size=$(du -sm docs/audio | cut -f1)

@@ -1,0 +1,514 @@
+[
+ {
+  "fact_id": "hyderabaddeccanu00alic-p1-f2",
+  "source_id": "hyderabaddeccanu00alic",
+  "split": "heldout",
+  "claim": "The dominions contain 20,475 towns and villages.",
+  "quote": "53. There are in the whole of His Highness the Nizam-ul- Mulk's Dominions 20,475 towns and Towns and",
+  "theme": "community",
+  "passage_id": "hyderabaddeccanu00alic-p1",
+  "snapped": true
+ },
+ {
+  "fact_id": "hyderabaddeccanu00alic-p3-f0",
+  "source_id": "hyderabaddeccanu00alic",
+  "split": "dev",
+  "claim": "The college is affiliated with the University of Madras.",
+  "quote": "College which has been lately instituted and in which students have been trained up by an efficient staff of professors to pass the various examinations in the University of Madras to which it is affiliated.",
+  "theme": "community",
+  "passage_id": "hyderabaddeccanu00alic-p3"
+ },
+ {
+  "fact_id": "hyderabaddeccanu00alic-p8-f0",
+  "source_id": "hyderabaddeccanu00alic",
+  "split": "dev",
+  "claim": "Hyderabad had a population of 7,517 according to the last census.",
+  "quote": "Hyderabad is according to the last census 7,517, that of the Madras Presidency is 28,900, that of the Bombay 50,800, of Rajputana and Central India 9,900, and of the Central Provinces 6,700.",
+  "theme": "community",
+  "passage_id": "hyderabaddeccanu00alic-p8"
+ },
+ {
+  "fact_id": "hyderabaddeccanu00alic-p11-f0",
+  "source_id": "hyderabaddeccanu00alic",
+  "split": "dev",
+  "claim": "He would have about eleven and a half lakhs of revenue from Hyderabad.",
+  "quote": "I found that I should have about eleven and a half lakhs of Hyderabad.",
+  "theme": "commerce",
+  "passage_id": "hyderabaddeccanu00alic-p11"
+ },
+ {
+  "fact_id": "hyderabaddeccanu00alic-p13-f2",
+  "source_id": "hyderabaddeccanu00alic",
+  "split": "dev",
+  "claim": "The number of British servants among the employed is 3,819.",
+  "quote": "from it we must deduct 3,819, the number of British servants",
+  "theme": "community",
+  "passage_id": "hyderabaddeccanu00alic-p13"
+ },
+ {
+  "fact_id": "hyderabadaffairs09alim-p0-f2",
+  "source_id": "hyderabadaffairs09alim",
+  "split": "dev",
+  "claim": "The company was mining in the Singareni coalfields, producing about 150 tons a week.",
+  "quote": "The Company have been carrying on mining operations in the Singareni coalfields to the extent of raising about 150 tons a week.",
+  "theme": "mining",
+  "passage_id": "hyderabadaffairs09alim-p0"
+ },
+ {
+  "fact_id": "hyderabadaffairs09alim-p1-f0",
+  "source_id": "hyderabadaffairs09alim",
+  "split": "dev",
+  "claim": "The Nizam agreed to give a guarantee of 5 per cent for 20 years on the \u00a32,000,000 capital.",
+  "quote": "The Nizam agreed to give a guarantee of 5 per cent, for 20 years on the .\u00a32,000,000 capital.",
+  "theme": "commerce",
+  "passage_id": "hyderabadaffairs09alim-p1"
+ },
+ {
+  "fact_id": "hyderabadaffairs09alim-p1-f1",
+  "source_id": "hyderabadaffairs09alim",
+  "split": "dev",
+  "claim": "The Company had been carrying on mining operations in the Singareni coalfields to the extent of raising about 150 tons a week.",
+  "quote": "The Company have been carrying on mining operations in the Singareni coaltields to the extent of raising about 150 tons a week.",
+  "theme": "mining",
+  "passage_id": "hyderabadaffairs09alim-p1"
+ },
+ {
+  "fact_id": "hyderabadaffairs09alim-p1-f2",
+  "source_id": "hyderabadaffairs09alim",
+  "split": "dev",
+  "claim": "The Committee expressed no opinion as to the prospects of the enterprise.",
+  "quote": "The Committee expfess no opinion as to the prospects of the enterprise.",
+  "theme": "news",
+  "passage_id": "hyderabadaffairs09alim-p1"
+ },
+ {
+  "fact_id": "hyderabadaffairs09alim-p2-f0",
+  "source_id": "hyderabadaffairs09alim",
+  "split": "heldout",
+  "claim": "The Select Committee of the House of Commons resumed its inquiry into the Hyderabad Deccan Mining Company.",
+  "quote": "The Hyderabad Inquiry. \u2014 The Select Committee of the House of Commons appointed to inquire into matters relating to the Hyderabad Deccau Mining Company resumed yesterday.",
+  "theme": "commerce",
+  "passage_id": "hyderabadaffairs09alim-p2"
+ },
+ {
+  "fact_id": "hyderabadaffairs09alim-p2-f1",
+  "source_id": "hyderabadaffairs09alim",
+  "split": "heldout",
+  "claim": "Mr. Hall, the company's secretary, produced documents requested at the last sitting, including a report by Mr. Moles, the company's engineer in Hyderabad.",
+  "quote": "Mr. Hall, secretary to the company, recalled, produced a number of documents which were asked for at the last sitting, including a report furnished by Mr. Moles- worth, the company's engineer in Hyderabad.",
+  "theme": "commerce",
+  "passage_id": "hyderabadaffairs09alim-p2"
+ },
+ {
+  "fact_id": "hyderabadaffairs09alim-p5-f1",
+  "source_id": "hyderabadaffairs09alim",
+  "split": "dev",
+  "claim": "The company was raising about 150 tons of coal per week from the mine.",
+  "quote": "They were raising about 150 tons of coal per week from the mine.",
+  "theme": "commerce",
+  "passage_id": "hyderabadaffairs09alim-p5"
+ },
+ {
+  "fact_id": "hyderabadaffairs09alim-p5-f2",
+  "source_id": "hyderabadaffairs09alim",
+  "split": "dev",
+  "claim": "The railway to the coal mines was opened on January 1 of the present year.",
+  "quote": "The railway to the coal mines was only opened on January 1 of the present year,",
+  "theme": "commerce",
+  "passage_id": "hyderabadaffairs09alim-p5"
+ },
+ {
+  "fact_id": "hyderabadaffairs09alim-p7-f1",
+  "source_id": "hyderabadaffairs09alim",
+  "split": "heldout",
+  "claim": "The railroad costs the Nizam \u00a3100,000 per annum, which he has to pay to cover the annual deficit.",
+  "quote": "the railroad, far from being prosperous, is 315 costing the Nizam \u00a3100,000 per annum, which lie has to pay to make up the annual deficit ;",
+  "theme": "commerce",
+  "passage_id": "hyderabadaffairs09alim-p7",
+  "snapped": true
+ },
+ {
+  "fact_id": "hyderabadaffairs09alim-p8-f1",
+  "source_id": "hyderabadaffairs09alim",
+  "split": "heldout",
+  "claim": "The company was formed to take over a coal concession granted by the Nizam without payment.",
+  "quote": "This Company was formed to take over a con- cession which had Ijeen granted by tlie Nizam over a tract of land said to contain coal.",
+  "theme": "commerce",
+  "passage_id": "hyderabadaffairs09alim-p8"
+ },
+ {
+  "fact_id": "hyderabadaffairs09alim-p9-f0",
+  "source_id": "hyderabadaffairs09alim",
+  "split": "dev",
+  "claim": "The company was required to have a capital of at least \u00a31,000,000 and to subscribe at least \u00a3150,000.",
+  "quote": "there was no limitation on the capital of the Company, except that it was to be not less than \u00a31,000,000, and no limitation on the amount to be subscribed, except that it was to be \u00a3150,000 at the least.",
+  "theme": "commerce",
+  "passage_id": "hyderabadaffairs09alim-p9",
+  "snapped": true
+ },
+ {
+  "fact_id": "hyderabadaffairs09alim-p11-f0",
+  "source_id": "hyderabadaffairs09alim",
+  "split": "heldout",
+  "claim": "It is unclear whether the action was approved by the British Resident at Hyderabad or the Indian Government.",
+  "quote": "Whether this was done with the approval of the British Eesident at Hyderabad, or of the Indian Government",
+  "theme": "news",
+  "passage_id": "hyderabadaffairs09alim-p11"
+ },
+ {
+  "fact_id": "hyderabadaffairs09alim-p11-f1",
+  "source_id": "hyderabadaffairs09alim",
+  "split": "heldout",
+  "claim": "In June, Abdul Huk, Jubilee Commissioner of the Nizam, bought 10,000 shares for the Nizam's government at \u00a312 each.",
+  "quote": "Whether, in June last, one Abdul Huk, being in England as Jubilee Connnissioner of the Nizam, purchased 10,000 shares for tlie Government of the Nizam at the price of \u00a312 per share",
+  "theme": "commerce",
+  "passage_id": "hyderabadaffairs09alim-p11"
+ },
+ {
+  "fact_id": "hyderabadaffairs09alim-p11-f2",
+  "source_id": "hyderabadaffairs09alim",
+  "split": "heldout",
+  "claim": "The Jubilee Commissioner sent a telegram to Colonel Marshall on June 3 stating that the Deccan was firmly held by the public, making it difficult to purchase shares.",
+  "quote": "Whether the Jubilee Commissioner telegraphed to Colonel Marshall, the British Secretary of the Nizam, on June 3, \" Deccan firmly held by public, therefore with greatest difficulty succeeded in purchasing\" the shares in cpiestion",
+  "theme": "news",
+  "passage_id": "hyderabadaffairs09alim-p11"
+ },
+ {
+  "fact_id": "hyderabadaffairs09alim-p12-f1",
+  "source_id": "hyderabadaffairs09alim",
+  "split": "dev",
+  "claim": "The committee allowed the Nizam of Hyderabad and several company officials to appear by counsel.",
+  "quote": "The Committee allow the Nizam of Hyderabad, the Hyderabad Deccan Company, the Sirdar Diler Jung, Mr. Wilham Clarence Watson, Mr. Henry Parkinson Sharp, and Mr. James Graham Stewart to appear by counsel.",
+  "theme": "commerce",
+  "passage_id": "hyderabadaffairs09alim-p12"
+ },
+ {
+  "fact_id": "hyderabadaffairs09alim-p12-f2",
+  "source_id": "hyderabadaffairs09alim",
+  "split": "dev",
+  "claim": "The company had issued \u00a3150,000 public shares and \u00a3850,000 concessionary shares.",
+  "quote": "He understood that it consisted of \u00a3150,000 pubhc shares and \u00a3850,000 concessionary shares.",
+  "theme": "commerce",
+  "passage_id": "hyderabadaffairs09alim-p12"
+ },
+ {
+  "fact_id": "hyderabadaffairs09alim-p13-f0",
+  "source_id": "hyderabadaffairs09alim",
+  "split": "heldout",
+  "claim": "The company was required to have a capital not less than 11,000,000 and to subscribe at least 150,000.",
+  "quote": "there was no limitation on the capital of the Company, except that it was to be \" not less than \" 11,000,000, and no limitation on the amount to be subscribed, except that it was to be \u00a3150,000 \" at the least.",
+  "theme": "commerce",
+  "passage_id": "hyderabadaffairs09alim-p13"
+ },
+ {
+  "fact_id": "hyderabadaffairs09alim-p13-f1",
+  "source_id": "hyderabadaffairs09alim",
+  "split": "heldout",
+  "claim": "The concession covered an area of over 81,000 square miles.",
+  "quote": "the concession extended over a comitry containing an area of ovei' 81,000 square miles, or about that of Great Britain",
+  "theme": "commerce",
+  "passage_id": "hyderabadaffairs09alim-p13"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.11519-p0-f1",
+  "source_id": "in.ernet.dli.2015.11519",
+  "split": "dev",
+  "claim": "An industrial school was established at Aurangabad around 1889 to revive local industries.",
+  "quote": "The industrial school at Aurangabad was established about 1889, and has done a great deal to revive and improve many industries for which that place was once famous.",
+  "theme": "commerce",
+  "passage_id": "in.ernet.dli.2015.11519-p0"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.11519-p3-f0",
+  "source_id": "in.ernet.dli.2015.11519",
+  "split": "dev",
+  "claim": "The present Raja is a minor, and the estate has been under the control of the Court of Wards since 1902.",
+  "quote": "The present Raja is a minor, and the estate has been under the control of the Court of Wards since 1902.",
+  "theme": "news",
+  "passage_id": "in.ernet.dli.2015.11519-p3"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.11519-p3-f2",
+  "source_id": "in.ernet.dli.2015.11519",
+  "split": "dev",
+  "claim": "Jatpol is a samasthdn or tributary estate in the south of Mahbubnagar District, Hyderabad State, consisting of 89 villages, with an area of 191 square miles, and a population (1901) of 31,613.",
+  "quote": "Jatpol. \u2014 A samasthdn or tributary estate in the south of Mahbubnagar District, Hyderabad State, consisting of 89 villages, with an area of 191 square miles, and a poiiulation (1901) of 31,613.",
+  "theme": "community",
+  "passage_id": "in.ernet.dli.2015.11519-p3"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.11519-p4-f0",
+  "source_id": "in.ernet.dli.2015.11519",
+  "split": "dev",
+  "claim": "Bodhan Taluk had an area of 317 square miles.",
+  "quote": "Taluk in Nizamabad District, Hyderabad State, with an area of 317 square miles",
+  "theme": "community",
+  "passage_id": "in.ernet.dli.2015.11519-p4"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.11519-p7-f0",
+  "source_id": "in.ernet.dli.2015.11519",
+  "split": "heldout",
+  "claim": "The Nizam\u2019s State Railway passes through the taluk from west-south-west to east-north-east.",
+  "quote": "The Nizam\u2019s State Railway passes through the taluk from west-south-west to easV-north-east.",
+  "theme": "commerce",
+  "passage_id": "in.ernet.dli.2015.11519-p7"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.11519-p7-f2",
+  "source_id": "in.ernet.dli.2015.11519",
+  "split": "heldout",
+  "claim": "Bhongir is an important centre of trade and is celebrated for its pottery.",
+  "quote": "Bhongir is an important centre of trade and is celebrated for its pottery.",
+  "theme": "commerce",
+  "passage_id": "in.ernet.dli.2015.11519-p7"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.11519-p8-f1",
+  "source_id": "in.ernet.dli.2015.11519",
+  "split": "dev",
+  "claim": "Nizamabad Taluk had an area of 550 square miles.",
+  "quote": "Nizamabad Taluk. \u2014 Taluk in Nizamabad District, Hyder- abad State, formerly known as the Indur idluk^ with an area f)f 550 square miles.",
+  "theme": "community",
+  "passage_id": "in.ernet.dli.2015.11519-p8"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.11519-p11-f1",
+  "source_id": "in.ernet.dli.2015.11519",
+  "split": "dev",
+  "claim": "Basmat is a busy centre of the grain trade.",
+  "quote": "Basmat is a busy centre of the grain trade.",
+  "theme": "commerce",
+  "passage_id": "in.ernet.dli.2015.11519-p11"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.11519-p12-f2",
+  "source_id": "in.ernet.dli.2015.11519",
+  "split": "dev",
+  "claim": "Nizamabad contains a central jail, a dispensary, and a district post office.",
+  "quote": "a C'entral jail, a dispensary, and a District post office.",
+  "theme": "community",
+  "passage_id": "in.ernet.dli.2015.11519-p12"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.11519-p13-f0",
+  "source_id": "in.ernet.dli.2015.11519",
+  "split": "dev",
+  "claim": "The fort was besieged by the British and the Nizam\u2019s forces for six months in 1790 before it was finally carried.",
+  "quote": "It was besieged by the British an^i the Nizam\u2019s forces for six months in 1790, before it was finally carried.",
+  "theme": "news",
+  "passage_id": "in.ernet.dli.2015.11519-p13"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.11519-p13-f1",
+  "source_id": "in.ernet.dli.2015.11519",
+  "split": "dev",
+  "claim": "The fortifications consist of two forts; the upper fort is situated on the lofty and insulated summit of a hill, about 400 feet above the plain.",
+  "quote": "The fortifications consist of two forts ; the upper fort is situated on the lofty and insulated summit of a hill, about 400 feet above the plain.",
+  "theme": "community",
+  "passage_id": "in.ernet.dli.2015.11519-p13"
+ },
+ {
+  "fact_id": "historyoffreemas00grib-p0-f0",
+  "source_id": "historyoffreemas00grib",
+  "split": "dev",
+  "claim": "A cordial vote of thanks was passed to a person for his eminent service.",
+  "quote": "a cordial vote of thanks was deservedly passed to him for his eminent",
+  "theme": "community",
+  "passage_id": "historyoffreemas00grib-p0"
+ },
+ {
+  "fact_id": "historyoffreemas00grib-p0-f2",
+  "source_id": "historyoffreemas00grib",
+  "split": "dev",
+  "claim": "A new Lodge was started in Hyderabad to work entirely in Urdu.",
+  "quote": "a new Lodge was started in Hyderabad, the object of which was to work entirely in Urdu",
+  "theme": "community",
+  "passage_id": "historyoffreemas00grib-p0"
+ },
+ {
+  "fact_id": "historyoffreemas00grib-p1-f0",
+  "source_id": "historyoffreemas00grib",
+  "split": "dev",
+  "claim": "The lodge's printing had to be carried out in Madras because Secunderabad lacked the necessary facilities.",
+  "quote": "the Lodge printing had to be executed in Madras, probably there being no means of securing the execution of such work in Secunderabad",
+  "theme": "commerce",
+  "passage_id": "historyoffreemas00grib-p1"
+ },
+ {
+  "fact_id": "historyoffreemas00grib-p1-f1",
+  "source_id": "historyoffreemas00grib",
+  "split": "dev",
+  "claim": "Letters were delivered by hand through districts that were infested with dacoits.",
+  "quote": "all letters had to be delivered by hand, and taken through districts, many of them infested with dacoits",
+  "theme": "crime",
+  "passage_id": "historyoffreemas00grib-p1"
+ },
+ {
+  "fact_id": "historyoffreemas00grib-p2-f1",
+  "source_id": "historyoffreemas00grib",
+  "split": "heldout",
+  "claim": "The Lodge decided to observe a month of mourning and hold a Lodge of sorrow.",
+  "quote": "it was resolved to put the Lodge into mourning for a month and to hold a Lodge of sorrow. This",
+  "theme": "community",
+  "passage_id": "historyoffreemas00grib-p2",
+  "snapped": true
+ },
+ {
+  "fact_id": "historyoffreemas00grib-p2-f2",
+  "source_id": "historyoffreemas00grib",
+  "split": "heldout",
+  "claim": "Rs. 50 was sanctioned to the widow of a Bro. Mason who had arrived at the station, fallen ill, and died before joining the Lodge.",
+  "quote": "Rs. 50 was also sanctioned to the widow of a Bro. Mason who had recently arrived in the Station, but had been taken ill and had died before he could join the Lodge.",
+  "theme": "community",
+  "passage_id": "historyoffreemas00grib-p2"
+ },
+ {
+  "fact_id": "historyoffreemas00grib-p3-f0",
+  "source_id": "historyoffreemas00grib",
+  "split": "dev",
+  "claim": "The writer was welcomed back after returning from England.",
+  "quote": "The writer having just returned from England was kindly welcomed back.",
+  "theme": "community",
+  "passage_id": "historyoffreemas00grib-p3"
+ },
+ {
+  "fact_id": "historyoffreemas00grib-p3-f1",
+  "source_id": "historyoffreemas00grib",
+  "split": "dev",
+  "claim": "The ritual and discipline tend to become lax and attendance is very uncertain.",
+  "quote": "The ritual and discipline is apt to get lax, and the attendance is very uncertain.",
+  "theme": "community",
+  "passage_id": "historyoffreemas00grib-p3"
+ },
+ {
+  "fact_id": "historyoffreemas00grib-p3-f2",
+  "source_id": "historyoffreemas00grib",
+  "split": "dev",
+  "claim": "Lodge Hyderabad still exists but is in an anemic condition with few signs of vitality.",
+  "quote": "Lodge Hyderabad still exists, but in a somewhat anaemic condition and shows but few signs of ^\u2022itality.",
+  "theme": "community",
+  "passage_id": "historyoffreemas00grib-p3",
+  "snapped": true
+ },
+ {
+  "fact_id": "historyoffreemas00grib-p4-f0",
+  "source_id": "historyoffreemas00grib",
+  "split": "dev",
+  "claim": "The first record of Freemasonry in Hyderabad was in 1806.",
+  "quote": "The first record of Freemasonry in Hyderabad was in the year 1806, when the 33rd Regiment stationed there worked under a Warrant as Lodge \" Unity and Friendship \" granted in the year 1803.",
+  "theme": "community",
+  "passage_id": "historyoffreemas00grib-p4"
+ },
+ {
+  "fact_id": "historyoffreemas00grib-p4-f2",
+  "source_id": "historyoffreemas00grib",
+  "split": "dev",
+  "claim": "In 1810 the 33rd Regiment left Hyderabad and resumed their \" Athole \" Warrant, No. 90, in England.",
+  "quote": "In 1810 the 33rd Regiment left Hyderabad and resumed their \" Athole \" Warrant, No. 90, in England.",
+  "theme": "community",
+  "passage_id": "historyoffreemas00grib-p4"
+ },
+ {
+  "fact_id": "historyoffreemas00grib-p5-f1",
+  "source_id": "historyoffreemas00grib",
+  "split": "dev",
+  "claim": "The only members of the Civil Service in Hyderabad are, as a rule, those connected with the Residency and it sometimes happens that these are Military officers.",
+  "quote": "The only members of the Civil Service in Hyderabad are, as a rule, those connected with the Residency and it sometimes happens that these are Military officers.",
+  "theme": "community",
+  "passage_id": "historyoffreemas00grib-p5"
+ },
+ {
+  "fact_id": "historyoffreemas00grib-p5-f2",
+  "source_id": "historyoffreemas00grib",
+  "split": "dev",
+  "claim": "Each Lodge or Chapter worked on its own and used the building for liquor bills, with tradesmen putting down all bills to St. Johns.",
+  "quote": "Each Lodge or Chapter worked on \" its own.\" All made use of the building and the tradesmen put down all bills to St. Johns,",
+  "theme": "community",
+  "passage_id": "historyoffreemas00grib-p5"
+ },
+ {
+  "fact_id": "historyoffreemas00grib-p6-f0",
+  "source_id": "historyoffreemas00grib",
+  "split": "dev",
+  "claim": "The Lodge Morland was opened with a considerable amount of pomp and ceremony.",
+  "quote": "Lodge Morland was opened with a considerable amount of pomp and ceremony",
+  "theme": "community",
+  "passage_id": "historyoffreemas00grib-p6"
+ },
+ {
+  "fact_id": "historyoffreemas00grib-p7-f1",
+  "source_id": "historyoffreemas00grib",
+  "split": "dev",
+  "claim": "The Lodge decided to vest its funds in Messrs. Palmer & Co., a large banking firm in Hyderabad.",
+  "quote": "the funds of the Lodge be vested in the hands of Messrs. Palmer & Co.,\" th big banking firm of Hyderabad.",
+  "theme": "commerce",
+  "passage_id": "historyoffreemas00grib-p7",
+  "snapped": true
+ },
+ {
+  "fact_id": "historyoffreemas00grib-p7-f2",
+  "source_id": "historyoffreemas00grib",
+  "split": "dev",
+  "claim": "At that time the Lodge had 49 members, 35 of whom were passed Masters.",
+  "quote": "that at the time of the above proposition the Lodge consisted of 49 members, of whom no less than 35 were passed Masters, i.e., had passed the Chair, which was the qualification for the Royal Arch",
+  "theme": "community",
+  "passage_id": "historyoffreemas00grib-p7",
+  "snapped": true
+ },
+ {
+  "fact_id": "historyoffreemas00grib-p9-f1",
+  "source_id": "historyoffreemas00grib",
+  "split": "dev",
+  "claim": "The difficulty alluded to was due to an order that had been passed by H. H. the Nizam that the Minister was on no account to leave the city without his permission.",
+  "quote": "The \" difficulty \" alluded to was due to an order that had been passed by H. H. the Nizam that the Minister was on no 54 account to leave the city without his permission.",
+  "theme": "news",
+  "passage_id": "historyoffreemas00grib-p9",
+  "snapped": true
+ },
+ {
+  "fact_id": "historyoffreemas00grib-p9-f2",
+  "source_id": "historyoffreemas00grib",
+  "split": "dev",
+  "claim": "Had the brethren exercised a little more diplomatic talent, the difficulty might have been got over by an alteration in the by-laws allowing the Lodge to meet at other places within its cable tow than Secunderabad.",
+  "quote": "Had the brethren exercised a little more diplomatic talent, the difficulty might have been got over by an alteration in the by-laws allowing the Lodge to meet at other places within its cable tow than Secunderabad.",
+  "theme": "community",
+  "passage_id": "historyoffreemas00grib-p9"
+ },
+ {
+  "fact_id": "historyoffreemas00grib-p11-f0",
+  "source_id": "historyoffreemas00grib",
+  "split": "dev",
+  "claim": "Bro. Saunders was elected Worshipful Master for the coming year with Wor. Bro. Carrs as Treasurer.",
+  "quote": "Bro. Saunders (no connection of the District Grand Master) was elected Worshipful Master for the coming year with Wor. Bro. Carrs, as Treasurer.",
+  "theme": "community",
+  "passage_id": "historyoffreemas00grib-p11"
+ },
+ {
+  "fact_id": "historyoffreemas00grib-p13-f0",
+  "source_id": "historyoffreemas00grib",
+  "split": "dev",
+  "claim": "The Lodge Morland elected the Worshipful Master and Wardens of St. John's as Honorary Members.",
+  "quote": "Lodge Morland, the new Scotch Lodge, having elected the Worshipful Master and Wardens of St. John's as Honorary Members, ' * a letter to this effect was read.",
+  "theme": "community",
+  "passage_id": "historyoffreemas00grib-p13"
+ },
+ {
+  "fact_id": "historyoffreemas00grib-p13-f1",
+  "source_id": "historyoffreemas00grib",
+  "split": "dev",
+  "claim": "Donations of Rs. 25 each were given to two orphanages and Rs. 50 to a widow of a deceased brother.",
+  "quote": "The usual donations of Rs. 25 each to the two orphanages were given and a further grant of Rs. 50 to the widow of a deceased brother.",
+  "theme": "community",
+  "passage_id": "historyoffreemas00grib-p13"
+ },
+ {
+  "fact_id": "historyoffreemas00grib-p13-f2",
+  "source_id": "historyoffreemas00grib",
+  "split": "dev",
+  "claim": "A donation of Rs. 50 was sanctioned to a new native orphanage that had been lately opened.",
+  "quote": "A donation of Rs. 50 was also sanctioned to a new native orphanage that had been lately opened.",
+  "theme": "community",
+  "passage_id": "historyoffreemas00grib-p13"
+ }
+]

@@ -1,0 +1,282 @@
+[
+ {
+  "fact_id": "in.ernet.dli.2015.94276-p8-f2",
+  "source_id": "in.ernet.dli.2015.94276",
+  "split": "dev",
+  "claim": "The Keilmiirta festival is considered the most glorious by young Coorgs.",
+  "quote": "The Keilmiirta, to the taste of young Coorg, is the most glorious of all the festivals.",
+  "theme": "community",
+  "passage_id": "in.ernet.dli.2015.94276-p8"
+ },
+ {
+  "fact_id": "manualcoorgagaz00richgoog-p6-f2",
+  "source_id": "manualcoorgagaz00richgoog",
+  "split": "dev",
+  "claim": "He prohibited his Coorgs from confronting Company troops to allow easy advance.",
+  "quote": "he sent orders, prohibiting his Coorgs from encountering the troops of the Company, hence the easy advance of the latter.",
+  "theme": "news",
+  "passage_id": "manualcoorgagaz00richgoog-p6"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.94276-p12-f0",
+  "source_id": "in.ernet.dli.2015.94276",
+  "split": "heldout",
+  "claim": "In 1862, the government organized a regular establishment for public works in Coorg.",
+  "quote": "It was not until the year 1862, that the wants of Coorg were sufficiently recognised, to induce Government to organize a regular establishment for the execution of Public Works in Coorg.",
+  "theme": "community",
+  "passage_id": "in.ernet.dli.2015.94276-p12"
+ },
+ {
+  "fact_id": "manualcoorgagaz00richgoog-p0-f0",
+  "source_id": "manualcoorgagaz00richgoog",
+  "split": "dev",
+  "claim": "The Rdjah of Coorg has recovered his hereditary principality from Tippu Sultan.",
+  "quote": "The Rdjah of Coorg has himself recovered his here- ditary principality from Tippu Sultan.",
+  "theme": "news",
+  "passage_id": "manualcoorgagaz00richgoog-p0"
+ },
+ {
+  "fact_id": "cu31924071131605-p15-f0",
+  "source_id": "cu31924071131605",
+  "split": "dev",
+  "claim": "The Raja of Coorg agreed to send an elephant each year to the Company in lieu of the former tribute of Rs. 24,000.",
+  "quote": "Before Capt. Mahoney left, it was settled that the Raja of Coorg should every year send an elephant to the Company in lieu of the former tribute of Rs. 24,000.",
+  "theme": "commerce",
+  "passage_id": "cu31924071131605-p15"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.94276-p15-f2",
+  "source_id": "in.ernet.dli.2015.94276",
+  "split": "dev",
+  "claim": "The taluq contains the largest and most productive cardamom jungles.",
+  "quote": "with the largest and most productive cardamom jungles",
+  "theme": "commerce",
+  "passage_id": "in.ernet.dli.2015.94276-p15"
+ },
+ {
+  "fact_id": "cu31924071131605-p14-f0",
+  "source_id": "cu31924071131605",
+  "split": "heldout",
+  "claim": "The arable land within the barriers of Coorg was divided into vargas or farms.",
+  "quote": "The whole of the arable land with- in the barriers of Coorg was divided into vargas or farms.",
+  "theme": "community",
+  "passage_id": "cu31924071131605-p14"
+ },
+ {
+  "fact_id": "manualcoorgagaz00richgoog-p9-f2",
+  "source_id": "manualcoorgagaz00richgoog",
+  "split": "dev",
+  "claim": "They escaped by drugging the guard and traveling to Mysore, but were stopped by the Coorg frontier guard.",
+  "quote": "During the night they reached Beppundd, passed Amadndd in the morning and were drawing near the Mysore frontier, when they were stopped by the Coorg frontier guard. Being fired at, their party returned fire.",
+  "theme": "crime",
+  "passage_id": "manualcoorgagaz00richgoog-p9"
+ },
+ {
+  "fact_id": "cu31924071131605-p3-f0",
+  "source_id": "cu31924071131605",
+  "split": "heldout",
+  "claim": "The Coorg officials and pensioners are ready to contribute half a month's pay, which, together with the subscriptions of the farmers, will amount to about Es. 6,000.",
+  "quote": "The Coorg officials and pension- ers are ready to contribute half a month's pay, which, together with the subscriptions of the farmers, will amount to about Es. 6,000.",
+  "theme": "community",
+  "passage_id": "cu31924071131605-p3"
+ },
+ {
+  "fact_id": "manualcoorgagaz00richgoog-p16-f1",
+  "source_id": "manualcoorgagaz00richgoog",
+  "split": "dev",
+  "claim": "The man who has killed the animal receives a hind-quarter and the head, the rest belongs to the company.",
+  "quote": "the man who has killed the animal, receives a hind-quarter and the head, the rest belongs to the company.",
+  "theme": "community",
+  "passage_id": "manualcoorgagaz00richgoog-p16"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.94276-p4-f1",
+  "source_id": "in.ernet.dli.2015.94276",
+  "split": "dev",
+  "claim": "Fraserpet has a Roman Catholic Church, a newly built shrine dedicated to Ganapati with a public well, an Anglo-Vernacular School, a native rest-house with a tank, and a Government wood-yard.",
+  "quote": "The town can boast of a Roman Catholic Church, a newly built shrine, dedicated to Ganapati, with a very useful public well in front of it, an Anglo- Vernacular School, a native rest- house with a tank and a Government wood-yard, besides the European bungalows.",
+  "theme": "community",
+  "passage_id": "in.ernet.dli.2015.94276-p4"
+ },
+ {
+  "fact_id": "manualcoorgagaz00richgoog-p3-f2",
+  "source_id": "manualcoorgagaz00richgoog",
+  "split": "dev",
+  "claim": "Once in 3 or 4 months all the teachers assemble in Mercara for a conference with the Principal to give an oral report in each other's presence on the state of their work and to receive further instruction in educational topics.",
+  "quote": "Once in 3 or 4 months all the teachers assemble in Mercara for a conference with the Principal to give an oral report in each other's presence on the state of their work and to receive further instruction in educational topics.",
+  "theme": "community",
+  "passage_id": "manualcoorgagaz00richgoog-p3"
+ },
+ {
+  "fact_id": "cu31924071131605-p5-f0",
+  "source_id": "cu31924071131605",
+  "split": "heldout",
+  "claim": "The Government educational institutions of Coorg in 1875-76 included the Mercara Central School with Canarese and Hindustani branches, which had 348 pupils, 230 of whom were Coorgs.",
+  "quote": "The Government educational institutions of Coorg in 1875 \u2014 76, comprised the Mercara Central School, with Canarese and Hindustani branches attached, containing altogether 348 pupils, of whom 230 were Ooorgs ;",
+  "theme": "community",
+  "passage_id": "cu31924071131605-p5"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.94276-p17-f1",
+  "source_id": "in.ernet.dli.2015.94276",
+  "split": "heldout",
+  "claim": "During the cold months, from October to January inclusive, the daily average variation ranges over 24\u00b0 Fahrenheit between the extremes, giving a daily mean of 65\u00b0.",
+  "quote": "During the cold months, from October to January inclusive, the daily average variation ranges over 24\u00b0 Fahrenheit between the extremes, giving a daily mean of 65\u00b0;",
+  "theme": "weather",
+  "passage_id": "in.ernet.dli.2015.94276-p17"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.94276-p3-f0",
+  "source_id": "in.ernet.dli.2015.94276",
+  "split": "dev",
+  "claim": "The number of Vernacular district-schools was raised to 25 and the teachers, nearly all of them Coorgs, were trained by the Principal four at a time for 3 or 4 months at the Central School, which served as a Normal School.",
+  "quote": "The number of Vernacular district-schools was raised to 25 and the teachers, nearly all of them Coorgs, were trained by the Principal four at a time for 3 or 4 months at the Central School, which served as a Normal School.",
+  "theme": "community",
+  "passage_id": "in.ernet.dli.2015.94276-p3"
+ },
+ {
+  "fact_id": "manualcoorgagaz00richgoog-p13-f0",
+  "source_id": "manualcoorgagaz00richgoog",
+  "split": "dev",
+  "claim": "No schooling fees should be levied on children of taxed ryots; fees from other children in Anglo-vernacular schools should be added to the local cess fund.",
+  "quote": "From the children of the ryots thus taxed, no schooling fees should be levied; the fees from other children in the Anglo-vernacular Schools only should be added to the local-cess-fund.",
+  "theme": "news",
+  "passage_id": "manualcoorgagaz00richgoog-p13"
+ },
+ {
+  "fact_id": "cu31924071131605-p16-f1",
+  "source_id": "cu31924071131605",
+  "split": "heldout",
+  "claim": "Coorg was considered thinly populated with inhabitants living in separate houses scattered among jungles and hills.",
+  "quote": "Viewing Coorg as a thinly populated country, and one more- over the inhabitants of which lived chiefly in separate houses scattered among jungles and hills",
+  "theme": "community",
+  "passage_id": "cu31924071131605-p16"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.94276-p3-f2",
+  "source_id": "in.ernet.dli.2015.94276",
+  "split": "dev",
+  "claim": "Once in 3 or 4 months all the teachers assemble in Mercara for a conference with the Principal to give an oral report in each other\u2019s presence on the state of their work and to receive further instruction in educational topics.",
+  "quote": "Once in 3 or 4 months all the teachers assemble in Mercara for a conference with the Principal to give an oral report in each other\u2019s presence on the state of their work and to receive further instruction in educational topics.",
+  "theme": "community",
+  "passage_id": "in.ernet.dli.2015.94276-p3"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.94276-p5-f1",
+  "source_id": "in.ernet.dli.2015.94276",
+  "split": "dev",
+  "claim": "Tippu transferred his claims of allegiance and the tribute of Rs. 24,000 annually from the R&jah to the English and peace was concluded in March 1792.",
+  "quote": "he transferred his claims of allegi- ance and the tribute of Rs. 24,000 annually from the R&jah to the English and peace was concluded (March 1792).",
+  "theme": "commerce",
+  "passage_id": "in.ernet.dli.2015.94276-p5"
+ },
+ {
+  "fact_id": "manualcoorgagaz00richgoog-p8-f2",
+  "source_id": "manualcoorgagaz00richgoog",
+  "split": "dev",
+  "claim": "Rice cultivation is so deficient that even the largest farms cannot produce enough rice for their own consumption, forcing ryots to buy rice for six months a year.",
+  "quote": "Rice cultivation, owing to the want of suitable land, is so deficient, that even the largest farms are not : able to produce sufficient rice for their own consumption; the ryots in general have to buy rice for six months in the year",
+  "theme": "commerce",
+  "passage_id": "manualcoorgagaz00richgoog-p8"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.94276-p12-f2",
+  "source_id": "in.ernet.dli.2015.94276",
+  "split": "heldout",
+  "claim": "Coorg has two trunk roads intersecting at Mercara and a branch road near Vfr&jpet connecting the highroads.",
+  "quote": "Coorg is crossed by two trunk-roads from east to west and from north to south, intersecting each other at Mercara, and by a branch-road near Vfr&jpet the western and eastern highroads are connected.",
+  "theme": "travel",
+  "passage_id": "in.ernet.dli.2015.94276-p12"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.94276-p13-f1",
+  "source_id": "in.ernet.dli.2015.94276",
+  "split": "heldout",
+  "claim": "A man named Kdryagdra from Ndlkandd took a large amount of the Rajah's treasure and informed Capt. Le Hardy about it.",
+  "quote": "A certain Kdryagdra from Ndlkandd who accompanied the Rajah afterwards help- ed himself to a large amount of this treasure and when the secret oozed out, he found it necessary to inform Capt. Le Hardy, that he knew of treasure secreted by the Rdjah.",
+  "theme": "commerce",
+  "passage_id": "in.ernet.dli.2015.94276-p13"
+ },
+ {
+  "fact_id": "manualcoorgagaz00richgoog-p15-f2",
+  "source_id": "manualcoorgagaz00richgoog",
+  "split": "heldout",
+  "claim": "Coorg has two trunk roads intersecting at Mercara and a branch road near Vlrdjpet connecting the western and eastern highroads.",
+  "quote": "Coorg is crossed by two trunk-roads from east to west and from north to south, intersecting each other at Mercara, and by a branch-road near Vlrdjpet the western and eastern highroads are connected.",
+  "theme": "travel",
+  "passage_id": "manualcoorgagaz00richgoog-p15"
+ },
+ {
+  "fact_id": "manualcoorgagaz00richgoog-p8-f1",
+  "source_id": "manualcoorgagaz00richgoog",
+  "split": "dev",
+  "claim": "The taluq contains the largest and most productive cardamom jungles.",
+  "quote": "with the largest and most productive cardamom jungles.",
+  "theme": "commerce",
+  "passage_id": "manualcoorgagaz00richgoog-p8"
+ },
+ {
+  "fact_id": "cu31924071131605-p0-f1",
+  "source_id": "cu31924071131605",
+  "split": "dev",
+  "claim": "The Raja freely opened his country to the Bombay forces and supplied them with grain, cattle, and other provisions.",
+  "quote": "The Raja freely opened his country to the Bombay forces which marched from Tellicherry to Mysore, and was most zealous in pro- viding the Company's troops with every thing he could procure for them in Coorg and Mysore.",
+  "theme": "commerce",
+  "passage_id": "cu31924071131605-p0",
+  "snapped": true
+ },
+ {
+  "fact_id": "manualcoorgagaz00richgoog-p11-f1",
+  "source_id": "manualcoorgagaz00richgoog",
+  "split": "dev",
+  "claim": "A man from the north of Coorg reported that Vfrardja shot at Ndrdyana Ndyaka with a blunt arrow and then a sharp arrow that killed him.",
+  "quote": "A man from the north of Coorg deposed: that he saw Vfrardja, on a hunting excursion, shooting atNdrdyana Ndyaka, Hobliddra, first with blunt arrows, then with a sharp arrow which killed him, in presence of all his retinue.",
+  "theme": "crime",
+  "passage_id": "manualcoorgagaz00richgoog-p11"
+ },
+ {
+  "fact_id": "cu31924071131605-p5-f2",
+  "source_id": "cu31924071131605",
+  "split": "heldout",
+  "claim": "One Coorg studied law at Cambridge in England but returned and died of consumption.",
+  "quote": "One Coorg went to England to study law at Cam- bridge, but shortly returned in a consumption, of which he died.",
+  "theme": "travel",
+  "passage_id": "cu31924071131605-p5"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.94276-p15-f1",
+  "source_id": "in.ernet.dli.2015.94276",
+  "split": "dev",
+  "claim": "Ryots generally have to buy rice for six months each year.",
+  "quote": "the ryots iu general have to buy rice for six months in the year",
+  "theme": "commerce",
+  "passage_id": "in.ernet.dli.2015.94276-p15"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.94276-p17-f2",
+  "source_id": "in.ernet.dli.2015.94276",
+  "split": "heldout",
+  "claim": "During the monsoon, from June to September, the temperature is most equable, moving between the extremes 60\u00b0 and 75\u00b0 which leave only a daily variation of 15\u00b0 and a daily mean of temperature of 65\u00b0 for these months.",
+  "quote": "during the monsoon, from June to September, the temperature is most equable, moving between the extremes 60\u00b0 and 75\u00b0 which leave only a daily variation of 15\u00b0 and a daily mean of temperature of 65\u00b0 for these months.",
+  "theme": "weather",
+  "passage_id": "in.ernet.dli.2015.94276-p17"
+ },
+ {
+  "fact_id": "cu31924071131605-p6-f0",
+  "source_id": "cu31924071131605",
+  "split": "dev",
+  "claim": "Fraserpet is a trading town on the east frontier, situated on the left bank of the Kaveri, on the main road from Seringapatam to Mercara, 20 miles east of the latter.",
+  "quote": "Fraserpet- \u2014 A trading town on the east frontier, situated in N. lat. 12\u00b0 27\u00bb, E. long. 76\u00b0 2', on the left bank of the Kaveri, on the main road' from Seringapatam to Mercara, 20 miles east of the latter.",
+  "theme": "travel",
+  "passage_id": "cu31924071131605-p6"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.94276-p9-f1",
+  "source_id": "in.ernet.dli.2015.94276",
+  "split": "heldout",
+  "claim": "The Bombay army had a safe road through a friendly territory into the heart of Mysore.",
+  "quote": "the Bombay army had a safe road through a friendly territory into the heart of Mysore.",
+  "theme": "travel",
+  "passage_id": "in.ernet.dli.2015.94276-p9"
+ }
+]

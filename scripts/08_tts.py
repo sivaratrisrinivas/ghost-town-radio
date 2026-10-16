@@ -1,10 +1,11 @@
 """Render every line with Kokoro (local). Cached by text hash. Writes docs/data/broadcast.json with audio paths + durations."""
 import json,os,hashlib,subprocess,sys,soundfile as sf,numpy as np
-sys.path.insert(0,"/workspace/vo"); os.chdir("/workspace/ghost-town-radio")
+sys.path.insert(0,"/workspace/vo"); os.chdir("/workspace/ghost-town-radio"); sys.path.insert(0,"scripts")
+from common import *
 from kokoro_onnx import Kokoro
 VOICE="am_onyx";SPEED=0.9
 k=Kokoro("/workspace/vo/kokoro-v1.0.onnx","/workspace/vo/voices-v1.0.bin")
-B=json.load(open("data/broadcast_text.json")); os.makedirs("docs/audio/lines",exist_ok=True)
+B=json.load(open(P("broadcast_text.json"))); os.makedirs("docs/audio/lines",exist_ok=True)
 sr=24000;n=0
 for H in B["hours"]:
     for l in H["lines"]:
@@ -19,5 +20,5 @@ for H in B["hours"]:
         l["audio"]="audio/lines/"+h+".mp3"
         l["dur"]=round(float(subprocess.check_output(["ffprobe","-v","error","-show_entries","format=duration","-of","csv=p=0",f])),2)
     print("hour",H["hour"],"done",n,flush=True)
-json.dump(B,open("docs/data/broadcast.json","w"),indent=1)
+json.dump(B,open(DOCS("broadcast.json"),"w"),indent=1)
 print("total minutes",sum(l["dur"] for H in B["hours"] for l in H["lines"])/60)

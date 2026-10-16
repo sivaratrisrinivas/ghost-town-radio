@@ -1,0 +1,32 @@
+[
+ {
+  "id": "manualcoorgagaz00richgoog",
+  "title": "Manual of Coorg; a gazetter of the natural features of the country, and the social and political condition of its inhabitants",
+  "creator": "Richter, G",
+  "date": "1870-01-01",
+  "url": "https://archive.org/details/manualcoorgagaz00richgoog",
+  "license": "Public domain by age: published 1870, before 1931. The Internet Archive item has no rights statement",
+  "text_file": "data/towns/coorg/corpus/manualcoorgagaz00richgoog.txt",
+  "chars": 1081321
+ },
+ {
+  "id": "in.ernet.dli.2015.94276",
+  "title": "Gazetteer Of Coorg",
+  "creator": "Richter, G. Rev.",
+  "date": "1870-01-01",
+  "url": "https://archive.org/details/in.ernet.dli.2015.94276",
+  "license": "Public domain by age: published 1870, before 1931. The Internet Archive item has no rights statement",
+  "text_file": "data/towns/coorg/corpus/in.ernet.dli.2015.94276.txt",
+  "chars": 910715
+ },
+ {
+  "id": "cu31924071131605",
+  "title": "Mysore and Coorg : A gazetteer compiled for the government of India",
+  "creator": "Rice, B. Lewis (Benjamin Lewis), 1837-1927",
+  "date": "1876-01-01",
+  "url": "https://archive.org/details/cu31924071131605",
+  "license": "Public domain by age: published 1876, before 1931. The Internet Archive item has no rights statement",
+  "text_file": "data/towns/coorg/corpus/cu31924071131605.txt",
+  "chars": 1121036
+ }
+]

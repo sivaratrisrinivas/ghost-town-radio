@@ -44,7 +44,7 @@ def checks(f):
     r["claim_ok_len"]=3<=len(claim.split())<=45
     return r
 if __name__=="__main__":
-    sp=sys.argv[1]; raw=json.load(open(f"data/facts_raw_{sp}.json")); ok=[];fails=[];n=len(raw)
+    sp=sys.argv[1]; raw=json.load(open(P(f"facts_raw_{sp}.json"))); ok=[];fails=[];n=len(raw)
     tot={}
     raw_ok_verbatim=0;snapped=0
     for f in raw:
@@ -58,5 +58,5 @@ if __name__=="__main__":
         else: fails.append({"fact_id":f["fact_id"],"failed":[k for k,v in r.items() if not v],"quote":f.get("quote","")[:160]})
     res={"split":sp,"raw_facts":n,"passing_all":len(ok),"pct_raw_llm_quote_verbatim":round(100*raw_ok_verbatim/n,1),"snapped_to_source":snapped,
          "pct_pass_all":round(100*len(ok)/n,1) if n else None,"per_check_pct":{k:round(100*v/n,1) for k,v in tot.items()},"fail_examples":fails[:25]}
-    json.dump(ok,open(f"data/facts_verified_{sp}.json","w"),indent=1); json.dump(res,open(f"evals/verify_{sp}.json","w"),indent=1)
+    json.dump(ok,open(P(f"facts_verified_{sp}.json"),"w"),indent=1); json.dump(res,open(EV(f"verify_{sp}.json"),"w"),indent=1)
     print({k:v for k,v in res.items() if k!="fail_examples"})

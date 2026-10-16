@@ -1,5 +1,17 @@
 # Ghost Town Radio
 
+**Five towns now: Bodie (California, 1879 and 1880), Bangalore, Coorg, Hyderabad and Mumbai (Bombay).** A town selector sits under the title. The old-India towns come from public domain gazetteers and books on the Internet Archive, not newspapers, so each source is a book with a publication year, not a daily issue.
+
+| Town | Sources | Claims on air | Silent hours |
+|---|---|---|---|
+| Bodie | 96 newspaper issues, 1879 to 1915 | 40 | 4 |
+| Bangalore | Bangalore Gazetteer 1875, Rice's Mysore gazetteer 1897 (2 volumes) | 22 | 5 |
+| Coorg | Richter's Manual of Coorg 1870, Gazetteer of Coorg, Rice's Mysore and Coorg 1876 | 23 | 4 |
+| Hyderabad | Hyderabad Affairs 1889, Hyderabad under Salar Jung 1884, Imperial Gazetteer Hyderabad 1909, History of Freemasonry in Hyderabad 1910 | 17 | 10 |
+| Mumbai | Gazetteer of Bombay City and Island, vols 1 and 3 (1909, 1910) | 18 | 9 |
+
+Same rule everywhere: a claim goes on air only if its quote is found word for word in the source text by code. Numbers for the new towns are in the section "New towns: eval numbers" below. The Bodie text that follows is the original write up.
+
 **Bodie, California, 1879 and 1880.** At its peak, thousands of people lived here, and the town had its own daily newspapers. Today it is a ghost town. This is a radio station that plays what those newspapers said. A fictional DJ, Hollis Vane, reads it out. If the archive says nothing about a subject, he says nothing. Four hours of the schedule are deliberately silent for that reason.
 
 **Listen:** https://sivaratrisrinivas.github.io/ghost-town-radio/ (press play, or turn the knob to pick an hour)
@@ -46,3 +58,12 @@ I found related work but nothing that does this exact thing. I cannot prove noth
 
 ## Run it
 `pip install requests rapidfuzz kokoro-onnx soundfile`, then run `scripts/01` to `09` in order. Needs `GROQ_API_KEY`. Pages serves `docs/`. Code is MIT. The corpus text is public domain.
+
+## New towns: eval numbers
+Pipeline: `TOWN=<slug>` selects the town (`data/towns.json`). `02b_fetch_town.py` fetches Internet Archive text, `03` picks passages that mention the town, `04` asks a free LLM for claim plus quote, `06` runs the same code checks, `07` builds the schedule, `08` renders audio, `09` re-checks the shipped data. CI runs `09` for all five towns.
+- **Licensing:** every source is dated 1930 or earlier, so it is public domain in the US by age. Only the 1875 Bangalore Gazetteer carries an explicit Public Domain Mark on the Internet Archive. The other items have no rights statement there, and the license line on each card says so. This is my age based reading, not a legal opinion.
+- **Raw LLM quote exactly verbatim:** Bangalore 93.2% (n=117), Coorg 90.5% (n=137), Hyderabad 83.8% (n=142), Mumbai 88.1% (n=118). Models: Groq gpt-oss-120b for the first passages of Bangalore, Mumbai, Coorg and Hyderabad, then gpt-oss-20b once the 120b daily free quota ran out. The rates mix both models.
+- **Passed all code checks:** Bangalore 70, Coorg 88, Hyderabad 56, Mumbai 60.
+- **Final on-air claims with a verbatim quote, source id, archive URL, date and license:** 100% (22, 23, 17, 18). By construction, and re-checked by `09`, which also catches planted fake quotes.
+- **Hand check (one reviewer, me, an AI agent):** 114 in-scope candidates read against their quotes, 96 supported (84.2%), 18 removed as unsupported (claim added a word or fact, quote was a question fragment or garbled). Details in `evals/hand_labels_new_towns.json`. There is no independent reviewer and no held-out split for these towns; the split is by passage and nothing was tuned on it.
+- **Limits:** "Bangalore", "Coorg" and "Hyderabad" mean the town plus its district or state, as the gazetteers describe them. Mumbai uses only the city gazetteers. Books give publication years, not dates of events. Nightlife has no sources, so those hours are silent. Many facts are dry census and school numbers, because that is what gazetteers contain.

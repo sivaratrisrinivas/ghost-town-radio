@@ -2,7 +2,8 @@
 import json,re,sys
 from common import *
 meta=load_meta(); texts={i:norm(doc_text(m)) for i,m in meta.items()}
-ALLOW={"Ghost","Town","Radio","Hollis","Vane","This","Let","Here","Now","Listen","Another","In","The","Word","That","Where","Static","Stay","Nothing","So","I","And","Bodie"}
+ALLOW0={"Ghost","Town","Radio","Hollis","Vane","This","Let","Here","Now","Listen","Another","In","The","Word","That","Where","Static","Stay","Nothing","So","I","And","Bodie"}
+ALLOW=ALLOW0|set(town_cfg().get("allow",[]))
 def check(B,F,S):
     res=[];claims=0;ok_verb=0;ok_src=0;ok_pair=0;bridge_bad=[]
     for H in B["hours"]:
@@ -25,12 +26,12 @@ def check(B,F,S):
     return {"claims":claims,"pct_quote_verbatim":round(100*ok_verb/max(1,claims),1),"pct_source_ok":round(100*ok_src/max(1,claims),1),
             "pct_claim_text_intact_and_quoted":round(100*ok_pair/max(1,claims),1),"violations":res+bridge_bad}
 if __name__=="__main__":
-    B=json.load(open("docs/data/broadcast.json"));F=json.load(open("docs/data/facts.json"));S=json.load(open("docs/data/sources.json"))
+    B=json.load(open(DOCS("broadcast.json")));F=json.load(open(DOCS("facts.json")));S=json.load(open(DOCS("sources.json")))
     r=check(B,F,S); 
     # self-test: planted failures must be caught
     import copy
     F2=copy.deepcopy(F);k=next(iter(F2));F2[k]["quote"]+=" xyzzy invented words"
     B2=copy.deepcopy(B);B2["hours"][0]["lines"][0]["text"]="Bodie had 4000 people."
     t=check(B2,F2,S); r["selftest_caught_fake_quote"]=any("not verbatim" in v[1] for v in t["violations"]); r["selftest_caught_digit_bridge"]=any("digit" in v[1] for v in t["violations"])
-    json.dump(r,open("evals/broadcast_eval.json","w"),indent=1); print(json.dumps(r,indent=1)[:1500])
+    json.dump(r,open(EV("broadcast_eval.json"),"w"),indent=1); print(json.dumps(r,indent=1)[:1500])
     sys.exit(1 if r["violations"] or not r["selftest_caught_fake_quote"] else 0)

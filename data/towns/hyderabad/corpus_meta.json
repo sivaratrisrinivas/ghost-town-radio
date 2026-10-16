@@ -1,0 +1,42 @@
+[
+ {
+  "id": "hyderabaddeccanu00alic",
+  "title": "Hyderabad (Deccan) under Sir Salar Jung",
+  "creator": "'Ali, Ciragh, 1844-1895",
+  "date": "1884-01-01",
+  "url": "https://archive.org/details/hyderabaddeccanu00alic",
+  "license": "Public domain by age: published 1884, before 1931. The Internet Archive item has no rights statement",
+  "text_file": "data/towns/hyderabad/corpus/hyderabaddeccanu00alic.txt",
+  "chars": 1761049
+ },
+ {
+  "id": "hyderabadaffairs09alim",
+  "title": "Hyderabad affairs",
+  "creator": "Ali, Moulvi Syed Mahdi, Great Britain. Parliament. House of Commons. Select Committee on East India (Hyderabad Deccan Mining Company). Report",
+  "date": "1889-01-01",
+  "url": "https://archive.org/details/hyderabadaffairs09alim",
+  "license": "Public domain by age: published 1889, before 1931. The Internet Archive item has no rights statement",
+  "text_file": "data/towns/hyderabad/corpus/hyderabadaffairs09alim.txt",
+  "chars": 2093407
+ },
+ {
+  "id": "in.ernet.dli.2015.11519",
+  "title": "Imperial Gazetteer Of India Provincial Series Hyderabad State (1909)",
+  "creator": "Superintendent Of Government Printing, Calcutta",
+  "date": "1909-01-01",
+  "url": "https://archive.org/details/in.ernet.dli.2015.11519",
+  "license": "Public domain by age: published 1909, before 1931. The Internet Archive item has no rights statement",
+  "text_file": "data/towns/hyderabad/corpus/in.ernet.dli.2015.11519.txt",
+  "chars": 888657
+ },
+ {
+  "id": "historyoffreemas00grib",
+  "title": "History of Freemasonry in Hyderabad (Deccan)",
+  "creator": "Gribble, J. D. B. (James Dunning Baker), d. 1906",
+  "date": "1910-01-01",
+  "url": "https://archive.org/details/historyoffreemas00grib",
+  "license": "Public domain by age: published 1910, before 1931. The Internet Archive item has no rights statement",
+  "text_file": "data/towns/hyderabad/corpus/historyoffreemas00grib.txt",
+  "chars": 869358
+ }
+]

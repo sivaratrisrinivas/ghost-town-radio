@@ -1,0 +1,202 @@
+{
+ "split": "all",
+ "raw_facts": 117,
+ "passing_all": 70,
+ "pct_raw_llm_quote_verbatim": 93.2,
+ "snapped_to_source": 8,
+ "pct_pass_all": 59.8,
+ "per_check_pct": {
+  "schema_ok": 100.0,
+  "has_source_id": 100.0,
+  "has_quote": 100.0,
+  "quote_readable": 93.2,
+  "quote_verbatim": 93.2,
+  "quote_len_ok": 94.0,
+  "claim_numbers_in_quote": 86.3,
+  "claim_grounded": 77.8,
+  "claim_ok_len": 100.0
+ },
+ "fail_examples": [
+  {
+   "fact_id": "BangaloreGazetteer1875-p0-f0",
+   "failed": [
+    "quote_readable"
+   ],
+   "quote": "The revenue from the\" laud, exclusive of water rates, was Rs. 57,246\u2014 2\u2014 1, and from local cesses Rs. 2,048\u20149\u20144."
+  },
+  {
+   "fact_id": "BangaloreGazetteer1875-p0-f1",
+   "failed": [
+    "claim_numbers_in_quote"
+   ],
+   "quote": "Agriculturists formed 19-8 per cent of the population."
+  },
+  {
+   "fact_id": "BangaloreGazetteer1875-p1-f0",
+   "failed": [
+    "quote_readable"
+   ],
+   "quote": "Pop. 142,513. It covers an area of 13 square miles 373\u00a3 acres, and consistb of two separate parts, vie."
+  },
+  {
+   "fact_id": "BangaloreGazetteer1875-p5-f0",
+   "failed": [
+    "claim_grounded"
+   ],
+   "quote": "A large fair takes place on Thursday, attended by 1,000 people."
+  },
+  {
+   "fact_id": "BangaloreGazetteer1875-p6-f1",
+   "failed": [
+    "claim_grounded"
+   ],
+   "quote": "They are fed on green fodder, ragi straw and the husks of avare, and should yield from 3 to 5 quarts a day when in full milk."
+  },
+  {
+   "fact_id": "BangaloreGazetteer1875-p7-f1",
+   "failed": [
+    "claim_grounded"
+   ],
+   "quote": "A fair held on Friday is attended by 300 people."
+  },
+  {
+   "fact_id": "BangaloreGazetteer1875-p7-f2",
+   "failed": [
+    "quote_len_ok"
+   ],
+   "quote": "Number of houses 36. Population 194."
+  },
+  {
+   "fact_id": "BangaloreGazetteer1875-p8-f0",
+   "failed": [
+    "claim_grounded"
+   ],
+   "quote": "Yelaftanka.^-A town *10 miles north of Bangalore, on tho Banga- lore-Chikballapur road, aud a municipality."
+  },
+  {
+   "fact_id": "BangaloreGazetteer1875-p8-f1",
+   "failed": [
+    "quote_readable",
+    "claim_grounded"
+   ],
+   "quote": "A car festival held for 10 dajs from Chaitra suddha 8th in honor of Venugopala is attended by 2,000 people."
+  },
+  {
+   "fact_id": "BangaloreGazetteer1875-p8-f2",
+   "failed": [
+    "claim_numbers_in_quote"
+   ],
+   "quote": "The area is 2577 square miles ; of which 97T Bquare miles 532 Acres are under cultivation, 333 squaro miles 82 acres culturable, 1266 square miles 26 acres uncu"
+  },
+  {
+   "fact_id": "BangaloreGazetteer1875-p9-f0",
+   "failed": [
+    "claim_numbers_in_quote",
+    "claim_grounded"
+   ],
+   "quote": "A small frontier town on the right bank of the Chitravati, about GO miles north-west of Eolar, on the old Bangalore- Bellary road. Head-quarters of the Gumnayak"
+  },
+  {
+   "fact_id": "BangaloreGazetteer1875-p11-f0",
+   "failed": [
+    "claim_numbers_in_quote"
+   ],
+   "quote": "Agriculturists form 20-8 per cent of the population."
+  },
+  {
+   "fact_id": "BangaloreGazetteer1875-p11-f1",
+   "failed": [
+    "claim_numbers_in_quote"
+   ],
+   "quote": "ChikbaUapur. \u2014 A large town 3G miles north west of Kolar, on the old Bangalore-Bellary road."
+  },
+  {
+   "fact_id": "BangaloreGazetteer1875-p12-f1",
+   "failed": [
+    "claim_grounded"
+   ],
+   "quote": "The fair at Nandi is held for 9 days from Shivarutri, on the occasion of the Umamaheshvara festival."
+  },
+  {
+   "fact_id": "BangaloreGazetteer1875-p12-f2",
+   "failed": [
+    "claim_grounded"
+   ],
+   "quote": "The Vanarasi fair is held for 9 days in April, in honour of Iralappa, and is visited by 25,000 people."
+  },
+  {
+   "fact_id": "BangaloreGazetteer1875-p15-f1",
+   "failed": [
+    "claim_numbers_in_quote"
+   ],
+   "quote": "Agri- culturists form 22-3 per cent of the population."
+  },
+  {
+   "fact_id": "BangaloreGazetteer1875-p16-f0",
+   "failed": [
+    "claim_numbers_in_quote",
+    "claim_grounded"
+   ],
+   "quote": "To Vira BciMa, who. ruled from 1 191 to 1-211, is attributed the adventure which gave Bangalore its name"
+  },
+  {
+   "fact_id": "BangaloreGazetteer1875-p17-f0",
+   "failed": [
+    "quote_len_ok",
+    "claim_grounded"
+   ],
+   "quote": "Number of houses 650."
+  },
+  {
+   "fact_id": "BangaloreGazetteer1875-p19-f0",
+   "failed": [
+    "quote_readable"
+   ],
+   "quote": "Pneumonia in natives, and congestion of , the liver in Europeans, are exceedingly common."
+  },
+  {
+   "fact_id": "BangaloreGazetteer1875-p21-f0",
+   "failed": [
+    "claim_numbers_in_quote"
+   ],
+   "quote": "Agri- culturists form 19-4 per cent of the population."
+  },
+  {
+   "fact_id": "mysoregazetteerc01rice-p0-f1",
+   "failed": [
+    "claim_grounded"
+   ],
+   "quote": "The W'cskyan Mission commenced its work in the Mysore country in 1822, but for many years the missionaries laboured only among the Tamil people of the Cantonmen"
+  },
+  {
+   "fact_id": "mysoregazetteerc01rice-p2-f2",
+   "failed": [
+    "quote_readable",
+    "claim_numbers_in_quote"
+   ],
+   "quote": "In these two months 20,749 passengers travelled by the line and the total earnings were Rs. 13,219."
+  },
+  {
+   "fact_id": "mysoregazetteerc01rice-p6-f0",
+   "failed": [
+    "claim_numbers_in_quote",
+    "claim_grounded"
+   ],
+   "quote": "the Mysore State Railway, from Bangalore to Mysore, completed as far as Mandya, 58 miles on the metre gauge."
+  },
+  {
+   "fact_id": "mysoregazetteerc01rice-p6-f1",
+   "failed": [
+    "claim_numbers_in_quote"
+   ],
+   "quote": "In October 1882, the line from Bangalore to Tumkur, 43 miles of metre gauge, was commenced, a loan of 20 lakhs at 5 per cent, interest having been raised for th"
+  },
+  {
+   "fact_id": "mysoregazetteerc01rice-p6-f2",
+   "failed": [
+    "claim_numbers_in_quote"
+   ],
+   "quote": "A further portion to Gubbi, II miles, was opened in December 1884."
+  }
+ ]
+}

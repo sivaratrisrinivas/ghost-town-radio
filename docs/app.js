@@ -2,15 +2,47 @@
 const $ = s => document.querySelector(s);
 const voice = $('#voice'), amb = $('#amb'), knob = $('#knob'), playBtn = $('#play');
 const reduced = matchMedia('(prefers-reduced-motion: reduce)').matches;
-let B, FACTS, SRC, hour = new Date().getHours(), idx = 0, playing = false, level = 0, analyser, actx, buf;
+let B, FACTS, SRC, TOWNS, town = 'bodie', setFrags = () => {}, hour = new Date().getHours(), idx = 0, playing = false, level = 0, analyser, actx, buf;
 const pad = n => String(n).padStart(2, '0');
 const label = h => `${pad(h)}:00`;
 
+const dirOf = t => TOWNS.find(x => x.slug === t).dir;
+async function loadTown(t) {
+  const d = dirOf(t);
+  [B, FACTS, SRC] = await Promise.all(['broadcast', 'facts', 'sources'].map(n => fetch(`data/${d}${n}.json`).then(r => r.json())));
+  town = t; const T = TOWNS.find(x => x.slug === t);
+  $('#place').textContent = `${T.place} · ${T.era}`;
+  document.title = `Ghost Town Radio · ${T.place}`;
+  $('#foot').textContent = T.footer;
+  document.querySelectorAll('#towns button').forEach(b => b.setAttribute('aria-checked', b.dataset.slug === t));
+  $('#schedule').innerHTML = ''; buildSchedule(); setFrags();
+}
+async function switchTown(t) {
+  if (t === town) return;
+  if (playing) toggle(); voice.removeAttribute('src'); clearTimeout(silT);
+  await loadTown(t); idx = 0; setHour(hour, true);
+  history.replaceState(null, '', `#${t}/h${hour}`);
+}
+function buildTowns() {
+  const w = $('#towns');
+  TOWNS.forEach(T => {
+    const b = document.createElement('button'); b.type = 'button'; b.dataset.slug = T.slug; b.setAttribute('role', 'radio');
+    b.innerHTML = `${T.name}<small>${T.claims} claims</small>`; b.onclick = () => switchTown(T.slug); w.appendChild(b);
+  });
+  w.addEventListener('keydown', e => {
+    const k = { ArrowRight: 1, ArrowDown: 1, ArrowLeft: -1, ArrowUp: -1 }[e.key]; if (!k) return; e.preventDefault();
+    const i = (TOWNS.findIndex(x => x.slug === town) + k + TOWNS.length) % TOWNS.length;
+    switchTown(TOWNS[i].slug).then(() => w.querySelector(`[data-slug="${TOWNS[i].slug}"]`).focus());
+  });
+}
 async function boot() {
-  [B, FACTS, SRC] = await Promise.all(['broadcast', 'facts', 'sources'].map(n => fetch(`data/${n}.json`).then(r => r.json())));
-  buildScale(); buildSchedule(); setHour(hour, true);
+  TOWNS = await fetch('data/towns.json').then(r => r.json());
+  const m = location.hash.match(/^#(?:(\w+)\/)?h?(\d+)?$/); let t0 = 'bodie', h0 = null;
+  if (m) { if (m[1] && TOWNS.some(x => x.slug === m[1])) t0 = m[1]; if (m[2] != null) h0 = +m[2] % 24; }
+  buildTowns(); await loadTown(t0); buildScale();
+  if (h0 != null) hour = h0;
+  setHour(hour, true);
   if (!reduced) initGhosts();
-  if (location.hash.startsWith('#h')) setHour(+location.hash.slice(2) % 24, true);
 }
 function buildScale() {
   const s = $('#scale');
@@ -108,8 +140,10 @@ function show(l) {
 // ---- ghosts canvas (30fps, DPR capped, pauses when hidden)
 function initGhosts() {
   const cv = $('#ghosts'), g = cv.getContext('2d'); let W, H, last = 0, t = 0;
-  const frags = Object.values(FACTS).map(f => f.quote.split(' ').slice(0, 7).join(' ')).sort(() => Math.random() - .5).slice(0, 14);
-  const items = frags.map((s, i) => ({ s, x: Math.random(), y: Math.random(), v: .01 + Math.random() * .02, p: Math.random() * 6 }));
+  let items = [];
+  setFrags = () => { const frags = Object.values(FACTS).map(f => f.quote.split(' ').slice(0, 7).join(' ')).sort(() => Math.random() - .5).slice(0, 14);
+  items = frags.map((s, i) => ({ s, x: Math.random(), y: Math.random(), v: .01 + Math.random() * .02, p: Math.random() * 6 })); };
+  setFrags();
   const blobs = Array.from({ length: 7 }, (_, i) => ({ x: Math.random(), y: Math.random(), r: .25 + Math.random() * .3, p: Math.random() * 6, hs: i * 37 }));
   const size = () => { const d = Math.min(devicePixelRatio || 1, 1.5); W = cv.width = innerWidth * d; H = cv.height = innerHeight * d; g.setTransform(d, 0, 0, d, 0, 0); W /= d; H /= d; };
   size(); addEventListener('resize', size);

@@ -1,0 +1,1055 @@
+[
+ {
+  "fact_id": "BangaloreGazetteer1875-p0-f0",
+  "source_id": "BangaloreGazetteer1875",
+  "split": "dev",
+  "claim": "The revenue from land, exclusive of water rates, was Rs. 57,246\u20112\u20111.",
+  "quote": "The revenue from the\" laud, exclusive of water rates, was Rs. 57,246\u2014 2\u2014 1, and from local cesses Rs. 2,048\u20149\u20144.",
+  "theme": "commerce",
+  "passage_id": "BangaloreGazetteer1875-p0"
+ },
+ {
+  "fact_id": "BangaloreGazetteer1875-p0-f1",
+  "source_id": "BangaloreGazetteer1875",
+  "split": "dev",
+  "claim": "Agriculturists formed 19.8 percent of the population.",
+  "quote": "Agriculturists formed 19-8 per cent of the population.",
+  "theme": "community",
+  "passage_id": "BangaloreGazetteer1875-p0"
+ },
+ {
+  "fact_id": "BangaloreGazetteer1875-p0-f2",
+  "source_id": "BangaloreGazetteer1875",
+  "split": "dev",
+  "claim": "A fair is held every Friday and is attended by 400 persons.",
+  "quote": "A fair is held every Friday, attended by 400 persons.",
+  "theme": "commerce",
+  "passage_id": "BangaloreGazetteer1875-p0"
+ },
+ {
+  "fact_id": "BangaloreGazetteer1875-p1-f0",
+  "source_id": "BangaloreGazetteer1875",
+  "split": "dev",
+  "claim": "Bangalore had a population of 142,513 and covered an area of 13 square miles (373 acres).",
+  "quote": "Pop. 142,513. It covers an area of 13 square miles 373\u00a3 acres, and consistb of two separate parts, vie.",
+  "theme": "community",
+  "passage_id": "BangaloreGazetteer1875-p1"
+ },
+ {
+  "fact_id": "BangaloreGazetteer1875-p2-f0",
+  "source_id": "BangaloreGazetteer1875",
+  "split": "dev",
+  "claim": "Nelamangala is a town located about 17 miles northwest of Bangalore on the Bangalore\u2011Tumkur road.",
+  "quote": "Nelamangala \u2014 A town situated in 13=6 N.lat. 77\u00b027E. long, 17 miles north-west of Bangalore on the Bangalore-Tumkur road.",
+  "theme": "travel",
+  "passage_id": "BangaloreGazetteer1875-p2"
+ },
+ {
+  "fact_id": "BangaloreGazetteer1875-p2-f1",
+  "source_id": "BangaloreGazetteer1875",
+  "split": "dev",
+  "claim": "The town had 730 houses.",
+  "quote": "Head quarters of the Nelamangala taluk and a municipality. s ' Number of houses 730.",
+  "theme": "community",
+  "passage_id": "BangaloreGazetteer1875-p2"
+ },
+ {
+  "fact_id": "BangaloreGazetteer1875-p2-f2",
+  "source_id": "BangaloreGazetteer1875",
+  "split": "dev",
+  "claim": "A fair held on Friday was attended by about 2,500 people.",
+  "quote": "A fair on Friday>Hjattended by 2,500 people On or near the site of Nelamangala formerly stood & large oily",
+  "theme": "commerce",
+  "passage_id": "BangaloreGazetteer1875-p2"
+ },
+ {
+  "fact_id": "BangaloreGazetteer1875-p3-f0",
+  "source_id": "BangaloreGazetteer1875",
+  "split": "dev",
+  "claim": "The only road connects Bangalore to Kankanhalli and then to Malvalli.",
+  "quote": "The only road is one from Bangalore to Kankanhalli and thence to Malvalli.",
+  "theme": "travel",
+  "passage_id": "BangaloreGazetteer1875-p3"
+ },
+ {
+  "fact_id": "BangaloreGazetteer1875-p3-f1",
+  "source_id": "BangaloreGazetteer1875",
+  "split": "dev",
+  "claim": "A fair held on Thursday was attended by 2,000 people.",
+  "quote": "A fair held on Thursday is attended by 2,000 people.",
+  "theme": "community",
+  "passage_id": "BangaloreGazetteer1875-p3"
+ },
+ {
+  "fact_id": "BangaloreGazetteer1875-p3-f2",
+  "source_id": "BangaloreGazetteer1875",
+  "split": "dev",
+  "claim": "The land revenue, excluding water rates, was Rs. 68,736 and local cesses amounted to Rs. 2,283.",
+  "quote": "The revenue from land, exclusive of water rates, is Rs. 68,736 \u2014 7 \u2014 7 and from local cesses Rs. 2,283\u201412 \u2014 1.",
+  "theme": "commerce",
+  "passage_id": "BangaloreGazetteer1875-p3"
+ },
+ {
+  "fact_id": "BangaloreGazetteer1875-p4-f0",
+  "source_id": "BangaloreGazetteer1875",
+  "split": "dev",
+  "claim": "The district's total population was 828,354, with 414,543 males and 413,811 females.",
+  "quote": "The entire population of the District is 828,354, tho number of males being 414,543, and of females 413,811.",
+  "theme": "community",
+  "passage_id": "BangaloreGazetteer1875-p4"
+ },
+ {
+  "fact_id": "BangaloreGazetteer1875-p5-f0",
+  "source_id": "BangaloreGazetteer1875",
+  "split": "dev",
+  "claim": "A large fair is held on Thursday and is attended by about one thousand people.",
+  "quote": "A large fair takes place on Thursday, attended by 1,000 people.",
+  "theme": "commerce",
+  "passage_id": "BangaloreGazetteer1875-p5"
+ },
+ {
+  "fact_id": "BangaloreGazetteer1875-p5-f1",
+  "source_id": "BangaloreGazetteer1875",
+  "split": "dev",
+  "claim": "Turkeys are reared in large numbers for export to Bangalore, Bellary and other places.",
+  "quote": "Turkeys are also reared in large numbers for export to Bangalore, Bellary and other places.",
+  "theme": "commerce",
+  "passage_id": "BangaloreGazetteer1875-p5"
+ },
+ {
+  "fact_id": "BangaloreGazetteer1875-p5-f2",
+  "source_id": "BangaloreGazetteer1875",
+  "split": "dev",
+  "claim": "Mulberry trees are cultivated for the rearing of silkworms.",
+  "quote": "The mulberry is cultivated for the rearing of silkworms.",
+  "theme": "commerce",
+  "passage_id": "BangaloreGazetteer1875-p5"
+ },
+ {
+  "fact_id": "BangaloreGazetteer1875-p6-f0",
+  "source_id": "BangaloreGazetteer1875",
+  "split": "dev",
+  "claim": "Very good cows are reared in Bangalore and sell for between 40 and 80 rupees each.",
+  "quote": "Very good cows are reared in Bangalore, where they sell for from Re. 40 to 80 a piece.",
+  "theme": "commerce",
+  "passage_id": "BangaloreGazetteer1875-p6"
+ },
+ {
+  "fact_id": "BangaloreGazetteer1875-p6-f1",
+  "source_id": "BangaloreGazetteer1875",
+  "split": "dev",
+  "claim": "These cows are fed green fodder, ragi straw and husks of avare and can yield three to five quarts of milk per day when fully milking.",
+  "quote": "They are fed on green fodder, ragi straw and the husks of avare, and should yield from 3 to 5 quarts a day when in full milk.",
+  "theme": "commerce",
+  "passage_id": "BangaloreGazetteer1875-p6"
+ },
+ {
+  "fact_id": "BangaloreGazetteer1875-p6-f2",
+  "source_id": "BangaloreGazetteer1875",
+  "split": "dev",
+  "claim": "The quality of mutton sold in Bangalore has been greatly improved by municipal prizes at the new market.",
+  "quote": "The quality of the mutton sold in Bangalore has been greatly improved by means of prizes offered by the Municipality at the new market.",
+  "theme": "commerce",
+  "passage_id": "BangaloreGazetteer1875-p6"
+ },
+ {
+  "fact_id": "BangaloreGazetteer1875-p7-f0",
+  "source_id": "BangaloreGazetteer1875",
+  "split": "dev",
+  "claim": "A large eight\u2011day April festival in honor of Ranganathaswami draws about 10,000 people from nearby taluks.",
+  "quote": "A large festival (paorishe) is held for eight days in April, in honour of Ranganathaswami, whoso temple is the principal feature of the place. On this occasion 10,000 people assemble from the surrounding taluks.",
+  "theme": "community",
+  "passage_id": "BangaloreGazetteer1875-p7"
+ },
+ {
+  "fact_id": "BangaloreGazetteer1875-p7-f1",
+  "source_id": "BangaloreGazetteer1875",
+  "split": "dev",
+  "claim": "A Friday fair in Vadagenhalli is attended by 300 people.",
+  "quote": "A fair held on Friday is attended by 300 people.",
+  "theme": "commerce",
+  "passage_id": "BangaloreGazetteer1875-p7"
+ },
+ {
+  "fact_id": "BangaloreGazetteer1875-p7-f2",
+  "source_id": "BangaloreGazetteer1875",
+  "split": "dev",
+  "claim": "Vasantapur had 36 houses and a population of 194.",
+  "quote": "Number of houses 36. Population 194.",
+  "theme": "community",
+  "passage_id": "BangaloreGazetteer1875-p7"
+ },
+ {
+  "fact_id": "BangaloreGazetteer1875-p8-f0",
+  "source_id": "BangaloreGazetteer1875",
+  "split": "dev",
+  "claim": "Yelahanka is a town about ten miles north of Bangalore on the Bangalore\u2011Chikballapur road and is a municipality.",
+  "quote": "Yelaftanka.^-A town *10 miles north of Bangalore, on tho Banga- lore-Chikballapur road, aud a municipality.",
+  "theme": "travel",
+  "passage_id": "BangaloreGazetteer1875-p8"
+ },
+ {
+  "fact_id": "BangaloreGazetteer1875-p8-f1",
+  "source_id": "BangaloreGazetteer1875",
+  "split": "dev",
+  "claim": "A car festival held for ten days from Chaitra suddha 8th in honor of Venugopala is attended by two thousand people.",
+  "quote": "A car festival held for 10 dajs from Chaitra suddha 8th in honor of Venugopala is attended by 2,000 people.",
+  "theme": "community",
+  "passage_id": "BangaloreGazetteer1875-p8"
+ },
+ {
+  "fact_id": "BangaloreGazetteer1875-p8-f2",
+  "source_id": "BangaloreGazetteer1875",
+  "split": "dev",
+  "claim": "The area is 2,577 square miles, of which 97 square miles are under cultivation and 1,266 square miles are uncultivable and waste.",
+  "quote": "The area is 2577 square miles ; of which 97T Bquare miles 532 Acres are under cultivation, 333 squaro miles 82 acres culturable, 1266 square miles 26 acres unculturable and waste.",
+  "theme": "commerce",
+  "passage_id": "BangaloreGazetteer1875-p8"
+ },
+ {
+  "fact_id": "BangaloreGazetteer1875-p9-f0",
+  "source_id": "BangaloreGazetteer1875",
+  "split": "dev",
+  "claim": "BagepalJi (Bagenhalli) is a small frontier town on the right bank of the Chitravati about 90 miles north\u2011west of Eolar, on the old Bangalore\u2011Bellary road, and it is the headquarters of the Gumnayakanpalya taluk and a municipality with 415 houses.",
+  "quote": "A small frontier town on the right bank of the Chitravati, about GO miles north-west of Eolar, on the old Bangalore- Bellary road. Head-quarters of the Gumnayakanpalya taluk and a municipality. Numlwr of houses 41 5.",
+  "theme": "travel",
+  "passage_id": "BangaloreGazetteer1875-p9"
+ },
+ {
+  "fact_id": "BangaloreGazetteer1875-p11-f0",
+  "source_id": "BangaloreGazetteer1875",
+  "split": "heldout",
+  "claim": "Agriculturists form 20.8 percent of the population.",
+  "quote": "Agriculturists form 20-8 per cent of the population.",
+  "theme": "community",
+  "passage_id": "BangaloreGazetteer1875-p11"
+ },
+ {
+  "fact_id": "BangaloreGazetteer1875-p11-f1",
+  "source_id": "BangaloreGazetteer1875",
+  "split": "heldout",
+  "claim": "Chikballapur is a large town located 36 miles north west of Kolar on the old Bangalore-Bellary road.",
+  "quote": "ChikbaUapur. \u2014 A large town 3G miles north west of Kolar, on the old Bangalore-Bellary road.",
+  "theme": "travel",
+  "passage_id": "BangaloreGazetteer1875-p11"
+ },
+ {
+  "fact_id": "BangaloreGazetteer1875-p12-f0",
+  "source_id": "BangaloreGazetteer1875",
+  "split": "dev",
+  "claim": "Gumnayakanpalya is known for having a superior breed of sheep that are sold at moderate prices.",
+  "quote": "Gumnayakanpalya is noted for a superior breed of sheep, sold at moderate prices.",
+  "theme": "commerce",
+  "passage_id": "BangaloreGazetteer1875-p12"
+ },
+ {
+  "fact_id": "BangaloreGazetteer1875-p12-f1",
+  "source_id": "BangaloreGazetteer1875",
+  "split": "dev",
+  "claim": "The fair at Nandi lasts for nine days from Shivaratri during the Umamaheshvara festival.",
+  "quote": "The fair at Nandi is held for 9 days from Shivarutri, on the occasion of the Umamaheshvara festival.",
+  "theme": "community",
+  "passage_id": "BangaloreGazetteer1875-p12"
+ },
+ {
+  "fact_id": "BangaloreGazetteer1875-p12-f2",
+  "source_id": "BangaloreGazetteer1875",
+  "split": "dev",
+  "claim": "The fair at Vanarasi takes place for nine days in April to honor Iralappa and is visited by 25,000 people.",
+  "quote": "The Vanarasi fair is held for 9 days in April, in honour of Iralappa, and is visited by 25,000 people.",
+  "theme": "community",
+  "passage_id": "BangaloreGazetteer1875-p12"
+ },
+ {
+  "fact_id": "BangaloreGazetteer1875-p15-f0",
+  "source_id": "BangaloreGazetteer1875",
+  "split": "dev",
+  "claim": "The Malur taluk has an area of 154 square miles.",
+  "quote": "Malur. \u2014 A taluk in the south-west. Area 154 square 'miles. . Head-quarters at Malur.",
+  "theme": "community",
+  "passage_id": "BangaloreGazetteer1875-p15"
+ },
+ {
+  "fact_id": "BangaloreGazetteer1875-p15-f1",
+  "source_id": "BangaloreGazetteer1875",
+  "split": "dev",
+  "claim": "Agriculturists form 22.3 percent of the population.",
+  "quote": "Agri- culturists form 22-3 per cent of the population.",
+  "theme": "community",
+  "passage_id": "BangaloreGazetteer1875-p15"
+ },
+ {
+  "fact_id": "BangaloreGazetteer1875-p15-f2",
+  "source_id": "BangaloreGazetteer1875",
+  "split": "dev",
+  "claim": "A fair held on Thursday is attended by 150 people.",
+  "quote": "A fair held on Thursday, is attended by 150 people.",
+  "theme": "commerce",
+  "passage_id": "BangaloreGazetteer1875-p15"
+ },
+ {
+  "fact_id": "BangaloreGazetteer1875-p16-f0",
+  "source_id": "BangaloreGazetteer1875",
+  "split": "dev",
+  "claim": "Vira Ballala ruled from 1191 to 1211.",
+  "quote": "To Vira BciMa, who. ruled from 1 191 to 1-211, is attributed the adventure which gave Bangalore its name",
+  "theme": "community",
+  "passage_id": "BangaloreGazetteer1875-p16"
+ },
+ {
+  "fact_id": "BangaloreGazetteer1875-p17-f0",
+  "source_id": "BangaloreGazetteer1875",
+  "split": "dev",
+  "claim": "The town of Magadi has 650 houses.",
+  "quote": "Number of houses 650.",
+  "theme": "community",
+  "passage_id": "BangaloreGazetteer1875-p17"
+ },
+ {
+  "fact_id": "BangaloreGazetteer1875-p18-f0",
+  "source_id": "BangaloreGazetteer1875",
+  "split": "dev",
+  "claim": "Smallpox was always somewhat prevalent in the district during the hot season and the beginning of the rains.",
+  "quote": "Small pox is always more or less prevalont in the District daring the hot season and commencement of the rains.",
+  "theme": "weather",
+  "passage_id": "BangaloreGazetteer1875-p18"
+ },
+ {
+  "fact_id": "BangaloreGazetteer1875-p18-f1",
+  "source_id": "BangaloreGazetteer1875",
+  "split": "dev",
+  "claim": "A severe epidemic of smallpox occurred in Bangalore in 1872.",
+  "quote": "There was a severe epidemic of this disease in Bangalore in 1872, but it was not of a par* ticularly fatal typo",
+  "theme": "community",
+  "passage_id": "BangaloreGazetteer1875-p18"
+ },
+ {
+  "fact_id": "BangaloreGazetteer1875-p18-f2",
+  "source_id": "BangaloreGazetteer1875",
+  "split": "dev",
+  "claim": "A severe epidemic of dengue occurred in Bangalore in the latter part of 1872.",
+  "quote": "A severe epidemic of dengue occurred in Bangalore in the latter part of 1872.",
+  "theme": "community",
+  "passage_id": "BangaloreGazetteer1875-p18"
+ },
+ {
+  "fact_id": "BangaloreGazetteer1875-p19-f0",
+  "source_id": "BangaloreGazetteer1875",
+  "split": "dev",
+  "claim": "Congestion of the liver in Europeans and pneumonia in natives are exceedingly common conditions.",
+  "quote": "Pneumonia in natives, and congestion of , the liver in Europeans, are exceedingly common.",
+  "theme": "weather",
+  "passage_id": "BangaloreGazetteer1875-p19"
+ },
+ {
+  "fact_id": "BangaloreGazetteer1875-p21-f0",
+  "source_id": "BangaloreGazetteer1875",
+  "split": "heldout",
+  "claim": "Agriculturists make up 19.4 percent of the population.",
+  "quote": "Agri- culturists form 19-4 per cent of the population.",
+  "theme": "community",
+  "passage_id": "BangaloreGazetteer1875-p21"
+ },
+ {
+  "fact_id": "BangaloreGazetteer1875-p21-f1",
+  "source_id": "BangaloreGazetteer1875",
+  "split": "heldout",
+  "claim": ",Devanhalli is situated 23 miles north of Bangalore on the old Bangalore-Bellary road.",
+  "quote": "23. miles north of Bangalore, ou the old Bangalore-Bellary road.",
+  "theme": "travel",
+  "passage_id": "BangaloreGazetteer1875-p21"
+ },
+ {
+  "fact_id": "mysoregazetteerc01rice-p0-f0",
+  "source_id": "mysoregazetteerc01rice",
+  "split": "dev",
+  "claim": "The High School was established in Bangalore in the year 1847.",
+  "quote": "The principal institution is the High School (established in 1847 in Bangalore) and its branches, educating up to the standard of matriculation at the Madras University.",
+  "theme": "community",
+  "passage_id": "mysoregazetteerc01rice-p0"
+ },
+ {
+  "fact_id": "mysoregazetteerc01rice-p0-f1",
+  "source_id": "mysoregazetteerc01rice",
+  "split": "dev",
+  "claim": "The Wesleyan Mission started its work in the Mysore country in 1822.",
+  "quote": "The W'cskyan Mission commenced its work in the Mysore country in 1822, but for many years the missionaries laboured only among the Tamil people of the Cantonment of Bangalore.",
+  "theme": "community",
+  "passage_id": "mysoregazetteerc01rice-p0"
+ },
+ {
+  "fact_id": "mysoregazetteerc01rice-p0-f2",
+  "source_id": "mysoregazetteerc01rice",
+  "split": "dev",
+  "claim": "The Canarese Mission was started in Bangalore in 1835.",
+  "quote": "The Canarese Mission was begun in Bangalore in 1835. The following year a lengthened tour through Mysore and Coorg was undertaken by two of the missionaries",
+  "theme": "community",
+  "passage_id": "mysoregazetteerc01rice-p0"
+ },
+ {
+  "fact_id": "mysoregazetteerc01rice-p1-f0",
+  "source_id": "mysoregazetteerc01rice",
+  "split": "dev",
+  "claim": "In December, the aggregate of mortality experienced a marked reduction.",
+  "quote": "In December there was a marked reduction in the aggregate of mortality.",
+  "theme": "news",
+  "passage_id": "mysoregazetteerc01rice-p1"
+ },
+ {
+  "fact_id": "mysoregazetteerc01rice-p1-f1",
+  "source_id": "mysoregazetteerc01rice",
+  "split": "dev",
+  "claim": "Cholera attacked Bangalore in September.",
+  "quote": "Cholera attacked Bangalore in September, and in November the mortality amounted to 225, and December to 95.",
+  "theme": "news",
+  "passage_id": "mysoregazetteerc01rice-p1"
+ },
+ {
+  "fact_id": "mysoregazetteerc01rice-p1-f2",
+  "source_id": "mysoregazetteerc01rice",
+  "split": "dev",
+  "claim": "The total registered mortality amounted to 3,139.",
+  "quote": "The total mortality registered amounted to 3,139, of which 1,828 were males and 1,311 females.",
+  "theme": "news",
+  "passage_id": "mysoregazetteerc01rice-p1"
+ },
+ {
+  "fact_id": "mysoregazetteerc01rice-p2-f0",
+  "source_id": "mysoregazetteerc01rice",
+  "split": "heldout",
+  "claim": "In 1877-8, the earthwork between Bangalore and Channapatna was started as a relief work.",
+  "quote": "In 1877-8 the earthwork between Bangalore and Channapatna was commenced as a relief work.",
+  "theme": "travel",
+  "passage_id": "mysoregazetteerc01rice-p2"
+ },
+ {
+  "fact_id": "mysoregazetteerc01rice-p2-f1",
+  "source_id": "mysoregazetteerc01rice",
+  "split": "heldout",
+  "claim": "The section from Bangalore to Channapatna, spanning 35 miles, was opened to traffic on the 1st of February 1881.",
+  "quote": "The section from Bangalore to Channapatna, 35 miles, was opened to traffic on the ist February 1881",
+  "theme": "travel",
+  "passage_id": "mysoregazetteerc01rice-p2"
+ },
+ {
+  "fact_id": "mysoregazetteerc01rice-p2-f2",
+  "source_id": "mysoregazetteerc01rice",
+  "split": "heldout",
+  "claim": "During two months, 20749 passengers traveled by the line, and the total earnings reached Rs. 13219.",
+  "quote": "In these two months 20,749 passengers travelled by the line and the total earnings were Rs. 13,219.",
+  "theme": "commerce",
+  "passage_id": "mysoregazetteerc01rice-p2"
+ },
+ {
+  "fact_id": "mysoregazetteerc01rice-p3-f0",
+  "source_id": "mysoregazetteerc01rice",
+  "split": "dev",
+  "claim": "In 1885, the three regiments of Silahdars in Bangalore, Mysore, and Shimoga were reduced to two regiments with a total strength of 1,171.",
+  "quote": "In 1885 the three regiments of Silahdars, stationed at Bangalore, Mysore and Shimoga, with detach- ments at other District headquarters, w^ere reduced to two, with a total strength of 1,171",
+  "theme": "community",
+  "passage_id": "mysoregazetteerc01rice-p3"
+ },
+ {
+  "fact_id": "mysoregazetteerc01rice-p3-f1",
+  "source_id": "mysoregazetteerc01rice",
+  "split": "dev",
+  "claim": "In 1892, the two regiments were broken up and two new corps were formed, with final sanction granted in July 1893.",
+  "quote": "In 1892 the two regiments were broken up and two fresh corps formed, as finally sanctioned in July 1893",
+  "theme": "community",
+  "passage_id": "mysoregazetteerc01rice-p3"
+ },
+ {
+  "fact_id": "mysoregazetteerc01rice-p3-f2",
+  "source_id": "mysoregazetteerc01rice",
+  "split": "dev",
+  "claim": "The actual strength of the two regiments in 1895 was 1,194 in total.",
+  "quote": "The actual strength of the two regiments in 1895 was : Imperial Service Regiment, 645 ; Local Service Regiment, 549 ; or 1,194 altogether.",
+  "theme": "community",
+  "passage_id": "mysoregazetteerc01rice-p3"
+ },
+ {
+  "fact_id": "mysoregazetteerc01rice-p6-f0",
+  "source_id": "mysoregazetteerc01rice",
+  "split": "dev",
+  "claim": "The Mysore State Railway from Bangalore to Mysore was completed as far as Mandya by March 1881.",
+  "quote": "the Mysore State Railway, from Bangalore to Mysore, completed as far as Mandya, 58 miles on the metre gauge.",
+  "theme": "travel",
+  "passage_id": "mysoregazetteerc01rice-p6"
+ },
+ {
+  "fact_id": "mysoregazetteerc01rice-p6-f1",
+  "source_id": "mysoregazetteerc01rice",
+  "split": "dev",
+  "claim": "The railway line from Bangalore to Tumkur was opened for traffic in August 1884.",
+  "quote": "In October 1882, the line from Bangalore to Tumkur, 43 miles of metre gauge, was commenced, a loan of 20 lakhs at 5 per cent, interest having been raised for the pur- pose, and was opened for traffic in August 1S84.",
+  "theme": "travel",
+  "passage_id": "mysoregazetteerc01rice-p6"
+ },
+ {
+  "fact_id": "mysoregazetteerc01rice-p6-f2",
+  "source_id": "mysoregazetteerc01rice",
+  "split": "dev",
+  "claim": "A further portion of the railway line to Gubbi, measuring 11 miles, was opened in December 1884.",
+  "quote": "A further portion to Gubbi, II miles, was opened in December 1884.",
+  "theme": "travel",
+  "passage_id": "mysoregazetteerc01rice-p6"
+ },
+ {
+  "fact_id": "mysoregazetteerc01rice-p7-f0",
+  "source_id": "mysoregazetteerc01rice",
+  "split": "dev",
+  "claim": "There were 83 municipalities in 1881, excluding the Civil and Military Station of Bangalore.",
+  "quote": "Excluding that of the Civil and .Military Station of Bangalore, which remained under British Administration, there were 83 Municipalities in 1881.",
+  "theme": "community",
+  "passage_id": "mysoregazetteerc01rice-p7"
+ },
+ {
+  "fact_id": "mysoregazetteerc01rice-p7-f1",
+  "source_id": "mysoregazetteerc01rice",
+  "split": "dev",
+  "claim": "By the year 1895, the number of municipalities had increased to 112.",
+  "quote": "By 1895 the number had risen to 112.",
+  "theme": "community",
+  "passage_id": "mysoregazetteerc01rice-p7"
+ },
+ {
+  "fact_id": "mysoregazetteerc01rice-p10-f0",
+  "source_id": "mysoregazetteerc01rice",
+  "split": "dev",
+  "claim": "Shahji resided at Bangalore initially before moving to Kolar and Dod Ballapur when not on military campaigns.",
+  "quote": "He resided at first at Bangalore, but subsequently, when not engaged in military expeditions, lived sometimes at Kolar and sometimes at Dod Ballapur.",
+  "theme": "community",
+  "passage_id": "mysoregazetteerc01rice-p10"
+ },
+ {
+  "fact_id": "mysoregazetteerc01rice-p10-f1",
+  "source_id": "mysoregazetteerc01rice",
+  "split": "dev",
+  "claim": "The invaders policy of granting estates in less productive areas to ousted chiefs brought cultivation and population to neglected tracts.",
+  "quote": "This resulted in bringing under cultivation and attracting population to the more neglected tracts of the country.",
+  "theme": "commerce",
+  "passage_id": "mysoregazetteerc01rice-p10"
+ },
+ {
+  "fact_id": "mysoregazetteerc01rice-p11-f0",
+  "source_id": "mysoregazetteerc01rice",
+  "split": "heldout",
+  "claim": "The Church of England is represented in Bangalore by three chaplains, another clergyman, and an S.P.G. missionary.",
+  "quote": "The Churcli of Englaiid vs, represented by three chaplains, one other clergyman, and one S.P.G. missionary in Bangalore, and one chaplain at Mysore, all under the Bishop of Madras.",
+  "theme": "community",
+  "passage_id": "mysoregazetteerc01rice-p11"
+ },
+ {
+  "fact_id": "mysoregazetteerc01rice-p11-f1",
+  "source_id": "mysoregazetteerc01rice",
+  "split": "heldout",
+  "claim": "There are six established churches belonging to the Church of England.",
+  "quote": "The number of churches on the establishment is six, and the number of persons returned in the census as belonging to the Church of England is 5,366",
+  "theme": "community",
+  "passage_id": "mysoregazetteerc01rice-p11"
+ },
+ {
+  "fact_id": "mysoregazetteerc01rice-p11-f2",
+  "source_id": "mysoregazetteerc01rice",
+  "split": "heldout",
+  "claim": "Two American Methodist Episcopal churches have been established in Bangalore since 1880.",
+  "quote": "Since 1880 two American Methodist Episcopal churches have been estabhshed in Bangalore, chiefly for the Anglo-Indian and Eurasian population, and the Baldwin schools for boys and girls are important institutions maintained by this Mission.",
+  "theme": "community",
+  "passage_id": "mysoregazetteerc01rice-p11"
+ },
+ {
+  "fact_id": "mysoregazetteerc01rice-p12-f0",
+  "source_id": "mysoregazetteerc01rice",
+  "split": "dev",
+  "claim": "St. Joseph's College in Bangalore taught up to the B.A. standard and had a staff of ten priests and twenty other masters.",
+  "quote": "most important of the former being St. Joseph's College at Bangalore, teaching up to the B.A. standard, with a staff of ten priests and twenty other masters.",
+  "theme": "community",
+  "passage_id": "mysoregazetteerc01rice-p12"
+ },
+ {
+  "fact_id": "mysoregazetteerc01rice-p12-f1",
+  "source_id": "mysoregazetteerc01rice",
+  "split": "dev",
+  "claim": "The Catholic population of Mysore was 26,518 according to the census of 1891.",
+  "quote": "The Catholic population of Mysore, according to the census of 1891, is 26,518, of whom five per cent, are Europeans, six per cent. Eurasians, and the remainder natives.",
+  "theme": "community",
+  "passage_id": "mysoregazetteerc01rice-p12"
+ },
+ {
+  "fact_id": "mysoregazetteerc01rice-p15-f0",
+  "source_id": "mysoregazetteerc01rice",
+  "split": "dev",
+  "claim": "The headquarters were moved from Bangalore to Mysore in May 1894.",
+  "quote": "The headquarters were removed from Bangalore to Mysore in May 1894.",
+  "theme": "travel",
+  "passage_id": "mysoregazetteerc01rice-p15"
+ },
+ {
+  "fact_id": "mysoregazetteerc01rice-p15-f1",
+  "source_id": "mysoregazetteerc01rice",
+  "split": "dev",
+  "claim": "The European Deputy-Inspector passed away in August 1892.",
+  "quote": "The European Deputy-Inspector died in August 1892.",
+  "theme": "community",
+  "passage_id": "mysoregazetteerc01rice-p15"
+ },
+ {
+  "fact_id": "mysoregazetteerc01rice-p17-f0",
+  "source_id": "mysoregazetteerc01rice",
+  "split": "dev",
+  "claim": "The temporary jail located at Kukarhalli was closed down in June 1881.",
+  "quote": "The temporary jail at Kukarhalli was given up in Jtuie 1881, and on the revision of Districts and Taluqs in 1882-3 only three Jails, the Central Jail at Bangalore and the District Jails at Mysore and Shimoga, were kept up, with the Lock-ups at Taluq and Sub-Taluq headquarters.",
+  "theme": "community",
+  "passage_id": "mysoregazetteerc01rice-p17"
+ },
+ {
+  "fact_id": "mysoregazetteerc01rice-p17-f1",
+  "source_id": "mysoregazetteerc01rice",
+  "split": "dev",
+  "claim": "In 1882, the transportation of life-convicts from Mysore to the Andaman Islands was stopped due to high maintenance costs.",
+  "quote": "In 1882 it was decided not to transport any more life-convicts from Mysore to the Andaman Islands, owing to the cost involved in maintaining them there.",
+  "theme": "community",
+  "passage_id": "mysoregazetteerc01rice-p17"
+ },
+ {
+  "fact_id": "mysoregazetteerc01rice-p17-f2",
+  "source_id": "mysoregazetteerc01rice",
+  "split": "dev",
+  "claim": "The ticket-of-leave system for life-convicts was established in 1889 following the rules used in the Punjab.",
+  "quote": "In 1889 the ticket-of-leave sy.stem was introduced among life-convicts, on the basis of the rules in force in the Punjab.",
+  "theme": "community",
+  "passage_id": "mysoregazetteerc01rice-p17"
+ },
+ {
+  "fact_id": "mysoregazetteerc01rice-p18-f0",
+  "source_id": "mysoregazetteerc01rice",
+  "split": "heldout",
+  "claim": "A total of 1,597 miles of road along with 309 bridges and 1,998 drains were built in the Province before the Public Works Department was organized.",
+  "quote": "Altogether 1,597 miles of road, with 309 bridges, and 1,998 drains were constructed in the Province after the transfer of Government and before a regular Department of Public Works was organized.",
+  "theme": "travel",
+  "passage_id": "mysoregazetteerc01rice-p18"
+ },
+ {
+  "fact_id": "mysoregazetteerc01rice-p18-f1",
+  "source_id": "mysoregazetteerc01rice",
+  "split": "heldout",
+  "claim": "Electric telegraph lines were started in 1853, which included a line from Attibele to Rampur measuring 191 miles.",
+  "quote": "Among the miscellaneous works executed was the commencement in 1853, and in great part completion, of flying and permanent electric telegraph lines, \u2014 one from Attibele near Oossoor to Rampur on the Bellary frontier, being a length of 191 miles",
+  "theme": "travel",
+  "passage_id": "mysoregazetteerc01rice-p18"
+ },
+ {
+  "fact_id": "mysoregazetteerc01rice-p21-f0",
+  "source_id": "mysoregazetteerc01rice",
+  "split": "dev",
+  "claim": "The Patvegar caste are silk weavers who speak a language allied to Mahratti and mostly live in the Bangalore District.",
+  "quote": "The Patvegar, of whom the majority are in Bangalore District, are silk weavers and speak a language allied to Mahratti.",
+  "theme": "community",
+  "passage_id": "mysoregazetteerc01rice-p21"
+ },
+ {
+  "fact_id": "mysoregazetteerc01rice-p21-f1",
+  "source_id": "mysoregazetteerc01rice",
+  "split": "dev",
+  "claim": "The Saurashtraka are commonly known as Patnuli or Jinikhanvala and almost all of them reside in the Bangalore District.",
+  "quote": "The Saurashtraka, commonly known as Patnuli or J^'inikhanvala, are, all but 7, in the Bangalore Dis- trict.",
+  "theme": "community",
+  "passage_id": "mysoregazetteerc01rice-p21"
+ },
+ {
+  "fact_id": "mysoreagazettee02ricegoog-p1-f0",
+  "source_id": "mysoreagazettee02ricegoog",
+  "split": "dev",
+  "claim": "The elevation of the rising ground at Bangalore is 3,050 feet above sea level.",
+  "quote": "The elevation of this rising ground at Bangalore, one of the highest parts of the Mysore table-land, is 3,050 feet above the level of the sea, measured at the base of the Resident's flagstaff.",
+  "theme": "travel",
+  "passage_id": "mysoreagazettee02ricegoog-p1"
+ },
+ {
+  "fact_id": "mysoreagazettee02ricegoog-p2-f0",
+  "source_id": "mysoreagazettee02ricegoog",
+  "split": "dev",
+  "claim": "The Bangalore-Poona railway runs through the taluq in a north-west direction.",
+  "quote": "The Bangalore-Poona railway runs through the taluq in a north-west direction, with stations at Devanur, Kadiir and Blriir",
+  "theme": "travel",
+  "passage_id": "mysoreagazettee02ricegoog-p2"
+ },
+ {
+  "fact_id": "mysoreagazettee02ricegoog-p4-f0",
+  "source_id": "mysoreagazettee02ricegoog",
+  "split": "dev",
+  "claim": "In 1654, Kempe Cauda of Magadi suffered a defeat at Yelahanka by Kanthirava Narasa Raja, resulting in heavy losses and a forced contribution.",
+  "quote": "In 1654 Kempe Cauda of Magadi had been defeated at Yelahanka by Kanthirava Narasa Raja with great loss and forced to pay a contribu- tion.",
+  "theme": "community",
+  "passage_id": "mysoreagazettee02ricegoog-p4"
+ },
+ {
+  "fact_id": "mysoreagazettee02ricegoog-p4-f1",
+  "source_id": "mysoreagazettee02ricegoog",
+  "split": "dev",
+  "claim": "Venkoji decided to sell Bangalore to the highest bidder because he considered it an expensive and precarious possession.",
+  "quote": "He therefore determined to sell it to the highest bidder, and Chikka Deva Raja, who, taking advantage of the general anarchy, had been gradually extending his possessions, finally agreed to purchase it for three lakhs of rupees",
+  "theme": "commerce",
+  "passage_id": "mysoreagazettee02ricegoog-p4"
+ },
+ {
+  "fact_id": "mysoreagazettee02ricegoog-p4-f2",
+  "source_id": "mysoreagazettee02ricegoog",
+  "split": "dev",
+  "claim": "In July 1687, Bangalore officially became part of the Mysore kingdom.",
+  "quote": "Thus, in July 1687, this important town became a part of the Mysore kingdom.",
+  "theme": "community",
+  "passage_id": "mysoreagazettee02ricegoog-p4"
+ },
+ {
+  "fact_id": "mysoreagazettee02ricegoog-p5-f0",
+  "source_id": "mysoreagazettee02ricegoog",
+  "split": "heldout",
+  "claim": "A fair takes place every Wednesday and is attended by 500 people.",
+  "quote": "A fair is held every Wednesday, attended by 500 persons.",
+  "theme": "commerce",
+  "passage_id": "mysoreagazettee02ricegoog-p5"
+ },
+ {
+  "fact_id": "mysoreagazettee02ricegoog-p6-f0",
+  "source_id": "mysoreagazettee02ricegoog",
+  "split": "dev",
+  "claim": "Bangalore is the seat of government for the Province of Mysore and the head-quarters of the former Mysore Division and present Bangalore District of the Madras Army.",
+  "quote": "The seat of government for the Province of Mysore, and head-quarters of the former Mysore Division and present Bangalore District of the Madras Army.",
+  "theme": "community",
+  "passage_id": "mysoreagazettee02ricegoog-p6"
+ },
+ {
+  "fact_id": "mysoreagazettee02ricegoog-p6-f1",
+  "source_id": "mysoreagazettee02ricegoog",
+  "split": "dev",
+  "claim": "The population of Bangalore is 180,366.",
+  "quote": "Population 180,366. It covers an area of 20 J square miles, and consists of two separate parts",
+  "theme": "community",
+  "passage_id": "mysoreagazettee02ricegoog-p6"
+ },
+ {
+  "fact_id": "mysoreagazettee02ricegoog-p7-f0",
+  "source_id": "mysoreagazettee02ricegoog",
+  "split": "heldout",
+  "claim": "There are 116 forges in the district for the manufacture of iron and steel.",
+  "quote": "There are in the District 116 forges for the manu- facture of iron and steel, loi silk looms, 431 salt-pans, 2,990 cotton and 1,822 woollen looms, and 426 oil-mills.",
+  "theme": "commerce",
+  "passage_id": "mysoreagazettee02ricegoog-p7"
+ },
+ {
+  "fact_id": "mysoreagazettee02ricegoog-p8-f0",
+  "source_id": "mysoreagazettee02ricegoog",
+  "split": "dev",
+  "claim": "The revenue settlement was introduced in the year 1886.",
+  "quote": "The revenue settlement was introduced in 1886.",
+  "theme": "commerce",
+  "passage_id": "mysoreagazettee02ricegoog-p8"
+ },
+ {
+  "fact_id": "mysoreagazettee02ricegoog-p9-f0",
+  "source_id": "mysoreagazettee02ricegoog",
+  "split": "dev",
+  "claim": "Kempe Cauda ruled his territory with benevolence and justice for seventy years from 1443 to 1513.",
+  "quote": "This chief governed his territory with benevolence and justice for the long space of 70 years (1443-1513).",
+  "theme": "community",
+  "passage_id": "mysoreagazettee02ricegoog-p9"
+ },
+ {
+  "fact_id": "mysoreagazettee02ricegoog-p9-f1",
+  "source_id": "mysoreagazettee02ricegoog",
+  "split": "dev",
+  "claim": "Kempe Cauda built a mud fort and named the new town Bengaluru in the year 1537.",
+  "quote": "in 1537 built a mud fort and transferred to his new town the name of Bengaluru (Bangalore).",
+  "theme": "travel",
+  "passage_id": "mysoreagazettee02ricegoog-p9"
+ },
+ {
+  "fact_id": "mysoreagazettee02ricegoog-p11-f0",
+  "source_id": "mysoreagazettee02ricegoog",
+  "split": "dev",
+  "claim": "In 1837 no bridge or road worthy of the name existed in the district.",
+  "quote": "In 1837 not a bridge had been constructed in the District, nor a road formed worthy of the name",
+  "theme": "travel",
+  "passage_id": "mysoreagazettee02ricegoog-p11"
+ },
+ {
+  "fact_id": "mysoreagazettee02ricegoog-p11-f1",
+  "source_id": "mysoreagazettee02ricegoog",
+  "split": "dev",
+  "claim": "The district now has several main roads connecting important towns and facilitating trade with Bangalore, Mysore, Bellary and Mangalore.",
+  "quote": "But now the District is intersected by several main lines of road, which connect all the towns of any importance, and afford easy means of communication with the large towns of Bangalore, Mysore, Bellary and Mangalore, to which places the trade of the country chiefly converges",
+  "theme": "commerce",
+  "passage_id": "mysoreagazettee02ricegoog-p11"
+ },
+ {
+  "fact_id": "mysoreagazettee02ricegoog-p11-f2",
+  "source_id": "mysoreagazettee02ricegoog",
+  "split": "dev",
+  "claim": "There are 127 miles of provincial roads in the district, maintained at a cost of Rs. 23,120 per year.",
+  "quote": "There are 1 2 7 miles of Provincial roads in the District, maintained at a cost of Rs. 23,120 a year",
+  "theme": "commerce",
+  "passage_id": "mysoreagazettee02ricegoog-p11"
+ },
+ {
+  "fact_id": "mysoreagazettee02ricegoog-p12-f0",
+  "source_id": "mysoreagazettee02ricegoog",
+  "split": "dev",
+  "claim": "The prevailing soil in Bangalore is red, on which ragi and other dry crops are cultivated.",
+  "quote": "The prevailing soil is the red, on which are cultivated ragi and the commonly associated dry crops.",
+  "theme": "commerce",
+  "passage_id": "mysoreagazettee02ricegoog-p12"
+ },
+ {
+  "fact_id": "mysoreagazettee02ricegoog-p12-f1",
+  "source_id": "mysoreagazettee02ricegoog",
+  "split": "dev",
+  "claim": "Paddy and sugar-cane are grown on lands under tanks near Bangalore.",
+  "quote": "Paddy and sugar-cane are grown on the lands under tanks.",
+  "theme": "commerce",
+  "passage_id": "mysoreagazettee02ricegoog-p12"
+ },
+ {
+  "fact_id": "mysoreagazettee02ricegoog-p12-f2",
+  "source_id": "mysoreagazettee02ricegoog",
+  "split": "dev",
+  "claim": "The revenue settlement was introduced into the Bangalore, Agsira, Halsur and Yesvantpur hoblis in 1872.",
+  "quote": "The revenue settlement was introduced into the Bangalore, Agsira, Halsur and Yesvantpur hoblis in 1872 ;",
+  "theme": "commerce",
+  "passage_id": "mysoreagazettee02ricegoog-p12"
+ },
+ {
+  "fact_id": "mysoreagazettee02ricegoog-p13-f0",
+  "source_id": "mysoreagazettee02ricegoog",
+  "split": "heldout",
+  "claim": "Very good cows are reared in Bangalore, where they sell for from Rs. 40 to 80 apiece.",
+  "quote": "Very good cows are reared in Bangalore, where they sell for from Rs. 40 to 80 apiece.",
+  "theme": "commerce",
+  "passage_id": "mysoreagazettee02ricegoog-p13"
+ },
+ {
+  "fact_id": "mysoreagazettee02ricegoog-p13-f1",
+  "source_id": "mysoreagazettee02ricegoog",
+  "split": "heldout",
+  "claim": "Cattle-shows were held for some years by Government, at which liberal prizes were given, with the view of promoting an improvement in the breed of domestic cattle.",
+  "quote": "Cattle-shows were held for some years by Government, at which liberal prizes were given, with the view of promoting an improvement in the breed of domestic cattle.",
+  "theme": "community",
+  "passage_id": "mysoreagazettee02ricegoog-p13"
+ },
+ {
+  "fact_id": "mysoreagazettee02ricegoog-p13-f2",
+  "source_id": "mysoreagazettee02ricegoog",
+  "split": "heldout",
+  "claim": "The quality of the mutton sold in Bangalore has been greatly improved by means of prizes offered by the Municipality at the new market.",
+  "quote": "The quality of the mutton sold in Bangalore has been greatly improved by means of prizes offered by the Municipality at the new market.",
+  "theme": "commerce",
+  "passage_id": "mysoreagazettee02ricegoog-p13"
+ },
+ {
+  "fact_id": "mysoreagazettee02ricegoog-p14-f0",
+  "source_id": "mysoreagazettee02ricegoog",
+  "split": "heldout",
+  "claim": "The experimental plantation of coffee near Bangalore has led to land being taken up for coffee cultivation in the district.",
+  "quote": "The success which attended an experimental plantation of coffee near Bangalore has led to land being taken up of late years for the same purpose in maiddn parts of the District, but the enterprise has not yet passed out of the experimental stage.",
+  "theme": "commerce",
+  "passage_id": "mysoreagazettee02ricegoog-p14"
+ },
+ {
+  "fact_id": "mysoreagazettee02ricegoog-p14-f1",
+  "source_id": "mysoreagazettee02ricegoog",
+  "split": "heldout",
+  "claim": "The district cultivates a wide variety of vegetables and fruits for European markets in Bangalore and Madras.",
+  "quote": "Besides the productions of the country entered in the foregoing list, vegetables and fruits are raised in large quantities and great variety for the European markets at Bangalore and Madras.",
+  "theme": "commerce",
+  "passage_id": "mysoreagazettee02ricegoog-p14"
+ },
+ {
+  "fact_id": "mysoreagazettee02ricegoog-p14-f2",
+  "source_id": "mysoreagazettee02ricegoog",
+  "split": "heldout",
+  "claim": "In 1893, rice was cultivated on 49,419 acres in the district.",
+  "quote": "Rice, 49,419; rdgi, 357,448; wheat, 16; other food grains, 91,320; vegetables, 9,250; oilseeds, 15,139; sugar-cane, 3,159; cocoanut and areca nut, 8,943; tobacco, 1,148; mulberry, 30^7 ; fibres, 741.",
+  "theme": "commerce",
+  "passage_id": "mysoreagazettee02ricegoog-p14"
+ },
+ {
+  "fact_id": "mysoreagazettee02ricegoog-p15-f0",
+  "source_id": "mysoreagazettee02ricegoog",
+  "split": "dev",
+  "claim": "A fair is held every Friday, attended by 400 persons.",
+  "quote": "A fair is held every Friday, attended by 400 persons.",
+  "theme": "community",
+  "passage_id": "mysoreagazettee02ricegoog-p15"
+ },
+ {
+  "fact_id": "mysoreagazettee02ricegoog-p15-f1",
+  "source_id": "mysoreagazettee02ricegoog",
+  "split": "dev",
+  "claim": "The trunk road from Bangalore to Salem runs through the taluq from north-west to south-east, with a branch road to Anekal from near Hebbagod.",
+  "quote": "The trunk road from Bangalore to Salem runs through the taluq from north-west to south-east, with a branch road to Anekal from near Hebbagod.",
+  "theme": "travel",
+  "passage_id": "mysoreagazettee02ricegoog-p15"
+ },
+ {
+  "fact_id": "mysoreagazettee02ricegoog-p16-f0",
+  "source_id": "mysoreagazettee02ricegoog",
+  "split": "dev",
+  "claim": "The river Tungabhadra rises near the Tunga in the Gangdmilla peak in the Western Ghats, 15 miles west of Kalasa.",
+  "quote": "It rises close to the Tunga in the Gangdmilla peak in the Western Ghats, 15 miles west of Kalasa.",
+  "theme": "travel",
+  "passage_id": "mysoreagazettee02ricegoog-p16"
+ },
+ {
+  "fact_id": "mysoreagazettee02ricegoog-p16-f1",
+  "source_id": "mysoreagazettee02ricegoog",
+  "split": "dev",
+  "claim": "The river has 18 dams that supply water to 325 acres.",
+  "quote": "but there are i8 dams from which 325 acres are supplied with water.",
+  "theme": "commerce",
+  "passage_id": "mysoreagazettee02ricegoog-p16"
+ },
+ {
+  "fact_id": "mysoreagazettee02ricegoog-p16-f2",
+  "source_id": "mysoreagazettee02ricegoog",
+  "split": "dev",
+  "claim": "Birar is an important trading town in the Kadur taluq on the Bangalore-Poona railway and the Bangalore-Shimoga road.",
+  "quote": "Birar. \u2014 An important trading town in the Kadur taluq, on the Bangalore-Poona railway and the Bangalore-Shimoga road, 4 miles north by west of the kasba, and a municipality.",
+  "theme": "commerce",
+  "passage_id": "mysoreagazettee02ricegoog-p16"
+ },
+ {
+  "fact_id": "mysoreagazettee02ricegoog-p17-f0",
+  "source_id": "mysoreagazettee02ricegoog",
+  "split": "dev",
+  "claim": "The town has become a rising and busy centre since the railway arrived in 1889 and the taluq headquarters was located there.",
+  "quote": "Since the advent of the railway in 1889, and the location here of the taluq head-quarters, it has developed into a rising and busy centre.",
+  "theme": "commerce",
+  "passage_id": "mysoreagazettee02ricegoog-p17"
+ },
+ {
+  "fact_id": "mysoreagazettee02ricegoog-p17-f1",
+  "source_id": "mysoreagazettee02ricegoog",
+  "split": "dev",
+  "claim": "The town has an evil reputation as the haunt of robbers who infested the high road.",
+  "quote": "it has an evil reputation as the haunt of robbers who infested the high road.",
+  "theme": "crime",
+  "passage_id": "mysoreagazettee02ricegoog-p17"
+ },
+ {
+  "fact_id": "mysoreagazettee02ricegoog-p17-f2",
+  "source_id": "mysoreagazettee02ricegoog",
+  "split": "dev",
+  "claim": "The staff occupying the railway quarters accounts for the considerable number of Christians in the population.",
+  "quote": "the staff occupying the railway quarters accounts for the considerable number of Christians in the population.",
+  "theme": "community",
+  "passage_id": "mysoreagazettee02ricegoog-p17"
+ },
+ {
+  "fact_id": "mysoreagazettee02ricegoog-p18-f0",
+  "source_id": "mysoreagazettee02ricegoog",
+  "split": "dev",
+  "claim": "Tyamagondal is a mercantile town and municipality located 11 miles northwest of Nelamangala and connected by a branch road from Begur.",
+  "quote": "A mercantile town and municipality, 11 miles north-west of Nelamangala, with which it is connected by a branch road from Begur.",
+  "theme": "travel",
+  "passage_id": "mysoreagazettee02ricegoog-p18"
+ },
+ {
+  "fact_id": "mysoreagazettee02ricegoog-p18-f1",
+  "source_id": "mysoreagazettee02ricegoog",
+  "split": "dev",
+  "claim": "A fair held on Friday in YadigenhalU is attended by 300 people.",
+  "quote": "A fair held on Friday is attended by 300 people.",
+  "theme": "community",
+  "passage_id": "mysoreagazettee02ricegoog-p18"
+ },
+ {
+  "fact_id": "mysoreagazettee02ricegoog-p18-f2",
+  "source_id": "mysoreagazettee02ricegoog",
+  "split": "dev",
+  "claim": "Bantapur is a village 5 miles south of Bangalore with a population of 112.",
+  "quote": "Population 112.",
+  "theme": "community",
+  "passage_id": "mysoreagazettee02ricegoog-p18"
+ },
+ {
+  "fact_id": "mysoreagazettee02ricegoog-p19-f0",
+  "source_id": "mysoreagazettee02ricegoog",
+  "split": "dev",
+  "claim": "Closepet is known for making lacquered ware, toys, fine steel wires for musical instruments, and glass bracelets.",
+  "quote": "It is celebrated for the manufacture of lacquered ware and toys, of fine steel wires for strings of musical instruments, and of glass bracelets",
+  "theme": "commerce",
+  "passage_id": "mysoreagazettee02ricegoog-p19"
+ },
+ {
+  "fact_id": "mysoreagazettee02ricegoog-p19-f1",
+  "source_id": "mysoreagazettee02ricegoog",
+  "split": "dev",
+  "claim": "Closepet has a large number of Muhammadan residents belonging to the I^bbe and Daira sects.",
+  "quote": "It is the residence of a large number of Muhammadans belonging to the I^bbe and Daira sects",
+  "theme": "community",
+  "passage_id": "mysoreagazettee02ricegoog-p19"
+ },
+ {
+  "fact_id": "mysoreagazettee02ricegoog-p19-f2",
+  "source_id": "mysoreagazettee02ricegoog",
+  "split": "dev",
+  "claim": "A fair is held each Tuesday in Closepet with about 4,000 attendees.",
+  "quote": "A fair is held every Tuesday, attended by about 4,000 persons",
+  "theme": "community",
+  "passage_id": "mysoreagazettee02ricegoog-p19"
+ },
+ {
+  "fact_id": "mysoreagazettee02ricegoog-p20-f0",
+  "source_id": "mysoreagazettee02ricegoog",
+  "split": "dev",
+  "claim": "The S. Pinikini river supplies the large tank at Hoskote and then flows southwards past Kadgodi.",
+  "quote": "Towards the north the S. Pinikini forms the western boundar'. After entering the taluq it supplies the large tank at Hoskote, and thence flows southwards past Kadgodi,",
+  "theme": "commerce",
+  "passage_id": "mysoreagazettee02ricegoog-p20"
+ },
+ {
+  "fact_id": "mysoreagazettee02ricegoog-p20-f1",
+  "source_id": "mysoreagazettee02ricegoog",
+  "split": "dev",
+  "claim": "The country is largely open and easily crossed, except for some low hills on the north.",
+  "quote": "With the exception of some low hills on the north, the country is open and easily crossed in all parts.",
+  "theme": "community",
+  "passage_id": "mysoreagazettee02ricegoog-p20"
+ },
+ {
+  "fact_id": "mysoreagazettee02ricegoog-p20-f2",
+  "source_id": "mysoreagazettee02ricegoog",
+  "split": "dev",
+  "claim": "Hay is cultivated in the neighbourhood of Hoskote for the Bangalore market.",
+  "quote": "Considerable attention is given to the cultivation of hay for the Bangalore market, especially in the neighbourhood of Hoskote.",
+  "theme": "commerce",
+  "passage_id": "mysoreagazettee02ricegoog-p20"
+ },
+ {
+  "fact_id": "mysoreagazettee02ricegoog-p21-f0",
+  "source_id": "mysoreagazettee02ricegoog",
+  "split": "heldout",
+  "claim": "The total revenue for 1891-2 (15 months) was Rs. 1,04,879, and for 1892-3 it was Rs. 1,00,183.",
+  "quote": "The total revenue for 1891-2 (15 months) was Rs. 1,04,879, and for 1892-3 it was Rs. 1,00,183.",
+  "theme": "commerce",
+  "passage_id": "mysoreagazettee02ricegoog-p21"
+ },
+ {
+  "fact_id": "mysoreagazettee02ricegoog-p21-f1",
+  "source_id": "mysoreagazettee02ricegoog",
+  "split": "heldout",
+  "claim": "A fair held on Thursday is attended by 2,000 people.",
+  "quote": "A fair held on Thursday is attended by 2,000 people.",
+  "theme": "community",
+  "passage_id": "mysoreagazettee02ricegoog-p21"
+ },
+ {
+  "fact_id": "mysoreagazettee02ricegoog-p21-f2",
+  "source_id": "mysoreagazettee02ricegoog",
+  "split": "heldout",
+  "claim": "There is a road from Kankanhalli to the railway at Closepet.",
+  "quote": "There is a road from Kankanhalli to the railway at Closepet.",
+  "theme": "travel",
+  "passage_id": "mysoreagazettee02ricegoog-p21"
+ }
+]
