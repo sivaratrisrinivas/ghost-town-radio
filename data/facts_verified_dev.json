@@ -1,0 +1,498 @@
+[
+ {
+  "fact_id": "cammlsmh_000137-p1-f0",
+  "source_id": "cammlsmh_000137",
+  "split": "dev",
+  "claim": "It takes double the number of miners to work.",
+  "quote": "It takes double the number of miners to work",
+  "theme": "mining",
+  "passage_id": "cammlsmh_000137-p1"
+ },
+ {
+  "fact_id": "cammlsmh_000137-p2-f0",
+  "source_id": "cammlsmh_000137",
+  "split": "dev",
+  "claim": "All companies planning to work through the winter are in good condition to continue their work, having wood and other supplies.",
+  "quote": "All the com- panies that are intending to rao all Winter are in good ennditi ion for {pros- ecuting their. work, having their wood avd other supplies in.",
+  "theme": "mining",
+  "passage_id": "cammlsmh_000137-p2",
+  "snapped": true
+ },
+ {
+  "fact_id": "cammlsmh_000138-p0-f0",
+  "source_id": "cammlsmh_000138",
+  "split": "dev",
+  "claim": "The school house will be finished next week and will be a credit to the city.",
+  "quote": "The School Honse will belfinished next week, and wil be a credit to our city.",
+  "theme": "community",
+  "passage_id": "cammlsmh_000138-p0"
+ },
+ {
+  "fact_id": "cammlsmh_000138-p1-f0",
+  "source_id": "cammlsmh_000138",
+  "split": "dev",
+  "claim": "The mill will be built about 300 feet north of the Spaulding hoisting works.",
+  "quote": "the mill is to b\u00e9 erected is some 300 fe\u00e9 north of the Spaulding hoisting works",
+  "theme": "mining",
+  "passage_id": "cammlsmh_000138-p1",
+  "snapped": true
+ },
+ {
+  "fact_id": "cammlsmh_000138-p1-f1",
+  "source_id": "cammlsmh_000138",
+  "split": "dev",
+  "claim": "There is an incline and a shaft 308 feet deep, and a drift has been run.",
+  "quote": "and an incline: shaft 308 feet in dept Drift have been run",
+  "theme": "mining",
+  "passage_id": "cammlsmh_000138-p1"
+ },
+ {
+  "fact_id": "cammlsmh_000138-p1-f2",
+  "source_id": "cammlsmh_000138",
+  "split": "dev",
+  "claim": "They have good hoisting works and an incline.",
+  "quote": "They have good hoisti works and an incline",
+  "theme": "mining",
+  "passage_id": "cammlsmh_000138-p1"
+ },
+ {
+  "fact_id": "cammlsmh_000138-p2-f0",
+  "source_id": "cammlsmh_000138",
+  "split": "dev",
+  "claim": "The main shaft depth increased by 15 feet since the last report.",
+  "quote": "A depth of 15 feet has heen gained in the main shaft since lust report.",
+  "theme": "mining",
+  "passage_id": "cammlsmh_000138-p2",
+  "snapped": true
+ },
+ {
+  "fact_id": "cammlsmh_000138-p2-f1",
+  "source_id": "cammlsmh_000138",
+  "split": "dev",
+  "claim": "There are still 45 feet to be excavated before reaching the 225-foot level.",
+  "quote": "A distance of 45 fect bas yet to be run before reaching the 225 foot level.",
+  "theme": "mining",
+  "passage_id": "cammlsmh_000138-p2",
+  "snapped": true
+ },
+ {
+  "fact_id": "cammlsmh_000144-p0-f0",
+  "source_id": "cammlsmh_000144",
+  "split": "dev",
+  "claim": "The main shaft is now down 57 feet.",
+  "quote": "The main shaft i is now down 57 eid ing ground.",
+  "theme": "mining",
+  "passage_id": "cammlsmh_000144-p0"
+ },
+ {
+  "fact_id": "cammlsmh_000149-p0-f0",
+  "source_id": "cammlsmh_000149",
+  "split": "dev",
+  "claim": "The Dudle Company is crosscutting west at a depth of 500 feet at their shaft.",
+  "quote": "The Dudle Com- pany ate now crosscutting west at a depth of 500 leet at their shaft",
+  "theme": "mining",
+  "passage_id": "cammlsmh_000149-p0"
+ },
+ {
+  "fact_id": "cammlsmh_000149-p0-f1",
+  "source_id": "cammlsmh_000149",
+  "split": "dev",
+  "claim": "A shaft was sunk by the original locators to a depth of about 60 feet.",
+  "quote": "a shaft had also been sunk by original locators, some 60. feet in depth",
+  "theme": "mining",
+  "passage_id": "cammlsmh_000149-p0"
+ },
+ {
+  "fact_id": "cammlsmh_000151-p0-f0",
+  "source_id": "cammlsmh_000151",
+  "split": "dev",
+  "claim": "The vein is 20 inches wide and dips east.",
+  "quote": "the! vein being 20 inches wide and dipping east.",
+  "theme": "mining",
+  "passage_id": "cammlsmh_000151-p0",
+  "snapped": true
+ },
+ {
+  "fact_id": "cammlsmh_000151-p0-f1",
+  "source_id": "cammlsmh_000151",
+  "split": "dev",
+  "claim": "Work in the crosscut on the 480 level has been stopped but will resume in a few days.",
+  "quote": "work in the crosscut on 0 480 level has been stopped tor the pres- but wil be resumed in a few days",
+  "theme": "mining",
+  "passage_id": "cammlsmh_000151-p0"
+ },
+ {
+  "fact_id": "cammlsmh_000151-p2-f0",
+  "source_id": "cammlsmh_000151",
+  "split": "dev",
+  "claim": "They sell bedding and mattresses as a specialty at reasonable terms.",
+  "quote": "BEDDING AND MATTRESSES : Made to Der ! i A SPECIALTY, AND on reasonable terms.",
+  "theme": "commerce",
+  "passage_id": "cammlsmh_000151-p2"
+ },
+ {
+  "fact_id": "cammlsmh_000154-p0-f0",
+  "source_id": "cammlsmh_000154",
+  "split": "dev",
+  "claim": "Peterson is a notary and conveyancer and clerk of the peace for Bodie Township.",
+  "quote": "PETERSON, NOTARY 0 AND CONVEYANCER, CE OF THE PEACE Bodie Township,",
+  "theme": "community",
+  "passage_id": "cammlsmh_000154-p0",
+  "snapped": true
+ },
+ {
+  "fact_id": "cammlsmh_000154-p1-f0",
+  "source_id": "cammlsmh_000154",
+  "split": "dev",
+  "claim": "Isaac W. Hunt, a citizen of the United States, applied under the Act.",
+  "quote": "Isaac W. Hunt, axcitizen of the nited States, over the age years, has made application und r the Act of",
+  "theme": "commerce",
+  "passage_id": "cammlsmh_000154-p1"
+ },
+ {
+  "fact_id": "cammlsmh_000155-p0-f0",
+  "source_id": "cammlsmh_000155",
+  "split": "dev",
+  "claim": "Claims must be filed within sixty days or they will be barred by the Act.",
+  "quote": "the sixty days publication hereof, or they will be barred by virtue of the provisions of said Act",
+  "theme": "news",
+  "passage_id": "cammlsmh_000155-p0"
+ },
+ {
+  "fact_id": "cammlsmh_000155-p1-f0",
+  "source_id": "cammlsmh_000155",
+  "split": "dev",
+  "claim": "People must file adverse claims with the Register of the United States Land at Bodie, California within sixty days of publication.",
+  "quote": "any and all persons claiming: said aliove d\u00e9scribed land. or any part. thereof adversely to the claim of the applicant thereto, are req ired-to file their adverse claims: with\u2019 \u2018the Register of the United States Land at Bodie, State of California:",
+  "theme": "commerce",
+  "passage_id": "cammlsmh_000155-p1"
+ },
+ {
+  "fact_id": "cammlsmh_000157-p0-f0",
+  "source_id": "cammlsmh_000157",
+  "split": "dev",
+  "claim": "Goods were delivered to all parts of town free of charge.",
+  "quote": "Goods delivered to all parts of town free of eharge.",
+  "theme": "commerce",
+  "passage_id": "cammlsmh_000157-p0"
+ },
+ {
+  "fact_id": "cammlsmh_000158-p0-f0",
+  "source_id": "cammlsmh_000158",
+  "split": "dev",
+  "claim": "On Wednesday they passed through a quartz stratum 12 inches wide that gave assays ranging from $12 to $101 per ton.",
+  "quote": "On Wednesday passed through a strata of quartz, 12 inches Wide, Giving assays nning from $12 to $101 a ton,",
+  "theme": "mining",
+  "passage_id": "cammlsmh_000158-p0"
+ },
+ {
+  "fact_id": "cammlsmh_000164-p0-f0",
+  "source_id": "cammlsmh_000164",
+  "split": "dev",
+  "claim": "The north drift from the east crosscut at the 500\u2011foot level is 105 feet long.",
+  "quote": "The north drift from the east crosscut, 500 jeet level, is in 105 feet, making a progress",
+  "theme": "mining",
+  "passage_id": "cammlsmh_000164-p0",
+  "snapped": true
+ },
+ {
+  "fact_id": "cammlsmh_000164-p0-f2",
+  "source_id": "cammlsmh_000164",
+  "split": "dev",
+  "claim": "The new drift from the west crosscut is 230 feet long, with 15 feet of progress during the week.",
+  "quote": "The nes drift \u2018rom the west crosscut is in 230 feet, prog- gress during the welk 15 feet",
+  "theme": "mining",
+  "passage_id": "cammlsmh_000164-p0"
+ },
+ {
+  "fact_id": "cammlsmh_000164-p1-f1",
+  "source_id": "cammlsmh_000164",
+  "split": "dev",
+  "claim": "The north drift is 531 feet west of the shaft, which is 145 feet deep, and has been extended by 15 feet since the last report.",
+  "quote": "The north drift 531 fl W is in trom the shaft 145 feet, having been extended since last report 15 feet,",
+  "theme": "mining",
+  "passage_id": "cammlsmh_000164-p1",
+  "snapped": true
+ },
+ {
+  "fact_id": "cammlsmh_000167-p1-f0",
+  "source_id": "cammlsmh_000167",
+  "split": "dev",
+  "claim": "James Morrissey entered a room at 217 Third Street where George Squires and two women were drinking.",
+  "quote": "James Morrissey entered a room at 217 Third street, in which George Squires and two women were sitting drinking",
+  "theme": "crime",
+  "passage_id": "cammlsmh_000167-p1"
+ },
+ {
+  "fact_id": "cammlsmh_000170-p0-f0",
+  "source_id": "cammlsmh_000170",
+  "split": "dev",
+  "claim": "A branch drift was started on the Seneca vein 154 feet from the mouth of the tunnel, running southwest toward the Nioma vein.",
+  "quote": "A branch drift has been started on the Seneca, vein, 154 feet from the mouth of the tunnel, running \u00a7 south west, toward the Nioma yein.",
+  "theme": "mining",
+  "passage_id": "cammlsmh_000170-p0"
+ },
+ {
+  "fact_id": "cammlsmh_000170-p0-f1",
+  "source_id": "cammlsmh_000170",
+  "split": "dev",
+  "claim": "The mine has been shut down for two days because the pump bob broke.",
+  "quote": "This mine bias been shut down fora ow days on account of breaking the pump bob.",
+  "theme": "mining",
+  "passage_id": "cammlsmh_000170-p0"
+ },
+ {
+  "fact_id": "cammlsmh_000171-p0-f0",
+  "source_id": "cammlsmh_000171",
+  "split": "dev",
+  "claim": "Boisot & Stewart on Main Street near Green's Boilie Drugstore and Apothecary are dealers in mud, paint, varnishes, window glass, toilet articles, and brushes.",
+  "quote": "BOISOT & STEWART, Main Street,. near. Green, Boilie Druggiste and Apothecaries, \u2018DEALERS IN \u00f6 mud 5 5 Pais, Oib, Varnishes, Window Ola s. Toilet. Articles, Brushes.",
+  "theme": "commerce",
+  "passage_id": "cammlsmh_000171-p0"
+ },
+ {
+  "fact_id": "cammlsmh_000181-p0-f0",
+  "source_id": "cammlsmh_000181",
+  "split": "dev",
+  "claim": "A survey of the Bodie town-site was conducted on March 16, 1880.",
+  "quote": "Survey of the \u2018Towr-Site of Bodie \u201d BRIDGEPORT. CaL., \u2019 March 16, 1880.",
+  "theme": "community",
+  "passage_id": "cammlsmh_000181-p0",
+  "snapped": true
+ },
+ {
+  "fact_id": "cammlsmh_000182-p0-f1",
+  "source_id": "cammlsmh_000182",
+  "split": "dev",
+  "claim": "The west crosscut at the same level is 5 feet deep.",
+  "quote": "The west crosscut, same level, is in 5 feet.",
+  "theme": "mining",
+  "passage_id": "cammlsmh_000182-p0"
+ },
+ {
+  "fact_id": "cammlsmh_000182-p1-f0",
+  "source_id": "cammlsmh_000182",
+  "split": "dev",
+  "claim": "A severe storm has been raging on the Sierra since four in the morning, with snow plows currently in operation.",
+  "quote": "A furious ater \u2018been raging on the Sierra since 4 \u2018this morning. Snow plows are running",
+  "theme": "weather",
+  "passage_id": "cammlsmh_000182-p1"
+ },
+ {
+  "fact_id": "cammlsmh_000197-p0-f0",
+  "source_id": "cammlsmh_000197",
+  "split": "dev",
+  "claim": "Flags were displayed at half-mast on the Miners Union Hall, business houses, and hoisting works to observe Decoration Day.",
+  "quote": "Decoration \u2014 Dax. n Day\u2014 Sunday last \u2014 Was observed: here by the display of flags at hal{-mast on Miners\u2019 \u2018Union Hall, and buri iness houses and hoist - in; works.",
+  "theme": "community",
+  "passage_id": "cammlsmh_000197-p0"
+ },
+ {
+  "fact_id": "cammlsmh_000199-p1-f0",
+  "source_id": "cammlsmh_000199",
+  "split": "dev",
+  "claim": "The latest Oregon election reports show the Senate will have sixteen Republicans and fourteen Democrats.",
+  "quote": "The latest Oregon election reports indi- cate that the political \u2018complexion of th Leyislature will be as follows: The Senat will stand sixteen Republicans to fourteen Democrats,:",
+  "theme": "news",
+  "passage_id": "cammlsmh_000199-p1"
+ },
+ {
+  "fact_id": "cammlsmh_000201-p1-f0",
+  "source_id": "cammlsmh_000201",
+  "split": "dev",
+  "claim": "The Miners Union members wish to bulldoze the citizens of Bodie according to the text.",
+  "quote": "our sions citizens of the Miners\u2019 Union are -not so) di - and wish to bulldoze our. citizens. \\The\u00b0 action of the",
+  "theme": "community",
+  "passage_id": "cammlsmh_000201-p1"
+ },
+ {
+  "fact_id": "cammlsmh_000207-p1-f0",
+  "source_id": "cammlsmh_000207",
+  "split": "dev",
+  "claim": "The Index favors a large tax this year to place the county finances on a cash basis.",
+  "quote": "he Index is in favor of a big tax this) year, that the county\u2019: finances may be placed) an a@ cash basis",
+  "theme": "news",
+  "passage_id": "cammlsmh_000207-p1"
+ },
+ {
+  "fact_id": "cammlsmh_000212-p1-f0",
+  "source_id": "cammlsmh_000212",
+  "split": "dev",
+  "claim": "Mr. Pacheco gave a well-received and frequently applauded common-sense speech lasting about half an hour after the meeting was organized with music and a song.",
+  "quote": "Mr. Pacheco vas introduced ahd spoke about half an hour, making a good. common-sense talk, which was well received and frequent- ly applauded.",
+  "theme": "community",
+  "passage_id": "cammlsmh_000212-p1"
+ },
+ {
+  "fact_id": "cammlsmh_000215-p2-f0",
+  "source_id": "cammlsmh_000215",
+  "split": "dev",
+  "claim": "The Act of April 24, 1857 authorized the County Auditor to draw warrants for the payment of claims and demands legally chargeable against the county.",
+  "quote": "By the Act of April 24, 1857, which waa iu force in 1862-3 the County Auditor was authorized to draw warrants 44 for the pay\u00ac ment of nil claims and demands legally chargeable against the county",
+  "theme": "news",
+  "passage_id": "cammlsmh_000215-p2"
+ },
+ {
+  "fact_id": "cammlsmh_000216-p1-f0",
+  "source_id": "cammlsmh_000216",
+  "split": "dev",
+  "claim": "Dodd's Express handled approximately 10,000 pieces of baggage during the day.",
+  "quote": "and is estimated to have handled some 10,000 pieces during the day.",
+  "theme": "commerce",
+  "passage_id": "cammlsmh_000216-p1"
+ },
+ {
+  "fact_id": "cammlsmh_001067-p0-f0",
+  "source_id": "cammlsmh_001067",
+  "split": "dev",
+  "claim": "The north drift on the 385-foot level is currently in 293 feet.",
+  "quote": "The north drift on the 385-foot level is in 293 feet.",
+  "theme": "mining",
+  "passage_id": "cammlsmh_001067-p0"
+ },
+ {
+  "fact_id": "cammlsmh_001067-p0-f1",
+  "source_id": "cammlsmh_001067",
+  "split": "dev",
+  "claim": "The winze in the west crosscut on the 550-foot level of the incline has reached a depth of 37 feet.",
+  "quote": "The winze in the west crosscut on the 550-foot level of the incline has reached a depth of 37 feet",
+  "theme": "mining",
+  "passage_id": "cammlsmh_001067-p0"
+ },
+ {
+  "fact_id": "cammlsmh_001067-p1-f0",
+  "source_id": "cammlsmh_001067",
+  "split": "dev",
+  "claim": "The south drift on the 880 foot level is 119 feet in length after progressing 10 feet since the last report.",
+  "quote": "The south drift, 880 foot level, is in 119 fect; progress since last report 10 feet; the ledge is 2% feet wide, and looking very well.",
+  "theme": "mining",
+  "passage_id": "cammlsmh_001067-p1"
+ },
+ {
+  "fact_id": "cammlsmh_001068-p2-f0",
+  "source_id": "cammlsmh_001068",
+  "split": "dev",
+  "claim": "A large amount of telegraphic business is conducted between Bodie and the city, resulting in handsome tolls for the local company.",
+  "quote": "DhGre is now a large telegraphic bus- iness done between Bodie and this cily, and the tolls to your local Company must fool up quite handsome.",
+  "theme": "news",
+  "passage_id": "cammlsmh_001068-p2",
+  "snapped": true
+ },
+ {
+  "fact_id": "cammlsmh_001071-p0-f0",
+  "source_id": "cammlsmh_001071",
+  "split": "dev",
+  "claim": "The machinery for twenty more stamps has arrived for the Mammoth mine and company.",
+  "quote": "the machinery for twenty more stamps having arrived, and the sugges- tion of the president of immediately",
+  "theme": "mining",
+  "passage_id": "cammlsmh_001071-p0"
+ },
+ {
+  "fact_id": "cammlsmh_001071-p1-f0",
+  "source_id": "cammlsmh_001071",
+  "split": "dev",
+  "claim": "The first location of the True Blue features a tunnel running thirty feet into a solid mass of ore without reaching the wall or cutting the ledge.",
+  "quote": "The first location of the True Blue is on the ridge, where a tunnel has been run thirty feet into a solid mass of ore, and s\u2018ill they had not reached the wall or cut the ledge.",
+  "theme": "mining",
+  "passage_id": "cammlsmh_001071-p1"
+ },
+ {
+  "fact_id": "cammlsmh_001072-p1-f0",
+  "source_id": "cammlsmh_001072",
+  "split": "dev",
+  "claim": "An assessment of twenty-five cents per share was levied on the capital stock of the Udley Mining Company on June 12, 1879.",
+  "quote": "Notice is hereby given that at a meeting of the Board of Directors, held on the 12th day of June, 1879, an assess- ment (No. 4) of twenty-five cents per share was levied upon the capital stock of the corpora- tion",
+  "theme": "mining",
+  "passage_id": "cammlsmh_001072-p1"
+ },
+ {
+  "fact_id": "cammlsmh_001073-p2-f0",
+  "source_id": "cammlsmh_001073",
+  "split": "dev",
+  "claim": "Persons holding claims against the Jupiter Gold Mining Company must present them on or before the first of each month, and payment will be made on the 10th at the Tioga office.",
+  "quote": "Persons holding claims against the Jupiter Gold Mining Company must present them on or before the first of each month, and payment will be made on the 10th, at the Tioga office.",
+  "theme": "mining",
+  "passage_id": "cammlsmh_001073-p2"
+ },
+ {
+  "fact_id": "cammlsmh_001088-p0-f0",
+  "source_id": "cammlsmh_001088",
+  "split": "dev",
+  "claim": "George R. Story, an experienced mining man and one of the pioneers of the early days of Bodie, is currently in town.",
+  "quote": "Georg\u00e9 R. Story, oneof the pioneers of the new days of Bodie, and a min- ing man of long experience, is in town.",
+  "theme": "mining",
+  "passage_id": "cammlsmh_001088-p0"
+ },
+ {
+  "fact_id": "cammlsmh_001088-p2-f0",
+  "source_id": "cammlsmh_001088",
+  "split": "dev",
+  "claim": "All parties holding claims against the Booker Gold and Silver Mining Company must present them on the first day of each month for payment on the fifth.",
+  "quote": "ALL PARTIES HOLD- J ing bills against the Booker Gold and Silver Mining Company must present the same at the office of the company on the first day of each month, and payment will be made on the 5th",
+  "theme": "mining",
+  "passage_id": "cammlsmh_001088-p2"
+ },
+ {
+  "fact_id": "cammlsmh_001089-p2-f0",
+  "source_id": "cammlsmh_001089",
+  "split": "dev",
+  "claim": "Saddles and harness are made and repaired in the best manner with satisfaction guaranteed.",
+  "quote": "SADDLES AND HARNESS MADE AND REPAIRED IN THE BEST MANNER AND SATISFACTION GUARANTEED.",
+  "theme": "commerce",
+  "passage_id": "cammlsmh_001089-p2"
+ },
+ {
+  "fact_id": "cammlsmh_001090-p1-f0",
+  "source_id": "cammlsmh_001090",
+  "split": "dev",
+  "claim": "All people holding claims against the Herrington Tunnel and Mining Company must present them on or before the first day of each month at the company office.",
+  "quote": "ALL PERSONS holding claims against the Herring- ton Tunnel and Mining Company must present the same on or before the first day ach month af the company\u2019s -office",
+  "theme": "mining",
+  "passage_id": "cammlsmh_001090-p1"
+ },
+ {
+  "fact_id": "cammlsmh_001090-p1-f1",
+  "source_id": "cammlsmh_001090",
+  "split": "dev",
+  "claim": "All parties holding claims against the South Standard Gold Mining Company must present them at the company office on or before the first day of each month.",
+  "quote": "ALL PARTIES Pp holding claims against the South Standard Gold\u2019 Mining Company must present the same at the Company's office on or before the first day of each month",
+  "theme": "mining",
+  "passage_id": "cammlsmh_001090-p1"
+ },
+ {
+  "fact_id": "cammlsmh_001090-p1-f2",
+  "source_id": "cammlsmh_001090",
+  "split": "dev",
+  "claim": "All parties holding bills against the Addenda Mining Company must present them on or before the first day of each month.",
+  "quote": "ALL PARTI \u201c~ - holding bills against the Addenda Mining Company must present the same on or before the first day of cach month",
+  "theme": "mining",
+  "passage_id": "cammlsmh_001090-p1"
+ },
+ {
+  "fact_id": "cammlsmh_001092-p0-f0",
+  "source_id": "cammlsmh_001092",
+  "split": "dev",
+  "claim": "The stock of the Bodie Consolidated Mining Company will be ready for issuance on Friday, June 20, 1879.",
+  "quote": "Notice is hereby given tha; the stock of the Bodie Consolidated Min- ing Company will be ready far issuance on FRIDAY, June 20, 1879",
+  "theme": "mining",
+  "passage_id": "cammlsmh_001092-p0"
+ },
+ {
+  "fact_id": "cammlsmh_001158-p2-f1",
+  "source_id": "cammlsmh_001158",
+  "split": "dev",
+  "claim": "The Cooper mill was located down the Aurora canyon and had 4 stamps while being idle.",
+  "quote": "down the Aurora canyon, the Napa mill, idle; just below that the Cooper mill, 4 stamps, idle; still further down a mill known at that time as the Antelope mill",
+  "theme": "mining",
+  "passage_id": "cammlsmh_001158-p2"
+ },
+ {
+  "fact_id": "cammlsmh_001158-p2-f2",
+  "source_id": "cammlsmh_001158",
+  "split": "dev",
+  "claim": "Freight lumber from Folsom to Aurora cost eighty to one hundred dollars per thousand.",
+  "quote": "Lumber at $80 to $100 per thousand for freight from Folsom to Aurora. Late in the fall of 1862, Winters paid, to my knowledge, 14 cents a pound",
+  "theme": "commerce",
+  "passage_id": "cammlsmh_001158-p2"
+ }
+]

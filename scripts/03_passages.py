@@ -27,7 +27,7 @@ for i,t in docs.items():
         if q<0.78: continue
         sc.append((q+0.02*min(10,len(KEY.findall(w))),w,q))
     sc.sort(reverse=True)
-    for k,(s,w,q) in enumerate(sc[:3]):
+    for k,(s,w,q) in enumerate(sc[:6]):
         out.append({"pid":f"{i}-p{k}","doc":i,"split":split_of(i),"quality":round(q,3),"text":w})
 json.dump(out,open("data/passages.json","w"),indent=1)
 print(len(out),"passages from",len({o['doc'] for o in out}),"docs;",collections.Counter(o['split'] for o in out))

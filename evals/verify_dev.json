@@ -1,0 +1,200 @@
+{
+ "split": "dev",
+ "raw_facts": 116,
+ "passing_all": 54,
+ "pct_raw_llm_quote_verbatim": 73.3,
+ "snapped_to_source": 19,
+ "pct_pass_all": 46.6,
+ "per_check_pct": {
+  "schema_ok": 99.1,
+  "has_source_id": 100.0,
+  "has_quote": 100.0,
+  "quote_readable": 69.0,
+  "quote_verbatim": 73.3,
+  "quote_len_ok": 96.6,
+  "claim_numbers_in_quote": 87.1,
+  "claim_ok_len": 99.1
+ },
+ "fail_examples": [
+  {
+   "fact_id": "cammlsmh_000138-p0-f1",
+   "failed": [
+    "quote_readable",
+    "claim_numbers_in_quote"
+   ],
+   "quote": "The School will open about | the Ist of Depemb\u00e9r with Mrs. Aubrey."
+  },
+  {
+   "fact_id": "cammlsmh_000138-p2-f2",
+   "failed": [
+    "quote_verbatim"
+   ],
+   "quote": "The rock on east side of shaft is getting softer and has the appearance of approaching a ledge."
+  },
+  {
+   "fact_id": "cammlsmh_000139-p0-f0",
+   "failed": [
+    "quote_readable"
+   ],
+   "quote": "NOTICE IS HEREBY GIVEN, that ata of the Directors held on \u2018the 8th day r, 1879, an assessment, No. One, fi) of cents per share was levied upoh the 17 \u2014 of the C"
+  },
+  {
+   "fact_id": "cammlsmh_000143-p0-f0",
+   "failed": [
+    "quote_readable",
+    "claim_numbers_in_quote"
+   ],
+   "quote": "Sinking is | going on at the rate of 2 7 feet a day, with :timbering--which is work | for so large 4 shaft\u20145xl9 fect."
+  },
+  {
+   "fact_id": "cammlsmh_000143-p0-f1",
+   "failed": [
+    "quote_readable"
+   ],
+   "quote": "The Syndicat drift, in 520-leve s in 612 feet have got 93 feet to run to con- \u2018nect with the Syndicate {mein tunnel."
+  },
+  {
+   "fact_id": "cammlsmh_000143-p0-f2",
+   "failed": [
+    "quote_readable"
+   ],
+   "quote": "There is sume. vater, which, hawever, aloes not interfiire with. work."
+  },
+  {
+   "fact_id": "cammlsmh_000144-p0-f1",
+   "failed": [
+    "quote_readable",
+    "quote_len_ok"
+   ],
+   "quote": "The scith drift is now 63 feet."
+  },
+  {
+   "fact_id": "cammlsmh_000144-p0-f2",
+   "failed": [
+    "quote_readable"
+   ],
+   "quote": "Ladders havebeen put in from the surface to ~ level; making 9 continnous manway."
+  },
+  {
+   "fact_id": "cammlsmh_000149-p0-f2",
+   "failed": [
+    "quote_readable"
+   ],
+   "quote": "shaft witha\u2018 windlass to a depth of 200 feet"
+  },
+  {
+   "fact_id": "cammlsmh_000149-p1-f0",
+   "failed": [
+    "quote_readable"
+   ],
+   "quote": "has die a confectionary store, in _Abbot\u2019s building, on Mainstreet, et Ave ue aud Mill street?"
+  },
+  {
+   "fact_id": "cammlsmh_000151-p0-f2",
+   "failed": [
+    "quote_readable"
+   ],
+   "quote": "No. 1 in Noonda is up 110 feet"
+  },
+  {
+   "fact_id": "cammlsmh_000151-p1-f0",
+   "failed": [
+    "quote_readable"
+   ],
+   "quote": "the pr sent depth of the shaft, 767 feet, a stringer of valuable silver bearing ore has | been passed through | during the week."
+  },
+  {
+   "fact_id": "cammlsmh_000154-p0-f1",
+   "failed": [
+    "quote_verbatim"
+   ],
+   "quote": "Wholesale and mineral dealers corner of Mill and Lu streets"
+  },
+  {
+   "fact_id": "cammlsmh_000154-p0-f2",
+   "failed": [
+    "quote_readable",
+    "quote_verbatim"
+   ],
+   "quote": "DISTRICT ATTORNEY. : ar BRIDGEPORT, MONO CO., CAL. ATTORNEY 4 asp COUNSELLOR AT LAW"
+  },
+  {
+   "fact_id": "cammlsmh_000155-p2-f0",
+   "failed": [
+    "quote_readable"
+   ],
+   "quote": "Baldwin came to tqwn and got Deputy Sheriff Stowe, who went\u2019 down and Undertaking Booms, \u2019 and | \u2018Furniture Warehouse, | brought Andy to town} this morning."
+  },
+  {
+   "fact_id": "cammlsmh_000156-p0-f0",
+   "failed": [
+    "quote_verbatim"
+   ],
+   "quote": "The Bar is supplied with the dest bran Patrons will receive courteous attention and enjoy the comforts of home,"
+  },
+  {
+   "fact_id": "cammlsmh_000156-p1-f0",
+   "failed": [
+    "quote_readable"
+   ],
+   "quote": "Steerage tickets sold as bays ag $250: to 7 8 the early days of California."
+  },
+  {
+   "fact_id": "cammlsmh_000157-p0-f1",
+   "failed": [
+    "quote_readable"
+   ],
+   "quote": "FITTED UP iN A RICH AND STYLISH manner with neatly furnished Private Parlor and Reading me | Room."
+  },
+  {
+   "fact_id": "cammlsmh_000157-p1-f0",
+   "failed": [
+    "quote_verbatim"
+   ],
+   "quote": "Any and all persons claiming adversely ... are required to file their adverse claims with the Register of the United States Land Office at Bodie."
+  },
+  {
+   "fact_id": "cammlsmh_000157-p1-f1",
+   "failed": [
+    "quote_verbatim"
+   ],
+   "quote": "NOTICE IS HEREBY GIVEN ... filed its application for a patent for 1500 linear feet of the Ma Quartz Mine or vein bearing gold and silver."
+  },
+  {
+   "fact_id": "cammlsmh_000158-p0-f1",
+   "failed": [
+    "quote_readable"
+   ],
+   "quote": "Sinking the mai shaft and making good | headway\u2014the total depth being 535 feet, and pissing through ground of a very fa- rable character\u2014an iron stained porphy-"
+  },
+  {
+   "fact_id": "cammlsmh_000158-p1-f0",
+   "failed": [
+    "quote_readable"
+   ],
+   "quote": "He liked household iluminations of 4 good English coal fire, \u2018the living thing."
+  },
+  {
+   "fact_id": "cammlsmh_000158-p1-f1",
+   "failed": [
+    "quote_readable",
+    "claim_numbers_in_quote"
+   ],
+   "quote": "John A MoQuald, lot in \u201cBodie, west side oy} Main street, $500, imp. $1 600, persohal $350"
+  },
+  {
+   "fact_id": "cammlsmh_000160-p1-f0",
+   "failed": [
+    "quote_verbatim"
+   ],
+   "quote": "He claimed that the amount had been reduced by deposit ... to some $300, and this balance he could not admit or deny"
+  },
+  {
+   "fact_id": "cammlsmh_000164-p0-f1",
+   "failed": [
+    "quote_readable"
+   ],
+   "quote": "The up- raise on the Cook ledge\u2019 has been extended | during the week 12 feet,"
+  }
+ ]
+}
