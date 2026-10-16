@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Ghost Town Radio · Bodie, California</title>
+<meta name="description" content="A radio station for Bodie, California. A fictional DJ reads only what 1879 and 1880 newspapers actually said. Every line links to its source.">
+<meta name="theme-color" content="#07060b">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<svg width="0" height="0" style="position:absolute" aria-hidden="true">
+  <filter id="paper" x="0" y="0" width="100%" height="100%">
+    <feTurbulence type="fractalNoise" baseFrequency=".9" numOctaves="2" seed="7" result="n"/>
+    <feColorMatrix in="n" type="matrix" values="0 0 0 0 .35  0 0 0 0 .3  0 0 0 0 .22  0 0 0 .28 0"/>
+  </filter>
+</svg>
+<canvas id="ghosts" aria-hidden="true"></canvas>
+<div class="grain" aria-hidden="true"></div>
+
+<main>
+  <header class="top">
+    <div class="brand"><span class="dot" id="onair"></span><h1>Ghost Town Radio</h1></div>
+    <p class="sub">Bodie, California · 1879 and 1880 · <span id="freq">0.0</span> kHz of dust</p>
+  </header>
+
+  <section class="deck" aria-label="Tuner">
+    <div class="dial" id="dial">
+      <div class="glass">
+        <div class="scale" id="scale" aria-hidden="true"></div>
+        <div class="needle" id="needle" aria-hidden="true"></div>
+        <div class="readout"><span id="clock">--:--</span><small id="theme">tuning</small></div>
+      </div>
+    </div>
+    <div class="controls">
+      <button id="knob" class="knob" role="slider" aria-label="Hour of day" aria-valuemin="0" aria-valuemax="23" aria-valuenow="0" aria-valuetext="" tabindex="0">
+        <span class="knob-face"><span class="knob-mark"></span></span>
+      </button>
+      <button id="play" class="play" aria-pressed="false" aria-label="Play broadcast">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path id="playicon" d="M8 5v14l11-7z"/></svg>
+      </button>
+      <button id="skip" class="skip" aria-label="Next line"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 6l8 6-8 6zM16 6h2v12h-2z"/></svg></button>
+    </div>
+  </section>
+
+  <section class="card" id="card" aria-live="polite" aria-label="Now playing source">
+    <p class="kicker" id="kicker">Press play. The DJ only says what the archives said.</p>
+    <p class="said" id="said"></p>
+    <blockquote id="quote"></blockquote>
+    <p class="cite" id="cite"></p>
+  </section>
+
+  <section class="sched" aria-label="Schedule by hour">
+    <h2>Schedule</h2>
+    <ol id="schedule"></ol>
+  </section>
+
+  <footer>
+    <p>The DJ, “Hollis Vane”, is fictional and synthetic. The facts and the quotes are not. Sources: Internet Archive, California Revealed, Mammoth Museum. Public domain newspapers. <a href="https://github.com/sivaratrisrinivas/ghost-town-radio">Code, evals and honest limits</a>.</p>
+  </footer>
+</main>
+<audio id="voice" preload="auto" crossorigin="anonymous"></audio>
+<audio id="amb" loop preload="auto" src="audio/ambience.mp3"></audio>
+<script src="app.js"></script>
+</body>
+</html>
