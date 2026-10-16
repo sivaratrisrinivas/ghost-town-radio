@@ -1,0 +1,129 @@
+{
+ "split": "heldout",
+ "raw_facts": 17,
+ "passing_all": 2,
+ "pct_raw_llm_quote_verbatim": 47.1,
+ "snapped_to_source": 5,
+ "pct_pass_all": 11.8,
+ "per_check_pct": {
+  "schema_ok": 100.0,
+  "has_source_id": 100.0,
+  "has_quote": 100.0,
+  "quote_readable": 41.2,
+  "quote_verbatim": 47.1,
+  "quote_len_ok": 100.0,
+  "claim_numbers_in_quote": 100.0,
+  "claim_grounded": 82.4,
+  "claim_ok_len": 100.0
+ },
+ "fail_examples": [
+  {
+   "fact_id": "cammlsmh_000145-p0-f0",
+   "failed": [
+    "quote_readable"
+   ],
+   "quote": "The Bar Is supplied = the Best brands of Wine Ii quor- and gare."
+  },
+  {
+   "fact_id": "cammlsmh_000145-p1-f0",
+   "failed": [
+    "quote_readable",
+    "quote_verbatim"
+   ],
+   "quote": "Judge Peterson, B. B. Jack- man was thanked for the use of his room."
+  },
+  {
+   "fact_id": "cammlsmh_000145-p2-f0",
+   "failed": [
+    "quote_readable"
+   ],
+   "quote": "east \u00a2rossent from | the | 7\u00b0! Ralston winze has been adyanced 12 feet this week, with-severalsmall streaks of rich ore in face of the crossent."
+  },
+  {
+   "fact_id": "cammlsmh_000147-p1-f0",
+   "failed": [
+    "quote_readable",
+    "quote_verbatim"
+   ],
+   "quote": "SUPERIOR COURT, E MONO COUNTY, CALIFORNIA. There shall be twetve terns of thu Count in} each year, commencing \u00e9n the first Monday of January."
+  },
+  {
+   "fact_id": "cammlsmh_000147-p3-f0",
+   "failed": [
+    "quote_readable"
+   ],
+   "quote": "Supetiar J udga R. M. Briggs jested: an order ho; convene the Board of Supervisors ta-day to act up on an order to furnish a uitable Court Room for the Superior"
+  },
+  {
+   "fact_id": "cammlsmh_000147-p4-f0",
+   "failed": [
+    "quote_readable"
+   ],
+   "quote": "The Fee bill is modeled on the fee raies of San Bernardino county, which are among \u201cthe most moderate io the State"
+  },
+  {
+   "fact_id": "cammlsmh_000150-p0-f0",
+   "failed": [
+    "quote_readable"
+   ],
+   "quote": "ROOMS \u201cSINGLE OK EN SUITE, at the Dey; Week, or Month, | 4 | EVERYTHING in and about this house has been selected with a view to its utility,"
+  },
+  {
+   "fact_id": "cammlsmh_000159-p2-f0",
+   "failed": [
+    "quote_readable",
+    "claim_grounded"
+   ],
+   "quote": "The trial bf ths case Of the North Noonday Mining Com pany vs. the Orient Mining Company, which has occupied the United States Cir. euit Court since the 10th in"
+  },
+  {
+   "fact_id": "cammlsmh_000163-p0-f0",
+   "failed": [
+    "quote_readable"
+   ],
+   "quote": "their co- Gperation in a Trade Union strike to be in- augurated April 1st. and to be composed of | oll the organizations in the west."
+  },
+  {
+   "fact_id": "cammlsmh_000163-p4-f0",
+   "failed": [
+    "quote_readable"
+   ],
+   "quote": "In St. Lois an anti-Chinese meeting is to be held py eariy day, It is to be hoped for the \u00f6 our own people of the P. eine ons that nothing Will. oer to stop the"
+  },
+  {
+   "fact_id": "cammlsmh_000178-p0-f0",
+   "failed": [
+    "quote_readable"
+   ],
+   "quote": "Eggs. packed in bran a long time smell ad nasty."
+  },
+  {
+   "fact_id": "cammlsmh_000194-p2-f0",
+   "failed": [
+    "quote_verbatim"
+   ],
+   "quote": "Any bona fide stockholder of a corporation formed under the laws of this State for the purpose of mining, shall be entitled to visit, accompanied by his expert,"
+  },
+  {
+   "fact_id": "cammlsmh_000194-p3-f0",
+   "failed": [
+    "quote_verbatim"
+   ],
+   "quote": "Abont the middle of this month, the publication of the Bridge- port Union will. commence at Bridgeport, the Connty Sent of Mono."
+  },
+  {
+   "fact_id": "cammlsmh_001069-p1-f0",
+   "failed": [
+    "claim_grounded"
+   ],
+   "quote": "Bodie. Board per week, - = - - - -,$9 00. Single Meals, - - - - - - - - 60 sept7tf PARLOR"
+  },
+  {
+   "fact_id": "cammlsmh_001069-p3-f0",
+   "failed": [
+    "claim_grounded"
+   ],
+   "quote": "Wholesale and Retail Dealer in Beef, Mutton, Lamb, Pork, Veal, and Sausage of all kinds, \u00b0 Prices to suit the times, Patrons will receive polite and prompt atte"
+  }
+ ]
+}

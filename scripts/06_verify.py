@@ -17,6 +17,15 @@ def snap(f):
     while s>0 and T[s-1]!=" ": s-=1
     while e<len(T) and T[e]!=" ": e+=1
     return T[s:e]
+NUMW=set("one two three four five six seven eight nine ten eleven twelve thirteen fourteen fifteen twenty thirty forty fifty sixty seventy eighty ninety hundred thousand first second third fourth fifth tenth twice double half".split())
+def grounded(claim,quote):
+    """Error-discovery finding: claims added names/numbers not in the quote. Every non-initial capitalized word and every number word in the claim must appear (fuzzily, for OCR) in the quote."""
+    qt=[w.lower() for w in re.findall(r"[A-Za-z']+",quote)]
+    ct=re.findall(r"[A-Za-z']+",claim)
+    for i,w in enumerate(ct):
+        if (i>0 and w[0].isupper()) or w.lower() in NUMW:
+            if not any(fuzz.ratio(w.lower(),t)>=80 for t in qt): return False
+    return True
 def checks(f):
     r={}
     r["schema_ok"]=all(isinstance(f.get(k),str) for k in ("claim","quote","theme")) and f.get("theme") in ("mining","nightlife","crime","weather","commerce","community","travel","news")
@@ -31,6 +40,7 @@ def checks(f):
     claim=f.get("claim","")
     nums=re.findall(r"\d[\d,.]*",claim)
     r["claim_numbers_in_quote"]=all(n.strip(".,") in q for n in nums)
+    r["claim_grounded"]=grounded(claim,q)
     r["claim_ok_len"]=3<=len(claim.split())<=45
     return r
 if __name__=="__main__":

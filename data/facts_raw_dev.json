@@ -18,6 +18,33 @@
   "passage_id": "cammlsmh_000137-p2"
  },
  {
+  "fact_id": "cammlsmh_000137-p3-f0",
+  "source_id": "cammlsmh_000137",
+  "split": "dev",
+  "claim": "The mill is quickly nearing completion.",
+  "quote": "The mill is fast approaching completion.",
+  "theme": "mining",
+  "passage_id": "cammlsmh_000137-p3"
+ },
+ {
+  "fact_id": "cammlsmh_000137-p4-f0",
+  "source_id": "cammlsmh_000137",
+  "split": "dev",
+  "claim": "A tax of $2.90 per $100 was levied on the 6th of the month.",
+  "quote": "That on the 6th ust. a tax x of $2.90 per $100 wus 1 vied, and, s, \u2018= Hospital tax of $3",
+  "theme": "community",
+  "passage_id": "cammlsmh_000137-p4"
+ },
+ {
+  "fact_id": "cammlsmh_000137-p5-f0",
+  "source_id": "cammlsmh_000137",
+  "split": "dev",
+  "claim": "The District Court, presided over by Judge Hon. Theron Reed, began its October Term on Monday last and will probably finish its business next week.",
+  "quote": "Disticr Court. This Court, Hon. Theron Reed Judge, presiding, com nis noed its October Term on Monday last \u2018and. seit probably finish its busi- ness next week.",
+  "theme": "news",
+  "passage_id": "cammlsmh_000137-p5"
+ },
+ {
   "fact_id": "cammlsmh_000138-p0-f0",
   "source_id": "cammlsmh_000138",
   "split": "dev",
@@ -351,6 +378,15 @@
   "passage_id": "cammlsmh_000157-p1"
  },
  {
+  "fact_id": "cammlsmh_000157-p3-f0",
+  "source_id": "cammlsmh_000157",
+  "split": "dev",
+  "claim": "Miss Raye Lockwood filed a lawsuit against Senator Hill yesterday through her attorney, stating the action was taken without her consent.",
+  "quote": "Miss Raye people? Lockw god, attorney ut law, yesterday filed that Convention would like to have their papers in a suit egainst Senator Hill, of states that the suit was brought the only ones to read them:",
+  "theme": "news",
+  "passage_id": "cammlsmh_000157-p3"
+ },
+ {
   "fact_id": "cammlsmh_000158-p0-f0",
   "source_id": "cammlsmh_000158",
   "split": "dev",
@@ -385,6 +421,24 @@
   "quote": "John A MoQuald, lot in \u201cBodie, west side oy} Main street, $500, imp. $1 600, persohal $350",
   "theme": "commerce",
   "passage_id": "cammlsmh_000158-p1"
+ },
+ {
+  "fact_id": "cammlsmh_000158-p3-f0",
+  "source_id": "cammlsmh_000158",
+  "split": "dev",
+  "claim": "Truman Griffith was found frozen to death half a mile from the place on the evening of March 5.",
+  "quote": "TRUCKER, March 5.\u2014 Truman Griffith} found this evening, half a mile from thi place, frozen to death.",
+  "theme": "weather",
+  "passage_id": "cammlsmh_000158-p3"
+ },
+ {
+  "fact_id": "cammlsmh_000158-p4-f0",
+  "source_id": "cammlsmh_000158",
+  "split": "dev",
+  "claim": "Holden is the sole proprietor of a house located at 255 Main Street in Bodie, California.",
+  "quote": "Kast Side 255 Main Street, BODIE, CALIF ORNIA. \u00a2 CLAIM FOR THIS HOUSE THAT 7 is the best furnished A . ea oH To Supply a Want Long. Felt in Bodie, 2 Ane iors ae our patrons with the VERY Witness my hand and the seal of said | ing 8 oer to be pied up. . in and about this house has : | been selected with a view to its utili 4 pains or expense, has been 8 5 15 \u2014 \u00f6 3 up the room ficent HOLDEN... . 2 ae Sole Proprietor",
+  "theme": "commerce",
+  "passage_id": "cammlsmh_000158-p4"
  },
  {
   "fact_id": "cammlsmh_000160-p1-f0",
@@ -457,6 +511,15 @@
   "quote": "John G. Beckstrum, Acting Sup\u2019t. Have started crosscuts, east snd w from) the. 5\u2070\u2070 foot station.",
   "theme": "mining",
   "passage_id": "cammlsmh_000164-p2"
+ },
+ {
+  "fact_id": "cammlsmh_000165-p4-f0",
+  "source_id": "cammlsmh_000165",
+  "split": "dev",
+  "claim": "There are currently about 300 Chinese men in New York who have white wives.",
+  "quote": "There are i in New York at the present time of an od. drill. . 300 Chinamen who have white wives. who d",
+  "theme": "community",
+  "passage_id": "cammlsmh_000165-p4"
  },
  {
   "fact_id": "cammlsmh_000167-p0-f0",
@@ -558,6 +621,15 @@
   "passage_id": "cammlsmh_000180-p2"
  },
  {
+  "fact_id": "cammlsmh_000180-p3-f0",
+  "source_id": "cammlsmh_000180",
+  "split": "dev",
+  "claim": "Valeria Powell intends to apply to the Superior Court of Mono County to carry on and transact business as a sole trader.",
+  "quote": "NOTICE is hereby given that I. Valeria Pow- ell, wife of S. W. Powellia resident-of the town | of Badie, County of Mano, State of California, being ucsirous of availing myself of the provi- sions of \u2018litle XII",
+  "theme": "community",
+  "passage_id": "cammlsmh_000180-p3"
+ },
+ {
   "fact_id": "cammlsmh_000181-p0-f0",
   "source_id": "cammlsmh_000181",
   "split": "dev",
@@ -603,6 +675,24 @@
   "passage_id": "cammlsmh_000182-p2"
  },
  {
+  "fact_id": "cammlsmh_000182-p3-f0",
+  "source_id": "cammlsmh_000182",
+  "split": "dev",
+  "claim": "The location of the mine is recorded in the Recorder's office of Bodie Mining District in Book F.",
+  "quote": "The Location pf this Mine is recorded in the | Recorde\u00e9r\u2019s office of Bodie Mining District in | of the Bodie Mining District in | Book F.P. 14, Book F, P.372.",
+  "theme": "mining",
+  "passage_id": "cammlsmh_000182-p3"
+ },
+ {
+  "fact_id": "cammlsmh_000182-p5-f0",
+  "source_id": "cammlsmh_000182",
+  "split": "dev",
+  "claim": "Mrs. Emma Roth is the proprietor of a restaurant and invites the public to try her cooking.",
+  "quote": "REST<wbr>AUPAET, a | nRs, EMMA ROTH...... se PFOp., 7 \u2018She respectfully invites her friends an [public to call and try. her cook ing.",
+  "theme": "commerce",
+  "passage_id": "cammlsmh_000182-p5"
+ },
+ {
   "fact_id": "cammlsmh_000186-p1-f0",
   "source_id": "cammlsmh_000186",
   "split": "dev",
@@ -637,6 +727,42 @@
   "quote": "Our cast crosscut, 800-foot level was: advanced 14 feet during the piste belt. We have. eat through a vein of | quartz 2 feet wide, which prospects very. well by the horn _pro- |- cess.",
   "theme": "mining",
   "passage_id": "cammlsmh_000195-p1"
+ },
+ {
+  "fact_id": "cammlsmh_000195-p3-f0",
+  "source_id": "cammlsmh_000195",
+  "split": "dev",
+  "claim": "The Big Meadows and Bodie Wagon road is being put in good order for travel.",
+  "quote": "The Big meadows and Bodie Wagon road is being put in good order for travel.",
+  "theme": "travel",
+  "passage_id": "cammlsmh_000195-p3"
+ },
+ {
+  "fact_id": "cammlsmh_000195-p4-f0",
+  "source_id": "cammlsmh_000195",
+  "split": "dev",
+  "claim": "A house and lot containing three rooms and a cellar under the kitchen with an inside entrance is for sale and can be bought either furnished or unfurnished.",
+  "quote": "HOUSE end LOT FO! SALE, CONTAINING THREE ROOMS. A CEIA lur uuder the kitchen, with entrance inside. Will be sold furnished orunfurnished.",
+  "theme": "commerce",
+  "passage_id": "cammlsmh_000195-p4"
+ },
+ {
+  "fact_id": "cammlsmh_000195-p5-f0",
+  "source_id": "cammlsmh_000195",
+  "split": "dev",
+  "claim": "Judge W.P. Daingerfield of the Superior Court passed away suddenly on Wednesday while hearing a case.",
+  "quote": "S\u00fcppen - Deats.\u2014 Judge W. P. Daingerfi d of the Saperior Cour t, presiding Justice _ of San Francisco, _ dropped. dead on the _ Wednesday last. _ He was hear- _ ing a case when he sud denly threw up his _ hands, gasped. once or _ iwc, and expired _ instantly\u2014probability _ th _ e cause was heart discase.-",
+  "theme": "community",
+  "passage_id": "cammlsmh_000195-p5"
+ },
+ {
+  "fact_id": "cammlsmh_000196-p3-f0",
+  "source_id": "cammlsmh_000196",
+  "split": "dev",
+  "claim": "P. B. Taylor, Sheriff, was ordered to file a supplemental bond for $2,000 because Jas Sinnamon withdrew.",
+  "quote": "It was ordered that P. B. Taylor, Sheriff, file a supplemental bond for $2 000, Jas Sinnamon having withdrawn.",
+  "theme": "community",
+  "passage_id": "cammlsmh_000196-p3"
  },
  {
   "fact_id": "cammlsmh_000197-p0-f0",
@@ -765,6 +891,15 @@
   "passage_id": "cammlsmh_000214-p1"
  },
  {
+  "fact_id": "cammlsmh_000214-p4-f0",
+  "source_id": "cammlsmh_000214",
+  "split": "dev",
+  "claim": "Two women from the country passing through Charlestown looked up at a revolutionary monument and wondered what Mr Bunker did to cause its erection.",
+  "quote": "Two ladies from the country passing through Charlestown, the other day, when glancing up toward that patriotic pile erected to the memory of our revolutionary heroes, on\u00e9 of them exeldimed. 1 wonder what Mr. Bunker did to cause the erection of such a monument to his memo",
+  "theme": "community",
+  "passage_id": "cammlsmh_000214-p4"
+ },
+ {
   "fact_id": "cammlsmh_000215-p2-f0",
   "source_id": "cammlsmh_000215",
   "split": "dev",
@@ -837,6 +972,15 @@
   "passage_id": "cammlsmh_001068-p2"
  },
  {
+  "fact_id": "cammlsmh_001070-p5-f0",
+  "source_id": "cammlsmh_001070",
+  "split": "dev",
+  "claim": "An assessment of twenty-five cents per share was levied on the capital stock of the mining company on August tenth, 1880.",
+  "quote": "an assessment (No.2) of twenty- five cents per share was levied upon the capital stock of the corporation, payable immediately in United States gold eoin, to the Secretary, at the office of the eom- pany",
+  "theme": "mining",
+  "passage_id": "cammlsmh_001070-p5"
+ },
+ {
   "fact_id": "cammlsmh_001071-p0-f0",
   "source_id": "cammlsmh_001071",
   "split": "dev",
@@ -853,6 +997,24 @@
   "quote": "The first location of the True Blue is on the ridge, where a tunnel has been run thirty feet into a solid mass of ore, and s\u2018ill they had not reached the wall or cut the ledge.",
   "theme": "mining",
   "passage_id": "cammlsmh_001071-p1"
+ },
+ {
+  "fact_id": "cammlsmh_001071-p3-f0",
+  "source_id": "cammlsmh_001071",
+  "split": "dev",
+  "claim": "The Noonday Mining Company was reorganized with a capital stock of 100,000 shares.",
+  "quote": "Noonday Mining Company has been reorgan- | ized, lL a capital stock of 100,000 shares.",
+  "theme": "mining",
+  "passage_id": "cammlsmh_001071-p3"
+ },
+ {
+  "fact_id": "cammlsmh_001071-p5-f0",
+  "source_id": "cammlsmh_001071",
+  "split": "dev",
+  "claim": "Persons holding claims against the Jupiter Gold Mining Company must present them on or before the first of each month, and payment will be made on the 10th, at the Tioga ofiice.",
+  "quote": "Persons holding claims against the Jupiter Gold Mining Company must present them on or before the first of each month, and payment will be made on the 10th, at the Tioga ofiice.",
+  "theme": "mining",
+  "passage_id": "cammlsmh_001071-p5"
  },
  {
   "fact_id": "cammlsmh_001072-p0-f0",
@@ -882,6 +1044,42 @@
   "passage_id": "cammlsmh_001072-p1"
  },
  {
+  "fact_id": "cammlsmh_001072-p3-f0",
+  "source_id": "cammlsmh_001072",
+  "split": "dev",
+  "claim": "People with claims against the McClinton Gold Mining Company must present them at the office by the first of the month.",
+  "quote": "All parties holding \u00e9laims against the McClinton Gold Mining Company are requested to present the same at the company\u2019s office on or before the first day of each month for payment.",
+  "theme": "mining",
+  "passage_id": "cammlsmh_001072-p3"
+ },
+ {
+  "fact_id": "cammlsmh_001072-p3-f1",
+  "source_id": "cammlsmh_001072",
+  "split": "dev",
+  "claim": "People holding bills against the Booker Gold and Silver Mining Company must present them at the office on the first of the month.",
+  "quote": "All parties holding bills against the Booker Gold and Silver Min- ing Company, must present the same at the eftice of the company, on the first day of each month, and payment will be made on the 5th.",
+  "theme": "mining",
+  "passage_id": "cammlsmh_001072-p3"
+ },
+ {
+  "fact_id": "cammlsmh_001072-p3-f2",
+  "source_id": "cammlsmh_001072",
+  "split": "dev",
+  "claim": "Persons holding claims against the Tioga Gold Mining Company must present them on or before the first day of the month.",
+  "quote": "Persons holding clainrs against the Tioga Gold Mining Company must present them on-or beiore the first day of each month, and payment will be made on the 5th.",
+  "theme": "mining",
+  "passage_id": "cammlsmh_001072-p3"
+ },
+ {
+  "fact_id": "cammlsmh_001072-p5-f0",
+  "source_id": "cammlsmh_001072",
+  "split": "dev",
+  "claim": "Persons with claims against the Richer Gold Mining Company must present them by the first of each month for payment on the 5th.",
+  "quote": "Persons holding claims against the Richer,Gold Mining Company must present them on or before the first day o! each month, and payment will be made on the 5th.",
+  "theme": "mining",
+  "passage_id": "cammlsmh_001072-p5"
+ },
+ {
   "fact_id": "cammlsmh_001073-p1-f0",
   "source_id": "cammlsmh_001073",
   "split": "dev",
@@ -909,6 +1107,15 @@
   "passage_id": "cammlsmh_001073-p2"
  },
  {
+  "fact_id": "cammlsmh_001073-p4-f0",
+  "source_id": "cammlsmh_001073",
+  "split": "dev",
+  "claim": "An assessment of twenty-five cents per share was levied on the capital stock of the North Noonday Mining Company at a meeting of the Board of Directors on June 5, 1879.",
+  "quote": "Notice is hereby given. that at a meeting of the Board of Directors. held on the 5th day of June, 1579, an assessment (No. 2). Of. 25 cents per share was levied upon the capital Stock of the corporation",
+  "theme": "mining",
+  "passage_id": "cammlsmh_001073-p4"
+ },
+ {
   "fact_id": "cammlsmh_001084-p1-f0",
   "source_id": "cammlsmh_001084",
   "split": "dev",
@@ -925,6 +1132,33 @@
   "quote": "an assessmeut (No. 3) of Fifty Cents (50) per share was levied npon the capital stock of the corporation, payable imme- diately in United States gold coin",
   "theme": "commerce",
   "passage_id": "cammlsmh_001084-p2"
+ },
+ {
+  "fact_id": "cammlsmh_001084-p4-f0",
+  "source_id": "cammlsmh_001084",
+  "split": "dev",
+  "claim": "Frank Masters is the proprietor of the Wine Saloon located on Lower Main Street in Bodie, California.",
+  "quote": "WINE SALOON, Frank Masters, Proprietor, LOWER MAIN STREET, BODIE, CALIFORNIA",
+  "theme": "commerce",
+  "passage_id": "cammlsmh_001084-p4"
+ },
+ {
+  "fact_id": "cammlsmh_001084-p4-f1",
+  "source_id": "cammlsmh_001084",
+  "split": "dev",
+  "claim": "J.J. Welch is the proprietor of the Magnolia Saloon located on the west side of Main Street.",
+  "quote": "MAGNOLIA SALOON, J.J. Welch, Proprietor: WEST SIDE OF MAIN S8TREET.:",
+  "theme": "commerce",
+  "passage_id": "cammlsmh_001084-p4"
+ },
+ {
+  "fact_id": "cammlsmh_001087-p4-f0",
+  "source_id": "cammlsmh_001087",
+  "split": "dev",
+  "claim": "J. M. Abbott relocated his furniture business to a building on the corner of Main street and Standard avenue owned by Silas B. Smith.",
+  "quote": "J. M. Abbott, the well known fur- niture man, bas removed from his former piace of businegs to the build- ing owned by Silas B, Smith, corner ot Main street and Standard avenue.",
+  "theme": "commerce",
+  "passage_id": "cammlsmh_001087-p4"
  },
  {
   "fact_id": "cammlsmh_001088-p0-f0",
@@ -945,6 +1179,15 @@
   "passage_id": "cammlsmh_001088-p2"
  },
  {
+  "fact_id": "cammlsmh_001088-p3-f0",
+  "source_id": "cammlsmh_001088",
+  "split": "dev",
+  "claim": "An assessment of twenty cents per share was levied on the capital stock at a board of directors meeting on February 24, 1879.",
+  "quote": "an assessment (No. 8) of Twenty Cents per share was levied upon the capital stock of the corporation, payable immediately in U. \u00a7. gold coin, tothe Secretary",
+  "theme": "mining",
+  "passage_id": "cammlsmh_001088-p3"
+ },
+ {
   "fact_id": "cammlsmh_001089-p2-f0",
   "source_id": "cammlsmh_001089",
   "split": "dev",
@@ -961,6 +1204,24 @@
   "quote": "HARVE Y \u201cBOONE, GROCERIES AND PROVISIONS, Wine:, Liquors, Stabling for one hundred head of horses.",
   "theme": "commerce",
   "passage_id": "cammlsmh_001089-p2"
+ },
+ {
+  "fact_id": "cammlsmh_001089-p4-f0",
+  "source_id": "cammlsmh_001089",
+  "split": "dev",
+  "claim": "Eller and Stewart operate the U. S. Bakery on Main Street in Bodie and maintain a delivery wagon.",
+  "quote": "ELLER & STEWART, U. S. BAKERY, kS Main Street, Bodie, W1LMS & CO., This new bakery has been furnished with all the\u2019 modern appurtenances necessary to conduct a first class Bakery.",
+  "theme": "commerce",
+  "passage_id": "cammlsmh_001089-p4"
+ },
+ {
+  "fact_id": "cammlsmh_001089-p5-f0",
+  "source_id": "cammlsmh_001089",
+  "split": "dev",
+  "claim": "An assessment of Twenty Cents per share was levied upon the capital stock of the corporation at a board of directors meeting held on February 24, 1879.",
+  "quote": "an assessment (No. 3) of Twenty Cents per share was levied upon she capital stock of the corporation, payable immediately in U.S gold coitr, to the Secretary, at the office of the company, Room 29, 203 Bush street, Cosmopolitan Hotel, San Francisco, California.",
+  "theme": "mining",
+  "passage_id": "cammlsmh_001089-p5"
  },
  {
   "fact_id": "cammlsmh_001090-p0-f0",
@@ -1017,6 +1278,15 @@
   "passage_id": "cammlsmh_001092-p2"
  },
  {
+  "fact_id": "cammlsmh_001092-p3-f0",
+  "source_id": "cammlsmh_001092",
+  "split": "dev",
+  "claim": "Pat Gallagher is the proprietor of the Shamrock Saloon, which is located next door below Collins' Tin Shop.",
+  "quote": "SHAMROCK SALOOw, Tat Gallagher, Proprietor, Next Door Below Collins\u2019 Tin Shop. \u2018esort has been thoroughly refitted and | \\ FIRST-CLASS LINE OF LIQUORS PLACED IN STORE.",
+  "theme": "commerce",
+  "passage_id": "cammlsmh_001092-p3"
+ },
+ {
   "fact_id": "cammlsmh_001158-p2-f0",
   "source_id": "cammlsmh_001158",
   "split": "dev",
@@ -1042,5 +1312,14 @@
   "quote": "Lumber at $80 to $100 per thousand for freight from Folsom to Aurora. Late in the fall of 1862, Winters paid, to my knowledge, 14 cents a pound",
   "theme": "commerce",
   "passage_id": "cammlsmh_001158-p2"
+ },
+ {
+  "fact_id": "cammlsmh_001158-p4-f0",
+  "source_id": "cammlsmh_001158",
+  "split": "dev",
+  "claim": "The General Thomas mining company of Columbus bought the Del Monte mill during the summer of 1876.",
+  "quote": "During the summer of '76 the General Thomas mining company of Columbus had purchased the Del Monte mill, thirty stamps, at the junction of Aurora and Bodie canyons, and had dismantled it, intending its removal to Columbus.",
+  "theme": "mining",
+  "passage_id": "cammlsmh_001158-p4"
  }
 ]

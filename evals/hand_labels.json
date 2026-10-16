@@ -1,0 +1,386 @@
+[
+ {
+  "label_id": "d0",
+  "fact_id": "cammlsmh_000137-p1-f0",
+  "split": "dev",
+  "faithful": true,
+  "note": "too vague to broadcast",
+  "broadcast": false
+ },
+ {
+  "label_id": "d1",
+  "fact_id": "cammlsmh_000137-p2-f0",
+  "split": "dev",
+  "faithful": true,
+  "note": "",
+  "broadcast": true
+ },
+ {
+  "label_id": "d2",
+  "fact_id": "cammlsmh_000138-p0-f0",
+  "split": "dev",
+  "faithful": true,
+  "note": "",
+  "broadcast": true
+ },
+ {
+  "label_id": "d3",
+  "fact_id": "cammlsmh_000138-p1-f0",
+  "split": "dev",
+  "faithful": true,
+  "note": "",
+  "broadcast": true
+ },
+ {
+  "label_id": "d4",
+  "fact_id": "cammlsmh_000138-p1-f1",
+  "split": "dev",
+  "faithful": true,
+  "note": "",
+  "broadcast": true
+ },
+ {
+  "label_id": "d5",
+  "fact_id": "cammlsmh_000138-p1-f2",
+  "split": "dev",
+  "faithful": true,
+  "note": "",
+  "broadcast": true
+ },
+ {
+  "label_id": "d6",
+  "fact_id": "cammlsmh_000138-p2-f0",
+  "split": "dev",
+  "faithful": true,
+  "note": "",
+  "broadcast": true
+ },
+ {
+  "label_id": "d7",
+  "fact_id": "cammlsmh_000138-p2-f1",
+  "split": "dev",
+  "faithful": true,
+  "note": "",
+  "broadcast": true
+ },
+ {
+  "label_id": "d8",
+  "fact_id": "cammlsmh_000144-p0-f0",
+  "split": "dev",
+  "faithful": true,
+  "note": "",
+  "broadcast": true
+ },
+ {
+  "label_id": "d9",
+  "fact_id": "cammlsmh_000149-p0-f1",
+  "split": "dev",
+  "faithful": true,
+  "note": "",
+  "broadcast": true
+ },
+ {
+  "label_id": "d10",
+  "fact_id": "cammlsmh_000151-p0-f0",
+  "split": "dev",
+  "faithful": true,
+  "note": "",
+  "broadcast": true
+ },
+ {
+  "label_id": "d11",
+  "fact_id": "cammlsmh_000151-p0-f1",
+  "split": "dev",
+  "faithful": true,
+  "note": "",
+  "broadcast": true
+ },
+ {
+  "label_id": "d12",
+  "fact_id": "cammlsmh_000151-p2-f0",
+  "split": "dev",
+  "faithful": true,
+  "note": "",
+  "broadcast": true
+ },
+ {
+  "label_id": "d13",
+  "fact_id": "cammlsmh_000154-p0-f0",
+  "split": "dev",
+  "faithful": false,
+  "note": "UNFAITHFUL: claim says clerk of the peace, OCR text is 'CE OF THE PEACE'",
+  "broadcast": false
+ },
+ {
+  "label_id": "d14",
+  "fact_id": "cammlsmh_000154-p1-f0",
+  "split": "dev",
+  "faithful": true,
+  "note": "ambiguous, dull",
+  "broadcast": false
+ },
+ {
+  "label_id": "d15",
+  "fact_id": "cammlsmh_000155-p0-f0",
+  "split": "dev",
+  "faithful": true,
+  "note": "",
+  "broadcast": true
+ },
+ {
+  "label_id": "d16",
+  "fact_id": "cammlsmh_000157-p0-f0",
+  "split": "dev",
+  "faithful": true,
+  "note": "",
+  "broadcast": true
+ },
+ {
+  "label_id": "d17",
+  "fact_id": "cammlsmh_000158-p0-f0",
+  "split": "dev",
+  "faithful": true,
+  "note": "",
+  "broadcast": true
+ },
+ {
+  "label_id": "d18",
+  "fact_id": "cammlsmh_000164-p0-f0",
+  "split": "dev",
+  "faithful": true,
+  "note": "",
+  "broadcast": true
+ },
+ {
+  "label_id": "d19",
+  "fact_id": "cammlsmh_000164-p0-f2",
+  "split": "dev",
+  "faithful": true,
+  "note": "",
+  "broadcast": true
+ },
+ {
+  "label_id": "d20",
+  "fact_id": "cammlsmh_000164-p1-f1",
+  "split": "dev",
+  "faithful": true,
+  "note": "",
+  "broadcast": true
+ },
+ {
+  "label_id": "d21",
+  "fact_id": "cammlsmh_000167-p1-f0",
+  "split": "dev",
+  "faithful": true,
+  "note": "",
+  "broadcast": true
+ },
+ {
+  "label_id": "d22",
+  "fact_id": "cammlsmh_000170-p0-f0",
+  "split": "dev",
+  "faithful": true,
+  "note": "",
+  "broadcast": true
+ },
+ {
+  "label_id": "d23",
+  "fact_id": "cammlsmh_000181-p0-f0",
+  "split": "dev",
+  "faithful": true,
+  "note": "",
+  "broadcast": true
+ },
+ {
+  "label_id": "d24",
+  "fact_id": "cammlsmh_000182-p0-f1",
+  "split": "dev",
+  "faithful": true,
+  "note": "",
+  "broadcast": true
+ },
+ {
+  "label_id": "d25",
+  "fact_id": "cammlsmh_000197-p0-f0",
+  "split": "dev",
+  "faithful": true,
+  "note": "",
+  "broadcast": true
+ },
+ {
+  "label_id": "d26",
+  "fact_id": "cammlsmh_000199-p1-f0",
+  "split": "dev",
+  "faithful": true,
+  "note": "",
+  "broadcast": true
+ },
+ {
+  "label_id": "d27",
+  "fact_id": "cammlsmh_000207-p1-f0",
+  "split": "dev",
+  "faithful": true,
+  "note": "",
+  "broadcast": true
+ },
+ {
+  "label_id": "d28",
+  "fact_id": "cammlsmh_000212-p1-f0",
+  "split": "dev",
+  "faithful": false,
+  "note": "UNFAITHFUL: claim adds music and a song not in quote",
+  "broadcast": false
+ },
+ {
+  "label_id": "d29",
+  "fact_id": "cammlsmh_000215-p2-f0",
+  "split": "dev",
+  "faithful": true,
+  "note": "",
+  "broadcast": true
+ },
+ {
+  "label_id": "d30",
+  "fact_id": "cammlsmh_001067-p0-f0",
+  "split": "dev",
+  "faithful": true,
+  "note": "",
+  "broadcast": true
+ },
+ {
+  "label_id": "d31",
+  "fact_id": "cammlsmh_001067-p0-f1",
+  "split": "dev",
+  "faithful": true,
+  "note": "",
+  "broadcast": true
+ },
+ {
+  "label_id": "d32",
+  "fact_id": "cammlsmh_001067-p1-f0",
+  "split": "dev",
+  "faithful": true,
+  "note": "",
+  "broadcast": true
+ },
+ {
+  "label_id": "d33",
+  "fact_id": "cammlsmh_001068-p2-f0",
+  "split": "dev",
+  "faithful": true,
+  "note": "",
+  "broadcast": true
+ },
+ {
+  "label_id": "d34",
+  "fact_id": "cammlsmh_001071-p1-f0",
+  "split": "dev",
+  "faithful": true,
+  "note": "",
+  "broadcast": true
+ },
+ {
+  "label_id": "d35",
+  "fact_id": "cammlsmh_001071-p5-f0",
+  "split": "dev",
+  "faithful": true,
+  "note": "duplicate of d39",
+  "broadcast": false
+ },
+ {
+  "label_id": "d36",
+  "fact_id": "cammlsmh_001072-p3-f0",
+  "split": "dev",
+  "faithful": true,
+  "note": "",
+  "broadcast": true
+ },
+ {
+  "label_id": "d37",
+  "fact_id": "cammlsmh_001072-p3-f2",
+  "split": "dev",
+  "faithful": true,
+  "note": "repetitive notice",
+  "broadcast": false
+ },
+ {
+  "label_id": "d38",
+  "fact_id": "cammlsmh_001072-p5-f0",
+  "split": "dev",
+  "faithful": true,
+  "note": "",
+  "broadcast": true
+ },
+ {
+  "label_id": "d39",
+  "fact_id": "cammlsmh_001073-p2-f0",
+  "split": "dev",
+  "faithful": true,
+  "note": "repetitive notice",
+  "broadcast": false
+ },
+ {
+  "label_id": "d40",
+  "fact_id": "cammlsmh_001084-p4-f0",
+  "split": "dev",
+  "faithful": true,
+  "note": "",
+  "broadcast": true
+ },
+ {
+  "label_id": "d41",
+  "fact_id": "cammlsmh_001089-p2-f0",
+  "split": "dev",
+  "faithful": true,
+  "note": "",
+  "broadcast": true
+ },
+ {
+  "label_id": "d42",
+  "fact_id": "cammlsmh_001090-p1-f0",
+  "split": "dev",
+  "faithful": true,
+  "note": "",
+  "broadcast": true
+ },
+ {
+  "label_id": "d43",
+  "fact_id": "cammlsmh_001090-p1-f1",
+  "split": "dev",
+  "faithful": true,
+  "note": "",
+  "broadcast": true
+ },
+ {
+  "label_id": "d44",
+  "fact_id": "cammlsmh_001090-p1-f2",
+  "split": "dev",
+  "faithful": true,
+  "note": "repetitive notice",
+  "broadcast": false
+ },
+ {
+  "label_id": "d45",
+  "fact_id": "cammlsmh_001158-p2-f1",
+  "split": "dev",
+  "faithful": true,
+  "note": "",
+  "broadcast": true
+ },
+ {
+  "label_id": "h0",
+  "fact_id": "cammlsmh_000145-p2-f1",
+  "split": "heldout",
+  "faithful": true,
+  "note": "",
+  "broadcast": true
+ },
+ {
+  "label_id": "h1",
+  "fact_id": "cammlsmh_000188-p0-f0",
+  "split": "heldout",
+  "faithful": true,
+  "note": "",
+  "broadcast": true
+ }
+]

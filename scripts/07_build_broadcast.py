@@ -7,7 +7,7 @@ for sp in ("dev","heldout"):
     try: facts+=json.load(open(f"data/facts_final_{sp}.json"))
     except FileNotFoundError: pass
 rng=random.Random(1879)
-HOURS=[("nightlife","Midnight at the saloons"),("nightlife","Lamps still burning"),("crime","Trouble after dark"),("weather","The cold before dawn"),("weather","Snow and wind"),("mining","First shift"),("mining","Mines and mills"),("commerce","Morning trade"),("commerce","Prices and goods"),("community","Church bells and schools"),("news","Word from outside"),("travel","Stage and road"),("community","Noon, the town talks"),("mining","Afternoon shift"),("commerce","Business of the day"),("news","News by wire"),("travel","Coming and going"),("community","Supper hour"),("nightlife","Evening lamps"),("commerce","Stocks and bargains"),("nightlife","Saloon hour"),("crime","Order and disorder"),("nightlife","Late music"),("news","The last word")]
+HOURS=[("nightlife","Midnight at the saloons",0),("mining","Night shift",3),("crime","Trouble after dark",1),("weather","The cold before dawn",0),("mining","Before the whistle",3),("mining","First shift",3),("mining","Mines and mills",3),("commerce","Morning trade",2),("commerce","Prices and goods",2),("community","Church bells and schools",1),("news","Word from outside",1),("mining","Late morning, the shafts",3),("community","Noon, the town talks",1),("mining","Afternoon shift",3),("nightlife","Afternoon, no word on the saloons",0),("news","News by wire",1),("mining","Down the tunnels",3),("community","Supper hour",1),("mining","Evening shift",3),("news","The county and the capital",1),("nightlife","Saloon hour",0),("news","The business of government",1),("mining","Night work",3),("news","The last word",1)]
 NUM=["twelve","one","two","three","four","five","six","seven","eight","nine","ten","eleven"]
 def hour_words(h):
     ap="in the morning" if h<12 else "in the evening" if h>=18 else "in the afternoon"
@@ -34,10 +34,10 @@ used=set();broadcast=[];used_facts={}
 by_theme={}
 for f in facts: by_theme.setdefault(f["theme"],[]).append(f)
 for v in by_theme.values(): rng.shuffle(v)
-for h,(theme,title) in enumerate(HOURS):
+for h,(theme,title,quota) in enumerate(HOURS):
     lines=[];pool=by_theme.get(theme,[])
     take=[];
-    while pool and len(take)<4:
+    while pool and len(take)<quota:
         f=pool.pop()
         if f["fact_id"] in used: continue
         take.append(f);used.add(f["fact_id"])
@@ -47,7 +47,7 @@ for h,(theme,title) in enumerate(HOURS):
         m=meta[f["source_id"]]; sources[f["source_id"]]={"title":m["title"],"date":m["date"],"url":m["url"],"license":m["license"],"license_short":"Public domain"}
         used_facts[f["fact_id"]]=f
         lines.append({"id":f"{f['fact_id']}-c","type":"claim","fact_id":f["fact_id"],"text":f"{LEAD[(h+k)%4]} From {short_title(m['title'])}, {spoken_date(m['date'])}. {f['claim']} {QLEAD[(h+k)%3]}"})
-        lines.append({"id":f"{f['fact_id']}-q","type":"quote","fact_id":f["fact_id"],"text":norm(f["quote"])})
+        lines.append({"id":f"{f['fact_id']}-q","type":"quote","fact_id":f["fact_id"],"text":norm(f["quote"]),"speak":re.sub(r"[|{}\[\]~_¢¬]"," ",re.sub(r"(\w)- (\w)",r"\1\2",norm(f["quote"])))})
     lines.append({"id":f"h{h}-out","type":"bridge","text":OUTRO[h%3]})
     broadcast.append({"hour":h,"theme":theme,"title":title,"lines":lines})
 json.dump({"station":{"name":"Ghost Town Radio","dj":"Hollis Vane (fictional)","place":"Bodie, California"},"hours":broadcast},open("data/broadcast_text.json","w"),indent=1)

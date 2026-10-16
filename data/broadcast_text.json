@@ -1,0 +1,957 @@
+{
+ "station": {
+  "name": "Ghost Town Radio",
+  "dj": "Hollis Vane (fictional)",
+  "place": "Bodie, California"
+ },
+ "hours": [
+  {
+   "hour": 0,
+   "theme": "nightlife",
+   "title": "Midnight at the saloons",
+   "lines": [
+    {
+     "id": "h0-open",
+     "type": "bridge",
+     "text": "Ghost Town Radio. Hollis Vane, with you at midnight. "
+    },
+    {
+     "id": "h0-sil",
+     "type": "silence",
+     "text": ""
+    },
+    {
+     "id": "h0-out",
+     "type": "bridge",
+     "text": "That is all the archive gives me on that. I will not guess."
+    }
+   ]
+  },
+  {
+   "hour": 1,
+   "theme": "mining",
+   "title": "Night shift",
+   "lines": [
+    {
+     "id": "h1-open",
+     "type": "bridge",
+     "text": "This is Hollis Vane, one o'clock in the morning, on Ghost Town Radio. Let us see what the papers said about the mines."
+    },
+    {
+     "id": "cammlsmh_001158-p2-f1-c",
+     "type": "claim",
+     "fact_id": "cammlsmh_001158-p2-f1",
+     "text": "Now a page from the archive. From Tales of Aurora and Bodie, January first, 1915. The Cooper mill was located down the Aurora canyon and had 4 stamps while being idle. The words themselves."
+    },
+    {
+     "id": "cammlsmh_001158-p2-f1-q",
+     "type": "quote",
+     "fact_id": "cammlsmh_001158-p2-f1",
+     "text": "down the Aurora canyon, the Napa mill, idle; just below that the Cooper mill, 4 stamps, idle; still further down a mill known at that time as the Antelope mill",
+     "speak": "down the Aurora canyon, the Napa mill, idle; just below that the Cooper mill, 4 stamps, idle; still further down a mill known at that time as the Antelope mill"
+    },
+    {
+     "id": "cammlsmh_001072-p5-f0-c",
+     "type": "claim",
+     "fact_id": "cammlsmh_001072-p5-f0",
+     "text": "Listen to this one. From Daily Bodie Standard, July tenth, eighteen seventy-nine. Persons with claims against the Richer Gold Mining Company must present them by the first of each month for payment on the 5th. Word for word."
+    },
+    {
+     "id": "cammlsmh_001072-p5-f0-q",
+     "type": "quote",
+     "fact_id": "cammlsmh_001072-p5-f0",
+     "text": "Persons holding claims against the Richer,Gold Mining Company must present them on or before the first day o! each month, and payment will be made on the 5th.",
+     "speak": "Persons holding claims against the Richer,Gold Mining Company must present them on or before the first day o! each month, and payment will be made on the 5th."
+    },
+    {
+     "id": "cammlsmh_000149-p0-f1-c",
+     "type": "claim",
+     "fact_id": "cammlsmh_000149-p0-f1",
+     "text": "Another clipping. From The Bodie Chronicle, January twenty-fourth, eighteen eighty. A shaft was sunk by the original locators to a depth of about 60 feet. In the paper's own words."
+    },
+    {
+     "id": "cammlsmh_000149-p0-f1-q",
+     "type": "quote",
+     "fact_id": "cammlsmh_000149-p0-f1",
+     "text": "a shaft had also been sunk by original locators, some 60. feet in depth",
+     "speak": "a shaft had also been sunk by original locators, some 60. feet in depth"
+    },
+    {
+     "id": "h1-out",
+     "type": "bridge",
+     "text": "Where the paper goes quiet, so do I."
+    }
+   ]
+  },
+  {
+   "hour": 2,
+   "theme": "crime",
+   "title": "Trouble after dark",
+   "lines": [
+    {
+     "id": "h2-open",
+     "type": "bridge",
+     "text": "two o'clock in the morning, and the dial is still warm. Hollis Vane here. Let us see what the papers said about trouble."
+    },
+    {
+     "id": "cammlsmh_000167-p1-f0-c",
+     "type": "claim",
+     "fact_id": "cammlsmh_000167-p1-f0",
+     "text": "Listen to this one. From The Bodie Chronicle, March eighteenth, eighteen eighty. James Morrissey entered a room at 217 Third Street where George Squires and two women were drinking. Word for word."
+    },
+    {
+     "id": "cammlsmh_000167-p1-f0-q",
+     "type": "quote",
+     "fact_id": "cammlsmh_000167-p1-f0",
+     "text": "James Morrissey entered a room at 217 Third street, in which George Squires and two women were sitting drinking",
+     "speak": "James Morrissey entered a room at 217 Third street, in which George Squires and two women were sitting drinking"
+    },
+    {
+     "id": "h2-out",
+     "type": "bridge",
+     "text": "Static for a moment. Stay on the dial."
+    }
+   ]
+  },
+  {
+   "hour": 3,
+   "theme": "weather",
+   "title": "The cold before dawn",
+   "lines": [
+    {
+     "id": "h3-open",
+     "type": "bridge",
+     "text": "Ghost Town Radio. Hollis Vane, with you at three o'clock in the morning. "
+    },
+    {
+     "id": "h3-sil",
+     "type": "silence",
+     "text": ""
+    },
+    {
+     "id": "h3-out",
+     "type": "bridge",
+     "text": "That is all the archive gives me on that. I will not guess."
+    }
+   ]
+  },
+  {
+   "hour": 4,
+   "theme": "mining",
+   "title": "Before the whistle",
+   "lines": [
+    {
+     "id": "h4-open",
+     "type": "bridge",
+     "text": "This is Hollis Vane, four o'clock in the morning, on Ghost Town Radio. Let us see what the papers said about the mines."
+    },
+    {
+     "id": "cammlsmh_000138-p1-f0-c",
+     "type": "claim",
+     "fact_id": "cammlsmh_000138-p1-f0",
+     "text": "Here is what the paper printed. From The Bodie Chronicle, November first, eighteen seventy-nine. The mill will be built about 300 feet north of the Spaulding hoisting works. The words themselves."
+    },
+    {
+     "id": "cammlsmh_000138-p1-f0-q",
+     "type": "quote",
+     "fact_id": "cammlsmh_000138-p1-f0",
+     "text": "the mill is to b\u00e9 erected is some 300 fe\u00e9 north of the Spaulding hoisting works",
+     "speak": "the mill is to b\u00e9 erected is some 300 fe\u00e9 north of the Spaulding hoisting works"
+    },
+    {
+     "id": "cammlsmh_001090-p1-f0-c",
+     "type": "claim",
+     "fact_id": "cammlsmh_001090-p1-f0",
+     "text": "Now a page from the archive. From Bodie Morning News, July seventeenth, eighteen seventy-nine. All people holding claims against the Herrington Tunnel and Mining Company must present them on or before the first day of each month at the company office. Word for word."
+    },
+    {
+     "id": "cammlsmh_001090-p1-f0-q",
+     "type": "quote",
+     "fact_id": "cammlsmh_001090-p1-f0",
+     "text": "ALL PERSONS holding claims against the Herring- ton Tunnel and Mining Company must present the same on or before the first day ach month af the company\u2019s -office",
+     "speak": "ALL PERSONS holding claims against the Herrington Tunnel and Mining Company must present the same on or before the first day ach month af the company\u2019s -office"
+    },
+    {
+     "id": "cammlsmh_001067-p0-f0-c",
+     "type": "claim",
+     "fact_id": "cammlsmh_001067-p0-f0",
+     "text": "Listen to this one. From Bodie Morning News, July twenty-seventh, eighteen seventy-nine. The north drift on the 385-foot level is currently in 293 feet. In the paper's own words."
+    },
+    {
+     "id": "cammlsmh_001067-p0-f0-q",
+     "type": "quote",
+     "fact_id": "cammlsmh_001067-p0-f0",
+     "text": "The north drift on the 385-foot level is in 293 feet.",
+     "speak": "The north drift on the 385-foot level is in 293 feet."
+    },
+    {
+     "id": "h4-out",
+     "type": "bridge",
+     "text": "Where the paper goes quiet, so do I."
+    }
+   ]
+  },
+  {
+   "hour": 5,
+   "theme": "mining",
+   "title": "First shift",
+   "lines": [
+    {
+     "id": "h5-open",
+     "type": "bridge",
+     "text": "five o'clock in the morning, and the dial is still warm. Hollis Vane here. Let us see what the papers said about the mines."
+    },
+    {
+     "id": "cammlsmh_001090-p1-f1-c",
+     "type": "claim",
+     "fact_id": "cammlsmh_001090-p1-f1",
+     "text": "Now a page from the archive. From Bodie Morning News, July seventeenth, eighteen seventy-nine. All parties holding claims against the South Standard Gold Mining Company must present them at the company office on or before the first day of each month. Word for word."
+    },
+    {
+     "id": "cammlsmh_001090-p1-f1-q",
+     "type": "quote",
+     "fact_id": "cammlsmh_001090-p1-f1",
+     "text": "ALL PARTIES Pp holding claims against the South Standard Gold\u2019 Mining Company must present the same at the Company's office on or before the first day of each month",
+     "speak": "ALL PARTIES Pp holding claims against the South Standard Gold\u2019 Mining Company must present the same at the Company's office on or before the first day of each month"
+    },
+    {
+     "id": "cammlsmh_000158-p0-f0-c",
+     "type": "claim",
+     "fact_id": "cammlsmh_000158-p0-f0",
+     "text": "Listen to this one. From The Bodie Chronicle, March sixth, eighteen eighty. On Wednesday they passed through a quartz stratum 12 inches wide that gave assays ranging from $12 to $101 per ton. In the paper's own words."
+    },
+    {
+     "id": "cammlsmh_000158-p0-f0-q",
+     "type": "quote",
+     "fact_id": "cammlsmh_000158-p0-f0",
+     "text": "On Wednesday passed through a strata of quartz, 12 inches Wide, Giving assays nning from $12 to $101 a ton,",
+     "speak": "On Wednesday passed through a strata of quartz, 12 inches Wide, Giving assays nning from $12 to $101 a ton,"
+    },
+    {
+     "id": "cammlsmh_000138-p1-f2-c",
+     "type": "claim",
+     "fact_id": "cammlsmh_000138-p1-f2",
+     "text": "Another clipping. From The Bodie Chronicle, November first, eighteen seventy-nine. They have good hoisting works and an incline. The words themselves."
+    },
+    {
+     "id": "cammlsmh_000138-p1-f2-q",
+     "type": "quote",
+     "fact_id": "cammlsmh_000138-p1-f2",
+     "text": "They have good hoisti works and an incline",
+     "speak": "They have good hoisti works and an incline"
+    },
+    {
+     "id": "h5-out",
+     "type": "bridge",
+     "text": "Static for a moment. Stay on the dial."
+    }
+   ]
+  },
+  {
+   "hour": 6,
+   "theme": "mining",
+   "title": "Mines and mills",
+   "lines": [
+    {
+     "id": "h6-open",
+     "type": "bridge",
+     "text": "Ghost Town Radio. Hollis Vane, with you at six o'clock in the morning. Let us see what the papers said about the mines."
+    },
+    {
+     "id": "cammlsmh_000164-p0-f2-c",
+     "type": "claim",
+     "fact_id": "cammlsmh_000164-p0-f2",
+     "text": "Listen to this one. From The Bodie Chronicle, March fifteenth, eighteen eighty. The new drift from the west crosscut is 230 feet long, with 15 feet of progress during the week. In the paper's own words."
+    },
+    {
+     "id": "cammlsmh_000164-p0-f2-q",
+     "type": "quote",
+     "fact_id": "cammlsmh_000164-p0-f2",
+     "text": "The nes drift \u2018rom the west crosscut is in 230 feet, prog- gress during the welk 15 feet",
+     "speak": "The nes drift \u2018rom the west crosscut is in 230 feet, proggress during the welk 15 feet"
+    },
+    {
+     "id": "cammlsmh_000151-p0-f0-c",
+     "type": "claim",
+     "fact_id": "cammlsmh_000151-p0-f0",
+     "text": "Another clipping. From The Bodie Chronicle, February seventh, eighteen eighty. The vein is 20 inches wide and dips east. The words themselves."
+    },
+    {
+     "id": "cammlsmh_000151-p0-f0-q",
+     "type": "quote",
+     "fact_id": "cammlsmh_000151-p0-f0",
+     "text": "the! vein being 20 inches wide and dipping east.",
+     "speak": "the! vein being 20 inches wide and dipping east."
+    },
+    {
+     "id": "cammlsmh_000164-p0-f0-c",
+     "type": "claim",
+     "fact_id": "cammlsmh_000164-p0-f0",
+     "text": "Here is what the paper printed. From The Bodie Chronicle, March fifteenth, eighteen eighty. The north drift from the east crosscut at the 500\u2011foot level is 105 feet long. Word for word."
+    },
+    {
+     "id": "cammlsmh_000164-p0-f0-q",
+     "type": "quote",
+     "fact_id": "cammlsmh_000164-p0-f0",
+     "text": "The north drift from the east crosscut, 500 jeet level, is in 105 feet, making a progress",
+     "speak": "The north drift from the east crosscut, 500 jeet level, is in 105 feet, making a progress"
+    },
+    {
+     "id": "h6-out",
+     "type": "bridge",
+     "text": "That is all the archive gives me on that. I will not guess."
+    }
+   ]
+  },
+  {
+   "hour": 7,
+   "theme": "commerce",
+   "title": "Morning trade",
+   "lines": [
+    {
+     "id": "h7-open",
+     "type": "bridge",
+     "text": "This is Hollis Vane, seven o'clock in the morning, on Ghost Town Radio. Let us see what the papers said about trade."
+    },
+    {
+     "id": "cammlsmh_001089-p2-f0-c",
+     "type": "claim",
+     "fact_id": "cammlsmh_001089-p2-f0",
+     "text": "Another clipping. From Bodie Morning News, April fourth, eighteen seventy-nine. Saddles and harness are made and repaired in the best manner with satisfaction guaranteed. The words themselves."
+    },
+    {
+     "id": "cammlsmh_001089-p2-f0-q",
+     "type": "quote",
+     "fact_id": "cammlsmh_001089-p2-f0",
+     "text": "SADDLES AND HARNESS MADE AND REPAIRED IN THE BEST MANNER AND SATISFACTION GUARANTEED.",
+     "speak": "SADDLES AND HARNESS MADE AND REPAIRED IN THE BEST MANNER AND SATISFACTION GUARANTEED."
+    },
+    {
+     "id": "cammlsmh_000151-p2-f0-c",
+     "type": "claim",
+     "fact_id": "cammlsmh_000151-p2-f0",
+     "text": "Here is what the paper printed. From The Bodie Chronicle, February seventh, eighteen eighty. They sell bedding and mattresses as a specialty at reasonable terms. Word for word."
+    },
+    {
+     "id": "cammlsmh_000151-p2-f0-q",
+     "type": "quote",
+     "fact_id": "cammlsmh_000151-p2-f0",
+     "text": "BEDDING AND MATTRESSES : Made to Der ! i A SPECIALTY, AND on reasonable terms.",
+     "speak": "BEDDING AND MATTRESSES : Made to Der ! i A SPECIALTY, AND on reasonable terms."
+    },
+    {
+     "id": "h7-out",
+     "type": "bridge",
+     "text": "Where the paper goes quiet, so do I."
+    }
+   ]
+  },
+  {
+   "hour": 8,
+   "theme": "commerce",
+   "title": "Prices and goods",
+   "lines": [
+    {
+     "id": "h8-open",
+     "type": "bridge",
+     "text": "eight o'clock in the morning, and the dial is still warm. Hollis Vane here. Let us see what the papers said about trade."
+    },
+    {
+     "id": "cammlsmh_001084-p4-f0-c",
+     "type": "claim",
+     "fact_id": "cammlsmh_001084-p4-f0",
+     "text": "Here is what the paper printed. From Bodie Morning News, April seventeenth, eighteen seventy-nine. Frank Masters is the proprietor of the Wine Saloon located on Lower Main Street in Bodie, California. Word for word."
+    },
+    {
+     "id": "cammlsmh_001084-p4-f0-q",
+     "type": "quote",
+     "fact_id": "cammlsmh_001084-p4-f0",
+     "text": "WINE SALOON, Frank Masters, Proprietor, LOWER MAIN STREET, BODIE, CALIFORNIA",
+     "speak": "WINE SALOON, Frank Masters, Proprietor, LOWER MAIN STREET, BODIE, CALIFORNIA"
+    },
+    {
+     "id": "cammlsmh_000157-p0-f0-c",
+     "type": "claim",
+     "fact_id": "cammlsmh_000157-p0-f0",
+     "text": "Now a page from the archive. From The Bodie Chronicle, March fifth, eighteen eighty. Goods were delivered to all parts of town free of charge. In the paper's own words."
+    },
+    {
+     "id": "cammlsmh_000157-p0-f0-q",
+     "type": "quote",
+     "fact_id": "cammlsmh_000157-p0-f0",
+     "text": "Goods delivered to all parts of town free of eharge.",
+     "speak": "Goods delivered to all parts of town free of eharge."
+    },
+    {
+     "id": "h8-out",
+     "type": "bridge",
+     "text": "Static for a moment. Stay on the dial."
+    }
+   ]
+  },
+  {
+   "hour": 9,
+   "theme": "community",
+   "title": "Church bells and schools",
+   "lines": [
+    {
+     "id": "h9-open",
+     "type": "bridge",
+     "text": "Ghost Town Radio. Hollis Vane, with you at nine o'clock in the morning. Let us see what the papers said about the town."
+    },
+    {
+     "id": "cammlsmh_000181-p0-f0-c",
+     "type": "claim",
+     "fact_id": "cammlsmh_000181-p0-f0",
+     "text": "Now a page from the archive. From The Bodie Chronicle, April third, eighteen eighty. A survey of the Bodie town-site was conducted on March 16, 1880. In the paper's own words."
+    },
+    {
+     "id": "cammlsmh_000181-p0-f0-q",
+     "type": "quote",
+     "fact_id": "cammlsmh_000181-p0-f0",
+     "text": "Survey of the \u2018Towr-Site of Bodie \u201d BRIDGEPORT. CaL., \u2019 March 16, 1880.",
+     "speak": "Survey of the \u2018Towr-Site of Bodie \u201d BRIDGEPORT. CaL., \u2019 March 16, 1880."
+    },
+    {
+     "id": "h9-out",
+     "type": "bridge",
+     "text": "That is all the archive gives me on that. I will not guess."
+    }
+   ]
+  },
+  {
+   "hour": 10,
+   "theme": "news",
+   "title": "Word from outside",
+   "lines": [
+    {
+     "id": "h10-open",
+     "type": "bridge",
+     "text": "This is Hollis Vane, ten o'clock in the morning, on Ghost Town Radio. Let us see what the papers carried from far away."
+    },
+    {
+     "id": "cammlsmh_000215-p2-f0-c",
+     "type": "claim",
+     "fact_id": "cammlsmh_000215-p2-f0",
+     "text": "Listen to this one. From The Bodie Chronicle, October ninth, eighteen eighty. The Act of April 24, 1857 authorized the County Auditor to draw warrants for the payment of claims and demands legally chargeable against the county. The words themselves."
+    },
+    {
+     "id": "cammlsmh_000215-p2-f0-q",
+     "type": "quote",
+     "fact_id": "cammlsmh_000215-p2-f0",
+     "text": "By the Act of April 24, 1857, which waa iu force in 1862-3 the County Auditor was authorized to draw warrants 44 for the pay\u00ac ment of nil claims and demands legally chargeable against the county",
+     "speak": "By the Act of April 24, 1857, which waa iu force in 1862-3 the County Auditor was authorized to draw warrants 44 for the pay  ment of nil claims and demands legally chargeable against the county"
+    },
+    {
+     "id": "h10-out",
+     "type": "bridge",
+     "text": "Where the paper goes quiet, so do I."
+    }
+   ]
+  },
+  {
+   "hour": 11,
+   "theme": "mining",
+   "title": "Late morning, the shafts",
+   "lines": [
+    {
+     "id": "h11-open",
+     "type": "bridge",
+     "text": "eleven o'clock in the morning, and the dial is still warm. Hollis Vane here. Let us see what the papers said about the mines."
+    },
+    {
+     "id": "cammlsmh_001071-p1-f0-c",
+     "type": "claim",
+     "fact_id": "cammlsmh_001071-p1-f0",
+     "text": "Another clipping. From Daily Bodie Standard, July third, eighteen seventy-nine. The first location of the True Blue features a tunnel running thirty feet into a solid mass of ore without reaching the wall or cutting the ledge. Word for word."
+    },
+    {
+     "id": "cammlsmh_001071-p1-f0-q",
+     "type": "quote",
+     "fact_id": "cammlsmh_001071-p1-f0",
+     "text": "The first location of the True Blue is on the ridge, where a tunnel has been run thirty feet into a solid mass of ore, and s\u2018ill they had not reached the wall or cut the ledge.",
+     "speak": "The first location of the True Blue is on the ridge, where a tunnel has been run thirty feet into a solid mass of ore, and s\u2018ill they had not reached the wall or cut the ledge."
+    },
+    {
+     "id": "cammlsmh_000144-p0-f0-c",
+     "type": "claim",
+     "fact_id": "cammlsmh_000144-p0-f0",
+     "text": "Here is what the paper printed. From The Bodie Chronicle, December twentieth, eighteen seventy-nine. The main shaft is now down 57 feet. In the paper's own words."
+    },
+    {
+     "id": "cammlsmh_000144-p0-f0-q",
+     "type": "quote",
+     "fact_id": "cammlsmh_000144-p0-f0",
+     "text": "The main shaft i is now down 57 eid ing ground.",
+     "speak": "The main shaft i is now down 57 eid ing ground."
+    },
+    {
+     "id": "cammlsmh_001072-p3-f0-c",
+     "type": "claim",
+     "fact_id": "cammlsmh_001072-p3-f0",
+     "text": "Now a page from the archive. From Daily Bodie Standard, July tenth, eighteen seventy-nine. People with claims against the McClinton Gold Mining Company must present them at the office by the first of the month. The words themselves."
+    },
+    {
+     "id": "cammlsmh_001072-p3-f0-q",
+     "type": "quote",
+     "fact_id": "cammlsmh_001072-p3-f0",
+     "text": "All parties holding \u00e9laims against the McClinton Gold Mining Company are requested to present the same at the company\u2019s office on or before the first day of each month for payment.",
+     "speak": "All parties holding \u00e9laims against the McClinton Gold Mining Company are requested to present the same at the company\u2019s office on or before the first day of each month for payment."
+    },
+    {
+     "id": "h11-out",
+     "type": "bridge",
+     "text": "Static for a moment. Stay on the dial."
+    }
+   ]
+  },
+  {
+   "hour": 12,
+   "theme": "community",
+   "title": "Noon, the town talks",
+   "lines": [
+    {
+     "id": "h12-open",
+     "type": "bridge",
+     "text": "Ghost Town Radio. Hollis Vane, with you at noon. Let us see what the papers said about the town."
+    },
+    {
+     "id": "cammlsmh_000138-p0-f0-c",
+     "type": "claim",
+     "fact_id": "cammlsmh_000138-p0-f0",
+     "text": "Here is what the paper printed. From The Bodie Chronicle, November first, eighteen seventy-nine. The school house will be finished next week and will be a credit to the city. In the paper's own words."
+    },
+    {
+     "id": "cammlsmh_000138-p0-f0-q",
+     "type": "quote",
+     "fact_id": "cammlsmh_000138-p0-f0",
+     "text": "The School Honse will belfinished next week, and wil be a credit to our city.",
+     "speak": "The School Honse will belfinished next week, and wil be a credit to our city."
+    },
+    {
+     "id": "h12-out",
+     "type": "bridge",
+     "text": "That is all the archive gives me on that. I will not guess."
+    }
+   ]
+  },
+  {
+   "hour": 13,
+   "theme": "mining",
+   "title": "Afternoon shift",
+   "lines": [
+    {
+     "id": "h13-open",
+     "type": "bridge",
+     "text": "This is Hollis Vane, one o'clock in the afternoon, on Ghost Town Radio. Let us see what the papers said about the mines."
+    },
+    {
+     "id": "cammlsmh_000188-p0-f0-c",
+     "type": "claim",
+     "fact_id": "cammlsmh_000188-p0-f0",
+     "text": "Now a page from the archive. From The Bodie Chronicle, April thirteenth, eighteen eighty. Since the last report, the north drift on the 150 foot level has advanced 15 feet to a total of 87 feet. The words themselves."
+    },
+    {
+     "id": "cammlsmh_000188-p0-f0-q",
+     "type": "quote",
+     "fact_id": "cammlsmh_000188-p0-f0",
+     "text": "Since last report the north drift 150 foot level.has vanced 15 feet-\u2014\u00abtotal o 87 feet:",
+     "speak": "Since last report the north drift 150 foot level.has vanced 15 feet-\u2014\u00abtotal o 87 feet:"
+    },
+    {
+     "id": "cammlsmh_000145-p2-f1-c",
+     "type": "claim",
+     "fact_id": "cammlsmh_000145-p2-f1",
+     "text": "Listen to this one. From The Bodie Chronicle, December twenty-seventh, eighteen seventy-nine. The winze reached a depth of 94 feet, below the 620 level, and was sunk and timbered an additional 14 feet last week. Word for word."
+    },
+    {
+     "id": "cammlsmh_000145-p2-f1-q",
+     "type": "quote",
+     "fact_id": "cammlsmh_000145-p2-f1",
+     "text": "This winze has attained a depth of 94 feet, below the 620 level, and bas been sunk an \u2018timbered the past week 14 feet.",
+     "speak": "This winze has attained a depth of 94 feet, below the 620 level, and bas been sunk an \u2018timbered the past week 14 feet."
+    },
+    {
+     "id": "cammlsmh_000170-p0-f0-c",
+     "type": "claim",
+     "fact_id": "cammlsmh_000170-p0-f0",
+     "text": "Another clipping. From The Bodie Chronicle, March twenty-second, eighteen eighty. A branch drift was started on the Seneca vein 154 feet from the mouth of the tunnel, running southwest toward the Nioma vein. In the paper's own words."
+    },
+    {
+     "id": "cammlsmh_000170-p0-f0-q",
+     "type": "quote",
+     "fact_id": "cammlsmh_000170-p0-f0",
+     "text": "A branch drift has been started on the Seneca, vein, 154 feet from the mouth of the tunnel, running \u00a7 south west, toward the Nioma yein.",
+     "speak": "A branch drift has been started on the Seneca, vein, 154 feet from the mouth of the tunnel, running \u00a7 south west, toward the Nioma yein."
+    },
+    {
+     "id": "h13-out",
+     "type": "bridge",
+     "text": "Where the paper goes quiet, so do I."
+    }
+   ]
+  },
+  {
+   "hour": 14,
+   "theme": "nightlife",
+   "title": "Afternoon, no word on the saloons",
+   "lines": [
+    {
+     "id": "h14-open",
+     "type": "bridge",
+     "text": "two o'clock in the afternoon, and the dial is still warm. Hollis Vane here. "
+    },
+    {
+     "id": "h14-sil",
+     "type": "silence",
+     "text": ""
+    },
+    {
+     "id": "h14-out",
+     "type": "bridge",
+     "text": "Static for a moment. Stay on the dial."
+    }
+   ]
+  },
+  {
+   "hour": 15,
+   "theme": "news",
+   "title": "News by wire",
+   "lines": [
+    {
+     "id": "h15-open",
+     "type": "bridge",
+     "text": "Ghost Town Radio. Hollis Vane, with you at three o'clock in the afternoon. Let us see what the papers carried from far away."
+    },
+    {
+     "id": "cammlsmh_000199-p1-f0-c",
+     "type": "claim",
+     "fact_id": "cammlsmh_000199-p1-f0",
+     "text": "Another clipping. From The Bodie Chronicle, June nineteenth, eighteen eighty. The latest Oregon election reports show the Senate will have sixteen Republicans and fourteen Democrats. In the paper's own words."
+    },
+    {
+     "id": "cammlsmh_000199-p1-f0-q",
+     "type": "quote",
+     "fact_id": "cammlsmh_000199-p1-f0",
+     "text": "The latest Oregon election reports indi- cate that the political \u2018complexion of th Leyislature will be as follows: The Senat will stand sixteen Republicans to fourteen Democrats,:",
+     "speak": "The latest Oregon election reports indicate that the political \u2018complexion of th Leyislature will be as follows: The Senat will stand sixteen Republicans to fourteen Democrats,:"
+    },
+    {
+     "id": "h15-out",
+     "type": "bridge",
+     "text": "That is all the archive gives me on that. I will not guess."
+    }
+   ]
+  },
+  {
+   "hour": 16,
+   "theme": "mining",
+   "title": "Down the tunnels",
+   "lines": [
+    {
+     "id": "h16-open",
+     "type": "bridge",
+     "text": "This is Hollis Vane, four o'clock in the afternoon, on Ghost Town Radio. Let us see what the papers said about the mines."
+    },
+    {
+     "id": "cammlsmh_000138-p2-f1-c",
+     "type": "claim",
+     "fact_id": "cammlsmh_000138-p2-f1",
+     "text": "Here is what the paper printed. From The Bodie Chronicle, November first, eighteen seventy-nine. There are still 45 feet to be excavated before reaching the 225-foot level. The words themselves."
+    },
+    {
+     "id": "cammlsmh_000138-p2-f1-q",
+     "type": "quote",
+     "fact_id": "cammlsmh_000138-p2-f1",
+     "text": "A distance of 45 fect bas yet to be run before reaching the 225 foot level.",
+     "speak": "A distance of 45 fect bas yet to be run before reaching the 225 foot level."
+    },
+    {
+     "id": "cammlsmh_000138-p1-f1-c",
+     "type": "claim",
+     "fact_id": "cammlsmh_000138-p1-f1",
+     "text": "Now a page from the archive. From The Bodie Chronicle, November first, eighteen seventy-nine. There is an incline and a shaft 308 feet deep, and a drift has been run. Word for word."
+    },
+    {
+     "id": "cammlsmh_000138-p1-f1-q",
+     "type": "quote",
+     "fact_id": "cammlsmh_000138-p1-f1",
+     "text": "and an incline: shaft 308 feet in dept Drift have been run",
+     "speak": "and an incline: shaft 308 feet in dept Drift have been run"
+    },
+    {
+     "id": "cammlsmh_000138-p2-f0-c",
+     "type": "claim",
+     "fact_id": "cammlsmh_000138-p2-f0",
+     "text": "Listen to this one. From The Bodie Chronicle, November first, eighteen seventy-nine. The main shaft depth increased by 15 feet since the last report. In the paper's own words."
+    },
+    {
+     "id": "cammlsmh_000138-p2-f0-q",
+     "type": "quote",
+     "fact_id": "cammlsmh_000138-p2-f0",
+     "text": "A depth of 15 feet has heen gained in the main shaft since lust report.",
+     "speak": "A depth of 15 feet has heen gained in the main shaft since lust report."
+    },
+    {
+     "id": "h16-out",
+     "type": "bridge",
+     "text": "Where the paper goes quiet, so do I."
+    }
+   ]
+  },
+  {
+   "hour": 17,
+   "theme": "community",
+   "title": "Supper hour",
+   "lines": [
+    {
+     "id": "h17-open",
+     "type": "bridge",
+     "text": "five o'clock in the afternoon, and the dial is still warm. Hollis Vane here. Let us see what the papers said about the town."
+    },
+    {
+     "id": "cammlsmh_000197-p0-f0-c",
+     "type": "claim",
+     "fact_id": "cammlsmh_000197-p0-f0",
+     "text": "Now a page from the archive. From The Bodie Chronicle, June fifth, eighteen eighty. Flags were displayed at half-mast on the Miners Union Hall, business houses, and hoisting works to observe Decoration Day. Word for word."
+    },
+    {
+     "id": "cammlsmh_000197-p0-f0-q",
+     "type": "quote",
+     "fact_id": "cammlsmh_000197-p0-f0",
+     "text": "Decoration \u2014 Dax. n Day\u2014 Sunday last \u2014 Was observed: here by the display of flags at hal{-mast on Miners\u2019 \u2018Union Hall, and buri iness houses and hoist - in; works.",
+     "speak": "Decoration \u2014 Dax. n Day\u2014 Sunday last \u2014 Was observed: here by the display of flags at hal -mast on Miners\u2019 \u2018Union Hall, and buri iness houses and hoist - in; works."
+    },
+    {
+     "id": "h17-out",
+     "type": "bridge",
+     "text": "Static for a moment. Stay on the dial."
+    }
+   ]
+  },
+  {
+   "hour": 18,
+   "theme": "mining",
+   "title": "Evening shift",
+   "lines": [
+    {
+     "id": "h18-open",
+     "type": "bridge",
+     "text": "Ghost Town Radio. Hollis Vane, with you at six o'clock in the evening. Let us see what the papers said about the mines."
+    },
+    {
+     "id": "cammlsmh_000164-p1-f1-c",
+     "type": "claim",
+     "fact_id": "cammlsmh_000164-p1-f1",
+     "text": "Listen to this one. From The Bodie Chronicle, March fifteenth, eighteen eighty. The north drift is 531 feet west of the shaft, which is 145 feet deep, and has been extended by 15 feet since the last report. In the paper's own words."
+    },
+    {
+     "id": "cammlsmh_000164-p1-f1-q",
+     "type": "quote",
+     "fact_id": "cammlsmh_000164-p1-f1",
+     "text": "The north drift 531 fl W is in trom the shaft 145 feet, having been extended since last report 15 feet,",
+     "speak": "The north drift 531 fl W is in trom the shaft 145 feet, having been extended since last report 15 feet,"
+    },
+    {
+     "id": "cammlsmh_000137-p2-f0-c",
+     "type": "claim",
+     "fact_id": "cammlsmh_000137-p2-f0",
+     "text": "Another clipping. From The Bodie Chronicle, October twenty-fifth, eighteen seventy-nine. All companies planning to work through the winter are in good condition to continue their work, having wood and other supplies. The words themselves."
+    },
+    {
+     "id": "cammlsmh_000137-p2-f0-q",
+     "type": "quote",
+     "fact_id": "cammlsmh_000137-p2-f0",
+     "text": "All the com- panies that are intending to rao all Winter are in good ennditi ion for {pros- ecuting their. work, having their wood avd other supplies in.",
+     "speak": "All the companies that are intending to rao all Winter are in good ennditi ion for  prosecuting their. work, having their wood avd other supplies in."
+    },
+    {
+     "id": "cammlsmh_001067-p1-f0-c",
+     "type": "claim",
+     "fact_id": "cammlsmh_001067-p1-f0",
+     "text": "Here is what the paper printed. From Bodie Morning News, July twenty-seventh, eighteen seventy-nine. The south drift on the 880 foot level is 119 feet in length after progressing 10 feet since the last report. Word for word."
+    },
+    {
+     "id": "cammlsmh_001067-p1-f0-q",
+     "type": "quote",
+     "fact_id": "cammlsmh_001067-p1-f0",
+     "text": "The south drift, 880 foot level, is in 119 fect; progress since last report 10 feet; the ledge is 2% feet wide, and looking very well.",
+     "speak": "The south drift, 880 foot level, is in 119 fect; progress since last report 10 feet; the ledge is 2% feet wide, and looking very well."
+    },
+    {
+     "id": "h18-out",
+     "type": "bridge",
+     "text": "That is all the archive gives me on that. I will not guess."
+    }
+   ]
+  },
+  {
+   "hour": 19,
+   "theme": "news",
+   "title": "The county and the capital",
+   "lines": [
+    {
+     "id": "h19-open",
+     "type": "bridge",
+     "text": "This is Hollis Vane, seven o'clock in the evening, on Ghost Town Radio. Let us see what the papers carried from far away."
+    },
+    {
+     "id": "cammlsmh_000207-p1-f0-c",
+     "type": "claim",
+     "fact_id": "cammlsmh_000207-p1-f0",
+     "text": "Another clipping. From The Bodie Chronicle, August fourteenth, eighteen eighty. The Index favors a large tax this year to place the county finances on a cash basis. The words themselves."
+    },
+    {
+     "id": "cammlsmh_000207-p1-f0-q",
+     "type": "quote",
+     "fact_id": "cammlsmh_000207-p1-f0",
+     "text": "he Index is in favor of a big tax this) year, that the county\u2019: finances may be placed) an a@ cash basis",
+     "speak": "he Index is in favor of a big tax this) year, that the county\u2019: finances may be placed) an a@ cash basis"
+    },
+    {
+     "id": "h19-out",
+     "type": "bridge",
+     "text": "Where the paper goes quiet, so do I."
+    }
+   ]
+  },
+  {
+   "hour": 20,
+   "theme": "nightlife",
+   "title": "Saloon hour",
+   "lines": [
+    {
+     "id": "h20-open",
+     "type": "bridge",
+     "text": "eight o'clock in the evening, and the dial is still warm. Hollis Vane here. "
+    },
+    {
+     "id": "h20-sil",
+     "type": "silence",
+     "text": ""
+    },
+    {
+     "id": "h20-out",
+     "type": "bridge",
+     "text": "Static for a moment. Stay on the dial."
+    }
+   ]
+  },
+  {
+   "hour": 21,
+   "theme": "news",
+   "title": "The business of government",
+   "lines": [
+    {
+     "id": "h21-open",
+     "type": "bridge",
+     "text": "Ghost Town Radio. Hollis Vane, with you at nine o'clock in the evening. Let us see what the papers carried from far away."
+    },
+    {
+     "id": "cammlsmh_001068-p2-f0-c",
+     "type": "claim",
+     "fact_id": "cammlsmh_001068-p2-f0",
+     "text": "Now a page from the archive. From Bodie Morning News, August sixth, eighteen seventy-nine. A large amount of telegraphic business is conducted between Bodie and the city, resulting in handsome tolls for the local company. In the paper's own words."
+    },
+    {
+     "id": "cammlsmh_001068-p2-f0-q",
+     "type": "quote",
+     "fact_id": "cammlsmh_001068-p2-f0",
+     "text": "DhGre is now a large telegraphic bus- iness done between Bodie and this cily, and the tolls to your local Company must fool up quite handsome.",
+     "speak": "DhGre is now a large telegraphic business done between Bodie and this cily, and the tolls to your local Company must fool up quite handsome."
+    },
+    {
+     "id": "h21-out",
+     "type": "bridge",
+     "text": "That is all the archive gives me on that. I will not guess."
+    }
+   ]
+  },
+  {
+   "hour": 22,
+   "theme": "mining",
+   "title": "Night work",
+   "lines": [
+    {
+     "id": "h22-open",
+     "type": "bridge",
+     "text": "This is Hollis Vane, ten o'clock in the evening, on Ghost Town Radio. Let us see what the papers said about the mines."
+    },
+    {
+     "id": "cammlsmh_000182-p0-f1-c",
+     "type": "claim",
+     "fact_id": "cammlsmh_000182-p0-f1",
+     "text": "Listen to this one. From The Bodie Chronicle, April fifth, eighteen eighty. The west crosscut at the same level is 5 feet deep. The words themselves."
+    },
+    {
+     "id": "cammlsmh_000182-p0-f1-q",
+     "type": "quote",
+     "fact_id": "cammlsmh_000182-p0-f1",
+     "text": "The west crosscut, same level, is in 5 feet.",
+     "speak": "The west crosscut, same level, is in 5 feet."
+    },
+    {
+     "id": "cammlsmh_001067-p0-f1-c",
+     "type": "claim",
+     "fact_id": "cammlsmh_001067-p0-f1",
+     "text": "Another clipping. From Bodie Morning News, July twenty-seventh, eighteen seventy-nine. The winze in the west crosscut on the 550-foot level of the incline has reached a depth of 37 feet. Word for word."
+    },
+    {
+     "id": "cammlsmh_001067-p0-f1-q",
+     "type": "quote",
+     "fact_id": "cammlsmh_001067-p0-f1",
+     "text": "The winze in the west crosscut on the 550-foot level of the incline has reached a depth of 37 feet",
+     "speak": "The winze in the west crosscut on the 550-foot level of the incline has reached a depth of 37 feet"
+    },
+    {
+     "id": "cammlsmh_000151-p0-f1-c",
+     "type": "claim",
+     "fact_id": "cammlsmh_000151-p0-f1",
+     "text": "Here is what the paper printed. From The Bodie Chronicle, February seventh, eighteen eighty. Work in the crosscut on the 480 level has been stopped but will resume in a few days. In the paper's own words."
+    },
+    {
+     "id": "cammlsmh_000151-p0-f1-q",
+     "type": "quote",
+     "fact_id": "cammlsmh_000151-p0-f1",
+     "text": "work in the crosscut on 0 480 level has been stopped tor the pres- but wil be resumed in a few days",
+     "speak": "work in the crosscut on 0 480 level has been stopped tor the presbut wil be resumed in a few days"
+    },
+    {
+     "id": "h22-out",
+     "type": "bridge",
+     "text": "Where the paper goes quiet, so do I."
+    }
+   ]
+  },
+  {
+   "hour": 23,
+   "theme": "news",
+   "title": "The last word",
+   "lines": [
+    {
+     "id": "h23-open",
+     "type": "bridge",
+     "text": "eleven o'clock in the evening, and the dial is still warm. Hollis Vane here. Let us see what the papers carried from far away."
+    },
+    {
+     "id": "cammlsmh_000155-p0-f0-c",
+     "type": "claim",
+     "fact_id": "cammlsmh_000155-p0-f0",
+     "text": "Another clipping. From The Bodie Chronicle, March second, eighteen eighty. Claims must be filed within sixty days or they will be barred by the Act. Word for word."
+    },
+    {
+     "id": "cammlsmh_000155-p0-f0-q",
+     "type": "quote",
+     "fact_id": "cammlsmh_000155-p0-f0",
+     "text": "the sixty days publication hereof, or they will be barred by virtue of the provisions of said Act",
+     "speak": "the sixty days publication hereof, or they will be barred by virtue of the provisions of said Act"
+    },
+    {
+     "id": "h23-out",
+     "type": "bridge",
+     "text": "Static for a moment. Stay on the dial."
+    }
+   ]
+  }
+ ]
+}

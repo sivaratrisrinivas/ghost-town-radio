@@ -1,0 +1,155 @@
+[
+ {
+  "fact_id": "cammlsmh_000145-p0-f0",
+  "source_id": "cammlsmh_000145",
+  "split": "heldout",
+  "claim": "The bar is supplied with the best brands of wine, liquor, and gear.",
+  "quote": "The Bar Is supplied = the Best brands of Wine Ii quor- and gare.",
+  "theme": "nightlife",
+  "passage_id": "cammlsmh_000145-p0"
+ },
+ {
+  "fact_id": "cammlsmh_000145-p1-f0",
+  "source_id": "cammlsmh_000145",
+  "split": "heldout",
+  "claim": "Judge Peterson was thanked for the use of his room.",
+  "quote": "Judge Peterson, B. B. Jack- man was thanked for the use of his room.",
+  "theme": "community",
+  "passage_id": "cammlsmh_000145-p1"
+ },
+ {
+  "fact_id": "cammlsmh_000145-p2-f0",
+  "source_id": "cammlsmh_000145",
+  "split": "heldout",
+  "claim": "The east crosscut from the Ralston winze was advanced 12 feet this week, revealing several small streaks of rich ore.",
+  "quote": "The east crossent from the Ralston winze has been advanced 12 feet this week, with several small streaks of rich ore in face of the crossent.",
+  "theme": "mining",
+  "passage_id": "cammlsmh_000145-p2"
+ },
+ {
+  "fact_id": "cammlsmh_000145-p2-f1",
+  "source_id": "cammlsmh_000145",
+  "split": "heldout",
+  "claim": "The winze reached a depth of 94 feet, below the 620 level, and was sunk and timbered an additional 14 feet last week.",
+  "quote": "This winze has attained a depth of 94 feet, below the 620 level, and has been sunk and timbered the past week 14 feet.",
+  "theme": "mining",
+  "passage_id": "cammlsmh_000145-p2"
+ },
+ {
+  "fact_id": "cammlsmh_000147-p1-f0",
+  "source_id": "cammlsmh_000147",
+  "split": "heldout",
+  "claim": "The Superior Court of Mono County, California holds twelve terms each year starting on the first Monday of January.",
+  "quote": "SUPERIOR COURT, E MONO COUNTY, CALIFORNIA. There shall be twetve terns of thu Count in} each year, commencing \u00e9n the first Monday of January.",
+  "theme": "news",
+  "passage_id": "cammlsmh_000147-p1"
+ },
+ {
+  "fact_id": "cammlsmh_000147-p3-f0",
+  "source_id": "cammlsmh_000147",
+  "split": "heldout",
+  "claim": "R. M. Briggs joked that an order should be made to convene the Board of Supervisors today to provide a suitable courtroom for the Superior Court.",
+  "quote": "Supetiar J udga R. M. Briggs jested: an order ho; convene the Board of Supervisors ta-day to act up on an order to furnish a uitable Court Room for the Superior Court.",
+  "theme": "community",
+  "passage_id": "cammlsmh_000147-p3"
+ },
+ {
+  "fact_id": "cammlsmh_000147-p4-f0",
+  "source_id": "cammlsmh_000147",
+  "split": "heldout",
+  "claim": "The fee bill is modeled on the fee rates of San Bernardino County, which are among the most moderate in the state.",
+  "quote": "The Fee bill is modeled on the fee raies of San Bernardino county, which are among \u201cthe most moderate io the State",
+  "theme": "commerce",
+  "passage_id": "cammlsmh_000147-p4"
+ },
+ {
+  "fact_id": "cammlsmh_000150-p0-f0",
+  "source_id": "cammlsmh_000150",
+  "split": "heldout",
+  "claim": "The hotel offers single rooms or rooms en suite by the day, week, or month.",
+  "quote": "ROOMS \u201cSINGLE OK EN SUITE, at the Dey; Week, or Month, | EVERYTHING in and about this house has been selected with a view to its utility",
+  "theme": "commerce",
+  "passage_id": "cammlsmh_000150-p0"
+ },
+ {
+  "fact_id": "cammlsmh_000159-p2-f0",
+  "source_id": "cammlsmh_000159",
+  "split": "heldout",
+  "claim": "The trial for the case between the North Noonday Mining Company and the Orient Mining Company concluded after occupying the United States Circuit Court since the 10th instant.",
+  "quote": "The trial bf ths case Of the North Noonday Mining Com pany vs. the Orient Mining Company, which has occupied the United States Cir. euit Court since the 10th instant, hos been conelided.",
+  "theme": "mining",
+  "passage_id": "cammlsmh_000159-p2"
+ },
+ {
+  "fact_id": "cammlsmh_000163-p0-f0",
+  "source_id": "cammlsmh_000163",
+  "split": "heldout",
+  "claim": "A trade union strike involving all organizations in the west is scheduled to be inaugurated on April 1st.",
+  "quote": "their co- Gperation in a Trade Union strike to be in- augurated April 1st. and to be composed of | oll the organizations in the west.",
+  "theme": "community",
+  "passage_id": "cammlsmh_000163-p0"
+ },
+ {
+  "fact_id": "cammlsmh_000163-p4-f0",
+  "source_id": "cammlsmh_000163",
+  "split": "heldout",
+  "claim": "An anti-Chinese meeting is scheduled to be held in St. Louis at an early day.",
+  "quote": "In St. Lois an anti-Chinese meeting is to be held py eariy day, It is to be hoped for the \u00f6 our own people of the P. eine ons that nothing Will. oer to stop the ex gs of Chinese to th \u2018Hast.",
+  "theme": "news",
+  "passage_id": "cammlsmh_000163-p4"
+ },
+ {
+  "fact_id": "cammlsmh_000178-p0-f0",
+  "source_id": "cammlsmh_000178",
+  "split": "heldout",
+  "claim": "Eggs packed in bran for a long time will smell bad and nasty.",
+  "quote": "Eggs. packed in bran a long time smell ad nasty.",
+  "theme": "commerce",
+  "passage_id": "cammlsmh_000178-p0"
+ },
+ {
+  "fact_id": "cammlsmh_000188-p0-f0",
+  "source_id": "cammlsmh_000188",
+  "split": "heldout",
+  "claim": "Since the last report, the north drift on the 150 foot level has advanced 15 feet to a total of 87 feet.",
+  "quote": "Since last report the north drift 150 foot level.has vanced 15 feet-\u2014\u00abtotal o 87 feet:",
+  "theme": "mining",
+  "passage_id": "cammlsmh_000188-p0"
+ },
+ {
+  "fact_id": "cammlsmh_000194-p2-f0",
+  "source_id": "cammlsmh_000194",
+  "split": "heldout",
+  "claim": "Any legitimate stockholder in a mining corporation formed under state law has the right to visit and examine the corporation's mines accompanied by an expert.",
+  "quote": "Any bona fide stockholder of a corporation formed under the laws of this State for the purpose of mining, shall be entitled to visit, accompanied by his expert, to examine the mine or mines owned by such corporation",
+  "theme": "mining",
+  "passage_id": "cammlsmh_000194-p2"
+ },
+ {
+  "fact_id": "cammlsmh_000194-p3-f0",
+  "source_id": "cammlsmh_000194",
+  "split": "heldout",
+  "claim": "The publication of the Bridgeport Union will begin about the middle of this month at Bridgeport, the county seat of Mono.",
+  "quote": "Abont the middle of this month, the publication of the Bridge- port Union will. commence at Bridgeport, the Connty Sent of Mono.",
+  "theme": "news",
+  "passage_id": "cammlsmh_000194-p3"
+ },
+ {
+  "fact_id": "cammlsmh_001069-p1-f0",
+  "source_id": "cammlsmh_001069",
+  "split": "heldout",
+  "claim": "Board per week costs nine dollars.",
+  "quote": "Board per week, - = - - - - -,$9 00. Single Meals, - - - - - - - - 60 sept7tf",
+  "theme": "commerce",
+  "passage_id": "cammlsmh_001069-p1"
+ },
+ {
+  "fact_id": "cammlsmh_001069-p3-f0",
+  "source_id": "cammlsmh_001069",
+  "split": "heldout",
+  "claim": "J. B. Vieira is a wholesale and retail dealer in beef, mutton, lamb, pork, veal, and various sausages on Main Street in Bodie.",
+  "quote": "Wholesale and Retail Dealer in Beef, Mutton, Lamb, Pork, Veal, and Sausage of all kinds, Prices to suit the times, Patrons will receive polite and prompt attention.",
+  "theme": "commerce",
+  "passage_id": "cammlsmh_001069-p3"
+ }
+]

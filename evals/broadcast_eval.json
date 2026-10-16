@@ -1,0 +1,9 @@
+{
+ "claims": 40,
+ "pct_quote_verbatim": 100.0,
+ "pct_source_ok": 100.0,
+ "pct_claim_text_intact_and_quoted": 100.0,
+ "violations": [],
+ "selftest_caught_fake_quote": true,
+ "selftest_caught_digit_bridge": true
+}

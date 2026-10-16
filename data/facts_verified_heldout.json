@@ -1,0 +1,21 @@
+[
+ {
+  "fact_id": "cammlsmh_000145-p2-f1",
+  "source_id": "cammlsmh_000145",
+  "split": "heldout",
+  "claim": "The winze reached a depth of 94 feet, below the 620 level, and was sunk and timbered an additional 14 feet last week.",
+  "quote": "This winze has attained a depth of 94 feet, below the 620 level, and bas been sunk an \u2018timbered the past week 14 feet.",
+  "theme": "mining",
+  "passage_id": "cammlsmh_000145-p2",
+  "snapped": true
+ },
+ {
+  "fact_id": "cammlsmh_000188-p0-f0",
+  "source_id": "cammlsmh_000188",
+  "split": "heldout",
+  "claim": "Since the last report, the north drift on the 150 foot level has advanced 15 feet to a total of 87 feet.",
+  "quote": "Since last report the north drift 150 foot level.has vanced 15 feet-\u2014\u00abtotal o 87 feet:",
+  "theme": "mining",
+  "passage_id": "cammlsmh_000188-p0"
+ }
+]

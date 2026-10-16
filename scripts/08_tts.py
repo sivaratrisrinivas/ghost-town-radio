@@ -9,10 +9,10 @@ sr=24000;n=0
 for H in B["hours"]:
     for l in H["lines"]:
         if l["type"]=="silence": l["audio"]=None;l["dur"]=3.5;continue
-        h=hashlib.md5((VOICE+str(SPEED)+l["text"]).encode()).hexdigest()[:10]
+        sp=l.get("speak",l["text"]);h=hashlib.md5((VOICE+str(SPEED)+sp).encode()).hexdigest()[:10]
         f=f"site/audio/lines/{h}.mp3"
         if not os.path.exists(f):
-            s,r=k.create(l["text"],voice=VOICE,speed=SPEED,lang="en-us")
+            s,r=k.create(sp,voice=VOICE,speed=SPEED,lang="en-us")
             sf.write("/tmp/l.wav",s,r)
             subprocess.run(["ffmpeg","-v","error","-y","-i","/tmp/l.wav","-af","silenceremove=start_periods=1:start_threshold=-50dB,areverse,silenceremove=start_periods=1:start_threshold=-50dB,areverse,loudnorm=I=-16:TP=-1.5","-ar","24000","-ac","1","-b:a","32k",f],check=True)
             n+=1

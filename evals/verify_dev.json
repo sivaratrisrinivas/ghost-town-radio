@@ -1,26 +1,49 @@
 {
  "split": "dev",
- "raw_facts": 116,
- "passing_all": 54,
- "pct_raw_llm_quote_verbatim": 73.3,
- "snapped_to_source": 19,
- "pct_pass_all": 46.6,
+ "raw_facts": 147,
+ "passing_all": 46,
+ "pct_raw_llm_quote_verbatim": 71.4,
+ "snapped_to_source": 21,
+ "pct_pass_all": 31.3,
  "per_check_pct": {
-  "schema_ok": 99.1,
+  "schema_ok": 99.3,
   "has_source_id": 100.0,
   "has_quote": 100.0,
-  "quote_readable": 69.0,
-  "quote_verbatim": 73.3,
-  "quote_len_ok": 96.6,
-  "claim_numbers_in_quote": 87.1,
-  "claim_ok_len": 99.1
+  "quote_readable": 65.3,
+  "quote_verbatim": 71.4,
+  "quote_len_ok": 94.6,
+  "claim_numbers_in_quote": 85.7,
+  "claim_grounded": 70.1,
+  "claim_ok_len": 99.3
  },
  "fail_examples": [
+  {
+   "fact_id": "cammlsmh_000137-p3-f0",
+   "failed": [
+    "quote_len_ok"
+   ],
+   "quote": "The mill is fast approaching completion."
+  },
+  {
+   "fact_id": "cammlsmh_000137-p4-f0",
+   "failed": [
+    "quote_readable"
+   ],
+   "quote": "That on the 6th ust. a tax x of $2.90 per $100 wus 1 vied, and, s, \u2018= Hospital tax of $3"
+  },
+  {
+   "fact_id": "cammlsmh_000137-p5-f0",
+   "failed": [
+    "claim_grounded"
+   ],
+   "quote": "\u2018Diersicr Count. This) Court, Hon. Theron Reed Judge, presiding, com nis noed its October Term on Monday last \u2018and. seit probably finish its busi- ness next wee"
+  },
   {
    "fact_id": "cammlsmh_000138-p0-f1",
    "failed": [
     "quote_readable",
-    "claim_numbers_in_quote"
+    "claim_numbers_in_quote",
+    "claim_grounded"
    ],
    "quote": "The School will open about | the Ist of Depemb\u00e9r with Mrs. Aubrey."
   },
@@ -76,6 +99,13 @@
    "quote": "Ladders havebeen put in from the surface to ~ level; making 9 continnous manway."
   },
   {
+   "fact_id": "cammlsmh_000149-p0-f0",
+   "failed": [
+    "claim_grounded"
+   ],
+   "quote": "The Dudle Com- pany ate now crosscutting west at a depth of 500 leet at their shaft"
+  },
+  {
    "fact_id": "cammlsmh_000149-p0-f2",
    "failed": [
     "quote_readable"
@@ -85,7 +115,8 @@
   {
    "fact_id": "cammlsmh_000149-p1-f0",
    "failed": [
-    "quote_readable"
+    "quote_readable",
+    "claim_grounded"
    ],
    "quote": "has die a confectionary store, in _Abbot\u2019s building, on Mainstreet, et Ave ue aud Mill street?"
   },
@@ -106,7 +137,8 @@
   {
    "fact_id": "cammlsmh_000154-p0-f1",
    "failed": [
-    "quote_verbatim"
+    "quote_verbatim",
+    "claim_grounded"
    ],
    "quote": "Wholesale and mineral dealers corner of Mill and Lu streets"
   },
@@ -114,9 +146,17 @@
    "fact_id": "cammlsmh_000154-p0-f2",
    "failed": [
     "quote_readable",
-    "quote_verbatim"
+    "quote_verbatim",
+    "claim_grounded"
    ],
    "quote": "DISTRICT ATTORNEY. : ar BRIDGEPORT, MONO CO., CAL. ATTORNEY 4 asp COUNSELLOR AT LAW"
+  },
+  {
+   "fact_id": "cammlsmh_000155-p1-f0",
+   "failed": [
+    "claim_grounded"
+   ],
+   "quote": "any and all persons claiming: said aliove d\u00e9scribed land. or any part. thereof adversely to the claim of the applicant thereto, are req ired-to file their adver"
   },
   {
    "fact_id": "cammlsmh_000155-p2-f0",
@@ -149,52 +189,18 @@
   {
    "fact_id": "cammlsmh_000157-p1-f0",
    "failed": [
-    "quote_verbatim"
+    "quote_verbatim",
+    "claim_grounded"
    ],
    "quote": "Any and all persons claiming adversely ... are required to file their adverse claims with the Register of the United States Land Office at Bodie."
   },
   {
    "fact_id": "cammlsmh_000157-p1-f1",
    "failed": [
-    "quote_verbatim"
+    "quote_verbatim",
+    "claim_grounded"
    ],
    "quote": "NOTICE IS HEREBY GIVEN ... filed its application for a patent for 1500 linear feet of the Ma Quartz Mine or vein bearing gold and silver."
-  },
-  {
-   "fact_id": "cammlsmh_000158-p0-f1",
-   "failed": [
-    "quote_readable"
-   ],
-   "quote": "Sinking the mai shaft and making good | headway\u2014the total depth being 535 feet, and pissing through ground of a very fa- rable character\u2014an iron stained porphy-"
-  },
-  {
-   "fact_id": "cammlsmh_000158-p1-f0",
-   "failed": [
-    "quote_readable"
-   ],
-   "quote": "He liked household iluminations of 4 good English coal fire, \u2018the living thing."
-  },
-  {
-   "fact_id": "cammlsmh_000158-p1-f1",
-   "failed": [
-    "quote_readable",
-    "claim_numbers_in_quote"
-   ],
-   "quote": "John A MoQuald, lot in \u201cBodie, west side oy} Main street, $500, imp. $1 600, persohal $350"
-  },
-  {
-   "fact_id": "cammlsmh_000160-p1-f0",
-   "failed": [
-    "quote_verbatim"
-   ],
-   "quote": "He claimed that the amount had been reduced by deposit ... to some $300, and this balance he could not admit or deny"
-  },
-  {
-   "fact_id": "cammlsmh_000164-p0-f1",
-   "failed": [
-    "quote_readable"
-   ],
-   "quote": "The up- raise on the Cook ledge\u2019 has been extended | during the week 12 feet,"
   }
  ]
 }
