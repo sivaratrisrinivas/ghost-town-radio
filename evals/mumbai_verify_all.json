@@ -1,0 +1,198 @@
+{
+ "split": "all",
+ "raw_facts": 118,
+ "passing_all": 60,
+ "pct_raw_llm_quote_verbatim": 88.1,
+ "snapped_to_source": 12,
+ "pct_pass_all": 50.8,
+ "per_check_pct": {
+  "schema_ok": 100.0,
+  "has_source_id": 100.0,
+  "has_quote": 100.0,
+  "quote_readable": 89.8,
+  "quote_verbatim": 88.1,
+  "quote_len_ok": 90.7,
+  "claim_numbers_in_quote": 94.9,
+  "claim_grounded": 72.0,
+  "claim_ok_len": 100.0
+ },
+ "fail_examples": [
+  {
+   "fact_id": "in.ernet.dli.2015.96511-p0-f0",
+   "failed": [
+    "claim_grounded"
+   ],
+   "quote": "The Bombay Dyeing and Manufacturing Company with their dye- works at Dadar was established in 1879 with a capital of Rs. 1 a lakhs."
+  },
+  {
+   "fact_id": "in.ernet.dli.2015.96511-p1-f0",
+   "failed": [
+    "claim_grounded"
+   ],
+   "quote": "by 1865 there were altogether ten mills in the city, working with 350,000 spindles and 3,380 looms"
+  },
+  {
+   "fact_id": "in.ernet.dli.2015.96511-p2-f0",
+   "failed": [
+    "claim_grounded"
+   ],
+   "quote": "business. It commenced work with a capital of 52^ lakhs, its business being confined to receiving deposits, keeping cash accounts, discounting bills and drafts "
+  },
+  {
+   "fact_id": "in.ernet.dli.2015.96511-p2-f1",
+   "failed": [
+    "claim_grounded"
+   ],
+   "quote": "Business opened in October 1842 and branches were established in Calcutta, Colombo, Hongkong and Singapore."
+  },
+  {
+   "fact_id": "in.ernet.dli.2015.96511-p3-f0",
+   "failed": [
+    "quote_readable"
+   ],
+   "quote": "The American Marathi mission waK founded in Bombay in 1813 by the Revd. Gordon Hall and the Revd. Samuel Nott, who had been expelled from Calcutta by the East I"
+  },
+  {
+   "fact_id": "in.ernet.dli.2015.96511-p3-f1",
+   "failed": [
+    "quote_readable"
+   ],
+   "quote": "The American Mission has org'anized a Church Sunday school, attended by 750 pupils ; a Christian En- deavour Society which preaches, distributes tracts and visi"
+  },
+  {
+   "fact_id": "in.ernet.dli.2015.96511-p6-f0",
+   "failed": [
+    "quote_len_ok"
+   ],
+   "quote": "In November 1880 the Government of India informed the Bombay Chamber of Commerce that they were considering the question of introducing the telephone into India"
+  },
+  {
+   "fact_id": "in.ernet.dli.2015.96511-p6-f1",
+   "failed": [
+    "claim_grounded"
+   ],
+   "quote": "to which the Chamber of Commerce replied that in their opinion the introduction of this convenience should be left to private enterprise."
+  },
+  {
+   "fact_id": "in.ernet.dli.2015.96511-p6-f2",
+   "failed": [
+    "claim_numbers_in_quote"
+   ],
+   "quote": "for in 1882 the Bombay Tele- phone Company, established with limited liability under the Indian Companies* Act, was formed with a nominal capital of 9*6 lakhs t"
+  },
+  {
+   "fact_id": "in.ernet.dli.2015.96511-p7-f0",
+   "failed": [
+    "claim_numbers_in_quote"
+   ],
+   "quote": "The annual subsidy paid by Government was j\u00a3^34,ooo."
+  },
+  {
+   "fact_id": "in.ernet.dli.2015.96511-p9-f0",
+   "failed": [
+    "claim_grounded"
+   ],
+   "quote": "The original locomotive works of the Great Indian Penin- sula Railway were opened at Byculla about 1854, and gave employment to between 800 and 1000 operatives."
+  },
+  {
+   "fact_id": "in.ernet.dli.2015.96511-p14-f1",
+   "failed": [
+    "claim_grounded"
+   ],
+   "quote": "one of the finest of these vessels being the yoAu Bright, owned by a Pars! firm, which made her first voyage from Gravesend to Bombay viis the Cape in 58 days i"
+  },
+  {
+   "fact_id": "in.ernet.dli.2015.96511-p14-f2",
+   "failed": [
+    "quote_readable"
+   ],
+   "quote": "The rate of freight for opium by steamer was Rs. 28 per chest while by clipper it was Rs. 5, and by fast clipper Rs. 10 to Rs. i6."
+  },
+  {
+   "fact_id": "in.ernet.dli.2015.96511-p15-f1",
+   "failed": [
+    "claim_grounded"
+   ],
+   "quote": "The bay was strewn with bales of cotton and wrecks of boats and ships : in Back Bay the dead were washed out of their graves and floated about the shore."
+  },
+  {
+   "fact_id": "in.ernet.dli.2015.96511-p15-f2",
+   "failed": [
+    "claim_numbers_in_quote"
+   ],
+   "quote": "The Bombay Times of 1839 records a severe storm on May asod, 1839, lu which a ship was struck by lightning and three men wars killed."
+  },
+  {
+   "fact_id": "in.ernet.dli.2015.96511-p16-f1",
+   "failed": [
+    "quote_readable"
+   ],
+   "quote": "The registered trade- mark of the mill\u2019s products is the ** Anchor '* which is well- known throug^ut India and East Africa."
+  },
+  {
+   "fact_id": "in.ernet.dli.2015.96511-p16-f2",
+   "failed": [
+    "claim_grounded"
+   ],
+   "quote": "It was established in 1887 and is situated in Byculla. It is a joint stock concern with a capital of 3 lakhs."
+  },
+  {
+   "fact_id": "in.ernet.dli.2015.96511-p18-f1",
+   "failed": [
+    "quote_readable",
+    "claim_grounded"
+   ],
+   "quote": "In 1872 the Directors agiwd witii the Home Government to organize a mail setVice betweite i^en and Zanzibar."
+  },
+  {
+   "fact_id": "in.ernet.dli.2015.96511-p18-f2",
+   "failed": [
+    "claim_grounded"
+   ],
+   "quote": "early as 1847 the Company possessed live steamers which plied between Bombay, Surat, Karachi and Colombo."
+  },
+  {
+   "fact_id": "in.ernet.dli.2015.96511-p20-f0",
+   "failed": [
+    "claim_grounded"
+   ],
+   "quote": "The total number of European and Native employes of the Company is 16,830."
+  },
+  {
+   "fact_id": "in.ernet.dli.2015.35213-p0-f0",
+   "failed": [
+    "quote_readable"
+   ],
+   "quote": "The Bombay Tract Society was founded in the vestry of St. Andrew's Church in 1827."
+  },
+  {
+   "fact_id": "in.ernet.dli.2015.35213-p1-f0",
+   "failed": [
+    "quote_readable"
+   ],
+   "quote": "Femiile education likewise received a stimulus by an annual assignment of Rs. 10,000 made by the Government of India in 1868"
+  },
+  {
+   "fact_id": "in.ernet.dli.2015.35213-p2-f0",
+   "failed": [
+    "quote_verbatim",
+    "quote_len_ok"
+   ],
+   "quote": "In 1813 the East India Company resolved to appoint a minister of the Church of Scotland at each of the > See Bombay and Western India by J. Douglas. II, 252. Pr"
+  },
+  {
+   "fact_id": "in.ernet.dli.2015.35213-p4-f0",
+   "failed": [
+    "quote_readable"
+   ],
+   "quote": "Paul\u2019s church, Kamathipura, opened in 1871 ; and the Baptist church opened in 1874."
+  },
+  {
+   "fact_id": "in.ernet.dli.2015.35213-p6-f0",
+   "failed": [
+    "claim_numbers_in_quote"
+   ],
+   "quote": "The only English Church at Bombay, and which is full sufficient for any passible congregption of them at it, is a building extremely neat, commodious and airy, "
+  }
+ ]
+}

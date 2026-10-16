@@ -1,0 +1,228 @@
+[
+ {
+  "fact_id": "mysoreagazettee02ricegoog-p13-f1",
+  "source_id": "mysoreagazettee02ricegoog",
+  "split": "heldout",
+  "claim": "Cattle-shows were held for some years by Government, at which liberal prizes were given, with the view of promoting an improvement in the breed of domestic cattle.",
+  "quote": "Cattle-shows were held for some years by Government, at which liberal prizes were given, with the view of promoting an improvement in the breed of domestic cattle.",
+  "theme": "community",
+  "passage_id": "mysoreagazettee02ricegoog-p13"
+ },
+ {
+  "fact_id": "mysoregazetteerc01rice-p15-f0",
+  "source_id": "mysoregazetteerc01rice",
+  "split": "dev",
+  "claim": "The headquarters were moved from Bangalore to Mysore in May 1894.",
+  "quote": "The headquarters were removed from Bangalore to Mysore in May 1894.",
+  "theme": "travel",
+  "passage_id": "mysoregazetteerc01rice-p15"
+ },
+ {
+  "fact_id": "BangaloreGazetteer1875-p0-f2",
+  "source_id": "BangaloreGazetteer1875",
+  "split": "dev",
+  "claim": "A fair is held every Friday and is attended by 400 persons.",
+  "quote": "A fair is held every Friday, attended by 400 persons.",
+  "theme": "commerce",
+  "passage_id": "BangaloreGazetteer1875-p0"
+ },
+ {
+  "fact_id": "mysoregazetteerc01rice-p21-f0",
+  "source_id": "mysoregazetteerc01rice",
+  "split": "dev",
+  "claim": "The Patvegar caste are silk weavers who speak a language allied to Mahratti and mostly live in the Bangalore District.",
+  "quote": "The Patvegar, of whom the majority are in Bangalore District, are silk weavers and speak a language allied to Mahratti.",
+  "theme": "community",
+  "passage_id": "mysoregazetteerc01rice-p21"
+ },
+ {
+  "fact_id": "BangaloreGazetteer1875-p18-f0",
+  "source_id": "BangaloreGazetteer1875",
+  "split": "dev",
+  "claim": "Smallpox was always somewhat prevalent in the district during the hot season and the beginning of the rains.",
+  "quote": "Small pox is always more or less prevalont in the District daring the hot season and commencement of the rains.",
+  "theme": "community",
+  "passage_id": "BangaloreGazetteer1875-p18"
+ },
+ {
+  "fact_id": "mysoreagazettee02ricegoog-p13-f2",
+  "source_id": "mysoreagazettee02ricegoog",
+  "split": "heldout",
+  "claim": "The quality of the mutton sold in Bangalore has been greatly improved by means of prizes offered by the Municipality at the new market.",
+  "quote": "The quality of the mutton sold in Bangalore has been greatly improved by means of prizes offered by the Municipality at the new market.",
+  "theme": "commerce",
+  "passage_id": "mysoreagazettee02ricegoog-p13"
+ },
+ {
+  "fact_id": "mysoreagazettee02ricegoog-p19-f1",
+  "source_id": "mysoreagazettee02ricegoog",
+  "split": "dev",
+  "claim": "Closepet has a large number of Muhammadan residents belonging to the I^bbe and Daira sects.",
+  "quote": "It is the residence of a large number of Muhammadans belonging to the I^bbe and Daira sects",
+  "theme": "community",
+  "passage_id": "mysoreagazettee02ricegoog-p19"
+ },
+ {
+  "fact_id": "mysoregazetteerc01rice-p1-f2",
+  "source_id": "mysoregazetteerc01rice",
+  "split": "dev",
+  "claim": "The total registered mortality amounted to 3,139.",
+  "quote": "The total mortality registered amounted to 3,139, of which 1,828 were males and 1,311 females.",
+  "theme": "news",
+  "passage_id": "mysoregazetteerc01rice-p1"
+ },
+ {
+  "fact_id": "mysoreagazettee02ricegoog-p21-f1",
+  "source_id": "mysoreagazettee02ricegoog",
+  "split": "heldout",
+  "claim": "A fair held on Thursday is attended by 2,000 people.",
+  "quote": "A fair held on Thursday is attended by 2,000 people.",
+  "theme": "community",
+  "passage_id": "mysoreagazettee02ricegoog-p21"
+ },
+ {
+  "fact_id": "mysoreagazettee02ricegoog-p19-f0",
+  "source_id": "mysoreagazettee02ricegoog",
+  "split": "dev",
+  "claim": "Closepet is known for making lacquered ware, toys, fine steel wires for musical instruments, and glass bracelets.",
+  "quote": "It is celebrated for the manufacture of lacquered ware and toys, of fine steel wires for strings of musical instruments, and of glass bracelets",
+  "theme": "commerce",
+  "passage_id": "mysoreagazettee02ricegoog-p19"
+ },
+ {
+  "fact_id": "mysoreagazettee02ricegoog-p17-f0",
+  "source_id": "mysoreagazettee02ricegoog",
+  "split": "dev",
+  "claim": "The town has become a rising and busy centre since the railway arrived in 1889 and the taluq headquarters was located there.",
+  "quote": "Since the advent of the railway in 1889, and the location here of the taluq head-quarters, it has developed into a rising and busy centre.",
+  "theme": "commerce",
+  "passage_id": "mysoreagazettee02ricegoog-p17"
+ },
+ {
+  "fact_id": "mysoreagazettee02ricegoog-p11-f0",
+  "source_id": "mysoreagazettee02ricegoog",
+  "split": "dev",
+  "claim": "In 1837 no bridge or road worthy of the name existed in the district.",
+  "quote": "In 1837 not a bridge had been constructed in the District, nor a road formed worthy of the name",
+  "theme": "travel",
+  "passage_id": "mysoreagazettee02ricegoog-p11"
+ },
+ {
+  "fact_id": "BangaloreGazetteer1875-p2-f0",
+  "source_id": "BangaloreGazetteer1875",
+  "split": "dev",
+  "claim": "Nelamangala is a town located about 17 miles northwest of Bangalore on the Bangalore\u2011Tumkur road.",
+  "quote": "Nelamangala \u2014 A town situated in 13=6 N.lat. 77\u00b027E. long, 17 miles north-west of Bangalore on the Bangalore-Tumkur road.",
+  "theme": "travel",
+  "passage_id": "BangaloreGazetteer1875-p2"
+ },
+ {
+  "fact_id": "mysoreagazettee02ricegoog-p20-f2",
+  "source_id": "mysoreagazettee02ricegoog",
+  "split": "dev",
+  "claim": "Hay is cultivated in the neighbourhood of Hoskote for the Bangalore market.",
+  "quote": "Considerable attention is given to the cultivation of hay for the Bangalore market, especially in the neighbourhood of Hoskote.",
+  "theme": "commerce",
+  "passage_id": "mysoreagazettee02ricegoog-p20"
+ },
+ {
+  "fact_id": "mysoregazetteerc01rice-p1-f1",
+  "source_id": "mysoregazetteerc01rice",
+  "split": "dev",
+  "claim": "Cholera attacked Bangalore in September.",
+  "quote": "Cholera attacked Bangalore in September, and in November the mortality amounted to 225, and December to 95.",
+  "theme": "news",
+  "passage_id": "mysoregazetteerc01rice-p1"
+ },
+ {
+  "fact_id": "mysoreagazettee02ricegoog-p20-f1",
+  "source_id": "mysoreagazettee02ricegoog",
+  "split": "dev",
+  "claim": "The country is largely open and easily crossed, except for some low hills on the north.",
+  "quote": "With the exception of some low hills on the north, the country is open and easily crossed in all parts.",
+  "theme": "community",
+  "passage_id": "mysoreagazettee02ricegoog-p20"
+ },
+ {
+  "fact_id": "mysoregazetteerc01rice-p0-f0",
+  "source_id": "mysoregazetteerc01rice",
+  "split": "dev",
+  "claim": "The High School was established in Bangalore in the year 1847.",
+  "quote": "The principal institution is the High School (established in 1847 in Bangalore) and its branches, educating up to the standard of matriculation at the Madras University.",
+  "theme": "community",
+  "passage_id": "mysoregazetteerc01rice-p0"
+ },
+ {
+  "fact_id": "mysoregazetteerc01rice-p1-f0",
+  "source_id": "mysoregazetteerc01rice",
+  "split": "dev",
+  "claim": "In December, the aggregate of mortality experienced a marked reduction.",
+  "quote": "In December there was a marked reduction in the aggregate of mortality.",
+  "theme": "news",
+  "passage_id": "mysoregazetteerc01rice-p1"
+ },
+ {
+  "fact_id": "mysoregazetteerc01rice-p3-f1",
+  "source_id": "mysoregazetteerc01rice",
+  "split": "dev",
+  "claim": "In 1892, the two regiments were broken up and two new corps were formed, with final sanction granted in July 1893.",
+  "quote": "In 1892 the two regiments were broken up and two fresh corps formed, as finally sanctioned in July 1893",
+  "theme": "community",
+  "passage_id": "mysoregazetteerc01rice-p3"
+ },
+ {
+  "fact_id": "mysoregazetteerc01rice-p3-f2",
+  "source_id": "mysoregazetteerc01rice",
+  "split": "dev",
+  "claim": "The actual strength of the two regiments in 1895 was 1,194 in total.",
+  "quote": "The actual strength of the two regiments in 1895 was : Imperial Service Regiment, 645 ; Local Service Regiment, 549 ; or 1,194 altogether.",
+  "theme": "community",
+  "passage_id": "mysoregazetteerc01rice-p3"
+ },
+ {
+  "fact_id": "mysoreagazettee02ricegoog-p13-f0",
+  "source_id": "mysoreagazettee02ricegoog",
+  "split": "heldout",
+  "claim": "Very good cows are reared in Bangalore, where they sell for from Rs. 40 to 80 apiece.",
+  "quote": "Very good cows are reared in Bangalore, where they sell for from Rs. 40 to 80 apiece.",
+  "theme": "commerce",
+  "passage_id": "mysoreagazettee02ricegoog-p13"
+ },
+ {
+  "fact_id": "mysoregazetteerc01rice-p0-f2",
+  "source_id": "mysoregazetteerc01rice",
+  "split": "dev",
+  "claim": "The Canarese Mission was started in Bangalore in 1835.",
+  "quote": "The Canarese Mission was begun in Bangalore in 1835. The following year a lengthened tour through Mysore and Coorg was undertaken by two of the missionaries",
+  "theme": "community",
+  "passage_id": "mysoregazetteerc01rice-p0"
+ },
+ {
+  "fact_id": "mysoregazetteerc01rice-p7-f0",
+  "source_id": "mysoregazetteerc01rice",
+  "split": "dev",
+  "claim": "There were 83 municipalities in 1881, excluding the Civil and Military Station of Bangalore.",
+  "quote": "Excluding that of the Civil and .Military Station of Bangalore, which remained under British Administration, there were 83 Municipalities in 1881.",
+  "theme": "community",
+  "passage_id": "mysoregazetteerc01rice-p7"
+ },
+ {
+  "fact_id": "mysoreagazettee02ricegoog-p15-f1",
+  "source_id": "mysoreagazettee02ricegoog",
+  "split": "dev",
+  "claim": "The trunk road from Bangalore to Salem runs through the taluq from north-west to south-east, with a branch road to Anekal from near Hebbagod.",
+  "quote": "The trunk road from Bangalore to Salem runs through the taluq\u00bb from north-west to south-east, with a branch road to Anekal from near Hebbagod.",
+  "theme": "travel",
+  "passage_id": "mysoreagazettee02ricegoog-p15",
+  "snapped": true
+ },
+ {
+  "fact_id": "mysoreagazettee02ricegoog-p2-f0",
+  "source_id": "mysoreagazettee02ricegoog",
+  "split": "dev",
+  "claim": "The Bangalore-Poona railway runs through the taluq in a north-west direction.",
+  "quote": "The Bangalore-Poona railway runs through the taluq in a north-west direction, with stations at Devanur, Kadiir and Blriir",
+  "theme": "travel",
+  "passage_id": "mysoreagazettee02ricegoog-p2"
+ }
+]

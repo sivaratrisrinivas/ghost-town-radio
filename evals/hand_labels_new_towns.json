@@ -1,0 +1,30 @@
+{
+ "method": "One reviewer (me, an AI agent) read each verified candidate claim against its quote. 'unsupported' = claim adds or changes something the quote does not say, or the quote is a fragment or garbled. 'duplicate' = same quote already chosen. 'out_of_scope' = Imperial Gazetteer entries for Bombay Presidency towns that are not Bombay city.",
+ "towns": {
+  "bangalore": {
+   "reviewed": 29,
+   "unsupported": 3,
+   "duplicate": 1,
+   "out_of_scope": 0
+  },
+  "coorg": {
+   "reviewed": 31,
+   "unsupported": 3,
+   "duplicate": 3,
+   "out_of_scope": 0
+  },
+  "hyderabad": {
+   "reviewed": 26,
+   "unsupported": 7,
+   "duplicate": 2,
+   "out_of_scope": 0
+  },
+  "mumbai": {
+   "reviewed": 36,
+   "unsupported": 5,
+   "duplicate": 0,
+   "out_of_scope": 8
+  }
+ },
+ "supported_rate": "96 of 114 in-scope reviewed claims supported (84.2%); the 18 unsupported were removed"
+}

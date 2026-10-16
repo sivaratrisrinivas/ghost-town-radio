@@ -1,0 +1,1235 @@
+[
+ {
+  "fact_id": "manualcoorgagaz00richgoog-p0-f0",
+  "source_id": "manualcoorgagaz00richgoog",
+  "split": "dev",
+  "claim": "The Rdjah of Coorg has recovered his hereditary principality from Tippu Sultan.",
+  "quote": "The Rdjah of Coorg has himself recovered his here- ditary principality from Tippu Sultan.",
+  "theme": "news",
+  "passage_id": "manualcoorgagaz00richgoog-p0"
+ },
+ {
+  "fact_id": "manualcoorgagaz00richgoog-p0-f1",
+  "source_id": "manualcoorgagaz00richgoog",
+  "split": "dev",
+  "claim": "The Rdjah freely opened his country to the Bombay forces and supplied them with grain, cattle, etc.",
+  "quote": "The Rdjah freely opened his country to the Bombay forces, which marched from Tellicherry to Mysore, and was most zealous in providing the Company's troops with every thing he could procure for them in Coorg and Mysore.",
+  "theme": "community",
+  "passage_id": "manualcoorgagaz00richgoog-p0"
+ },
+ {
+  "fact_id": "manualcoorgagaz00richgoog-p0-f2",
+  "source_id": "manualcoorgagaz00richgoog",
+  "split": "dev",
+  "claim": "Lord Cornwallis wanted to place the Rdjah of Coorg under the special protection of the Company after the treaty at Seringapatam.",
+  "quote": "In March last, when the treaty was concluded at Seringapatam, Lord Cornwallis, in order to free the Rdjah of Coorg entirely from the power of Tippu, desired to take him under the special protection of the Company.",
+  "theme": "news",
+  "passage_id": "manualcoorgagaz00richgoog-p0"
+ },
+ {
+  "fact_id": "manualcoorgagaz00richgoog-p1-f0",
+  "source_id": "manualcoorgagaz00richgoog",
+  "split": "dev",
+  "claim": "Three schools were established at Vfrdjpet, Kiggatndd and Fraserpet with a total of 245 pupils.",
+  "quote": "established at Vfrdjpet, Kiggatndd and Fraserpet with a total of 245 pupils are to serve a double purpose.",
+  "theme": "community",
+  "passage_id": "manualcoorgagaz00richgoog-p1"
+ },
+ {
+  "fact_id": "manualcoorgagaz00richgoog-p1-f1",
+  "source_id": "manualcoorgagaz00richgoog",
+  "split": "dev",
+  "claim": "Two more schools were opened at Padyndlkandd and Kodlipet, giving each taluq an English School.",
+  "quote": "With the opening of two more Schools at Padyndlkandd and Kodlipet, each taluq will have an English School.",
+  "theme": "community",
+  "passage_id": "manualcoorgagaz00richgoog-p1"
+ },
+ {
+  "fact_id": "manualcoorgagaz00richgoog-p1-f2",
+  "source_id": "manualcoorgagaz00richgoog",
+  "split": "dev",
+  "claim": "The Central School at Mercara advanced to its present position after a decisive step in 1862 when Coorg Headmen petitioned the Government for assistance.",
+  "quote": "The Central School at Mercara gradually advanced to its present position, the first decisive step having been taken in 1862, when the Coorg Headmen petitioned Government for assistance.",
+  "theme": "news",
+  "passage_id": "manualcoorgagaz00richgoog-p1"
+ },
+ {
+  "fact_id": "manualcoorgagaz00richgoog-p2-f0",
+  "source_id": "manualcoorgagaz00richgoog",
+  "split": "dev",
+  "claim": "The teaching of the native languages, Hindustani at Mercara, and Canarese in the districts, consisted in reading and writing of the alphabets, getting by heart of multiplication tables and, when the scholars had further advanced, the reading and writing of petitions (Arjis).",
+  "quote": "The teaching of the native languages, Hindustani at Mercara, and Canarese in the districts, consisted in reading and writing of the alphabets, getting by heart of multiplica- tion tables and, when the scholars had further advanced, the reading and writing of petitions (Arjis).",
+  "theme": "community",
+  "passage_id": "manualcoorgagaz00richgoog-p2"
+ },
+ {
+  "fact_id": "manualcoorgagaz00richgoog-p2-f1",
+  "source_id": "manualcoorgagaz00richgoog",
+  "split": "dev",
+  "claim": "In 1855, encouraged by Sir MarkCubbon, Dr. Moegling, the first Protestant Missionary in Coorg, established an English School at Mercara, the charge of which was placed into the hands of the Eev. G. Richter in May 1856 and in February 1857 the Supreme Government sanctioned a liberal grant for its support.",
+  "quote": "In 1855, encouraged by Sir MarkCubbon, Dr. Moegling, the first Protestant Missionary in Coorg, esta.blished an English School at Mercara, the charge of which was placed into the hands of the Eev. G. Richter in May 1856 and in February 1857 the Supreme Government sanctioned a liberal grant for its support.",
+  "theme": "community",
+  "passage_id": "manualcoorgagaz00richgoog-p2"
+ },
+ {
+  "fact_id": "manualcoorgagaz00richgoog-p2-f2",
+  "source_id": "manualcoorgagaz00richgoog",
+  "split": "dev",
+  "claim": "The Head-sheristadar, Nanchappa, having been reconciled to the new order of things, the School began to flourish and gain the favour of the people.",
+  "quote": "the Head-sheristadar, Nanchappa, having been reconciled to the new order of things, the School began to flourish and gain the favour of the people.",
+  "theme": "community",
+  "passage_id": "manualcoorgagaz00richgoog-p2"
+ },
+ {
+  "fact_id": "manualcoorgagaz00richgoog-p3-f0",
+  "source_id": "manualcoorgagaz00richgoog",
+  "split": "dev",
+  "claim": "The number of Vernacular district schools was raised to 25 and the teachers, nearly all of them Coorgs, were trained by the Principal four at a time for 3 or 4 months at the Central School, which served as a Normal School.",
+  "quote": "The number of Vernacular dtstrtcUschools was raised to 25 and the teachers, nearly all of them Coorgs, were trained by the Principal four at a time for 3 or 4 months at the Central School, which served as a Normal School.",
+  "theme": "community",
+  "passage_id": "manualcoorgagaz00richgoog-p3"
+ },
+ {
+  "fact_id": "manualcoorgagaz00richgoog-p3-f1",
+  "source_id": "manualcoorgagaz00richgoog",
+  "split": "dev",
+  "claim": "After a successful examination the teachers' former pittance of Rs. 2^ per mensem was increased to a monthly salary of Rs. 7 with the prospect of Rs. 12 p. m. after five years' satisfactory service.",
+  "quote": "After a success- ful examination the teachers' former pittance of Rs. 2^ per mensem was increased to a monthly salary of Rs. 7 with the prospect of Rs. 12 p. m. after five years' satisfactory service.",
+  "theme": "community",
+  "passage_id": "manualcoorgagaz00richgoog-p3"
+ },
+ {
+  "fact_id": "manualcoorgagaz00richgoog-p3-f2",
+  "source_id": "manualcoorgagaz00richgoog",
+  "split": "dev",
+  "claim": "Once in 3 or 4 months all the teachers assemble in Mercara for a conference with the Principal to give an oral report in each other's presence on the state of their work and to receive further instruction in educational topics.",
+  "quote": "Once in 3 or 4 months all the teachers assemble in Mercara for a conference with the Principal to give an oral report in each other's presence on the state of their work and to receive further instruction in educational topics.",
+  "theme": "community",
+  "passage_id": "manualcoorgagaz00richgoog-p3"
+ },
+ {
+  "fact_id": "manualcoorgagaz00richgoog-p4-f0",
+  "source_id": "manualcoorgagaz00richgoog",
+  "split": "dev",
+  "claim": "There were 1,545 pupils in schools in March 1870, of whom 1,422 were in Government Schools and 1,082 were children of Coorgs.",
+  "quote": "Of the 1,545 pupils at School in March 1870, 1,422 were in Government Schools and 1,082 children Coorgs.",
+  "theme": "community",
+  "passage_id": "manualcoorgagaz00richgoog-p4"
+ },
+ {
+  "fact_id": "manualcoorgagaz00richgoog-p5-f0",
+  "source_id": "manualcoorgagaz00richgoog",
+  "split": "dev",
+  "claim": "The town has 326 houses and 1,213 residents, including 360 Christians, 388 Muslims, and 465 Hindus.",
+  "quote": "It contains now 326 houses, mostly tiled, and a population of 1,213 souls, of whom 360 are Christians, 388 Mussulmans and 465 Hindus.",
+  "theme": "community",
+  "passage_id": "manualcoorgagaz00richgoog-p5"
+ },
+ {
+  "fact_id": "manualcoorgagaz00richgoog-p5-f1",
+  "source_id": "manualcoorgagaz00richgoog",
+  "split": "dev",
+  "claim": "The town holds a market every Monday, which is why it is called Fraserpet.",
+  "quote": "Every Monday there is market, hence the name of the place.",
+  "theme": "commerce",
+  "passage_id": "manualcoorgagaz00richgoog-p5"
+ },
+ {
+  "fact_id": "manualcoorgagaz00richgoog-p5-f2",
+  "source_id": "manualcoorgagaz00richgoog",
+  "split": "dev",
+  "claim": "The town has a Roman Catholic Church, a shrine to Ganapati with a public well, an Anglo-Vernacular School, a native rest-house with a tank, a government wood-yard, and European bungalows.",
+  "quote": "The town can boast of a Roman Catholic Church, a newly built shrine, dedicated to Ganapati, with a very useful public well in front of it, an Anglo-Vernacular School, a native rest-house with a tank and a Government wood-yard, besides the European bangalows.",
+  "theme": "community",
+  "passage_id": "manualcoorgagaz00richgoog-p5"
+ },
+ {
+  "fact_id": "manualcoorgagaz00richgoog-p6-f0",
+  "source_id": "manualcoorgagaz00richgoog",
+  "split": "dev",
+  "claim": "Vlrardja removed to his palace at Nalkandd at the start of the war.",
+  "quote": "Vlrardja, at the commencement of the war, had removed to his palace at Nalkandd, a place almost inaccessible to an army.",
+  "theme": "news",
+  "passage_id": "manualcoorgagaz00richgoog-p6"
+ },
+ {
+  "fact_id": "manualcoorgagaz00richgoog-p6-f1",
+  "source_id": "manualcoorgagaz00richgoog",
+  "split": "dev",
+  "claim": "He took his women, band, treasures and remaining Coorg families with him.",
+  "quote": "He had taken with him his women, his band, his treasures and what remained of the Coorg Bdjah's families, that he might destroy them all, if necessary,",
+  "theme": "community",
+  "passage_id": "manualcoorgagaz00richgoog-p6"
+ },
+ {
+  "fact_id": "manualcoorgagaz00richgoog-p6-f2",
+  "source_id": "manualcoorgagaz00richgoog",
+  "split": "dev",
+  "claim": "He prohibited his Coorgs from confronting Company troops to allow easy advance.",
+  "quote": "he sent orders, prohibiting his Coorgs from encountering the troops of the Company, hence the easy advance of the latter.",
+  "theme": "news",
+  "passage_id": "manualcoorgagaz00richgoog-p6"
+ },
+ {
+  "fact_id": "manualcoorgagaz00richgoog-p7-f0",
+  "source_id": "manualcoorgagaz00richgoog",
+  "split": "dev",
+  "claim": "About 5,000 Coorgs who had been carried away by Tippu, along with their wives and children, making about 12,000 souls in total, escaped during the confusion and returned to their native country.",
+  "quote": "about 5,000 Coorgs, who had been carried away by Tippu, with their wives and children, altogether about 12,000 souls, made their escape in the confusion that ensued and returned to their native country.",
+  "theme": "community",
+  "passage_id": "manualcoorgagaz00richgoog-p7"
+ },
+ {
+  "fact_id": "manualcoorgagaz00richgoog-p8-f0",
+  "source_id": "manualcoorgagaz00richgoog",
+  "split": "dev",
+  "claim": "The taluq has 57 villages and a population of 20,303 souls, of whom 5,611 are Coorgs, 13,256 other Hindus, 1,029 Muslims, and the rest belong to other castes.",
+  "quote": "with its five Ndds is twice the size of Mercara-taluq, but contains the same number of villages viz. 57 with a population of 20,303 souls, of whom 5611 are Coorgs and 13,256 other Hindus, 1029 Mussulmans and the rest belonging to other castes.",
+  "theme": "community",
+  "passage_id": "manualcoorgagaz00richgoog-p8"
+ },
+ {
+  "fact_id": "manualcoorgagaz00richgoog-p8-f1",
+  "source_id": "manualcoorgagaz00richgoog",
+  "split": "dev",
+  "claim": "The taluq contains the largest and most productive cardamom jungles.",
+  "quote": "with the largest and most productive cardamom jungles.",
+  "theme": "commerce",
+  "passage_id": "manualcoorgagaz00richgoog-p8"
+ },
+ {
+  "fact_id": "manualcoorgagaz00richgoog-p8-f2",
+  "source_id": "manualcoorgagaz00richgoog",
+  "split": "dev",
+  "claim": "Rice cultivation is so deficient that even the largest farms cannot produce enough rice for their own consumption, forcing ryots to buy rice for six months a year.",
+  "quote": "Rice cultivation, owing to the want of suitable land, is so deficient, that even the largest farms are not : able to produce sufficient rice for their own consumption; the ryots in general have to buy rice for six months in the year",
+  "theme": "commerce",
+  "passage_id": "manualcoorgagaz00richgoog-p8"
+ },
+ {
+  "fact_id": "manualcoorgagaz00richgoog-p9-f0",
+  "source_id": "manualcoorgagaz00richgoog",
+  "split": "dev",
+  "claim": "A Coorg named Channa Basava and his wife fled to the Residency for protection.",
+  "quote": "On the 17tli September 1832, I. A, Casamajor, Eesident in Mysore, reported to the Chief Secretary to the Government of Fort St. George, that a Coorg of the name of Channa Basava and his wife, D^vammdji, sister to the Rdjah of Coorg, had taken refuge at the Residency.",
+  "theme": "community",
+  "passage_id": "manualcoorgagaz00richgoog-p9"
+ },
+ {
+  "fact_id": "manualcoorgagaz00richgoog-p9-f1",
+  "source_id": "manualcoorgagaz00richgoog",
+  "split": "dev",
+  "claim": "The couple were threatened with death by the Rdjah during a festival.",
+  "quote": "Of late the Edjah had made incestuous proposals to her through an old woman- servant, and had threatened to kill her husband, if she refused compliance, on the following Shivardtri festival.",
+  "theme": "crime",
+  "passage_id": "manualcoorgagaz00richgoog-p9"
+ },
+ {
+  "fact_id": "manualcoorgagaz00richgoog-p9-f2",
+  "source_id": "manualcoorgagaz00richgoog",
+  "split": "dev",
+  "claim": "They escaped by drugging the guard and traveling to Mysore, but were stopped by the Coorg frontier guard.",
+  "quote": "During the night they reached Beppundd, passed Amadndd in the morning and were drawing near the Mysore frontier, when they were stopped by the Coorg frontier guard. Being fired at, their party returned fire.",
+  "theme": "crime",
+  "passage_id": "manualcoorgagaz00richgoog-p9"
+ },
+ {
+  "fact_id": "manualcoorgagaz00richgoog-p11-f0",
+  "source_id": "manualcoorgagaz00richgoog",
+  "split": "dev",
+  "claim": "The Supreme Government decided that the Coorg refugees should not be restored to Vfrardja.",
+  "quote": "The Supreme Government decided under the 18th January 1833, that the Coorg refugees should not be restored to Vfrardja.",
+  "theme": "crime",
+  "passage_id": "manualcoorgagaz00richgoog-p11"
+ },
+ {
+  "fact_id": "manualcoorgagaz00richgoog-p11-f1",
+  "source_id": "manualcoorgagaz00richgoog",
+  "split": "dev",
+  "claim": "A man from the north of Coorg reported that Vfrardja shot at Ndrdyana Ndyaka with a blunt arrow and then a sharp arrow that killed him.",
+  "quote": "A man from the north of Coorg deposed: that he saw Vfrardja, on a hunting excursion, shooting atNdrdyana Ndyaka, Hobliddra, first with blunt arrows, then with a sharp arrow which killed him, in presence of all his retinue.",
+  "theme": "crime",
+  "passage_id": "manualcoorgagaz00richgoog-p11"
+ },
+ {
+  "fact_id": "manualcoorgagaz00richgoog-p11-f2",
+  "source_id": "manualcoorgagaz00richgoog",
+  "split": "dev",
+  "claim": "Many people, including Coorgs and slaves, were killed, mutilated, starved, or imprisoned for assisting Channa Basava in his escape.",
+  "quote": "Besides, numbers of people, men and women, Coorgs and slaves, relatives of the Rdjah's family and others, ivho were believed to have been privy to the plans of Channa Basava, or to have assisted him in his escape, were killed, or mutilated, or starved to death, or thrown into prison.",
+  "theme": "crime",
+  "passage_id": "manualcoorgagaz00richgoog-p11"
+ },
+ {
+  "fact_id": "manualcoorgagaz00richgoog-p12-f0",
+  "source_id": "manualcoorgagaz00richgoog",
+  "split": "dev",
+  "claim": "Tippu transferred his claims of allegiance and the tribute of Bs. 24,000 annually from the B4jah to the English.",
+  "quote": "he transferred his claims of allegi- ance and the tribute of Bs. 24,000 annually from the B4jah to the English",
+  "theme": "commerce",
+  "passage_id": "manualcoorgagaz00richgoog-p12"
+ },
+ {
+  "fact_id": "manualcoorgagaz00richgoog-p13-f0",
+  "source_id": "manualcoorgagaz00richgoog",
+  "split": "dev",
+  "claim": "No schooling fees should be levied on children of taxed ryots; fees from other children in Anglo-vernacular schools should be added to the local cess fund.",
+  "quote": "From the children of the ryots thus taxed, no schooling fees should be levied; the fees from other children in the Anglo-vernacular Schools only should be added to the local-cess-fund.",
+  "theme": "news",
+  "passage_id": "manualcoorgagaz00richgoog-p13"
+ },
+ {
+  "fact_id": "manualcoorgagaz00richgoog-p14-f0",
+  "source_id": "manualcoorgagaz00richgoog",
+  "split": "heldout",
+  "claim": "In 1834, an English and a Canarese school were established in Mercara and Vlrdjpet, and a Canarese school only in Kiggatn^d, costing Rs. 90 monthly for the whole educational establishment.",
+  "quote": "In 1834 an English and a Canarese School were established in Mercara and Vlrdjpet and a Canarese School only in Kiggatn^d at a monthly cost of Rs. 90 for the whole educational establishment.",
+  "theme": "community",
+  "passage_id": "manualcoorgagaz00richgoog-p14"
+ },
+ {
+  "fact_id": "manualcoorgagaz00richgoog-p15-f0",
+  "source_id": "manualcoorgagaz00richgoog",
+  "split": "heldout",
+  "claim": "The government organized a regular establishment for public works in Coorg in 1862.",
+  "quote": "It was not until the year 1862, that the wants of Coorg were suflficiently recognised, to induce Government to organize a regular establishment for the execution of Public Works in Coorg.",
+  "theme": "community",
+  "passage_id": "manualcoorgagaz00richgoog-p15"
+ },
+ {
+  "fact_id": "manualcoorgagaz00richgoog-p15-f1",
+  "source_id": "manualcoorgagaz00richgoog",
+  "split": "heldout",
+  "claim": "Sappers and Miners carried out public works in Coorg since 1834, and after they left an European Overseer took charge of the roads.",
+  "quote": "A detachment of Sappers and Miners having been stationed in the Province since 1834, all the needful Public Works were carried out by them and after they had been withdrawn, an European Overseer took charge of the roads etc.",
+  "theme": "community",
+  "passage_id": "manualcoorgagaz00richgoog-p15"
+ },
+ {
+  "fact_id": "manualcoorgagaz00richgoog-p15-f2",
+  "source_id": "manualcoorgagaz00richgoog",
+  "split": "heldout",
+  "claim": "Coorg has two trunk roads intersecting at Mercara and a branch road near Vlrdjpet connecting the western and eastern highroads.",
+  "quote": "Coorg is crossed by two trunk-roads from east to west and from north to south, intersecting each other at Mercara, and by a branch-road near Vlrdjpet the western and eastern highroads are connected.",
+  "theme": "travel",
+  "passage_id": "manualcoorgagaz00richgoog-p15"
+ },
+ {
+  "fact_id": "manualcoorgagaz00richgoog-p16-f0",
+  "source_id": "manualcoorgagaz00richgoog",
+  "split": "dev",
+  "claim": "The youths assemble for a hunt in the forest belonging to the village.",
+  "quote": "ing the youths assemble for a hunt in the forest, belonging to the village.",
+  "theme": "community",
+  "passage_id": "manualcoorgagaz00richgoog-p16"
+ },
+ {
+  "fact_id": "manualcoorgagaz00richgoog-p16-f1",
+  "source_id": "manualcoorgagaz00richgoog",
+  "split": "dev",
+  "claim": "The man who has killed the animal receives a hind-quarter and the head, the rest belongs to the company.",
+  "quote": "the man who has killed the animal, receives a hind-quarter and the head, the rest belongs to the company.",
+  "theme": "community",
+  "passage_id": "manualcoorgagaz00richgoog-p16"
+ },
+ {
+  "fact_id": "manualcoorgagaz00richgoog-p16-f2",
+  "source_id": "manualcoorgagaz00richgoog",
+  "split": "dev",
+  "claim": "The Keilmiirta is the most glorious of all the festivals to the taste of young Coorg.",
+  "quote": "The Keilmiirta, to the taste of young Coorg, is the most glorious of all the festivals.",
+  "theme": "community",
+  "passage_id": "manualcoorgagaz00richgoog-p16"
+ },
+ {
+  "fact_id": "manualcoorgagaz00richgoog-p17-f0",
+  "source_id": "manualcoorgagaz00richgoog",
+  "split": "dev",
+  "claim": "The Coorg BebeUion was a rise of the Gaudas, a tribe on the Western slope of the Ghats who resemble the Coorgs in many of their habits.",
+  "quote": "The so-called Coorg BebeUion was properly speaking a rise of the Gaudas, a tribe on the Western slope of the Ghats who resemble the Coorgs in many of their habits.",
+  "theme": "community",
+  "passage_id": "manualcoorgagaz00richgoog-p17"
+ },
+ {
+  "fact_id": "manualcoorgagaz00richgoog-p17-f1",
+  "source_id": "manualcoorgagaz00richgoog",
+  "split": "dev",
+  "claim": "After the annexation of Coorg, the districts of Amara Sulya, Puttur and Bantwdla were retransferred to the province of Canara.",
+  "quote": "After the annexation of Coorg, the districts of Amara Sulya, Puttur and Bantwdla, the latter adjoining that of Mangalore, had been retransferred to the province of Canara, from which they had been taken.",
+  "theme": "community",
+  "passage_id": "manualcoorgagaz00richgoog-p17"
+ },
+ {
+  "fact_id": "manualcoorgagaz00richgoog-p17-f2",
+  "source_id": "manualcoorgagaz00richgoog",
+  "split": "dev",
+  "claim": "Under the Coorg Rajas, the assessment had been paid in kind, but the Collector of Mangalore now demanded cash payment.",
+  "quote": "Under the Coorg Rdjahs, the assessment had been paid in kind. The Collector of Mangalore now demand- ed cash payment.",
+  "theme": "commerce",
+  "passage_id": "manualcoorgagaz00richgoog-p17"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.94276-p0-f0",
+  "source_id": "in.ernet.dli.2015.94276",
+  "split": "dev",
+  "claim": "The Rajah of Coorg recovered his hereditary principality from Tippu Sultan.",
+  "quote": "The Rdjah of Coorg has himself recovered his here- ditary principality from Tippu Sultan.",
+  "theme": "news",
+  "passage_id": "in.ernet.dli.2015.94276-p0"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.94276-p0-f1",
+  "source_id": "in.ernet.dli.2015.94276",
+  "split": "dev",
+  "claim": "The Rajah freely opened his country to the Bombay forces and supplied them with grain, cattle, etc.",
+  "quote": "The R&jah freely opened his country to the Bombay forces, which marched from Tellicherry to Mysore, and was most zealous in providing the Company\u2019s troops with every thing he could procure for them in Coorg and Mysore.",
+  "theme": "community",
+  "passage_id": "in.ernet.dli.2015.94276-p0"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.94276-p0-f2",
+  "source_id": "in.ernet.dli.2015.94276",
+  "split": "dev",
+  "claim": "Lord Cornwallis wanted to place the Rajah of Coorg under the special protection of the Company after the treaty at Seringapatam.",
+  "quote": "In March last, when the treaty was concluded at Seringapatam, Lord Cornwallis, in order to free the Rdjah of Coorg entirely from the power of Tippu, desired to take him under the special protection of the Company.",
+  "theme": "news",
+  "passage_id": "in.ernet.dli.2015.94276-p0"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.94276-p1-f0",
+  "source_id": "in.ernet.dli.2015.94276",
+  "split": "dev",
+  "claim": "The Central School at Mercara was established in 1862 after a petition by Coorg headmen.",
+  "quote": "the first decisive step having been taken in 1862, when the Coorg Headmen petitioned Government for assistance",
+  "theme": "community",
+  "passage_id": "in.ernet.dli.2015.94276-p1"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.94276-p1-f1",
+  "source_id": "in.ernet.dli.2015.94276",
+  "split": "dev",
+  "claim": "The Central School at Mercara has grown to serve as a preparatory institution for the third form.",
+  "quote": "the Central School at Mercara gradually advanced to its present position, the first decisive step having been taken in 1862",
+  "theme": "education",
+  "passage_id": "in.ernet.dli.2015.94276-p1"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.94276-p1-f2",
+  "source_id": "in.ernet.dli.2015.94276",
+  "split": "dev",
+  "claim": "The Coorg headmen petitioned the government to improve welfare and requested the Chief Commissioner to consider their wishes.",
+  "quote": "We, the undersigned Headmen of Coorg, being the representatives of our countrymen, beg most respectfully to lay before you what is now upper- most in our minds and what appears to us of the greatest importance for the welfare of our people",
+  "theme": "community",
+  "passage_id": "in.ernet.dli.2015.94276-p1"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.94276-p2-f0",
+  "source_id": "in.ernet.dli.2015.94276",
+  "split": "heldout",
+  "claim": "The first Protestant missionary in Coorg established an English School at Mercara in 1855.",
+  "quote": "In 1855, encouraged by Sir Mark Cubbon, Dr. Moegling, the first Protestant Missionary in Coorg, established an English School at Mercara",
+  "theme": "community",
+  "passage_id": "in.ernet.dli.2015.94276-p2"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.94276-p3-f0",
+  "source_id": "in.ernet.dli.2015.94276",
+  "split": "dev",
+  "claim": "The number of Vernacular district-schools was raised to 25 and the teachers, nearly all of them Coorgs, were trained by the Principal four at a time for 3 or 4 months at the Central School, which served as a Normal School.",
+  "quote": "The number of Vernacular district-schools was raised to 25 and the teachers, nearly all of them Coorgs, were trained by the Principal four at a time for 3 or 4 months at the Central School, which served as a Normal School.",
+  "theme": "community",
+  "passage_id": "in.ernet.dli.2015.94276-p3"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.94276-p3-f1",
+  "source_id": "in.ernet.dli.2015.94276",
+  "split": "dev",
+  "claim": "After a successful examination the teachers\u2019 former pittance of Rs. 2^ per mensem was increased to a monthly salary of Rs. 7 with the prospect of Rs. 12 p. m. after live years\u2019 satisfactory service.",
+  "quote": "After a successful examination the teachers\u2019 former pittance of Rs. 2^ per mensem was increased to a monthly salary of Rs. 7 with the prospect of Rs. 12 p. m. after live years\u2019 satisfactory service.",
+  "theme": "community",
+  "passage_id": "in.ernet.dli.2015.94276-p3"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.94276-p3-f2",
+  "source_id": "in.ernet.dli.2015.94276",
+  "split": "dev",
+  "claim": "Once in 3 or 4 months all the teachers assemble in Mercara for a conference with the Principal to give an oral report in each other\u2019s presence on the state of their work and to receive further instruction in educational topics.",
+  "quote": "Once in 3 or 4 months all the teachers assemble in Mercara for a conference with the Principal to give an oral report in each other\u2019s presence on the state of their work and to receive further instruction in educational topics.",
+  "theme": "community",
+  "passage_id": "in.ernet.dli.2015.94276-p3"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.94276-p4-f0",
+  "source_id": "in.ernet.dli.2015.94276",
+  "split": "dev",
+  "claim": "The town of Fraserpet has 326 houses and a population of 1,213 souls, including 360 Christians, 388 Muslims, and 465 Hindus.",
+  "quote": "It contains now 326 houses, mostly tiled, and a population of 1,213 souls, of whom 360 are Christians, 388 Mussulmans and 465 Hindus.",
+  "theme": "community",
+  "passage_id": "in.ernet.dli.2015.94276-p4"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.94276-p4-f1",
+  "source_id": "in.ernet.dli.2015.94276",
+  "split": "dev",
+  "claim": "Fraserpet has a Roman Catholic Church, a newly built shrine dedicated to Ganapati with a public well, an Anglo-Vernacular School, a native rest-house with a tank, and a Government wood-yard.",
+  "quote": "The town can boast of a Roman Catholic Church, a newly built shrine, dedicated to Ganapati, with a very useful public well in front of it, an Anglo- Vernacular School, a native rest- house with a tank and a Government wood-yard, besides the European bungalows.",
+  "theme": "community",
+  "passage_id": "in.ernet.dli.2015.94276-p4"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.94276-p4-f2",
+  "source_id": "in.ernet.dli.2015.94276",
+  "split": "dev",
+  "claim": "Every Monday there is a market in Fraserpet, which is why the place is named after the day.",
+  "quote": "Every Monday there is market, hence the name of the place.",
+  "theme": "commerce",
+  "passage_id": "in.ernet.dli.2015.94276-p4"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.94276-p5-f0",
+  "source_id": "in.ernet.dli.2015.94276",
+  "split": "dev",
+  "claim": "Tippu had to pay three crores of rupees and cede one half of his dominions to the Company and its allies.",
+  "quote": "Tippu had to pay th*ee crores of Rupees and to cede one half of his dominions to the Company and to its allies, the Nizam and PeiBhwa, \u201cfrom the countries adjacent, according to their situation.\u201d",
+  "theme": "commerce",
+  "passage_id": "in.ernet.dli.2015.94276-p5"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.94276-p5-f1",
+  "source_id": "in.ernet.dli.2015.94276",
+  "split": "dev",
+  "claim": "Tippu transferred his claims of allegiance and the tribute of Rs. 24,000 annually from the R&jah to the English and peace was concluded in March 1792.",
+  "quote": "he transferred his claims of allegi- ance and the tribute of Rs. 24,000 annually from the R&jah to the English and peace was concluded (March 1792).",
+  "theme": "commerce",
+  "passage_id": "in.ernet.dli.2015.94276-p5"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.94276-p6-f0",
+  "source_id": "in.ernet.dli.2015.94276",
+  "split": "dev",
+  "claim": "The local-cess fund is to be used for maintaining the Mrrcara boarding houses, the upkeep of Vernacular and Anglo\u2011vernacular school\u2011houses, and the extension of Vernacular education throughout Coorg.",
+  "quote": "the maintenance of the Mrrcara boarding- house s, the upkeep of the Vernacular and Anglo -vernacular school-houses and the extension of Vernacular education throughout Coorg-",
+  "theme": "education",
+  "passage_id": "in.ernet.dli.2015.94276-p6"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.94276-p6-f1",
+  "source_id": "in.ernet.dli.2015.94276",
+  "split": "dev",
+  "claim": "The management of the Cess\u2011fund is vested in the Principal of the Central School together with the three principal Coorg Officials and the eight Bahadurs.",
+  "quote": "The management of the Cess-fund should be vested in the Principal of the Central School conjointly with the three principal Coorg Officials and the eight Bahadurs.",
+  "theme": "education",
+  "passage_id": "in.ernet.dli.2015.94276-p6"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.94276-p6-f2",
+  "source_id": "in.ernet.dli.2015.94276",
+  "split": "dev",
+  "claim": "Private institutions aided by the Government include the German Mission School at Anandapnr and the Roman Catholic Boys and Girls\u2019 schools at Vfr&jpet.",
+  "quote": "the German Mission School at Anandapnr and the Roman Catholic Boys* and Girls\u2019 schools at Vfr&jpet",
+  "theme": "education",
+  "passage_id": "in.ernet.dli.2015.94276-p6"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.94276-p7-f0",
+  "source_id": "in.ernet.dli.2015.94276",
+  "split": "dev",
+  "claim": "The Coorgs, also known as Kodagas, are the main tribe in the region and have been the rulers of the land since ancient times.",
+  "quote": "The Coorgs, or Kodagas as they are properly called, are the principal tribe of the country and from time immemorial the lords of the soil.",
+  "theme": "community",
+  "passage_id": "in.ernet.dli.2015.94276-p7"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.94276-p7-f1",
+  "source_id": "in.ernet.dli.2015.94276",
+  "split": "dev",
+  "claim": "For the past two hundred years, the Coorgs have been described as a tight group of mountaineers similar to a Scottish clan rather than a Hindu caste.",
+  "quote": "For the last two centuries they are known as a compact body of mountaineers who resemble more a Scotch clan than a Hindu caste.",
+  "theme": "community",
+  "passage_id": "in.ernet.dli.2015.94276-p7"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.94276-p8-f0",
+  "source_id": "in.ernet.dli.2015.94276",
+  "split": "dev",
+  "claim": "The hunters divide the game so that the hunter receives a hind-quarter and the head, while the rest goes to the company.",
+  "quote": "the man who has killed the animal, receives a hind-quarter and the head, the rest belongs to the company.",
+  "theme": "community",
+  "passage_id": "in.ernet.dli.2015.94276-p8"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.94276-p8-f1",
+  "source_id": "in.ernet.dli.2015.94276",
+  "split": "dev",
+  "claim": "The village holds a large hunt that repeats the village-hunt on a larger scale.",
+  "quote": "This day is followed by a great hunt of the whole Nddu, a repetition of the village-hunt, on a larger scale.",
+  "theme": "community",
+  "passage_id": "in.ernet.dli.2015.94276-p8"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.94276-p8-f2",
+  "source_id": "in.ernet.dli.2015.94276",
+  "split": "dev",
+  "claim": "The Keilmiirta festival is considered the most glorious by young Coorgs.",
+  "quote": "The Keilmiirta, to the taste of young Coorg, is the most glorious of all the festivals.",
+  "theme": "community",
+  "passage_id": "in.ernet.dli.2015.94276-p8"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.94276-p9-f0",
+  "source_id": "in.ernet.dli.2015.94276",
+  "split": "heldout",
+  "claim": "The speaker says that similar fair speeches and promises have deceived and ruined Coorg.",
+  "quote": "By similar fair speeches and promises you have formerly deceived and ruined Coorg.",
+  "theme": "community",
+  "passage_id": "in.ernet.dli.2015.94276-p9"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.94276-p9-f1",
+  "source_id": "in.ernet.dli.2015.94276",
+  "split": "heldout",
+  "claim": "The Bombay army had a safe road through a friendly territory into the heart of Mysore.",
+  "quote": "the Bombay army had a safe road through a friendly territory into the heart of Mysore.",
+  "theme": "travel",
+  "passage_id": "in.ernet.dli.2015.94276-p9"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.94276-p9-f2",
+  "source_id": "in.ernet.dli.2015.94276",
+  "split": "heldout",
+  "claim": "About 5,000 Coorgs, carried away by Tippu with their wives and children, and about 12,000 souls in total, escaped during the confusion and returned to their native country.",
+  "quote": "about 5,000 Coorgs, who had been carried away by Tippu, with their wives and children, altogether about 12,000 souls, made their escape in the confusion that ensued and returned to their native country.",
+  "theme": "community",
+  "passage_id": "in.ernet.dli.2015.94276-p9"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.94276-p10-f0",
+  "source_id": "in.ernet.dli.2015.94276",
+  "split": "dev",
+  "claim": "The Company\u2019s troops made an assault and carried the stockade without difficulty or loss.",
+  "quote": "the Company\u2019s troops made an assault and carried it without difficulty or loss",
+  "theme": "news",
+  "passage_id": "in.ernet.dli.2015.94276-p10"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.94276-p10-f1",
+  "source_id": "in.ernet.dli.2015.94276",
+  "split": "dev",
+  "claim": "A reconnoitering party of 4 officers, 40 European and 80 Native Infantry was sent to ascertain the locality of a strong stockade.",
+  "quote": "A reconnoitering party, consisting of 4 officers, 40 European and 80 Native Infantry was sent to ascertain its locality",
+  "theme": "news",
+  "passage_id": "in.ernet.dli.2015.94276-p10"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.94276-p10-f2",
+  "source_id": "in.ernet.dli.2015.94276",
+  "split": "dev",
+  "claim": "The party was attacked on the spot, losing 2 officers killed and wounded and more than half of the men, the greater proportion killed.",
+  "quote": "the party was attacked on the spot, when it had received orders to retire and it reached the camp 5 miles distant at Ishvaramangala with the loss of 2 officers killed and wounded and more than half of the men, the greater proportion killed",
+  "theme": "news",
+  "passage_id": "in.ernet.dli.2015.94276-p10"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.94276-p11-f0",
+  "source_id": "in.ernet.dli.2015.94276",
+  "split": "dev",
+  "claim": "The Coorg Rebellion was a rise of the Gaudas, a tribe on the Western slope of the Ghats who resemble the Coorgs in many of their habits.",
+  "quote": "The so-called Coorg Rebellion was properly speaking a rise of the Gaudas, a tribe on the Western slope of the Ghats who resemble the Coorgs in many of their habits.",
+  "theme": "community",
+  "passage_id": "in.ernet.dli.2015.94276-p11"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.94276-p11-f1",
+  "source_id": "in.ernet.dli.2015.94276",
+  "split": "dev",
+  "claim": "The districts of Amara Sulya, Puttur and BantwAla had been retransferred to the province of Canara after being taken from Coorg.",
+  "quote": "After the annexation of Coorg, the districts of Amara Sulya, Puttur and BantwAla, the latter adjoining that of Mangalore, had been retransferred to the province of Canara, from which they had been taken.",
+  "theme": "community",
+  "passage_id": "in.ernet.dli.2015.94276-p11"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.94276-p11-f2",
+  "source_id": "in.ernet.dli.2015.94276",
+  "split": "dev",
+  "claim": "Under the Coorg R&jahs, the assessment had been paid in kind, but the Collector of Mangalore now demanded cash payment.",
+  "quote": "Under the Coorg R&jahs, the assessment had been paid in kind. The Collector of Mangalore now demand- ed cash payment.",
+  "theme": "community",
+  "passage_id": "in.ernet.dli.2015.94276-p11"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.94276-p12-f0",
+  "source_id": "in.ernet.dli.2015.94276",
+  "split": "heldout",
+  "claim": "In 1862, the government organized a regular establishment for public works in Coorg.",
+  "quote": "It was not until the year 1862, that the wants of Coorg were sufficiently recognised, to induce Government to organize a regular establishment for the execution of Public Works in Coorg.",
+  "theme": "community",
+  "passage_id": "in.ernet.dli.2015.94276-p12"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.94276-p12-f1",
+  "source_id": "in.ernet.dli.2015.94276",
+  "split": "heldout",
+  "claim": "Since 1834, sappers and miners carried out public works in Coorg, and after they withdrew an European Overseer took charge of the roads.",
+  "quote": "A detachment of Sappers and Miners having been stationed in the Province since 1834, all the needful Public Works were carried out by them and after they had been withdrawn, an European Overseer took charge of the roads etc.",
+  "theme": "community",
+  "passage_id": "in.ernet.dli.2015.94276-p12"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.94276-p12-f2",
+  "source_id": "in.ernet.dli.2015.94276",
+  "split": "heldout",
+  "claim": "Coorg has two trunk roads intersecting at Mercara and a branch road near Vfr&jpet connecting the highroads.",
+  "quote": "Coorg is crossed by two trunk-roads from east to west and from north to south, intersecting each other at Mercara, and by a branch-road near Vfr&jpet the western and eastern highroads are connected.",
+  "theme": "travel",
+  "passage_id": "in.ernet.dli.2015.94276-p12"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.94276-p13-f0",
+  "source_id": "in.ernet.dli.2015.94276",
+  "split": "heldout",
+  "claim": "The Rajah buried a large quantity of treasure at Sirlecote after leaving Mercara.",
+  "quote": "At the first halting place beyond the frontier of Coorg, at Sirlecote, he buried a great quantity of treasure, for he found the concealment no longer safe as he was allowed to carry away only ten thousand rupees.",
+  "theme": "commerce",
+  "passage_id": "in.ernet.dli.2015.94276-p13"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.94276-p13-f1",
+  "source_id": "in.ernet.dli.2015.94276",
+  "split": "heldout",
+  "claim": "A man named Kdryagdra from Ndlkandd took a large amount of the Rajah's treasure and informed Capt. Le Hardy about it.",
+  "quote": "A certain Kdryagdra from Ndlkandd who accompanied the Rajah afterwards help- ed himself to a large amount of this treasure and when the secret oozed out, he found it necessary to inform Capt. Le Hardy, that he knew of treasure secreted by the Rdjah.",
+  "theme": "commerce",
+  "passage_id": "in.ernet.dli.2015.94276-p13"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.94276-p13-f2",
+  "source_id": "in.ernet.dli.2015.94276",
+  "split": "heldout",
+  "claim": "An honest Coorg delivered the remaining treasure to the Company and received a reward of Rs. 1000.",
+  "quote": "An elephant was despatched to the eastward under the guid- ance. of the honest Coorg, who faithfully delivered to the Company all he had left there and received a reward of Rs. 1000 for his loyal honesty!",
+  "theme": "commerce",
+  "passage_id": "in.ernet.dli.2015.94276-p13"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.94276-p14-f0",
+  "source_id": "in.ernet.dli.2015.94276",
+  "split": "dev",
+  "claim": "In 1834, an English and a Canarese school were established in Mercara and Vfnijpet, and a Canarese school only in Kiggatnad, costing 90 for the whole educational establishment per month.",
+  "quote": "In 1834 an Engliih and a Canarese School were established in Mercara and Vfnijpet and a Canarese School only in Kiggatnad at a monthly cost of Its. 90 for the whole educational establishment.",
+  "theme": "community",
+  "passage_id": "in.ernet.dli.2015.94276-p14"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.94276-p14-f1",
+  "source_id": "in.ernet.dli.2015.94276",
+  "split": "dev",
+  "claim": "The Yfrjijpet School collapsed in 1842 and the teacher\u2019s pay was appropriated for the maintenance of five Canarese Schools.",
+  "quote": "The Yfrjijpet School collapsed in 1842 and the teacher\u2019s pay was appropriated for the mainten- ance of five Canarese Schools.",
+  "theme": "community",
+  "passage_id": "in.ernet.dli.2015.94276-p14"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.94276-p14-f2",
+  "source_id": "in.ernet.dli.2015.94276",
+  "split": "dev",
+  "claim": "After 20 years of English tuition, there was not one Coorg who could write an English letter or make a tolerable translation from Canarese into English.",
+  "quote": "After 20 yearB of English tuition, there was not one Coorg who could write an English letter or make a tolerable trans- lation from Canarese into English.",
+  "theme": "community",
+  "passage_id": "in.ernet.dli.2015.94276-p14"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.94276-p15-f0",
+  "source_id": "in.ernet.dli.2015.94276",
+  "split": "dev",
+  "claim": "The taluq has a population of 20,303 souls, of whom 5,611 are Coorgs, 13,256 are other Hindus, and 1,029 are Muslims.",
+  "quote": "with a population of 20,303 souls, of whom 5611 are Coorgs and 13,256 other Hindus, 1029 Mussulmans",
+  "theme": "community",
+  "passage_id": "in.ernet.dli.2015.94276-p15"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.94276-p15-f1",
+  "source_id": "in.ernet.dli.2015.94276",
+  "split": "dev",
+  "claim": "Ryots generally have to buy rice for six months each year.",
+  "quote": "the ryots iu general have to buy rice for six months in the year",
+  "theme": "commerce",
+  "passage_id": "in.ernet.dli.2015.94276-p15"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.94276-p15-f2",
+  "source_id": "in.ernet.dli.2015.94276",
+  "split": "dev",
+  "claim": "The taluq contains the largest and most productive cardamom jungles.",
+  "quote": "with the largest and most productive cardamom jungles",
+  "theme": "commerce",
+  "passage_id": "in.ernet.dli.2015.94276-p15"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.94276-p16-f0",
+  "source_id": "in.ernet.dli.2015.94276",
+  "split": "dev",
+  "claim": "In March 1870 there were 1,545 pupils at the school, of which 1,422 were in Government Schools and 1,082 were children of Coorgs.",
+  "quote": "Of the 1,545 pupils at School in March 1870, 1,422 were in Government Schools and 1,082 children Coorgs.",
+  "theme": "community",
+  "passage_id": "in.ernet.dli.2015.94276-p16"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.94276-p16-f1",
+  "source_id": "in.ernet.dli.2015.94276",
+  "split": "dev",
+  "claim": "There was roughly one child at school for every 78 people in the whole population, about 13 per thousand.",
+  "quote": "of one child at school for every 78 people of the whole population or nearly 13 per thousand;",
+  "theme": "community",
+  "passage_id": "in.ernet.dli.2015.94276-p16"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.94276-p16-f2",
+  "source_id": "in.ernet.dli.2015.94276",
+  "split": "dev",
+  "claim": "In religious matters the Coorg rulers displayed a tolerant and liberal spirit that shamed many Christian governments.",
+  "quote": "in religious matters they showed a tolerant and liberal spirit, which at the time put to shame the intolerance of many Christian Governments.",
+  "theme": "community",
+  "passage_id": "in.ernet.dli.2015.94276-p16"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.94276-p17-f0",
+  "source_id": "in.ernet.dli.2015.94276",
+  "split": "heldout",
+  "claim": "The mercurial barometer shows its maximum height during the hot weather months and reaches 26\u00b0 60' and its minimum during the monsoon, when it falls to 26\u00b0 15'.",
+  "quote": "The mercurial barometer shows its maximum height during the hot weather months and reaches 26\u00b0 60' and its minimum during the monsoon, when it falls to 26\u00b0 15'.",
+  "theme": "weather",
+  "passage_id": "in.ernet.dli.2015.94276-p17"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.94276-p17-f1",
+  "source_id": "in.ernet.dli.2015.94276",
+  "split": "heldout",
+  "claim": "During the cold months, from October to January inclusive, the daily average variation ranges over 24\u00b0 Fahrenheit between the extremes, giving a daily mean of 65\u00b0.",
+  "quote": "During the cold months, from October to January inclusive, the daily average variation ranges over 24\u00b0 Fahrenheit between the extremes, giving a daily mean of 65\u00b0;",
+  "theme": "weather",
+  "passage_id": "in.ernet.dli.2015.94276-p17"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.94276-p17-f2",
+  "source_id": "in.ernet.dli.2015.94276",
+  "split": "heldout",
+  "claim": "During the monsoon, from June to September, the temperature is most equable, moving between the extremes 60\u00b0 and 75\u00b0 which leave only a daily variation of 15\u00b0 and a daily mean of temperature of 65\u00b0 for these months.",
+  "quote": "during the monsoon, from June to September, the temperature is most equable, moving between the extremes 60\u00b0 and 75\u00b0 which leave only a daily variation of 15\u00b0 and a daily mean of temperature of 65\u00b0 for these months.",
+  "theme": "weather",
+  "passage_id": "in.ernet.dli.2015.94276-p17"
+ },
+ {
+  "fact_id": "cu31924071131605-p0-f0",
+  "source_id": "cu31924071131605",
+  "split": "dev",
+  "claim": "The Raja of Coorg recovered his hereditary principality from Tippu Sultan without assistance from the Company.",
+  "quote": "The Raja of Coorg has himself recovered his hereditary principal ity from Tippu Sultan. The Company have in no wise assisted him in this struggle.",
+  "theme": "community",
+  "passage_id": "cu31924071131605-p0"
+ },
+ {
+  "fact_id": "cu31924071131605-p0-f1",
+  "source_id": "cu31924071131605",
+  "split": "dev",
+  "claim": "The Raja freely opened his country to the Bombay forces and supplied them with grain, cattle, and other provisions.",
+  "quote": "The Raja freely opened his country to the Bombay forces which marched from Tellicherry to Mysore, and was most zealous in providing the Company's troops with every thing he could procure for them in Coorg and Mysore.",
+  "theme": "commerce",
+  "passage_id": "cu31924071131605-p0"
+ },
+ {
+  "fact_id": "cu31924071131605-p0-f2",
+  "source_id": "cu31924071131605",
+  "split": "dev",
+  "claim": "The Raja refused to receive payment for his supplies of grain, cattle, and other provisions.",
+  "quote": "Of his own accord, the Raja refuses to receive payment for his supplies of grain, cattle, &c.",
+  "theme": "commerce",
+  "passage_id": "cu31924071131605-p0"
+ },
+ {
+  "fact_id": "cu31924071131605-p1-f0",
+  "source_id": "cu31924071131605",
+  "split": "dev",
+  "claim": "In 1834 an Anglo-vernacular school was established at Mercara and one at Virarajendrapet, with a Canarese school at Hatgatnad. These 3 schools cost only Rs. 90 a month.",
+  "quote": "In 1834 an Anglo-vernacular school was established at Mercara and one at Virarajendrapet, with a Canarese school at Hatgatnad. These 3 schools cost only Rs. 90 a month.",
+  "theme": "community",
+  "passage_id": "cu31924071131605-p1"
+ },
+ {
+  "fact_id": "cu31924071131605-p1-f1",
+  "source_id": "cu31924071131605",
+  "split": "dev",
+  "claim": "General Fraser left an endowment of Rs. 300 in the hands of a merchant at Fraserpet, who paid a local school master Rs. 3 a month as interest.",
+  "quote": "General Fraser also left an endowment of Rs. 300 in the hands of a merchant at Fraserpet, who undertook to pay a local school master Rs. 3 a month as interest.",
+  "theme": "community",
+  "passage_id": "cu31924071131605-p1"
+ },
+ {
+  "fact_id": "cu31924071131605-p1-f2",
+  "source_id": "cu31924071131605",
+  "split": "dev",
+  "claim": "In 1845 one of the English masters at Mercara was dismissed and a Hindustani master appointed instead.",
+  "quote": "In 1845 one of the English masters at Mercara was dismissed and a Hindustani master appointed instead.",
+  "theme": "community",
+  "passage_id": "cu31924071131605-p1"
+ },
+ {
+  "fact_id": "cu31924071131605-p2-f0",
+  "source_id": "cu31924071131605",
+  "split": "dev",
+  "claim": "Dr. Moegling said that the Coorgs have been taught nothing and have learned nothing.",
+  "quote": "\"The Coorgs,\" writes Dr. Moegling, \" have been taught nothing and have learned nothing.\",",
+  "theme": "community",
+  "passage_id": "cu31924071131605-p2"
+ },
+ {
+  "fact_id": "cu31924071131605-p3-f0",
+  "source_id": "cu31924071131605",
+  "split": "heldout",
+  "claim": "The Coorg officials and pensioners are ready to contribute half a month's pay, which, together with the subscriptions of the farmers, will amount to about Es. 6,000.",
+  "quote": "The Coorg officials and pension- ers are ready to contribute half a month's pay, which, together with the subscriptions of the farmers, will amount to about Es. 6,000.",
+  "theme": "community",
+  "passage_id": "cu31924071131605-p3"
+ },
+ {
+  "fact_id": "cu31924071131605-p3-f1",
+  "source_id": "cu31924071131605",
+  "split": "heldout",
+  "claim": "They have resolved to collect a sum of money sufficient to build and endow a boarding house for about one hundred boys.",
+  "quote": "we have resolved to collect amongst ourselves a sum of money sufficient to build and endow a boarding house for about one hundred boys.",
+  "theme": "community",
+  "passage_id": "cu31924071131605-p3"
+ },
+ {
+  "fact_id": "cu31924071131605-p4-f0",
+  "source_id": "cu31924071131605",
+  "split": "heldout",
+  "claim": "The building of the premises at Mercara cost Rs. 32,548, with Coorgs contributing Rs. 9,720 and Europeans contributing Rs. 470.",
+  "quote": "they appear to have cost, independently of the Girls' Boarding House, built as before stated at private expense, Rs. 32,548, towards which the Coorgs subscribed Rs. 9,720 and Europeans in Coorg Es. 470.",
+  "theme": "commerce",
+  "passage_id": "cu31924071131605-p4"
+ },
+ {
+  "fact_id": "cu31924071131605-p4-f1",
+  "source_id": "cu31924071131605",
+  "split": "heldout",
+  "claim": "The sale of the old school house yielded Bs. 6,500, with the remainder paid by the Government.",
+  "quote": "The sale of the old school house produced Bs. 6,500 and the rest was paid by Government.",
+  "theme": "commerce",
+  "passage_id": "cu31924071131605-p4"
+ },
+ {
+  "fact_id": "cu31924071131605-p4-f2",
+  "source_id": "cu31924071131605",
+  "split": "heldout",
+  "claim": "The Coorgs and other inhabitants agreed not to send their children to be educated at a distance from home.",
+  "quote": "the Coorgs and other inhabitants with common consent excused themselves from parting with their children to be educated at a distance from home.",
+  "theme": "community",
+  "passage_id": "cu31924071131605-p4"
+ },
+ {
+  "fact_id": "cu31924071131605-p5-f0",
+  "source_id": "cu31924071131605",
+  "split": "heldout",
+  "claim": "The Government educational institutions of Coorg in 1875-76 included the Mercara Central School with Canarese and Hindustani branches, which had 348 pupils, 230 of whom were Coorgs.",
+  "quote": "The Government educational institutions of Coorg in 1875 \u2014 76, comprised the Mercara Central School, with Canarese and Hindustani branches attached, containing altogether 348 pupils, of whom 230 were Ooorgs ;",
+  "theme": "community",
+  "passage_id": "cu31924071131605-p5"
+ },
+ {
+  "fact_id": "cu31924071131605-p5-f1",
+  "source_id": "cu31924071131605",
+  "split": "heldout",
+  "claim": "There were 84 schools in the Province with 2,739 pupils, about one in 61 of the population.",
+  "quote": "Adding all together, there were 84 schools in the Province with 2,739 pupils or 1 in 61 of the population.",
+  "theme": "community",
+  "passage_id": "cu31924071131605-p5"
+ },
+ {
+  "fact_id": "cu31924071131605-p5-f2",
+  "source_id": "cu31924071131605",
+  "split": "heldout",
+  "claim": "One Coorg studied law at Cambridge in England but returned and died of consumption.",
+  "quote": "One Coorg went to England to study law at Cam- bridge, but shortly returned in a consumption, of which he died.",
+  "theme": "travel",
+  "passage_id": "cu31924071131605-p5"
+ },
+ {
+  "fact_id": "cu31924071131605-p6-f0",
+  "source_id": "cu31924071131605",
+  "split": "dev",
+  "claim": "Fraserpet is a trading town on the east frontier, situated on the left bank of the Kaveri, on the main road from Seringapatam to Mercara, 20 miles east of the latter.",
+  "quote": "Fraserpet- \u2014 A trading town on the east frontier, situated in N. lat. 12\u00b0 27\u00bb, E. long. 76\u00b0 2', on the left bank of the Kaveri, on the main road' from Seringapatam to Mercara, 20 miles east of the latter.",
+  "theme": "travel",
+  "passage_id": "cu31924071131605-p6"
+ },
+ {
+  "fact_id": "cu31924071131605-p6-f1",
+  "source_id": "cu31924071131605",
+  "split": "dev",
+  "claim": "The Kaveri is crossed by a fine stone bridge in Fraserpet.",
+  "quote": "The Kaveri is here crossed by a fine stone bridge, and the site of the town is very picturesque.",
+  "theme": "commerce",
+  "passage_id": "cu31924071131605-p6"
+ },
+ {
+  "fact_id": "cu31924071131605-p6-f2",
+  "source_id": "cu31924071131605",
+  "split": "dev",
+  "claim": "Cross roads from Fraserpet run south to Siddapur, north to Hebale, and north-west to Somvarpet.",
+  "quote": "Besides the main Mysore-Mercara road which passes through the town, cross roads run south to Siddapur, north to Hebale, and north- west to Somvarpet.",
+  "theme": "travel",
+  "passage_id": "cu31924071131605-p6"
+ },
+ {
+  "fact_id": "cu31924071131605-p7-f0",
+  "source_id": "cu31924071131605",
+  "split": "dev",
+  "claim": "The inhabitants are assured that they will not be subjected to native rule and that their civil and religious practices will be respected, and that the British Government will seek to improve their security, comfort, and happiness.",
+  "quote": "The inhabitants are hereby assured that they shall not again be subjected to native rule, that their civil and religious usages will be respected, and that the greatest desire will invariably be shown by the British Government to augment their security, comfort and happiness.",
+  "theme": "community",
+  "passage_id": "cu31924071131605-p7"
+ },
+ {
+  "fact_id": "cu31924071131605-p8-f0",
+  "source_id": "cu31924071131605",
+  "split": "dev",
+  "claim": "The Raja demanded that the fugitives should be delivered to him.",
+  "quote": "The Raja demanded that the fugitives should be delivered to him.",
+  "theme": "crime",
+  "passage_id": "cu31924071131605-p8"
+ },
+ {
+  "fact_id": "cu31924071131605-p8-f1",
+  "source_id": "cu31924071131605",
+  "split": "dev",
+  "claim": "The Supreme Government decided that the Coorg refugees should not be restored to Vira Raja.",
+  "quote": "The Supreme Government decided, under date the 18th January 1833, that the Coorg refugees should not be restored to Vira Raja.",
+  "theme": "news",
+  "passage_id": "cu31924071131605-p8"
+ },
+ {
+  "fact_id": "cu31924071131605-p8-f2",
+  "source_id": "cu31924071131605",
+  "split": "dev",
+  "claim": "A man from the north of Coorg claimed to have seen Vira Raja shooting at Narayan Nayaka with a blunt arrow and then a sharp arrow that killed him.",
+  "quote": "A man from the north of Coorg deposed that he saw Vfra Raja, on a hunting excursion, shooting at Narayan Nayaka, Hoblidar, first with blunt arrows, then with a sharp arrow which killed him, in presence of all his retinue.",
+  "theme": "crime",
+  "passage_id": "cu31924071131605-p8"
+ },
+ {
+  "fact_id": "cu31924071131605-p9-f0",
+  "source_id": "cu31924071131605",
+  "split": "dev",
+  "claim": "In 1835 a grant of Rs. 1,500 was sanctioned by Government for the restoration of the delapidated church at Virajpet.",
+  "quote": "In 1835 a grant of Rs. 1,500 was sanctioned by Government for the restoration of the delapidated church at Virajpet",
+  "theme": "community",
+  "passage_id": "cu31924071131605-p9"
+ },
+ {
+  "fact_id": "cu31924071131605-p9-f1",
+  "source_id": "cu31924071131605",
+  "split": "dev",
+  "claim": "In 1866 a new grant of Rs. 2,500 was given for re-building the same church, which after completion is said to have cost Rs. 15,000.",
+  "quote": "and in 1866 a new grant of Rs. 2,500 for re-building the same edifice, which after comple- tion is said to have cost Rs. 1 5,000",
+  "theme": "community",
+  "passage_id": "cu31924071131605-p9"
+ },
+ {
+  "fact_id": "cu31924071131605-p9-f2",
+  "source_id": "cu31924071131605",
+  "split": "dev",
+  "claim": "The number of Roman Catholic Christians in Virajpet amounts to 313.",
+  "quote": "The number of Roman Catholic Christians in Virajpet amounts to 313",
+  "theme": "community",
+  "passage_id": "cu31924071131605-p9"
+ },
+ {
+  "fact_id": "cu31924071131605-p10-f0",
+  "source_id": "cu31924071131605",
+  "split": "heldout",
+  "claim": "Vira Raja shot twenty-five Coorgs during the confrontation.",
+  "quote": "Vira Raja himself took his post at a window and fired upon the terror- stricken conspirators. They allowed themselves to be slaughtered like sheep. Vira Raja himself boasted of having shot twenty five of them.",
+  "theme": "crime",
+  "passage_id": "cu31924071131605-p10"
+ },
+ {
+  "fact_id": "cu31924071131605-p10-f1",
+  "source_id": "cu31924071131605",
+  "split": "heldout",
+  "claim": "Approximately three hundred Coorgs were killed in the palace yard.",
+  "quote": "Three hundred Coorgs, by his account, fell that morning in front of the palace. Coorg tradition says eight hundred.",
+  "theme": "crime",
+  "passage_id": "cu31924071131605-p10"
+ },
+ {
+  "fact_id": "cu31924071131605-p10-f2",
+  "source_id": "cu31924071131605",
+  "split": "heldout",
+  "claim": "The blood from the fallen Coorgs ran out of the palace yard like rain during a heavy monsoon day.",
+  "quote": "An old Jemadar, who had been eyewitness of the dreadful scene, said that the blood ran out of the palace yard as the rain in a heavy monsoon day.",
+  "theme": "crime",
+  "passage_id": "cu31924071131605-p10"
+ },
+ {
+  "fact_id": "cu31924071131605-p11-f0",
+  "source_id": "cu31924071131605",
+  "split": "dev",
+  "claim": "Somavarpet is a small town located 26 miles north of Mercara on the main road.",
+  "quote": "A small town situated in N. lat. 12\u00b0 36' E. long. 75\u00b0 55', in Nanjarajpatna taluk, on the main road 26 miles north of Mercara.",
+  "theme": "community",
+  "passage_id": "cu31924071131605-p11"
+ },
+ {
+  "fact_id": "cu31924071131605-p11-f1",
+  "source_id": "cu31924071131605",
+  "split": "dev",
+  "claim": "The highest mountain in Coorg is Tadianda mol, standing at 5,729 ft.",
+  "quote": "The highest mountain in Coorg (5,729 ft) situated in the south west of Padinalknad taluk.",
+  "theme": "weather",
+  "passage_id": "cu31924071131605-p11"
+ },
+ {
+  "fact_id": "cu31924071131605-p11-f2",
+  "source_id": "cu31924071131605",
+  "split": "dev",
+  "claim": "Virarajendrapet is the most important commercial town in Coorg, trading coffee, rice, and cardamoms with the western coast.",
+  "quote": "The trade of Virarajendrapet with the western coast in coffee, rice, and cardamoms makes it the most important commercial town in Coorg.",
+  "theme": "commerce",
+  "passage_id": "cu31924071131605-p11"
+ },
+ {
+  "fact_id": "cu31924071131605-p12-f0",
+  "source_id": "cu31924071131605",
+  "split": "dev",
+  "claim": "After a tiger hunt, natives form a procession and carry the carcass to the village green.",
+  "quote": "After a successful hunt for a tiger, the natives form a procession, and carry the carcase with the band of torn toms to the mandu or village green.",
+  "theme": "community",
+  "passage_id": "cu31924071131605-p12"
+ },
+ {
+  "fact_id": "cu31924071131605-p12-f1",
+  "source_id": "cu31924071131605",
+  "split": "dev",
+  "claim": "The carcass is carried to the hunter's yard where a ceremony resembling a Coorg wedding is held.",
+  "quote": "The carcase is then raised on a wooden frame, and carried to the yard of the lucky sportsman's house, where a ceremony takes place which in many particulars resembles a Coorg wedding.",
+  "theme": "community",
+  "passage_id": "cu31924071131605-p12"
+ },
+ {
+  "fact_id": "cu31924071131605-p12-f2",
+  "source_id": "cu31924071131605",
+  "split": "dev",
+  "claim": "Each member of the hunter's house and then his friends step up to the bridegroom, sprinkling rice from a brass dish over his head.",
+  "quote": "First each member of his house, \u2014 men, women and children, \u2014 then all his friends, one by one, stepped up to the bridegroom, strewed a handful of rice from the brass dish over his head",
+  "theme": "community",
+  "passage_id": "cu31924071131605-p12"
+ },
+ {
+  "fact_id": "cu31924071131605-p13-f0",
+  "source_id": "cu31924071131605",
+  "split": "dev",
+  "claim": "The masters of the 20 government schools received only Rs. 2\u00a7 per month.",
+  "quote": "the masters of which received a pittance of only Rs. 2\u00a7 a month",
+  "theme": "community",
+  "passage_id": "cu31924071131605-p13"
+ },
+ {
+  "fact_id": "cu31924071131605-p13-f1",
+  "source_id": "cu31924071131605",
+  "split": "dev",
+  "claim": "Dr. Moegling was paid Rs. 250 per month to run the Mercara school.",
+  "quote": "Dr. Moegling, with a salary of Rs. 250 a month, was placed in charge of the Mercara school",
+  "theme": "community",
+  "passage_id": "cu31924071131605-p13"
+ },
+ {
+  "fact_id": "cu31924071131605-p14-f0",
+  "source_id": "cu31924071131605",
+  "split": "heldout",
+  "claim": "The arable land within the barriers of Coorg was divided into vargas or farms.",
+  "quote": "The whole of the arable land with- in the barriers of Coorg was divided into vargas or farms.",
+  "theme": "community",
+  "passage_id": "cu31924071131605-p14"
+ },
+ {
+  "fact_id": "cu31924071131605-p15-f0",
+  "source_id": "cu31924071131605",
+  "split": "dev",
+  "claim": "The Raja of Coorg agreed to send an elephant each year to the Company in lieu of the former tribute of Rs. 24,000.",
+  "quote": "Before Capt. Mahoney left, it was settled that the Raja of Coorg should every year send an elephant to the Company in lieu of the former tribute of Rs. 24,000.",
+  "theme": "commerce",
+  "passage_id": "cu31924071131605-p15"
+ },
+ {
+  "fact_id": "cu31924071131605-p15-f1",
+  "source_id": "cu31924071131605",
+  "split": "dev",
+  "claim": "The Raja collected large supplies of rice and forwarded them to Seringapatam, saving the troops from famine.",
+  "quote": "He has collected large supplies of rice and forwarded them to Seringapatam, thus saving the troops from famine.",
+  "theme": "community",
+  "passage_id": "cu31924071131605-p15"
+ },
+ {
+  "fact_id": "cu31924071131605-p15-f2",
+  "source_id": "cu31924071131605",
+  "split": "dev",
+  "claim": "The Raja furnished 1,000 coolies to the army and 2,000 men for the conveyance of ammunition to Seringapatam without receiving remuneration.",
+  "quote": "He has furnished 1 ,000 coolies to the army, and 2,000 men for the conveyance of the ammunition to Seringapatam, without receiving remuneration.",
+  "theme": "community",
+  "passage_id": "cu31924071131605-p15"
+ },
+ {
+  "fact_id": "cu31924071131605-p16-f0",
+  "source_id": "cu31924071131605",
+  "split": "heldout",
+  "claim": "The scheme proposed by Mr. Devereux was sanctioned by the Governor General in Council in 1857.",
+  "quote": "In 1857 the scheme proposed by the Hon. Mr. Devereux, Judicial Commissioner, embracing the requirements of both Mysore and Coorg, received the sanction of the Governor General in Council",
+  "theme": "education",
+  "passage_id": "cu31924071131605-p16"
+ },
+ {
+  "fact_id": "cu31924071131605-p16-f1",
+  "source_id": "cu31924071131605",
+  "split": "heldout",
+  "claim": "Coorg was considered thinly populated with inhabitants living in separate houses scattered among jungles and hills.",
+  "quote": "Viewing Coorg as a thinly populated country, and one more- over the inhabitants of which lived chiefly in separate houses scattered among jungles and hills",
+  "theme": "community",
+  "passage_id": "cu31924071131605-p16"
+ },
+ {
+  "fact_id": "cu31924071131605-p16-f2",
+  "source_id": "cu31924071131605",
+  "split": "heldout",
+  "claim": "Mr. Devereux proposed establishing a school in each of the six taluks of Coorg.",
+  "quote": "he proposed that a school should be established in each of the six taluks, on the same footing as the similar class of schools provided for Mysore",
+  "theme": "education",
+  "passage_id": "cu31924071131605-p16"
+ },
+ {
+  "fact_id": "cu31924071131605-p17-f0",
+  "source_id": "cu31924071131605",
+  "split": "dev",
+  "claim": "The youths assemble for a hunt in the forest belonging to the village and the mail who kills the animal receives a hind-quarter and the head, while the rest belongs to the company.",
+  "quote": "On the following morning the youths assemble for a hunt in the forest belonging to the village. Of whatever game is brought down the mail who has killed the animal receives a hind-quarter and the head, the rest belongs to the company.",
+  "theme": "community",
+  "passage_id": "cu31924071131605-p17"
+ },
+ {
+  "fact_id": "cu31924071131605-p17-f1",
+  "source_id": "cu31924071131605",
+  "split": "dev",
+  "claim": "The only three places containing a population of over 2,000 are Made in Mercara taluk with 2,719; Kukluru or Virarajendrapet in Yednalanknad taluk, with 3,413; and Mercara (Madhukeri) with 8,146.",
+  "quote": "The only three places containing a population of over 2,000 are \u2014 Made in Mercara taluk with 2,719 ; Kukluru or Virarajendrapet in Yede- nalknad taluk, with 3,413; and Mercara (Madhukeri) with 8,146.",
+  "theme": "community",
+  "passage_id": "cu31924071131605-p17"
+ },
+ {
+  "fact_id": "cu31924071131605-p17-f2",
+  "source_id": "cu31924071131605",
+  "split": "dev",
+  "claim": "There are said to be 862 houses of the better sort, tenanted by 12,560 people, and 22,038 houses of the inferior sort, with 155,752 residents.",
+  "quote": "There are said to be 862 houses of the better sort, tenanted by 12,560 people, and 22,038 houses of the inferior sort, with 155,752 resi- dents.",
+  "theme": "community",
+  "passage_id": "cu31924071131605-p17"
+ }
+]

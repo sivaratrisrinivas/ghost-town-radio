@@ -1,0 +1,1064 @@
+[
+ {
+  "fact_id": "in.ernet.dli.2015.96511-p0-f0",
+  "source_id": "in.ernet.dli.2015.96511",
+  "split": "heldout",
+  "claim": "The Bombay Dyeing and Manufacturing Company\u2019s dye\u2011works at Dadar was established in 1879 with a capital of one lakh rupees.",
+  "quote": "The Bombay Dyeing and Manufacturing Company with their dye- works at Dadar was established in 1879 with a capital of Rs. 1 a lakhs.",
+  "theme": "commerce",
+  "passage_id": "in.ernet.dli.2015.96511-p0"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.96511-p0-f1",
+  "source_id": "in.ernet.dli.2015.96511",
+  "split": "heldout",
+  "claim": "In 1735 Bombay had a wind mill for grinding wheat on the Esplanade, which had disappeared by 1808.",
+  "quote": "In 1735 Bombay contained a wind mill for the grinding of wheat situated on the Esplanade ; but this had dis- appeared by 1808.",
+  "theme": "community",
+  "passage_id": "in.ernet.dli.2015.96511-p0"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.96511-p0-f2",
+  "source_id": "in.ernet.dli.2015.96511",
+  "split": "heldout",
+  "claim": "In 1909 Bombay had four large flour mills: the Bombay Flour Mill, the Union Mill, a mill on Mount Road, Mazagon, and the Wallace Flour Mill.",
+  "quote": "At the present date (1909) Bombay contiuns 4 large flour mills, vis., the Bombay Flour Mill,* the Union Mill, a Mill in Mount Road, Mazagon, and the Wallace Flour Mill.",
+  "theme": "commerce",
+  "passage_id": "in.ernet.dli.2015.96511-p0"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.96511-p1-f0",
+  "source_id": "in.ernet.dli.2015.96511",
+  "split": "dev",
+  "claim": "By 1865 Bombay had ten mills operating with 350,000 spindles and 3,380 looms.",
+  "quote": "by 1865 there were altogether ten mills in the city, working with 350,000 spindles and 3,380 looms",
+  "theme": "commerce",
+  "passage_id": "in.ernet.dli.2015.96511-p1"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.96511-p2-f0",
+  "source_id": "in.ernet.dli.2015.96511",
+  "split": "heldout",
+  "claim": "The Bank of Bombay started operations with a capital of 52 lakhs and dealt mainly with deposits, cash accounts, and discounting bills and drafts.",
+  "quote": "It commenced work with a capital of 52^ lakhs, its business being confined to receiving deposits, keeping cash accounts, discounting bills and drafts and other investments.",
+  "theme": "commerce",
+  "passage_id": "in.ernet.dli.2015.96511-p2"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.96511-p2-f1",
+  "source_id": "in.ernet.dli.2015.96511",
+  "split": "heldout",
+  "claim": "The Bank of Western India began business in October 1842 and opened branches in Calcutta, Colombo, Hongkong and Singapore.",
+  "quote": "Business opened in October 1842 and branches were established in Calcutta, Colombo, Hongkong and Singapore.",
+  "theme": "commerce",
+  "passage_id": "in.ernet.dli.2015.96511-p2"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.96511-p3-f0",
+  "source_id": "in.ernet.dli.2015.96511",
+  "split": "heldout",
+  "claim": "The American Marathi mission was founded in Bombay in 1813 by Gordon Hall and Samuel Nott.",
+  "quote": "The American Marathi mission waK founded in Bombay in 1813 by the Revd. Gordon Hall and the Revd. Samuel Nott, who had been expelled from Calcutta by the East India Company.",
+  "theme": "community",
+  "passage_id": "in.ernet.dli.2015.96511-p3"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.96511-p3-f1",
+  "source_id": "in.ernet.dli.2015.96511",
+  "split": "heldout",
+  "claim": "The American Mission organized a Church Sunday school that is attended by 750 pupils.",
+  "quote": "The American Mission has org'anized a Church Sunday school, attended by 750 pupils ; a Christian En- deavour Society which preaches, distributes tracts and visits hospitals ; a Poor Fund ; and a missionary branch at Lalitpur, Central India.",
+  "theme": "community",
+  "passage_id": "in.ernet.dli.2015.96511-p3"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.96511-p3-f2",
+  "source_id": "in.ernet.dli.2015.96511",
+  "split": "heldout",
+  "claim": "The total number of the Christian community of the church is 631.",
+  "quote": "The total num^r of the Christian community of the church is 631.",
+  "theme": "community",
+  "passage_id": "in.ernet.dli.2015.96511-p3"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.96511-p6-f0",
+  "source_id": "in.ernet.dli.2015.96511",
+  "split": "dev",
+  "claim": "In November 1880, the Government of India consulted the Bombay Chamber of Commerce regarding the introduction of the telephone.",
+  "quote": "In November 1880 the Government of India informed the Bombay Chamber of Commerce that they were considering the question of introducing the telephone into India as part of the machinery of the Telegraph Department, and asked for an expression of the views of the Chamber on the subject",
+  "theme": "commerce",
+  "passage_id": "in.ernet.dli.2015.96511-p6"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.96511-p6-f1",
+  "source_id": "in.ernet.dli.2015.96511",
+  "split": "dev",
+  "claim": "The Bombay Chamber of Commerce advised that introducing the telephone should be left to private enterprise.",
+  "quote": "to which the Chamber of Commerce replied that in their opinion the introduction of this convenience should be left to private enterprise.",
+  "theme": "commerce",
+  "passage_id": "in.ernet.dli.2015.96511-p6"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.96511-p6-f2",
+  "source_id": "in.ernet.dli.2015.96511",
+  "split": "dev",
+  "claim": "The Bombay Telephone Company was formed in 1882 with a nominal capital of 9.6 lakhs.",
+  "quote": "for in 1882 the Bombay Tele- phone Company, established with limited liability under the Indian Companies* Act, was formed with a nominal capital of 9*6 lakhs to acquire from the Oriental Tele- phone Company all the telephone exchanges and lines in Bombay and Karachi",
+  "theme": "commerce",
+  "passage_id": "in.ernet.dli.2015.96511-p6"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.96511-p7-f0",
+  "source_id": "in.ernet.dli.2015.96511",
+  "split": "dev",
+  "claim": "The annual subsidy paid by the government was \u00a334,000.",
+  "quote": "The annual subsidy paid by government was j\u00a3^34,ooo.",
+  "theme": "commerce",
+  "passage_id": "in.ernet.dli.2015.96511-p7"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.96511-p9-f0",
+  "source_id": "in.ernet.dli.2015.96511",
+  "split": "dev",
+  "claim": "The original locomotive works of the Great Indian Peninsula Railway opened at Byculla around 1854 and employed between 800 and 1000 workers.",
+  "quote": "The original locomotive works of the Great Indian Penin- sula Railway were opened at Byculla about 1854, and gave employment to between 800 and 1000 operatives.",
+  "theme": "commerce",
+  "passage_id": "in.ernet.dli.2015.96511-p9"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.96511-p9-f1",
+  "source_id": "in.ernet.dli.2015.96511",
+  "split": "dev",
+  "claim": "Due to line expansion, the company moved its workshops from Byculla to Parel in 1878.",
+  "quote": "In course of. time the expansion of the line forced the company to look for a larger area and in 1878 a move was made from Byculla to the present workshops at Parel.",
+  "theme": "commerce",
+  "passage_id": "in.ernet.dli.2015.96511-p9"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.96511-p10-f0",
+  "source_id": "in.ernet.dli.2015.96511",
+  "split": "dev",
+  "claim": "By 1871, the total number of insurance companies in Bombay had reached 73.",
+  "quote": "Consequently by 1871 the total number of insurance companies in Bombay had risen to 73 as shown in the following table",
+  "theme": "commerce",
+  "passage_id": "in.ernet.dli.2015.96511-p10"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.96511-p10-f1",
+  "source_id": "in.ernet.dli.2015.96511",
+  "split": "dev",
+  "claim": "In 1881, Bombay had 107 insurance companies, including 38 for fire, 22 for life, and 47 for marine insurance.",
+  "quote": "In 1881 Bombay contained 107 insurance companies, of which 38 dealt with fire, 22 with life, and 47 with marine insurance.",
+  "theme": "commerce",
+  "passage_id": "in.ernet.dli.2015.96511-p10"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.96511-p13-f0",
+  "source_id": "in.ernet.dli.2015.96511",
+  "split": "dev",
+  "claim": "The 2-anna silver piece was introduced in the year 1841.",
+  "quote": "In 1841 the 2-anna silver piece was introduced, and in the same year a proclamation was issued regulating the gold coinage.",
+  "theme": "commerce",
+  "passage_id": "in.ernet.dli.2015.96511-p13"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.96511-p14-f0",
+  "source_id": "in.ernet.dli.2015.96511",
+  "split": "heldout",
+  "claim": "Messrs. George Smith and Sons initiated a monthly line of sailing ships to Bombay in 1863.",
+  "quote": "In 1863 Messrs. Georg^e Smith and Sons started a monthly line of sailing ships to Bombay, and sixteen of these vessels reached Bombay via the Cape in 1878.",
+  "theme": "commerce",
+  "passage_id": "in.ernet.dli.2015.96511-p14"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.96511-p14-f1",
+  "source_id": "in.ernet.dli.2015.96511",
+  "split": "heldout",
+  "claim": "The steamer John Bright made its first voyage from Gravesend to Bombay via the Cape in 58 days in 1862.",
+  "quote": "one of the finest of these vessels being the yoAu Bright, owned by a Pars! firm, which made her first voyage from Gravesend to Bombay viis the Cape in 58 days in 1862.",
+  "theme": "travel",
+  "passage_id": "in.ernet.dli.2015.96511-p14"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.96511-p14-f2",
+  "source_id": "in.ernet.dli.2015.96511",
+  "split": "heldout",
+  "claim": "The rate of freight for opium by steamer was Rs. 28 per chest.",
+  "quote": "The rate of freight for opium by steamer was Rs. 28 per chest while by clipper it was Rs. 5, and by fast clipper Rs. 10 to Rs. i6.",
+  "theme": "commerce",
+  "passage_id": "in.ernet.dli.2015.96511-p14"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.96511-p15-f0",
+  "source_id": "in.ernet.dli.2015.96511",
+  "split": "heldout",
+  "claim": "The Vereadores estimated the total damage at Rs. 14,330, but the Committee of Accounts reduced it to Rs. 8,500, a sum sanctioned by the Government.",
+  "quote": "The Vereadores calculated the total damage at Rs. 14,330, but the Committee of Accounts reduced this estimate to Rs. 8,500, which amount was sanctioned by Government.",
+  "theme": "commerce",
+  "passage_id": "in.ernet.dli.2015.96511-p15"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.96511-p15-f1",
+  "source_id": "in.ernet.dli.2015.96511",
+  "split": "heldout",
+  "claim": "The Bombay Gazette reported that the bay was filled with bales of cotton and the wreckage of boats and ships.",
+  "quote": "The bay was strewn with bales of cotton and wrecks of boats and ships : in Back Bay the dead were washed out of their graves and floated about the shore.",
+  "theme": "weather",
+  "passage_id": "in.ernet.dli.2015.96511-p15"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.96511-p15-f2",
+  "source_id": "in.ernet.dli.2015.96511",
+  "split": "heldout",
+  "claim": "The Bombay Times of 1839 documents a severe storm on May 23rd, 1839, during which a ship was struck by lightning and three men died.",
+  "quote": "The Bombay Times of 1839 records a severe storm on May asod, 1839, lu which a ship was struck by lightning and three men wars killed.",
+  "theme": "weather",
+  "passage_id": "in.ernet.dli.2015.96511-p15"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.96511-p16-f0",
+  "source_id": "in.ernet.dli.2015.96511",
+  "split": "dev",
+  "claim": "The Wallace Flour Mill was initially established in 1888 as a joint stock company.",
+  "quote": "The Wallace Four Mill, originally started in 1888 as a joint stock com- pany, was purchased soon after by a wealthy Bhattia and is not a purely private concern.",
+  "theme": "commerce",
+  "passage_id": "in.ernet.dli.2015.96511-p16"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.96511-p16-f1",
+  "source_id": "in.ernet.dli.2015.96511",
+  "split": "dev",
+  "claim": "The registered trademark of the mill products is the Anchor, which is well-known throughout India and East Africa.",
+  "quote": "The registered trade- mark of the mill\u2019s products is the ** Anchor '* which is well- known throug^ut India and East Africa.",
+  "theme": "commerce",
+  "passage_id": "in.ernet.dli.2015.96511-p16"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.96511-p16-f2",
+  "source_id": "in.ernet.dli.2015.96511",
+  "split": "dev",
+  "claim": "The Piru Mahomed Mill was established in 1887 and is located in Byculla.",
+  "quote": "It was established in 1887 and is situated in Byculla. It is a joint stock concern with a capital of 3 lakhs.",
+  "theme": "commerce",
+  "passage_id": "in.ernet.dli.2015.96511-p16"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.96511-p18-f0",
+  "source_id": "in.ernet.dli.2015.96511",
+  "split": "dev",
+  "claim": "The opening of the Suez Canal in 1869 gave new energy to the Company.",
+  "quote": "The opening of the Suez Canal in 1869 lent fresh vigour to the Company and their steamer India was the first that proceeded to London with a cargo",
+  "theme": "commerce",
+  "passage_id": "in.ernet.dli.2015.96511-p18"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.96511-p18-f1",
+  "source_id": "in.ernet.dli.2015.96511",
+  "split": "dev",
+  "claim": "In 1872 the Directors agreed with the Home Government to organize a mail service between Aden and Zanzibar.",
+  "quote": "In 1872 the Directors agiwd witii the Home Government to organize a mail setVice betweite i^en and Zanzibar.",
+  "theme": "commerce",
+  "passage_id": "in.ernet.dli.2015.96511-p18"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.96511-p18-f2",
+  "source_id": "in.ernet.dli.2015.96511",
+  "split": "dev",
+  "claim": "As early as 1847 the Company possessed five steamers which plied between Bombay, Surat, Karachi and Colombo.",
+  "quote": "early as 1847 the Company possessed live steamers which plied between Bombay, Surat, Karachi and Colombo.",
+  "theme": "travel",
+  "passage_id": "in.ernet.dli.2015.96511-p18"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.96511-p19-f0",
+  "source_id": "in.ernet.dli.2015.96511",
+  "split": "dev",
+  "claim": "Colaba is divided into Upper and Lower Colaba by an imaginary line drawn at the north wall of St. John's Memorial Church.",
+  "quote": "is divided into Upper and Lower Colaba by an imaginary line drawn across the land at the north wall of St. John's Memorial Church.",
+  "theme": "travel",
+  "passage_id": "in.ernet.dli.2015.96511-p19"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.96511-p20-f0",
+  "source_id": "in.ernet.dli.2015.96511",
+  "split": "dev",
+  "claim": "The Bombay, Baroda and Central India Railway Company had 16,830 European and Native employees in total.",
+  "quote": "The total number of European and Native employes of the Company is 16,830.",
+  "theme": "commerce",
+  "passage_id": "in.ernet.dli.2015.96511-p20"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.96511-p20-f1",
+  "source_id": "in.ernet.dli.2015.96511",
+  "split": "dev",
+  "claim": "A provident fund was established for the benefit of the company employees in the year 1872.",
+  "quote": "A provident fund, which is on a sound financial footing, was established for their benefit in 1872.",
+  "theme": "commerce",
+  "passage_id": "in.ernet.dli.2015.96511-p20"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.96511-p21-f0",
+  "source_id": "in.ernet.dli.2015.96511",
+  "split": "dev",
+  "claim": "The 1906 census recorded 33,267 occupied houses and 10,633 unoccupied houses in Bombay.",
+  "quote": "According' to the census of 1906, there were 33,267 occupied houses and 10,633 unoccupied houses in Bombay*",
+  "theme": "community",
+  "passage_id": "in.ernet.dli.2015.96511-p21"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.96511-p21-f1",
+  "source_id": "in.ernet.dli.2015.96511",
+  "split": "dev",
+  "claim": "Mahim, Varli, and Sion contained the largest number of primitive type huts.",
+  "quote": "Mahim, Varli and Sion contain the largest number of huts of a primitive type.",
+  "theme": "community",
+  "passage_id": "in.ernet.dli.2015.96511-p21"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.35213-p0-f0",
+  "source_id": "in.ernet.dli.2015.35213",
+  "split": "dev",
+  "claim": "The Bombay Tract Society was founded in the vestry of St. Andrew's Church in the year 1827.",
+  "quote": "The Bombay Tract Society was founded in the vestry of St. Andrew's Church in 1827.",
+  "theme": "community",
+  "passage_id": "in.ernet.dli.2015.35213-p0"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.35213-p1-f0",
+  "source_id": "in.ernet.dli.2015.35213",
+  "split": "dev",
+  "claim": "In 1868, the Government of India made an annual assignment of Rs. 10,000 to stimulate female education.",
+  "quote": "Femiile education likewise received a stimulus by an annual assignment of Rs. 10,000 made by the Government of India in 1868",
+  "theme": "community",
+  "passage_id": "in.ernet.dli.2015.35213-p1"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.35213-p1-f1",
+  "source_id": "in.ernet.dli.2015.35213",
+  "split": "dev",
+  "claim": "A Gujarathi girls' school was opened in the Fort in 1859 by the Trustees of the Gokuldas Tejpal Charities.",
+  "quote": "a Gujarathi girls\u2019 school, opened in the Fort in 1859 by the Trustees of the Gokuldas Tcjpal Charities, to which all Gujarathi-speabing Hindu girls are '.admitted free of charge.",
+  "theme": "community",
+  "passage_id": "in.ernet.dli.2015.35213-p1"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.35213-p2-f0",
+  "source_id": "in.ernet.dli.2015.35213",
+  "split": "heldout",
+  "claim": "In 1813 the East India Company decided to appoint a Church of Scotland minister in each Presidency town and ordered suitable places of worship to be built.",
+  "quote": "In 1813 the East India Company resolved to appoint a minister of the Church of Scotland at each of the > See Bombay and Western India by J. Douglas. II, 252. Presidency towns in India and directed that suit- able places of worship should be erected.",
+  "theme": "community",
+  "passage_id": "in.ernet.dli.2015.35213-p2"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.35213-p2-f1",
+  "source_id": "in.ernet.dli.2015.35213",
+  "split": "heldout",
+  "claim": "Mr. Clow arrived in India as the first Church of Scotland Chaplain in Bombay two years later.",
+  "quote": "Two years later Mr. Clow, the first Church of Scotland Chaplain in Bombay, reached India, and in 1816 the foundations of St. Andrew's Church were laid between what was then the Court House and the Ramparts.",
+  "theme": "community",
+  "passage_id": "in.ernet.dli.2015.35213-p2"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.35213-p4-f0",
+  "source_id": "in.ernet.dli.2015.35213",
+  "split": "dev",
+  "claim": "St. Paul's church in Kamathipura was opened in the year 1871.",
+  "quote": "Paul\u2019s church, Kamathipura, opened in 1871 ; and the Baptist church opened in 1874.",
+  "theme": "community",
+  "passage_id": "in.ernet.dli.2015.35213-p4"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.35213-p6-f0",
+  "source_id": "in.ernet.dli.2015.35213",
+  "split": "dev",
+  "claim": "Grose noted in 1750 that the sole English church in Bombay was a neat, commodious, and airy building situated on the Green.",
+  "quote": "The only English Church at Bombay, and which is full sufficient for any passible congregption of them at it, is a building extremely neat, commodious and airy, being situate on what is called the Green.",
+  "theme": "community",
+  "passage_id": "in.ernet.dli.2015.35213-p6"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.35213-p6-f1",
+  "source_id": "in.ernet.dli.2015.35213",
+  "split": "dev",
+  "claim": "Forbes described the single Protestant church on the island as a large and commodious building featuring a neat tower.",
+  "quote": "The only Protestant Church on the island stood near the centre of the town, a large and commodious building with a neat tower.",
+  "theme": "community",
+  "passage_id": "in.ernet.dli.2015.35213-p6"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.35213-p7-f0",
+  "source_id": "in.ernet.dli.2015.35213",
+  "split": "dev",
+  "claim": "In 1840, the schools in Bombay island included the Elphinstone Institution and seven vernacular schools.",
+  "quote": "com- prised in 1840 the Elphinstone Institution and seven vernacular schools.",
+  "theme": "community",
+  "passage_id": "in.ernet.dli.2015.35213-p7"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.35213-p7-f1",
+  "source_id": "in.ernet.dli.2015.35213",
+  "split": "dev",
+  "claim": "The Grant Medical College was founded in 1845.",
+  "quote": "The Board also received control of the Grant Medical College, founded in 1845.",
+  "theme": "community",
+  "passage_id": "in.ernet.dli.2015.35213-p7"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.35213-p11-f0",
+  "source_id": "in.ernet.dli.2015.35213",
+  "split": "dev",
+  "claim": "The Bombay Observatory is situated at the extreme end of Colaba, which extends about three miles south-west from the Fort.",
+  "quote": "The observator) is Situ.-ition. located at the extreme end of Colaba, which runs about three miles south-west from the Fort and se- parates the harbour from Back Bay.",
+  "theme": "travel",
+  "passage_id": "in.ernet.dli.2015.35213-p11"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.35213-p12-f0",
+  "source_id": "in.ernet.dli.2015.35213",
+  "split": "dev",
+  "claim": "The Society for promoting the education of the poor within the Government of Bombay was founded in 1815 and is now known as the Bombay Education Society.",
+  "quote": "Society for promoting the education of the poor within the Government of Bomba}',\u201d which was founded in that year (1815) and is now known as the Bombay Education Society.",
+  "theme": "community",
+  "passage_id": "in.ernet.dli.2015.35213-p12"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.35213-p12-f1",
+  "source_id": "in.ernet.dli.2015.35213",
+  "split": "dev",
+  "claim": "By 1820 the Society had opened four schools for natives on the island, which were attended by about 250 pupils.",
+  "quote": "by 1820 the Society had opened four schools for natives in the island, attended by about 250 pupils.",
+  "theme": "community",
+  "passage_id": "in.ernet.dli.2015.35213-p12"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.35213-p17-f0",
+  "source_id": "in.ernet.dli.2015.35213",
+  "split": "heldout",
+  "claim": "The site chosen in 1902 for the magnetic branch of the observatory is at Alibag on the coast of the mainland.",
+  "quote": "The site, which was finally chosen in 1902, is at Alibag on the coast of the mainland, about 18 miles south-east of Bombay.",
+  "theme": "travel",
+  "passage_id": "in.ernet.dli.2015.35213-p17"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.35213-p18-f0",
+  "source_id": "in.ernet.dli.2015.35213",
+  "split": "dev",
+  "claim": "Up to 1896, the Government Savings Bank was managed by the Bank before being transferred to the Post Office.",
+  "quote": "Up to 1896 the Government Savings Bank Avas also managed by the Bank but was transferred in that year to the charge of the Post Ofiice.",
+  "theme": "commerce",
+  "passage_id": "in.ernet.dli.2015.35213-p18"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.35213-p18-f1",
+  "source_id": "in.ernet.dli.2015.35213",
+  "split": "dev",
+  "claim": "The bank shares had a quotation of Rs. 1,500 per share in 1909.",
+  "quote": "With a steady increase in dividends and regular additions to the reserve fund, the value of Bank shares has been gradually enhanced, the. present (1909) quotation being Rs. 1,500 per share.",
+  "theme": "commerce",
+  "passage_id": "in.ernet.dli.2015.35213-p18"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.35213-p19-f0",
+  "source_id": "in.ernet.dli.2015.35213",
+  "split": "dev",
+  "claim": "In 1795 a school was founded by Antonio de Soura to educate Roman Catholic children of Mazagon, funded by interest on a Rs\u202f40,000 endowment.",
+  "quote": "In 1795 n school svas founded by Antonio de Soura for the free education of the Roman Catholic children of Mazagon, the cost being defrayed from the interest on a sum of Rs. 40,000 ss-hich he gave to the Trustees of the church of Our Lady of Glory,",
+  "theme": "community",
+  "passage_id": "in.ernet.dli.2015.35213-p19"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.35213-p20-f0",
+  "source_id": "in.ernet.dli.2015.35213",
+  "split": "heldout",
+  "claim": "The chapel of Mount Carmel was erected in the year 1721.",
+  "quote": "The chapel of Mount Carmel, was erected in 1721.",
+  "theme": "community",
+  "passage_id": "in.ernet.dli.2015.35213-p20"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.35213-p20-f1",
+  "source_id": "in.ernet.dli.2015.35213",
+  "split": "heldout",
+  "claim": "The chapel of Mount Carmel has been closed since 1905.",
+  "quote": "Since 1905 it has been closed.",
+  "theme": "community",
+  "passage_id": "in.ernet.dli.2015.35213-p20"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.35213-p21-f0",
+  "source_id": "in.ernet.dli.2015.35213",
+  "split": "dev",
+  "claim": "The passage lists financial results of the Government Central Press in thousands of rupees since 1873-74.",
+  "quote": "The following statement shows the financial results of the working of the Government Central Press (in thousands of rupees) at various periods since 1873-74;",
+  "theme": "commerce",
+  "passage_id": "in.ernet.dli.2015.35213-p21"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.35213-p21-f1",
+  "source_id": "in.ernet.dli.2015.35213",
+  "split": "dev",
+  "claim": "In 1626 the building was described as a warehouse, priory and fort, and had a square house that served the Portuguese as a place of retreat until relieved by troops.",
+  "quote": "In 1626 it was described as warehouse, priory and fort, and contained a square house which served the Portuguese as a place of retreat till relieved by troops from outside.",
+  "theme": "community",
+  "passage_id": "in.ernet.dli.2015.35213-p21"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.35213-p21-f2",
+  "source_id": "in.ernet.dli.2015.35213",
+  "split": "dev",
+  "claim": "The building is located behind the Town Hall and between the Mint and the Custom House.",
+  "quote": "It lies behind the Town Hall and between the Mint and the Custom House.",
+  "theme": "community",
+  "passage_id": "in.ernet.dli.2015.35213-p21"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.207009-p0-f0",
+  "source_id": "in.ernet.dli.2015.207009",
+  "split": "dev",
+  "claim": "The Bombay municipal slaughter\u2011house is located at the north end of the causeway.",
+  "quote": "The Bombay municipal slaughter\u2011house is situated at the north end of the cause\u2011way.",
+  "theme": "commerce",
+  "passage_id": "in.ernet.dli.2015.207009-p0"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.207009-p0-f1",
+  "source_id": "in.ernet.dli.2015.207009",
+  "split": "dev",
+  "claim": "Bandra has become a favourite resort for citizens of Bombay since the opening of railway communication.",
+  "quote": "Since the opening of railway communication, Bandra has become a favourite place of resort for the citizens of Bombay.",
+  "theme": "community",
+  "passage_id": "in.ernet.dli.2015.207009-p0"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.207009-p0-f2",
+  "source_id": "in.ernet.dli.2015.207009",
+  "split": "dev",
+  "claim": "Bassein had a population of 10,702 in 1901.",
+  "quote": "Population (1901), 10,702.",
+  "theme": "community",
+  "passage_id": "in.ernet.dli.2015.207009-p0"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.207009-p1-f0",
+  "source_id": "in.ernet.dli.2015.207009",
+  "split": "heldout",
+  "claim": "The Bombay tramways have a length of track of 17J miles, mostly double, and carried about 25 million passengers in 1904.",
+  "quote": "The Bombay tramways, owned by the municipality and worked by a com- pany, have a length of track of 17J miles, mostly double, and carried about 25 million passengers in 1904.",
+  "theme": "commerce",
+  "passage_id": "in.ernet.dli.2015.207009-p1"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.207009-p1-f1",
+  "source_id": "in.ernet.dli.2015.207009",
+  "split": "heldout",
+  "claim": "The Nasik tramway runs between Nasik Road Station on the Great Indian Peninsula Railway and Nasik town, conveying on an average 150,000 passengers a year over a length of 5 miles.",
+  "quote": "The Nasik tramway, also owned and worked by a private company, with a capital of one lakh, runs between Nasik Road Station on the Great Indian Peninsula Railway and Nasik town. It conveys on an average 1 50,000 passengers a year over a length of 5 miles.",
+  "theme": "commerce",
+  "passage_id": "in.ernet.dli.2015.207009-p1"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.207009-p1-f2",
+  "source_id": "in.ernet.dli.2015.207009",
+  "split": "heldout",
+  "claim": "A ferry service exists in Bombay harbour.",
+  "quote": "A ferry service exists in Bombay harbour.",
+  "theme": "commerce",
+  "passage_id": "in.ernet.dli.2015.207009-p1"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.207009-p2-f0",
+  "source_id": "in.ernet.dli.2015.207009",
+  "split": "dev",
+  "claim": "Parantij Town had a population of 8,175 in 1901.",
+  "quote": "Population (1901), 8,175.",
+  "theme": "community",
+  "passage_id": "in.ernet.dli.2015.207009-p2"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.207009-p2-f1",
+  "source_id": "in.ernet.dli.2015.207009",
+  "split": "dev",
+  "claim": "The chief exports of Parantij were grain and leather.",
+  "quote": "The chief exports are gkJ, grain, and leather.",
+  "theme": "commerce",
+  "passage_id": "in.ernet.dli.2015.207009-p2"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.207009-p2-f2",
+  "source_id": "in.ernet.dli.2015.207009",
+  "split": "dev",
+  "claim": "Parantij had six schools, five for boys and one for girls, with 644 male and 109 female pupils.",
+  "quote": "The town contains 6 schools, 5 for boys and one for girls, attended by 644 male and 109 female pupils.",
+  "theme": "community",
+  "passage_id": "in.ernet.dli.2015.207009-p2"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.207009-p3-f0",
+  "source_id": "in.ernet.dli.2015.207009",
+  "split": "dev",
+  "claim": "Mehmadabad Town is the headquarters of its taluka in Kaira District, Bombay.",
+  "quote": "Mehmadabad Town ( Mahmudabdd ). \u2014 Head-quarters of the taluka of the same name in Kaira District, Bombay, situated in 220 50' N. and 720 46' E., on the Bombay, Baroda, and Central India Railway, 17 miles south of Ahmadabad.",
+  "theme": "community",
+  "passage_id": "in.ernet.dli.2015.207009-p3"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.207009-p3-f1",
+  "source_id": "in.ernet.dli.2015.207009",
+  "split": "dev",
+  "claim": "The town had an average income of Rs. 9,500 during the decade ending 1901, rising to Rs. 9,600 in 1903-4.",
+  "quote": "Mehmadabad has been a municipality since 1863, with an average income of Rs. 9,500 during the decade ending 1901. In 1903-4 the income was Rs. 9,600.",
+  "theme": "commerce",
+  "passage_id": "in.ernet.dli.2015.207009-p3"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.207009-p3-f2",
+  "source_id": "in.ernet.dli.2015.207009",
+  "split": "dev",
+  "claim": "The town contains a dispensary and four schools, including an English middle school with 57 pupils for boys and a girls' school with 102 pupils.",
+  "quote": "The town contains a dispensary and four schools, three (including an English middle school with 57 pupils) for boys and one for girls, attended by 427 and 102 pupils respectively.",
+  "theme": "community",
+  "passage_id": "in.ernet.dli.2015.207009-p3"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.207009-p4-f0",
+  "source_id": "in.ernet.dli.2015.207009",
+  "split": "dev",
+  "claim": "Khandala's importance comes from being a station on the Great Indian Peninsula Railway.",
+  "quote": "Khandala owes its importance entirely to the Great Indian Peninsula Railway, on which it is a station.",
+  "theme": "travel",
+  "passage_id": "in.ernet.dli.2015.207009-p4"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.207009-p4-f1",
+  "source_id": "in.ernet.dli.2015.207009",
+  "split": "dev",
+  "claim": "Khandala has a hotel for Europeans, a convalescent home, and a dispensary.",
+  "quote": "There are a hotel for Europeans, a convalescent home, and a dispensary.",
+  "theme": "community",
+  "passage_id": "in.ernet.dli.2015.207009-p4"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.207009-p4-f2",
+  "source_id": "in.ernet.dli.2015.207009",
+  "split": "dev",
+  "claim": "Khandala has four schools with 175 boys and 65 girls, three supported by missions.",
+  "quote": "Khandala contains four schools with 175 boys and 65 girls, three of which are supported by missions.",
+  "theme": "community",
+  "passage_id": "in.ernet.dli.2015.207009-p4"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.207009-p5-f0",
+  "source_id": "in.ernet.dli.2015.207009",
+  "split": "dev",
+  "claim": "The municipality of Rander had an average income of about Rs. 20,000 during the decade ending 1901 and Rs. 23,000 in 1903-4.",
+  "quote": "the municipality, established in 1868, had an average income of about Rs. 20,000 during the decade ending 1901 ; in 1903-4 the income was Rs. 23,000.",
+  "theme": "commerce",
+  "passage_id": "in.ernet.dli.2015.207009-p5"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.207009-p6-f0",
+  "source_id": "in.ernet.dli.2015.207009",
+  "split": "dev",
+  "claim": "The population of Lonauli in 1901 was 6,686, and a railway reservoir about 2 miles south provides a fair supply of drinking water.",
+  "quote": "Population (1901), 6,686. A railway reservoir, about 2 miles to the south, affords a fair supply of drinking-water.",
+  "theme": "community",
+  "passage_id": "in.ernet.dli.2015.207009-p6"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.207009-p6-f1",
+  "source_id": "in.ernet.dli.2015.207009",
+  "split": "dev",
+  "claim": "Lonauli has three hotels and is frequented by visitors from Bombay during hot months because of its temperate climate.",
+  "quote": "There are three hotels, and the place is much frequented by visitors from Bombay in the hot months owing to its temperate climate.",
+  "theme": "travel",
+  "passage_id": "in.ernet.dli.2015.207009-p6"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.207009-p6-f2",
+  "source_id": "in.ernet.dli.2015.207009",
+  "split": "dev",
+  "claim": "The municipality of Lonauli, established in 1877, had an average income of Rs. 11,300 during the decade ending 1901.",
+  "quote": "The municipality, established in 1877, had an average income during the decade ending 1901 of Rs. 11,300.",
+  "theme": "commerce",
+  "passage_id": "in.ernet.dli.2015.207009-p6"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.207009-p7-f0",
+  "source_id": "in.ernet.dli.2015.207009",
+  "split": "heldout",
+  "claim": "The town has a dispensary and six boys' schools with 356 pupils and one girls' school with 51 pupils.",
+  "quote": "The town contains a dispensary, and six schools for boys with 356 pupils and one for girls with 51 pupils.",
+  "theme": "community",
+  "passage_id": "in.ernet.dli.2015.207009-p7"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.207009-p7-f1",
+  "source_id": "in.ernet.dli.2015.207009",
+  "split": "heldout",
+  "claim": "During the decade ending 1901 the income averaged Rs. 8,000.",
+  "quote": "During the decade ending 1901 the income averaged Rs. 8,000.",
+  "theme": "commerce",
+  "passage_id": "in.ernet.dli.2015.207009-p7"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.207009-p8-f0",
+  "source_id": "in.ernet.dli.2015.207009",
+  "split": "heldout",
+  "claim": "The Colaba Causeway was built, linking the last of the original seven islets to Bombay's main island.",
+  "quote": "the construction of the Colaba Causeway, which united the last of the original seven islets to the main island of Bombay",
+  "theme": "commerce",
+  "passage_id": "in.ernet.dli.2015.207009-p8"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.207009-p8-f1",
+  "source_id": "in.ernet.dli.2015.207009",
+  "split": "heldout",
+  "claim": "A new hospital was constructed in Hornby Row in 1825.",
+  "quote": "A new hospital was built in Hornby Row in 1825",
+  "theme": "community",
+  "passage_id": "in.ernet.dli.2015.207009-p8"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.207009-p9-f0",
+  "source_id": "in.ernet.dli.2015.207009",
+  "split": "dev",
+  "claim": "Cotton and silk goods are woven chiefly at Yeola and sent to Bombay, Poona, Satara, and Sholapur.",
+  "quote": "Cotton and silk goods are woven chiefly at Yeola, and thence Arts and sent as far as Bombay, Poona, Satara, and Sholapur.",
+  "theme": "commerce",
+  "passage_id": "in.ernet.dli.2015.207009-p9"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.207009-p9-f1",
+  "source_id": "in.ernet.dli.2015.207009",
+  "split": "dev",
+  "claim": "The annual exports from Yeola are valued at 25 lakhs.",
+  "quote": "The \u201c^fac\u201c value of the annual exports from Yeola is calculated to amount to 25 lakhs.",
+  "theme": "commerce",
+  "passage_id": "in.ernet.dli.2015.207009-p9"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.207009-p9-f2",
+  "source_id": "in.ernet.dli.2015.207009",
+  "split": "dev",
+  "claim": "The silk industry at Yeola supports 4,000 families.",
+  "quote": "The silk industry at this place supports 4,000 families.",
+  "theme": "commerce",
+  "passage_id": "in.ernet.dli.2015.207009-p9"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.207009-p10-f0",
+  "source_id": "in.ernet.dli.2015.207009",
+  "split": "dev",
+  "claim": "Mandvi Town had a population of 4,142 in 1901 and its municipality was established in 1868.",
+  "quote": "Population (1901), 4,142. The municipality was established in 1868.",
+  "theme": "community",
+  "passage_id": "in.ernet.dli.2015.207009-p10"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.207009-p10-f1",
+  "source_id": "in.ernet.dli.2015.207009",
+  "split": "dev",
+  "claim": "The town\u2019s income averaged Rs. 6,000 during the decade ending 1901 and was Rs. 6,273 in 1903-4.",
+  "quote": "During the decade ending 1901 the income averaged Rs. 6,000 ; in 1903-4 it was Rs. 6,273.",
+  "theme": "commerce",
+  "passage_id": "in.ernet.dli.2015.207009-p10"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.207009-p10-f2",
+  "source_id": "in.ernet.dli.2015.207009",
+  "split": "dev",
+  "claim": "Mandvi Town had a dispensary and four schools, including an English school for boys, with 302 boys and 58 girls attending.",
+  "quote": "The town contains a dispensary and four schools, three (including an English school) for boys and one for girls, attended respectively by 302 and 58 pupils.",
+  "theme": "community",
+  "passage_id": "in.ernet.dli.2015.207009-p10"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.207009-p11-f0",
+  "source_id": "in.ernet.dli.2015.207009",
+  "split": "dev",
+  "claim": "Thana has been a municipal town since 1863, with an average income during the decade ending 1901 of Rs. 37,000.",
+  "quote": "Thana has been a municipal town since 1863, with an average income during the decade ending 1901 of Rs. 37,000.",
+  "theme": "commerce",
+  "passage_id": "in.ernet.dli.2015.207009-p11"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.207009-p11-f1",
+  "source_id": "in.ernet.dli.2015.207009",
+  "split": "dev",
+  "claim": "The chief educational institutions are the Bairamjl Jijibhoy High School opened in 1880, an English school for girls, and an English middle school for boys.",
+  "quote": "The chief educational institutions are the Bairamjl Jijibhoy High School opened in 1880, an English school for girls, and an English middle school for boys.",
+  "theme": "community",
+  "passage_id": "in.ernet.dli.2015.207009-p11"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.207009-p11-f2",
+  "source_id": "in.ernet.dli.2015.207009",
+  "split": "dev",
+  "claim": "The number of pupils at these in 1903-4 was 253, 79, and 69 respectively.",
+  "quote": "The number of pupils at these in 1903-4 was 253, 79, and 69 respectively.",
+  "theme": "community",
+  "passage_id": "in.ernet.dli.2015.207009-p11"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.207009-p12-f0",
+  "source_id": "in.ernet.dli.2015.207009",
+  "split": "heldout",
+  "claim": "Bhiwandi Town is the headquarters of the taluka of the same name in Thana District, Bombay.",
+  "quote": "Bhiwandi Town. \u2014 Head-quarters of the tdluka of the same name in Thana District, Bombay, situated in 190 18' N. and 730 3' E., 29 'miles north-east of Bombay.",
+  "theme": "community",
+  "passage_id": "in.ernet.dli.2015.207009-p12"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.207009-p12-f1",
+  "source_id": "in.ernet.dli.2015.207009",
+  "split": "heldout",
+  "claim": "The population of Bhiwandi in 1901 was 10,354.",
+  "quote": "Population (1901), 10,354.",
+  "theme": "community",
+  "passage_id": "in.ernet.dli.2015.207009-p12"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.207009-p12-f2",
+  "source_id": "in.ernet.dli.2015.207009",
+  "split": "heldout",
+  "claim": "The largest steam rice-husking mill in the Presidency is situated in Bhiwandi.",
+  "quote": "The largest steam rice-husking mill in the Presidency is situated here.",
+  "theme": "commerce",
+  "passage_id": "in.ernet.dli.2015.207009-p12"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.207009-p13-f0",
+  "source_id": "in.ernet.dli.2015.207009",
+  "split": "dev",
+  "claim": "There were 4,137 miles of railways in the Presidency at the close of 1904.",
+  "quote": "At the close of the year 1904 there were 4,137 miles of railways in the Presidency.",
+  "theme": "commerce",
+  "passage_id": "in.ernet.dli.2015.207009-p13"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.207009-p13-f1",
+  "source_id": "in.ernet.dli.2015.207009",
+  "split": "dev",
+  "claim": "The Great Indian Peninsula Railway has been a state line since 1900.",
+  "quote": "Since 1900 the Great Indian Peninsula Railway has been a state line, worked by a company.",
+  "theme": "commerce",
+  "passage_id": "in.ernet.dli.2015.207009-p13"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.207009-p13-f2",
+  "source_id": "in.ernet.dli.2015.207009",
+  "split": "dev",
+  "claim": "The Bombay, Baroda, and Central India Railway was purchased by the state in 1906.",
+  "quote": "The Bombay, Baroda, and Central India Railway is a guaranteed line which was purchased by the state in 1906.",
+  "theme": "commerce",
+  "passage_id": "in.ernet.dli.2015.207009-p13"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.207009-p14-f0",
+  "source_id": "in.ernet.dli.2015.207009",
+  "split": "dev",
+  "claim": "Anand Town had a population of 10,010 in 1901.",
+  "quote": "Population (1901), 10,010.",
+  "theme": "community",
+  "passage_id": "in.ernet.dli.2015.207009-p14"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.207009-p14-f1",
+  "source_id": "in.ernet.dli.2015.207009",
+  "split": "dev",
+  "claim": "The town had 2 ginning factories, 3 dispensaries, and 5 schools.",
+  "quote": "2 ginning factories, 3 dispensaries, and 5 schools (4 for boys and one for girls)",
+  "theme": "commerce",
+  "passage_id": "in.ernet.dli.2015.207009-p14"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.207009-p14-f2",
+  "source_id": "in.ernet.dli.2015.207009",
+  "split": "dev",
+  "claim": "The Salvation Army maintained a well\u2011equipped hospital open to all classes.",
+  "quote": "The Salvation Army maintains a well-equipped hospital, which is open to all classes.",
+  "theme": "community",
+  "passage_id": "in.ernet.dli.2015.207009-p14"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.207009-p15-f0",
+  "source_id": "in.ernet.dli.2015.207009",
+  "split": "dev",
+  "claim": "Trade with Europe is mainly conducted through Bombay, which has the finest harbour in India, while Sind and Punjab produce is exported from Karachi.",
+  "quote": "Since then the trade with Europe has naturally been drawn to Bombay, which has the finest harbour in India, while the produce of Sind and the Punjab is exported from Karachi.",
+  "theme": "commerce",
+  "passage_id": "in.ernet.dli.2015.207009-p15"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.207009-p15-f1",
+  "source_id": "in.ernet.dli.2015.207009",
+  "split": "dev",
+  "claim": "The opening of the Suez Canal and abandonment of the Cape route benefited Bombay and Karachi.",
+  "quote": "Both have benefited largely by the opening of the Suez Canal and the consequent abandonment of the Cape route (1869).",
+  "theme": "commerce",
+  "passage_id": "in.ernet.dli.2015.207009-p15"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.207009-p15-f2",
+  "source_id": "in.ernet.dli.2015.207009",
+  "split": "dev",
+  "claim": "Bombay City, Karachi, and Aden have Chambers of Commerce and Port Trusts, and Bombay and Ahmadabad have influential associations of native piece-goods merchants.",
+  "quote": "Bombay City, Karachi, and Aden have Chambers of Commerce and Port Trusts, and Bombay and Ahmadabad have influential associations of native piece- goods merchants.",
+  "theme": "commerce",
+  "passage_id": "in.ernet.dli.2015.207009-p15"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.207009-p16-f0",
+  "source_id": "in.ernet.dli.2015.207009",
+  "split": "dev",
+  "claim": "Lasur contains a boys\u2019 school with 8 pupils.",
+  "quote": "Lasur contains a boys\u2019 school with 8 pupils.",
+  "theme": "community",
+  "passage_id": "in.ernet.dli.2015.207009-p16"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.207009-p16-f1",
+  "source_id": "in.ernet.dli.2015.207009",
+  "split": "dev",
+  "claim": "The village contains a poorly attended boys\u2019 school.",
+  "quote": "The village contains a poorly attended boys\u2019 school.",
+  "theme": "community",
+  "passage_id": "in.ernet.dli.2015.207009-p16"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.207009-p16-f2",
+  "source_id": "in.ernet.dli.2015.207009",
+  "split": "dev",
+  "claim": "The town contains a school for boys with 190 pupils.",
+  "quote": "The town contains a school for boys with 190 pupils.",
+  "theme": "community",
+  "passage_id": "in.ernet.dli.2015.207009-p16"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.207009-p17-f0",
+  "source_id": "in.ernet.dli.2015.207009",
+  "split": "dev",
+  "claim": "Sarsa has two schools, one for boys with 230 pupils and one for girls with 74 pupils.",
+  "quote": "There are two schools, one for boys and one for girls, attended by 230 and 74 pupils respectively.",
+  "theme": "community",
+  "passage_id": "in.ernet.dli.2015.207009-p17"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.207009-p17-f1",
+  "source_id": "in.ernet.dli.2015.207009",
+  "split": "dev",
+  "claim": "Umreth's municipal income averaged Rs.12,000 in the decade ending 1901 and Rs.14,000 in 1903-4.",
+  "quote": "The income during the decade ending 1901 averaged Rs. 12,000. In 1903-4 the income was Rs. 14,000.",
+  "theme": "commerce",
+  "passage_id": "in.ernet.dli.2015.207009-p17"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.207009-p17-f2",
+  "source_id": "in.ernet.dli.2015.207009",
+  "split": "dev",
+  "claim": "Near Umreth is a step-well about five hundred years old with five storeys and 109 steps, attributed to Sidhraj.",
+  "quote": "Near the town is a step-well estimated to be nearly five hundred years old. It has five storeys and 109 steps, and is ascribed to Sidhraj, king of Anhilvada.",
+  "theme": "community",
+  "passage_id": "in.ernet.dli.2015.207009-p17"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.207009-p18-f0",
+  "source_id": "in.ernet.dli.2015.207009",
+  "split": "dev",
+  "claim": "Manmad had a population of 7,113 in 1901.",
+  "quote": "Population (1901), 7*113. Manmad is the junction of the Dhond- Manmad State Railway with the Great Indian Peninsula Railway, and also the starting-point of a metre-gauge railway to Hyderabad.",
+  "theme": "community",
+  "passage_id": "in.ernet.dli.2015.207009-p18"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.207009-p18-f1",
+  "source_id": "in.ernet.dli.2015.207009",
+  "split": "dev",
+  "claim": "Cotton from Khandesh and Malegaon was transported by rail through Manmad.",
+  "quote": "Much cotton from Khandesh and Malegaon is carried by rail here.",
+  "theme": "commerce",
+  "passage_id": "in.ernet.dli.2015.207009-p18"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.207009-p18-f2",
+  "source_id": "in.ernet.dli.2015.207009",
+  "split": "dev",
+  "claim": "Nandgaon had a population of 6,271 in 1901.",
+  "quote": "Population (1901), 6,271. The town contains a cotton-ginning factory, an English school, and a dispensary.",
+  "theme": "community",
+  "passage_id": "in.ernet.dli.2015.207009-p18"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.207009-p19-f0",
+  "source_id": "in.ernet.dli.2015.207009",
+  "split": "heldout",
+  "claim": "The Queen\u2019s Necklace is a chain of lights along the coast visible from Cumballa Hill.",
+  "quote": "the whole curve of land being jewelled with an unbroken chain of lights, which have earned the appropriate title of e The Queen\u2019s Necklace.",
+  "theme": "travel",
+  "passage_id": "in.ernet.dli.2015.207009-p19"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.207009-p19-f1",
+  "source_id": "in.ernet.dli.2015.207009",
+  "split": "heldout",
+  "claim": "The Lady Jamsetji Causeway opened in 1845, replacing ferry boats for communication between Bombay and Bandra.",
+  "quote": "The causeway was opened in 1845, up to which time communication between Bombay and Bandra, the southernmost village in Salsette, had been carried on by means of ferry-boats.",
+  "theme": "travel",
+  "passage_id": "in.ernet.dli.2015.207009-p19"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.207009-p20-f0",
+  "source_id": "in.ernet.dli.2015.207009",
+  "split": "heldout",
+  "claim": "The population of Naslrabad in 1901 was 12,176.",
+  "quote": "Population (1901), 12,176.",
+  "theme": "community",
+  "passage_id": "in.ernet.dli.2015.207009-p20"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.207009-p20-f1",
+  "source_id": "in.ernet.dli.2015.207009",
+  "split": "heldout",
+  "claim": "Naslrabad is noted for the manufacture of glass bangles by Musal- mans.",
+  "quote": "The town is noted for the manufacture of glass bangles by Musal- mans.",
+  "theme": "commerce",
+  "passage_id": "in.ernet.dli.2015.207009-p20"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.207009-p20-f2",
+  "source_id": "in.ernet.dli.2015.207009",
+  "split": "heldout",
+  "claim": "Naslrabad contains a cotton-ginning and pressing factory and six schools with 773 pupils, of which two schools have 92 pupils for girls.",
+  "quote": "The town contains a cotton-ginning and pressing factory, and six schools, with 773 pupils, of which two, with 92 pupils, are for girls.",
+  "theme": "community",
+  "passage_id": "in.ernet.dli.2015.207009-p20"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.207009-p21-f0",
+  "source_id": "in.ernet.dli.2015.207009",
+  "split": "dev",
+  "claim": "The Vehar reservoir supplies about 8,000,000 gallons of water per day to Bombay.",
+  "quote": "The quantity of the water supplied by the reservoir is about 8,000,000 gallons a day, or a little more than 10 gallons per head for the population of Bombay.",
+  "theme": "commerce",
+  "passage_id": "in.ernet.dli.2015.207009-p21"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.207009-p21-f1",
+  "source_id": "in.ernet.dli.2015.207009",
+  "split": "dev",
+  "claim": "The cost of constructing the Vehar reservoir and its pipelines to Bombay was over 37 lakhs.",
+  "quote": "The cost of the Vehar reservoir, and of laying the pipes into Bombay, was over 37 lakhs.",
+  "theme": "commerce",
+  "passage_id": "in.ernet.dli.2015.207009-p21"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.207009-p21-f2",
+  "source_id": "in.ernet.dli.2015.207009",
+  "split": "dev",
+  "claim": "A new scheme in 1877 brought an independent main from the TulsI reservoir to Malabar Hill at a cost of 33 lakhs.",
+  "quote": "In 1877 a new scheme was undertaken for bringing an independent main from TulsI to the top of Malabar Hill in Bombay, which was carried out at a cost of 33 lakhs.",
+  "theme": "commerce",
+  "passage_id": "in.ernet.dli.2015.207009-p21"
+ }
+]

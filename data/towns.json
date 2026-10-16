@@ -1,0 +1,15 @@
+{
+"bodie":{"name":"Bodie","place":"Bodie, California","era":"1879 and 1880","kind":"newspapers","key":"Bodie","allow":["Bodie"],"desc":"96 public domain newspaper issues"},
+"bangalore":{"name":"Bangalore","place":"Bangalore, India","era":"1870s to 1890s","kind":"gazetteers","key":"Bangalore|Bengaluru|Bangalur","allow":["Bangalore","Mysore","India"],
+ "ids":["BangaloreGazetteer1875","mysoregazetteerc01rice","mysoreagazettee02ricegoog"],"per_doc":22,
+ "sys":"Bangalore, India (a British era gazetteer of the 1870s to 1890s)","min_hits":2},
+"coorg":{"name":"Coorg","place":"Coorg (Kodagu), India","era":"1870s","kind":"gazetteers","key":"Coorg|Kodagu|Mercara|Virajpet","allow":["Coorg","Kodagu","Mercara","India"],
+ "ids":["manualcoorgagaz00richgoog","in.ernet.dli.2015.94276","cu31924071131605"],"per_doc":18,
+ "sys":"Coorg (Kodagu), India (a British era gazetteer of the 1870s)","min_hits":2},
+"hyderabad":{"name":"Hyderabad","place":"Hyderabad, India","era":"1880s to 1910","kind":"books","key":"Hyderabad|Nizam|Deccan|Secunderabad|Golconda","allow":["Hyderabad","Deccan","India"],
+ "ids":["hyderabaddeccanu00alic","hyderabadaffairs09alim","in.ernet.dli.2015.11519","historyoffreemas00grib"],"per_doc":14,
+ "sys":"Hyderabad, the Deccan, India (British era books of the 1880s to 1910)","min_hits":2},
+"mumbai":{"name":"Mumbai","place":"Mumbai (Bombay), India","era":"1909 and 1910","kind":"gazetteers","key":"Bombay|Colaba|Mahim|Parel|Malabar Hill","allow":["Bombay","Mumbai","India"],
+ "ids":["in.ernet.dli.2015.96511","in.ernet.dli.2015.35213","in.ernet.dli.2015.207009"],"per_doc":22,
+ "sys":"Bombay (now Mumbai), India (the 1909 and 1910 city gazetteers and the Imperial Gazetteer)","min_hits":2}
+}

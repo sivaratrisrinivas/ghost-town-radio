@@ -1,11 +1,12 @@
 """Chunk OCR text into passages; score OCR quality; keep best few per doc."""
 import json,re,collections
 from common import *
-meta=load_meta()
+cfg=town_cfg();meta=load_meta()
 docs={i:doc_text(m) for i,m in meta.items()}
 cnt=collections.Counter(w for t in docs.values() for w in re.findall(r"[a-z]{3,}",t.lower()))
 vocab={w for w,c in cnt.items() if c>=8}|set("a an as at be by do go he if in is it me my no of on or so to up us we am i".split())
 KEY=re.compile(r"\b(Bodie|mine|mill|miners?|saloon|stage|Standard|ore|bullion|fire|shot|killed|hotel|school|church|lodge|snow|wind|assay|company|stock|town)\b",re.I)
+PLACE=re.compile(cfg['key'] if not LEGACY else 'Bodie')
 def quality(p):
     toks=re.findall(r"[A-Za-z']+",p)
     if len(toks)<40: return 0
@@ -25,9 +26,11 @@ for i,t in docs.items():
         if len(w)<400: continue
         q=quality(w)
         if q<0.78: continue
-        sc.append((q+0.02*min(10,len(KEY.findall(w))),w,q))
+        if not LEGACY and len(PLACE.findall(w))<cfg["min_hits"]: continue
+        sc.append((q+0.02*min(10,len(KEY.findall(w)))+(0.05*min(4,len(PLACE.findall(w))) if not LEGACY else 0),w,q))
     sc.sort(reverse=True)
-    for k,(s,w,q) in enumerate(sc[:6]):
-        out.append({"pid":f"{i}-p{k}","doc":i,"split":split_of(i),"quality":round(q,3),"text":w})
-json.dump(out,open("data/passages.json","w"),indent=1)
+    for k,(s,w,q) in enumerate(sc[:6 if LEGACY else cfg["per_doc"]]):
+        pid=f"{i}-p{k}"
+        out.append({"pid":pid,"doc":i,"split":split_of(i if LEGACY else pid),"quality":round(q,3),"text":w})
+json.dump(out,open(P("passages.json"),"w"),indent=1)
 print(len(out),"passages from",len({o['doc'] for o in out}),"docs;",collections.Counter(o['split'] for o in out))

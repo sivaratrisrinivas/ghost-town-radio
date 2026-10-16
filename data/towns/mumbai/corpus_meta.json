@@ -1,0 +1,32 @@
+[
+ {
+  "id": "in.ernet.dli.2015.96511",
+  "title": "The Gazetteer Of Bombay City And Island  Vol. 1",
+  "creator": "Edwards, S. M.",
+  "date": "1909-01-01",
+  "url": "https://archive.org/details/in.ernet.dli.2015.96511",
+  "license": "Public domain by age: published 1909, before 1931. The Internet Archive item has no rights statement",
+  "text_file": "data/towns/mumbai/corpus/in.ernet.dli.2015.96511.txt",
+  "chars": 1140805
+ },
+ {
+  "id": "in.ernet.dli.2015.35213",
+  "title": "The Gazetteer Of Bombay City And Island Vol Iii",
+  "creator": "Not Available",
+  "date": "1910-01-01",
+  "url": "https://archive.org/details/in.ernet.dli.2015.35213",
+  "license": "Public domain by age: published 1910, before 1931. The Internet Archive item has no rights statement",
+  "text_file": "data/towns/mumbai/corpus/in.ernet.dli.2015.35213.txt",
+  "chars": 1142604
+ },
+ {
+  "id": "in.ernet.dli.2015.207009",
+  "title": "Imperial Gazetteer Of India Provincial Series  Bombay Presidency Vol-i",
+  "creator": "Superintendent Of Government Printing Calcutta",
+  "date": "1909-01-01",
+  "url": "https://archive.org/details/in.ernet.dli.2015.207009",
+  "license": "Public domain by age: published 1909, before 1931. The Internet Archive item has no rights statement",
+  "text_file": "data/towns/mumbai/corpus/in.ernet.dli.2015.207009.txt",
+  "chars": 1772653
+ }
+]

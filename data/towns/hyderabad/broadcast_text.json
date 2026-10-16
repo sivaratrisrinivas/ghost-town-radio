@@ -1,0 +1,688 @@
+{
+ "station": {
+  "name": "Ghost Town Radio",
+  "dj": "Hollis Vane (fictional)",
+  "place": "Hyderabad, India"
+ },
+ "hours": [
+  {
+   "hour": 0,
+   "theme": "nightlife",
+   "title": "Midnight, no word on the nightlife",
+   "lines": [
+    {
+     "id": "h0-open",
+     "type": "bridge",
+     "text": "Ghost Town Radio. Hollis Vane, with you at midnight. "
+    },
+    {
+     "id": "h0-sil",
+     "type": "silence",
+     "text": ""
+    },
+    {
+     "id": "h0-out",
+     "type": "bridge",
+     "text": "That is all the archive gives me on that. I will not guess."
+    }
+   ]
+  },
+  {
+   "hour": 1,
+   "theme": "crime",
+   "title": "Trouble and the law",
+   "lines": [
+    {
+     "id": "h1-open",
+     "type": "bridge",
+     "text": "This is Hollis Vane, one o'clock in the morning, on Ghost Town Radio. Let us see what the papers said about trouble."
+    },
+    {
+     "id": "historyoffreemas00grib-p1-f1-c",
+     "type": "claim",
+     "fact_id": "historyoffreemas00grib-p1-f1",
+     "text": "Now a page from the archive. From History of Freemasonry in Hyderabad Deccan, published in nineteen ten. Letters were delivered by hand through districts that were infested with dacoits. The words themselves."
+    },
+    {
+     "id": "historyoffreemas00grib-p1-f1-q",
+     "type": "quote",
+     "fact_id": "historyoffreemas00grib-p1-f1",
+     "text": "all letters had to be delivered by hand, and taken through districts, many of them infested with dacoits",
+     "speak": "all letters had to be delivered by hand, and taken through districts, many of them infested with dacoits"
+    },
+    {
+     "id": "h1-out",
+     "type": "bridge",
+     "text": "Where the paper goes quiet, so do I."
+    }
+   ]
+  },
+  {
+   "hour": 2,
+   "theme": "weather",
+   "title": "The sky and the seasons",
+   "lines": [
+    {
+     "id": "h2-open",
+     "type": "bridge",
+     "text": "two o'clock in the morning, and the dial is still warm. Hollis Vane here. "
+    },
+    {
+     "id": "h2-sil",
+     "type": "silence",
+     "text": ""
+    },
+    {
+     "id": "h2-out",
+     "type": "bridge",
+     "text": "Static for a moment. Stay on the dial."
+    }
+   ]
+  },
+  {
+   "hour": 3,
+   "theme": "mining",
+   "title": "Under the ground",
+   "lines": [
+    {
+     "id": "h3-open",
+     "type": "bridge",
+     "text": "Ghost Town Radio. Hollis Vane, with you at three o'clock in the morning. Let us see what the papers said about the mines."
+    },
+    {
+     "id": "hyderabadaffairs09alim-p1-f1-c",
+     "type": "claim",
+     "fact_id": "hyderabadaffairs09alim-p1-f1",
+     "text": "Another clipping. From Hyderabad affairs, published in eighteen eighty-nine. The Company had been carrying on mining operations in the Singareni coalfields to the extent of raising about 150 tons a week. In the paper's own words."
+    },
+    {
+     "id": "hyderabadaffairs09alim-p1-f1-q",
+     "type": "quote",
+     "fact_id": "hyderabadaffairs09alim-p1-f1",
+     "text": "The Company have been carrying on mining operations in the Singareni coaltields to the extent of raising about 150 tons a week.",
+     "speak": "The Company have been carrying on mining operations in the Singareni coaltields to the extent of raising about 150 tons a week."
+    },
+    {
+     "id": "h3-out",
+     "type": "bridge",
+     "text": "That is all the archive gives me on that. I will not guess."
+    }
+   ]
+  },
+  {
+   "hour": 4,
+   "theme": "community",
+   "title": "Before dawn, the town",
+   "lines": [
+    {
+     "id": "h4-open",
+     "type": "bridge",
+     "text": "This is Hollis Vane, four o'clock in the morning, on Ghost Town Radio. Let us see what the papers said about the town."
+    },
+    {
+     "id": "historyoffreemas00grib-p2-f1-c",
+     "type": "claim",
+     "fact_id": "historyoffreemas00grib-p2-f1",
+     "text": "Here is what the paper printed. From History of Freemasonry in Hyderabad Deccan, published in nineteen ten. The Lodge decided to observe a month of mourning and hold a Lodge of sorrow. The words themselves."
+    },
+    {
+     "id": "historyoffreemas00grib-p2-f1-q",
+     "type": "quote",
+     "fact_id": "historyoffreemas00grib-p2-f1",
+     "text": "it was resolved to put the Lodge into mourning for a month and to hold a Lodge of sorrow. This",
+     "speak": "it was resolved to put the Lodge into mourning for a month and to hold a Lodge of sorrow. This"
+    },
+    {
+     "id": "h4-out",
+     "type": "bridge",
+     "text": "Where the paper goes quiet, so do I."
+    }
+   ]
+  },
+  {
+   "hour": 5,
+   "theme": "travel",
+   "title": "Roads and rails",
+   "lines": [
+    {
+     "id": "h5-open",
+     "type": "bridge",
+     "text": "five o'clock in the morning, and the dial is still warm. Hollis Vane here. "
+    },
+    {
+     "id": "h5-sil",
+     "type": "silence",
+     "text": ""
+    },
+    {
+     "id": "h5-out",
+     "type": "bridge",
+     "text": "Static for a moment. Stay on the dial."
+    }
+   ]
+  },
+  {
+   "hour": 6,
+   "theme": "commerce",
+   "title": "Early trade",
+   "lines": [
+    {
+     "id": "h6-open",
+     "type": "bridge",
+     "text": "Ghost Town Radio. Hollis Vane, with you at six o'clock in the morning. Let us see what the papers said about trade."
+    },
+    {
+     "id": "hyderabadaffairs09alim-p13-f1-c",
+     "type": "claim",
+     "fact_id": "hyderabadaffairs09alim-p13-f1",
+     "text": "Listen to this one. From Hyderabad affairs, published in eighteen eighty-nine. The concession covered an area of over 81,000 square miles. In the paper's own words."
+    },
+    {
+     "id": "hyderabadaffairs09alim-p13-f1-q",
+     "type": "quote",
+     "fact_id": "hyderabadaffairs09alim-p13-f1",
+     "text": "the concession extended over a comitry containing an area of ovei' 81,000 square miles, or about that of Great Britain",
+     "speak": "the concession extended over a comitry containing an area of ovei' 81,000 square miles, or about that of Great Britain"
+    },
+    {
+     "id": "h6-out",
+     "type": "bridge",
+     "text": "That is all the archive gives me on that. I will not guess."
+    }
+   ]
+  },
+  {
+   "hour": 7,
+   "theme": "community",
+   "title": "Schools and temples",
+   "lines": [
+    {
+     "id": "h7-open",
+     "type": "bridge",
+     "text": "This is Hollis Vane, seven o'clock in the morning, on Ghost Town Radio. Let us see what the papers said about the town."
+    },
+    {
+     "id": "historyoffreemas00grib-p13-f0-c",
+     "type": "claim",
+     "fact_id": "historyoffreemas00grib-p13-f0",
+     "text": "Another clipping. From History of Freemasonry in Hyderabad Deccan, published in nineteen ten. The Lodge Morland elected the Worshipful Master and Wardens of St. John's as Honorary Members. The words themselves."
+    },
+    {
+     "id": "historyoffreemas00grib-p13-f0-q",
+     "type": "quote",
+     "fact_id": "historyoffreemas00grib-p13-f0",
+     "text": "Lodge Morland, the new Scotch Lodge, having elected the Worshipful Master and Wardens of St. John's as Honorary Members, ' * a letter to this effect was read.",
+     "speak": "Lodge Morland, the new Scotch Lodge, having elected the Worshipful Master and Wardens of St. John's as Honorary Members, ' * a letter to this effect was read."
+    },
+    {
+     "id": "h7-out",
+     "type": "bridge",
+     "text": "Where the paper goes quiet, so do I."
+    }
+   ]
+  },
+  {
+   "hour": 8,
+   "theme": "commerce",
+   "title": "Markets and prices",
+   "lines": [
+    {
+     "id": "h8-open",
+     "type": "bridge",
+     "text": "eight o'clock in the morning, and the dial is still warm. Hollis Vane here. Let us see what the papers said about trade."
+    },
+    {
+     "id": "hyderabadaffairs09alim-p12-f1-c",
+     "type": "claim",
+     "fact_id": "hyderabadaffairs09alim-p12-f1",
+     "text": "Here is what the paper printed. From Hyderabad affairs, published in eighteen eighty-nine. The committee allowed the Nizam of Hyderabad and several company officials to appear by counsel. Word for word."
+    },
+    {
+     "id": "hyderabadaffairs09alim-p12-f1-q",
+     "type": "quote",
+     "fact_id": "hyderabadaffairs09alim-p12-f1",
+     "text": "The Committee allow the Nizam of Hyderabad, the Hyderabad Deccan Company, the Sirdar Diler Jung, Mr. Wilham Clarence Watson, Mr. Henry Parkinson Sharp, and Mr. James Graham Stewart to appear by counsel.",
+     "speak": "The Committee allow the Nizam of Hyderabad, the Hyderabad Deccan Company, the Sirdar Diler Jung, Mr. Wilham Clarence Watson, Mr. Henry Parkinson Sharp, and Mr. James Graham Stewart to appear by counsel."
+    },
+    {
+     "id": "h8-out",
+     "type": "bridge",
+     "text": "Static for a moment. Stay on the dial."
+    }
+   ]
+  },
+  {
+   "hour": 9,
+   "theme": "community",
+   "title": "Morning, the people",
+   "lines": [
+    {
+     "id": "h9-open",
+     "type": "bridge",
+     "text": "Ghost Town Radio. Hollis Vane, with you at nine o'clock in the morning. Let us see what the papers said about the town."
+    },
+    {
+     "id": "historyoffreemas00grib-p6-f0-c",
+     "type": "claim",
+     "fact_id": "historyoffreemas00grib-p6-f0",
+     "text": "Now a page from the archive. From History of Freemasonry in Hyderabad Deccan, published in nineteen ten. The Lodge Morland was opened with a considerable amount of pomp and ceremony. In the paper's own words."
+    },
+    {
+     "id": "historyoffreemas00grib-p6-f0-q",
+     "type": "quote",
+     "fact_id": "historyoffreemas00grib-p6-f0",
+     "text": "Lodge Morland was opened with a considerable amount of pomp and ceremony",
+     "speak": "Lodge Morland was opened with a considerable amount of pomp and ceremony"
+    },
+    {
+     "id": "in.ernet.dli.2015.11519-p13-f1-c",
+     "type": "claim",
+     "fact_id": "in.ernet.dli.2015.11519-p13-f1",
+     "text": "Listen to this one. From Imperial Gazetteer Of India Provincial Series Hyderabad State, published in nineteen oh nine. The fortifications consist of two forts; the upper fort is situated on the lofty and insulated summit of a hill, about 400 feet above the plain. The words themselves."
+    },
+    {
+     "id": "in.ernet.dli.2015.11519-p13-f1-q",
+     "type": "quote",
+     "fact_id": "in.ernet.dli.2015.11519-p13-f1",
+     "text": "The fortifications consist of two forts ; the upper fort is situated on the lofty and insulated summit of a hill, about 400 feet above the plain.",
+     "speak": "The fortifications consist of two forts ; the upper fort is situated on the lofty and insulated summit of a hill, about 400 feet above the plain."
+    },
+    {
+     "id": "h9-out",
+     "type": "bridge",
+     "text": "That is all the archive gives me on that. I will not guess."
+    }
+   ]
+  },
+  {
+   "hour": 10,
+   "theme": "news",
+   "title": "Word of the day",
+   "lines": [
+    {
+     "id": "h10-open",
+     "type": "bridge",
+     "text": "This is Hollis Vane, ten o'clock in the morning, on Ghost Town Radio. Let us see what the papers carried from far away."
+    },
+    {
+     "id": "in.ernet.dli.2015.11519-p3-f0-c",
+     "type": "claim",
+     "fact_id": "in.ernet.dli.2015.11519-p3-f0",
+     "text": "Listen to this one. From Imperial Gazetteer Of India Provincial Series Hyderabad State, published in nineteen oh nine. The present Raja is a minor, and the estate has been under the control of the Court of Wards since 1902. The words themselves."
+    },
+    {
+     "id": "in.ernet.dli.2015.11519-p3-f0-q",
+     "type": "quote",
+     "fact_id": "in.ernet.dli.2015.11519-p3-f0",
+     "text": "The present Raja is a minor, and the estate has been under the control of the Court of Wards since 1902.",
+     "speak": "The present Raja is a minor, and the estate has been under the control of the Court of Wards since 1902."
+    },
+    {
+     "id": "h10-out",
+     "type": "bridge",
+     "text": "Where the paper goes quiet, so do I."
+    }
+   ]
+  },
+  {
+   "hour": 11,
+   "theme": "travel",
+   "title": "Late morning, the roads",
+   "lines": [
+    {
+     "id": "h11-open",
+     "type": "bridge",
+     "text": "eleven o'clock in the morning, and the dial is still warm. Hollis Vane here. "
+    },
+    {
+     "id": "h11-sil",
+     "type": "silence",
+     "text": ""
+    },
+    {
+     "id": "h11-out",
+     "type": "bridge",
+     "text": "Static for a moment. Stay on the dial."
+    }
+   ]
+  },
+  {
+   "hour": 12,
+   "theme": "community",
+   "title": "Noon, the town talks",
+   "lines": [
+    {
+     "id": "h12-open",
+     "type": "bridge",
+     "text": "Ghost Town Radio. Hollis Vane, with you at noon. Let us see what the papers said about the town."
+    },
+    {
+     "id": "in.ernet.dli.2015.11519-p8-f1-c",
+     "type": "claim",
+     "fact_id": "in.ernet.dli.2015.11519-p8-f1",
+     "text": "Here is what the paper printed. From Imperial Gazetteer Of India Provincial Series Hyderabad State, published in nineteen oh nine. Nizamabad Taluk had an area of 550 square miles. In the paper's own words."
+    },
+    {
+     "id": "in.ernet.dli.2015.11519-p8-f1-q",
+     "type": "quote",
+     "fact_id": "in.ernet.dli.2015.11519-p8-f1",
+     "text": "Nizamabad Taluk. \u2014 Taluk in Nizamabad District, Hyder- abad State, formerly known as the Indur idluk^ with an area f)f 550 square miles.",
+     "speak": "Nizamabad Taluk. \u2014 Taluk in Nizamabad District, Hyderabad State, formerly known as the Indur idluk^ with an area f)f 550 square miles."
+    },
+    {
+     "id": "h12-out",
+     "type": "bridge",
+     "text": "That is all the archive gives me on that. I will not guess."
+    }
+   ]
+  },
+  {
+   "hour": 13,
+   "theme": "commerce",
+   "title": "Afternoon trade",
+   "lines": [
+    {
+     "id": "h13-open",
+     "type": "bridge",
+     "text": "This is Hollis Vane, one o'clock in the afternoon, on Ghost Town Radio. Let us see what the papers said about trade."
+    },
+    {
+     "id": "historyoffreemas00grib-p7-f1-c",
+     "type": "claim",
+     "fact_id": "historyoffreemas00grib-p7-f1",
+     "text": "Now a page from the archive. From History of Freemasonry in Hyderabad Deccan, published in nineteen ten. The Lodge decided to vest its funds in Messrs. Palmer & Co., a large banking firm in Hyderabad. The words themselves."
+    },
+    {
+     "id": "historyoffreemas00grib-p7-f1-q",
+     "type": "quote",
+     "fact_id": "historyoffreemas00grib-p7-f1",
+     "text": "the funds of the Lodge be vested in the hands of Messrs. Palmer & Co.,\" th big banking firm of Hyderabad.",
+     "speak": "the funds of the Lodge be vested in the hands of Messrs. Palmer & Co.,\" th big banking firm of Hyderabad."
+    },
+    {
+     "id": "hyderabadaffairs09alim-p13-f0-c",
+     "type": "claim",
+     "fact_id": "hyderabadaffairs09alim-p13-f0",
+     "text": "Listen to this one. From Hyderabad affairs, published in eighteen eighty-nine. The company was required to have a capital not less than 11,000,000 and to subscribe at least 150,000. Word for word."
+    },
+    {
+     "id": "hyderabadaffairs09alim-p13-f0-q",
+     "type": "quote",
+     "fact_id": "hyderabadaffairs09alim-p13-f0",
+     "text": "there was no limitation on the capital of the Company, except that it was to be \" not less than \" 11,000,000, and no limitation on the amount to be subscribed, except that it was to be \u00a3150,000 \" at the least.",
+     "speak": "there was no limitation on the capital of the Company, except that it was to be \" not less than \" 11,000,000, and no limitation on the amount to be subscribed, except that it was to be \u00a3150,000 \" at the least."
+    },
+    {
+     "id": "h13-out",
+     "type": "bridge",
+     "text": "Where the paper goes quiet, so do I."
+    }
+   ]
+  },
+  {
+   "hour": 14,
+   "theme": "community",
+   "title": "Afternoon, the people",
+   "lines": [
+    {
+     "id": "h14-open",
+     "type": "bridge",
+     "text": "two o'clock in the afternoon, and the dial is still warm. Hollis Vane here. Let us see what the papers said about the town."
+    },
+    {
+     "id": "historyoffreemas00grib-p3-f2-c",
+     "type": "claim",
+     "fact_id": "historyoffreemas00grib-p3-f2",
+     "text": "Listen to this one. From History of Freemasonry in Hyderabad Deccan, published in nineteen ten. Lodge Hyderabad still exists but is in an anemic condition with few signs of vitality. Word for word."
+    },
+    {
+     "id": "historyoffreemas00grib-p3-f2-q",
+     "type": "quote",
+     "fact_id": "historyoffreemas00grib-p3-f2",
+     "text": "Lodge Hyderabad still exists, but in a somewhat anaemic condition and shows but few signs of ^\u2022itality.",
+     "speak": "Lodge Hyderabad still exists, but in a somewhat anaemic condition and shows but few signs of ^\u2022itality."
+    },
+    {
+     "id": "h14-out",
+     "type": "bridge",
+     "text": "Static for a moment. Stay on the dial."
+    }
+   ]
+  },
+  {
+   "hour": 15,
+   "theme": "news",
+   "title": "The government and the record",
+   "lines": [
+    {
+     "id": "h15-open",
+     "type": "bridge",
+     "text": "Ghost Town Radio. Hollis Vane, with you at three o'clock in the afternoon. Let us see what the papers carried from far away."
+    },
+    {
+     "id": "hyderabadaffairs09alim-p1-f2-c",
+     "type": "claim",
+     "fact_id": "hyderabadaffairs09alim-p1-f2",
+     "text": "Another clipping. From Hyderabad affairs, published in eighteen eighty-nine. The Committee expressed no opinion as to the prospects of the enterprise. In the paper's own words."
+    },
+    {
+     "id": "hyderabadaffairs09alim-p1-f2-q",
+     "type": "quote",
+     "fact_id": "hyderabadaffairs09alim-p1-f2",
+     "text": "The Committee expfess no opinion as to the prospects of the enterprise.",
+     "speak": "The Committee expfess no opinion as to the prospects of the enterprise."
+    },
+    {
+     "id": "h15-out",
+     "type": "bridge",
+     "text": "That is all the archive gives me on that. I will not guess."
+    }
+   ]
+  },
+  {
+   "hour": 16,
+   "theme": "travel",
+   "title": "Distances and routes",
+   "lines": [
+    {
+     "id": "h16-open",
+     "type": "bridge",
+     "text": "This is Hollis Vane, four o'clock in the afternoon, on Ghost Town Radio. "
+    },
+    {
+     "id": "h16-sil",
+     "type": "silence",
+     "text": ""
+    },
+    {
+     "id": "h16-out",
+     "type": "bridge",
+     "text": "Where the paper goes quiet, so do I."
+    }
+   ]
+  },
+  {
+   "hour": 17,
+   "theme": "community",
+   "title": "Supper hour",
+   "lines": [
+    {
+     "id": "h17-open",
+     "type": "bridge",
+     "text": "five o'clock in the afternoon, and the dial is still warm. Hollis Vane here. Let us see what the papers said about the town."
+    },
+    {
+     "id": "historyoffreemas00grib-p13-f1-c",
+     "type": "claim",
+     "fact_id": "historyoffreemas00grib-p13-f1",
+     "text": "Now a page from the archive. From History of Freemasonry in Hyderabad Deccan, published in nineteen ten. Donations of Rs. 25 each were given to two orphanages and Rs. 50 to a widow of a deceased brother. Word for word."
+    },
+    {
+     "id": "historyoffreemas00grib-p13-f1-q",
+     "type": "quote",
+     "fact_id": "historyoffreemas00grib-p13-f1",
+     "text": "The usual donations of Rs. 25 each to the two orphanages were given and a further grant of Rs. 50 to the widow of a deceased brother.",
+     "speak": "The usual donations of Rs. 25 each to the two orphanages were given and a further grant of Rs. 50 to the widow of a deceased brother."
+    },
+    {
+     "id": "historyoffreemas00grib-p4-f0-c",
+     "type": "claim",
+     "fact_id": "historyoffreemas00grib-p4-f0",
+     "text": "Listen to this one. From History of Freemasonry in Hyderabad Deccan, published in nineteen ten. The first record of Freemasonry in Hyderabad was in 1806. In the paper's own words."
+    },
+    {
+     "id": "historyoffreemas00grib-p4-f0-q",
+     "type": "quote",
+     "fact_id": "historyoffreemas00grib-p4-f0",
+     "text": "The first record of Freemasonry in Hyderabad was in the year 1806, when the 33rd Regiment stationed there worked under a Warrant as Lodge \" Unity and Friendship \" granted in the year 1803.",
+     "speak": "The first record of Freemasonry in Hyderabad was in the year 1806, when the 33rd Regiment stationed there worked under a Warrant as Lodge \" Unity and Friendship \" granted in the year 1803."
+    },
+    {
+     "id": "h17-out",
+     "type": "bridge",
+     "text": "Static for a moment. Stay on the dial."
+    }
+   ]
+  },
+  {
+   "hour": 18,
+   "theme": "commerce",
+   "title": "Evening trade",
+   "lines": [
+    {
+     "id": "h18-open",
+     "type": "bridge",
+     "text": "Ghost Town Radio. Hollis Vane, with you at six o'clock in the evening. Let us see what the papers said about trade."
+    },
+    {
+     "id": "historyoffreemas00grib-p1-f0-c",
+     "type": "claim",
+     "fact_id": "historyoffreemas00grib-p1-f0",
+     "text": "Listen to this one. From History of Freemasonry in Hyderabad Deccan, published in nineteen ten. The lodge's printing had to be carried out in Madras because Secunderabad lacked the necessary facilities. In the paper's own words."
+    },
+    {
+     "id": "historyoffreemas00grib-p1-f0-q",
+     "type": "quote",
+     "fact_id": "historyoffreemas00grib-p1-f0",
+     "text": "the Lodge printing had to be executed in Madras, probably there being no means of securing the execution of such work in Secunderabad",
+     "speak": "the Lodge printing had to be executed in Madras, probably there being no means of securing the execution of such work in Secunderabad"
+    },
+    {
+     "id": "h18-out",
+     "type": "bridge",
+     "text": "That is all the archive gives me on that. I will not guess."
+    }
+   ]
+  },
+  {
+   "hour": 19,
+   "theme": "community",
+   "title": "Lamps and lodges",
+   "lines": [
+    {
+     "id": "h19-open",
+     "type": "bridge",
+     "text": "This is Hollis Vane, seven o'clock in the evening, on Ghost Town Radio. "
+    },
+    {
+     "id": "h19-sil",
+     "type": "silence",
+     "text": ""
+    },
+    {
+     "id": "h19-out",
+     "type": "bridge",
+     "text": "Where the paper goes quiet, so do I."
+    }
+   ]
+  },
+  {
+   "hour": 20,
+   "theme": "nightlife",
+   "title": "Evening, no word on the nightlife",
+   "lines": [
+    {
+     "id": "h20-open",
+     "type": "bridge",
+     "text": "eight o'clock in the evening, and the dial is still warm. Hollis Vane here. "
+    },
+    {
+     "id": "h20-sil",
+     "type": "silence",
+     "text": ""
+    },
+    {
+     "id": "h20-out",
+     "type": "bridge",
+     "text": "Static for a moment. Stay on the dial."
+    }
+   ]
+  },
+  {
+   "hour": 21,
+   "theme": "community",
+   "title": "Late evening, the town",
+   "lines": [
+    {
+     "id": "h21-open",
+     "type": "bridge",
+     "text": "Ghost Town Radio. Hollis Vane, with you at nine o'clock in the evening. "
+    },
+    {
+     "id": "h21-sil",
+     "type": "silence",
+     "text": ""
+    },
+    {
+     "id": "h21-out",
+     "type": "bridge",
+     "text": "That is all the archive gives me on that. I will not guess."
+    }
+   ]
+  },
+  {
+   "hour": 22,
+   "theme": "commerce",
+   "title": "Night accounts",
+   "lines": [
+    {
+     "id": "h22-open",
+     "type": "bridge",
+     "text": "This is Hollis Vane, ten o'clock in the evening, on Ghost Town Radio. "
+    },
+    {
+     "id": "h22-sil",
+     "type": "silence",
+     "text": ""
+    },
+    {
+     "id": "h22-out",
+     "type": "bridge",
+     "text": "Where the paper goes quiet, so do I."
+    }
+   ]
+  },
+  {
+   "hour": 23,
+   "theme": "news",
+   "title": "The last word",
+   "lines": [
+    {
+     "id": "h23-open",
+     "type": "bridge",
+     "text": "eleven o'clock in the evening, and the dial is still warm. Hollis Vane here. "
+    },
+    {
+     "id": "h23-sil",
+     "type": "silence",
+     "text": ""
+    },
+    {
+     "id": "h23-out",
+     "type": "bridge",
+     "text": "Static for a moment. Stay on the dial."
+    }
+   ]
+  }
+ ]
+}

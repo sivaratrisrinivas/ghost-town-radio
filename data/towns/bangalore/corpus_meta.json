@@ -1,0 +1,32 @@
+[
+ {
+  "id": "BangaloreGazetteer1875",
+  "title": "Bangalore Gazetteer 1875",
+  "creator": "Government of India",
+  "date": "1875-01-01",
+  "url": "https://archive.org/details/BangaloreGazetteer1875",
+  "license": "Public Domain Mark 1.0, declared on the Internet Archive item",
+  "text_file": "data/towns/bangalore/corpus/BangaloreGazetteer1875.txt",
+  "chars": 439679
+ },
+ {
+  "id": "mysoregazetteerc01rice",
+  "title": "Mysore: a gazetteer compiled for government",
+  "creator": "Rice, B. Lewis (Benjamin Lewis), 1837-1927",
+  "date": "1897-01-01",
+  "url": "https://archive.org/details/mysoregazetteerc01rice",
+  "license": "Public domain by age: published 1897, before 1931. The Internet Archive item has no rights statement",
+  "text_file": "data/towns/bangalore/corpus/mysoregazetteerc01rice.txt",
+  "chars": 2794835
+ },
+ {
+  "id": "mysoreagazettee02ricegoog",
+  "title": "Mysore: a gazetteer compiled for government",
+  "creator": "Rice, B. Lewis (Benjamin Lewis), 1837-1927",
+  "date": "1897-01-01",
+  "url": "https://archive.org/details/mysoreagazettee02ricegoog",
+  "license": "Public domain by age: published 1897, before 1931. The Internet Archive item has no rights statement",
+  "text_file": "data/towns/bangalore/corpus/mysoreagazettee02ricegoog.txt",
+  "chars": 1683018
+ }
+]

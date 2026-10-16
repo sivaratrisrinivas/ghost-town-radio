@@ -1,0 +1,696 @@
+{
+ "station": {
+  "name": "Ghost Town Radio",
+  "dj": "Hollis Vane (fictional)",
+  "place": "Mumbai (Bombay), India"
+ },
+ "hours": [
+  {
+   "hour": 0,
+   "theme": "nightlife",
+   "title": "Midnight, no word on the nightlife",
+   "lines": [
+    {
+     "id": "h0-open",
+     "type": "bridge",
+     "text": "Ghost Town Radio. Hollis Vane, with you at midnight. "
+    },
+    {
+     "id": "h0-sil",
+     "type": "silence",
+     "text": ""
+    },
+    {
+     "id": "h0-out",
+     "type": "bridge",
+     "text": "That is all the archive gives me on that. I will not guess."
+    }
+   ]
+  },
+  {
+   "hour": 1,
+   "theme": "crime",
+   "title": "Trouble and the law",
+   "lines": [
+    {
+     "id": "h1-open",
+     "type": "bridge",
+     "text": "This is Hollis Vane, one o'clock in the morning, on Ghost Town Radio. "
+    },
+    {
+     "id": "h1-sil",
+     "type": "silence",
+     "text": ""
+    },
+    {
+     "id": "h1-out",
+     "type": "bridge",
+     "text": "Where the paper goes quiet, so do I."
+    }
+   ]
+  },
+  {
+   "hour": 2,
+   "theme": "weather",
+   "title": "The sky and the seasons",
+   "lines": [
+    {
+     "id": "h2-open",
+     "type": "bridge",
+     "text": "two o'clock in the morning, and the dial is still warm. Hollis Vane here. "
+    },
+    {
+     "id": "h2-sil",
+     "type": "silence",
+     "text": ""
+    },
+    {
+     "id": "h2-out",
+     "type": "bridge",
+     "text": "Static for a moment. Stay on the dial."
+    }
+   ]
+  },
+  {
+   "hour": 3,
+   "theme": "mining",
+   "title": "Under the ground",
+   "lines": [
+    {
+     "id": "h3-open",
+     "type": "bridge",
+     "text": "Ghost Town Radio. Hollis Vane, with you at three o'clock in the morning. "
+    },
+    {
+     "id": "h3-sil",
+     "type": "silence",
+     "text": ""
+    },
+    {
+     "id": "h3-out",
+     "type": "bridge",
+     "text": "That is all the archive gives me on that. I will not guess."
+    }
+   ]
+  },
+  {
+   "hour": 4,
+   "theme": "community",
+   "title": "Before dawn, the town",
+   "lines": [
+    {
+     "id": "h4-open",
+     "type": "bridge",
+     "text": "This is Hollis Vane, four o'clock in the morning, on Ghost Town Radio. Let us see what the papers said about the town."
+    },
+    {
+     "id": "in.ernet.dli.2015.96511-p21-f0-c",
+     "type": "claim",
+     "fact_id": "in.ernet.dli.2015.96511-p21-f0",
+     "text": "Here is what the paper printed. From The Gazetteer Of Bombay City And Island Vol, published in nineteen oh nine. The 1906 census recorded 33,267 occupied houses and 10,633 unoccupied houses in Bombay. The words themselves."
+    },
+    {
+     "id": "in.ernet.dli.2015.96511-p21-f0-q",
+     "type": "quote",
+     "fact_id": "in.ernet.dli.2015.96511-p21-f0",
+     "text": "According' to the census of 1906, there were 33,267 occupied houses and 10,633 unoccupied houses in Bombay*",
+     "speak": "According' to the census of 1906, there were 33,267 occupied houses and 10,633 unoccupied houses in Bombay*"
+    },
+    {
+     "id": "h4-out",
+     "type": "bridge",
+     "text": "Where the paper goes quiet, so do I."
+    }
+   ]
+  },
+  {
+   "hour": 5,
+   "theme": "travel",
+   "title": "Roads and rails",
+   "lines": [
+    {
+     "id": "h5-open",
+     "type": "bridge",
+     "text": "five o'clock in the morning, and the dial is still warm. Hollis Vane here. Let us see what the papers said about the roads."
+    },
+    {
+     "id": "in.ernet.dli.2015.35213-p17-f0-c",
+     "type": "claim",
+     "fact_id": "in.ernet.dli.2015.35213-p17-f0",
+     "text": "Now a page from the archive. From The Gazetteer Of Bombay City And Island Vol Iii, published in nineteen ten. The site chosen in 1902 for the magnetic branch of the observatory is at Alibag on the coast of the mainland. Word for word."
+    },
+    {
+     "id": "in.ernet.dli.2015.35213-p17-f0-q",
+     "type": "quote",
+     "fact_id": "in.ernet.dli.2015.35213-p17-f0",
+     "text": "The site, which was finally chosen in 1902, is at Alibag on the coast of the mainland, about 18 miles south-east of Bombay.",
+     "speak": "The site, which was finally chosen in 1902, is at Alibag on the coast of the mainland, about 18 miles south-east of Bombay."
+    },
+    {
+     "id": "h5-out",
+     "type": "bridge",
+     "text": "Static for a moment. Stay on the dial."
+    }
+   ]
+  },
+  {
+   "hour": 6,
+   "theme": "commerce",
+   "title": "Early trade",
+   "lines": [
+    {
+     "id": "h6-open",
+     "type": "bridge",
+     "text": "Ghost Town Radio. Hollis Vane, with you at six o'clock in the morning. Let us see what the papers said about trade."
+    },
+    {
+     "id": "in.ernet.dli.2015.35213-p18-f1-c",
+     "type": "claim",
+     "fact_id": "in.ernet.dli.2015.35213-p18-f1",
+     "text": "Listen to this one. From The Gazetteer Of Bombay City And Island Vol Iii, published in nineteen ten. The bank shares had a quotation of Rs. 1,500 per share in 1909. In the paper's own words."
+    },
+    {
+     "id": "in.ernet.dli.2015.35213-p18-f1-q",
+     "type": "quote",
+     "fact_id": "in.ernet.dli.2015.35213-p18-f1",
+     "text": "With a steady increase in dividends and regular additions to the reserve fund, the value of Bank shares has been gradually enhanced, the. present (1909) quotation being Rs. 1,500 per share.",
+     "speak": "With a steady increase in dividends and regular additions to the reserve fund, the value of Bank shares has been gradually enhanced, the. present (1909) quotation being Rs. 1,500 per share."
+    },
+    {
+     "id": "h6-out",
+     "type": "bridge",
+     "text": "That is all the archive gives me on that. I will not guess."
+    }
+   ]
+  },
+  {
+   "hour": 7,
+   "theme": "community",
+   "title": "Schools and temples",
+   "lines": [
+    {
+     "id": "h7-open",
+     "type": "bridge",
+     "text": "This is Hollis Vane, seven o'clock in the morning, on Ghost Town Radio. Let us see what the papers said about the town."
+    },
+    {
+     "id": "in.ernet.dli.2015.35213-p1-f1-c",
+     "type": "claim",
+     "fact_id": "in.ernet.dli.2015.35213-p1-f1",
+     "text": "Another clipping. From The Gazetteer Of Bombay City And Island Vol Iii, published in nineteen ten. A Gujarathi girls' school was opened in the Fort in 1859 by the Trustees of the Gokuldas Tejpal Charities. The words themselves."
+    },
+    {
+     "id": "in.ernet.dli.2015.35213-p1-f1-q",
+     "type": "quote",
+     "fact_id": "in.ernet.dli.2015.35213-p1-f1",
+     "text": "a Gujarathi girls\u2019 school, opened in the Fort in 1859 by the Trustees of the Gokuldas Tcjpal Charities, to which all Gujarathi-speabing Hindu girls are '.admitted free of charge.",
+     "speak": "a Gujarathi girls\u2019 school, opened in the Fort in 1859 by the Trustees of the Gokuldas Tcjpal Charities, to which all Gujarathi-speabing Hindu girls are '.admitted free of charge."
+    },
+    {
+     "id": "h7-out",
+     "type": "bridge",
+     "text": "Where the paper goes quiet, so do I."
+    }
+   ]
+  },
+  {
+   "hour": 8,
+   "theme": "commerce",
+   "title": "Markets and prices",
+   "lines": [
+    {
+     "id": "h8-open",
+     "type": "bridge",
+     "text": "eight o'clock in the morning, and the dial is still warm. Hollis Vane here. Let us see what the papers said about trade."
+    },
+    {
+     "id": "in.ernet.dli.2015.96511-p9-f1-c",
+     "type": "claim",
+     "fact_id": "in.ernet.dli.2015.96511-p9-f1",
+     "text": "Here is what the paper printed. From The Gazetteer Of Bombay City And Island Vol, published in nineteen oh nine. Due to line expansion, the company moved its workshops from Byculla to Parel in 1878. Word for word."
+    },
+    {
+     "id": "in.ernet.dli.2015.96511-p9-f1-q",
+     "type": "quote",
+     "fact_id": "in.ernet.dli.2015.96511-p9-f1",
+     "text": "In course of. time the expansion of the line forced the company to look for a larger area and in 1878 a move was made from Byculla to the present workshops at Parel.",
+     "speak": "In course of. time the expansion of the line forced the company to look for a larger area and in 1878 a move was made from Byculla to the present workshops at Parel."
+    },
+    {
+     "id": "h8-out",
+     "type": "bridge",
+     "text": "Static for a moment. Stay on the dial."
+    }
+   ]
+  },
+  {
+   "hour": 9,
+   "theme": "community",
+   "title": "Morning, the people",
+   "lines": [
+    {
+     "id": "h9-open",
+     "type": "bridge",
+     "text": "Ghost Town Radio. Hollis Vane, with you at nine o'clock in the morning. Let us see what the papers said about the town."
+    },
+    {
+     "id": "in.ernet.dli.2015.35213-p2-f1-c",
+     "type": "claim",
+     "fact_id": "in.ernet.dli.2015.35213-p2-f1",
+     "text": "Now a page from the archive. From The Gazetteer Of Bombay City And Island Vol Iii, published in nineteen ten. Mr. Clow arrived in India as the first Church of Scotland Chaplain in Bombay two years later. In the paper's own words."
+    },
+    {
+     "id": "in.ernet.dli.2015.35213-p2-f1-q",
+     "type": "quote",
+     "fact_id": "in.ernet.dli.2015.35213-p2-f1",
+     "text": "Two years later Mr. Clow, the first Church of Scotland Chaplain in Bombay, reached India, and in 1816 the foundations of St. Andrew's Church were laid between what was then the Court House and the Ramparts.",
+     "speak": "Two years later Mr. Clow, the first Church of Scotland Chaplain in Bombay, reached India, and in 1816 the foundations of St. Andrew's Church were laid between what was then the Court House and the Ramparts."
+    },
+    {
+     "id": "in.ernet.dli.2015.96511-p21-f1-c",
+     "type": "claim",
+     "fact_id": "in.ernet.dli.2015.96511-p21-f1",
+     "text": "Listen to this one. From The Gazetteer Of Bombay City And Island Vol, published in nineteen oh nine. Mahim, Varli, and Sion contained the largest number of primitive type huts. The words themselves."
+    },
+    {
+     "id": "in.ernet.dli.2015.96511-p21-f1-q",
+     "type": "quote",
+     "fact_id": "in.ernet.dli.2015.96511-p21-f1",
+     "text": "Mahim, Varli and Sion contain the largest number of huts of a primitive type.",
+     "speak": "Mahim, Varli and Sion contain the largest number of huts of a primitive type."
+    },
+    {
+     "id": "h9-out",
+     "type": "bridge",
+     "text": "That is all the archive gives me on that. I will not guess."
+    }
+   ]
+  },
+  {
+   "hour": 10,
+   "theme": "news",
+   "title": "Word of the day",
+   "lines": [
+    {
+     "id": "h10-open",
+     "type": "bridge",
+     "text": "This is Hollis Vane, ten o'clock in the morning, on Ghost Town Radio. "
+    },
+    {
+     "id": "h10-sil",
+     "type": "silence",
+     "text": ""
+    },
+    {
+     "id": "h10-out",
+     "type": "bridge",
+     "text": "Where the paper goes quiet, so do I."
+    }
+   ]
+  },
+  {
+   "hour": 11,
+   "theme": "travel",
+   "title": "Late morning, the roads",
+   "lines": [
+    {
+     "id": "h11-open",
+     "type": "bridge",
+     "text": "eleven o'clock in the morning, and the dial is still warm. Hollis Vane here. Let us see what the papers said about the roads."
+    },
+    {
+     "id": "in.ernet.dli.2015.96511-p19-f0-c",
+     "type": "claim",
+     "fact_id": "in.ernet.dli.2015.96511-p19-f0",
+     "text": "Another clipping. From The Gazetteer Of Bombay City And Island Vol, published in nineteen oh nine. Colaba is divided into Upper and Lower Colaba by an imaginary line drawn at the north wall of St. John's Memorial Church. Word for word."
+    },
+    {
+     "id": "in.ernet.dli.2015.96511-p19-f0-q",
+     "type": "quote",
+     "fact_id": "in.ernet.dli.2015.96511-p19-f0",
+     "text": "is divided into Upper and Lower Colaba by an imaginary line drawn across the land at the north wall of St. John's Memorial Church.",
+     "speak": "is divided into Upper and Lower Colaba by an imaginary line drawn across the land at the north wall of St. John's Memorial Church."
+    },
+    {
+     "id": "h11-out",
+     "type": "bridge",
+     "text": "Static for a moment. Stay on the dial."
+    }
+   ]
+  },
+  {
+   "hour": 12,
+   "theme": "community",
+   "title": "Noon, the town talks",
+   "lines": [
+    {
+     "id": "h12-open",
+     "type": "bridge",
+     "text": "Ghost Town Radio. Hollis Vane, with you at noon. Let us see what the papers said about the town."
+    },
+    {
+     "id": "in.ernet.dli.2015.96511-p3-f2-c",
+     "type": "claim",
+     "fact_id": "in.ernet.dli.2015.96511-p3-f2",
+     "text": "Here is what the paper printed. From The Gazetteer Of Bombay City And Island Vol, published in nineteen oh nine. The total number of the Christian community of the church is 631. In the paper's own words."
+    },
+    {
+     "id": "in.ernet.dli.2015.96511-p3-f2-q",
+     "type": "quote",
+     "fact_id": "in.ernet.dli.2015.96511-p3-f2",
+     "text": "The total num^r of the Christian community of the church is 631.",
+     "speak": "The total num^r of the Christian community of the church is 631."
+    },
+    {
+     "id": "h12-out",
+     "type": "bridge",
+     "text": "That is all the archive gives me on that. I will not guess."
+    }
+   ]
+  },
+  {
+   "hour": 13,
+   "theme": "commerce",
+   "title": "Afternoon trade",
+   "lines": [
+    {
+     "id": "h13-open",
+     "type": "bridge",
+     "text": "This is Hollis Vane, one o'clock in the afternoon, on Ghost Town Radio. Let us see what the papers said about trade."
+    },
+    {
+     "id": "in.ernet.dli.2015.96511-p15-f0-c",
+     "type": "claim",
+     "fact_id": "in.ernet.dli.2015.96511-p15-f0",
+     "text": "Now a page from the archive. From The Gazetteer Of Bombay City And Island Vol, published in nineteen oh nine. The Vereadores estimated the total damage at Rs. 14,330, but the Committee of Accounts reduced it to Rs. 8,500, a sum sanctioned by the Government. The words themselves."
+    },
+    {
+     "id": "in.ernet.dli.2015.96511-p15-f0-q",
+     "type": "quote",
+     "fact_id": "in.ernet.dli.2015.96511-p15-f0",
+     "text": "The Vereadores calculated the total damage at Rs. 14,330, but the Committee of Accounts reduced this estimate to Rs. 8,500, which amount was sanctioned by Government.",
+     "speak": "The Vereadores calculated the total damage at Rs. 14,330, but the Committee of Accounts reduced this estimate to Rs. 8,500, which amount was sanctioned by Government."
+    },
+    {
+     "id": "in.ernet.dli.2015.96511-p14-f0-c",
+     "type": "claim",
+     "fact_id": "in.ernet.dli.2015.96511-p14-f0",
+     "text": "Listen to this one. From The Gazetteer Of Bombay City And Island Vol, published in nineteen oh nine. Messrs. George Smith and Sons initiated a monthly line of sailing ships to Bombay in 1863. Word for word."
+    },
+    {
+     "id": "in.ernet.dli.2015.96511-p14-f0-q",
+     "type": "quote",
+     "fact_id": "in.ernet.dli.2015.96511-p14-f0",
+     "text": "In 1863 Messrs. Georg^e Smith and Sons started a monthly line of sailing ships to Bombay, and sixteen of these vessels reached Bombay via the Cape in 1878.",
+     "speak": "In 1863 Messrs. Georg^e Smith and Sons started a monthly line of sailing ships to Bombay, and sixteen of these vessels reached Bombay via the Cape in 1878."
+    },
+    {
+     "id": "h13-out",
+     "type": "bridge",
+     "text": "Where the paper goes quiet, so do I."
+    }
+   ]
+  },
+  {
+   "hour": 14,
+   "theme": "community",
+   "title": "Afternoon, the people",
+   "lines": [
+    {
+     "id": "h14-open",
+     "type": "bridge",
+     "text": "two o'clock in the afternoon, and the dial is still warm. Hollis Vane here. Let us see what the papers said about the town."
+    },
+    {
+     "id": "in.ernet.dli.2015.35213-p12-f1-c",
+     "type": "claim",
+     "fact_id": "in.ernet.dli.2015.35213-p12-f1",
+     "text": "Listen to this one. From The Gazetteer Of Bombay City And Island Vol Iii, published in nineteen ten. By 1820 the Society had opened four schools for natives on the island, which were attended by about 250 pupils. Word for word."
+    },
+    {
+     "id": "in.ernet.dli.2015.35213-p12-f1-q",
+     "type": "quote",
+     "fact_id": "in.ernet.dli.2015.35213-p12-f1",
+     "text": "by 1820 the Society had opened four schools for natives in the island, attended by about 250 pupils.",
+     "speak": "by 1820 the Society had opened four schools for natives in the island, attended by about 250 pupils."
+    },
+    {
+     "id": "h14-out",
+     "type": "bridge",
+     "text": "Static for a moment. Stay on the dial."
+    }
+   ]
+  },
+  {
+   "hour": 15,
+   "theme": "news",
+   "title": "The government and the record",
+   "lines": [
+    {
+     "id": "h15-open",
+     "type": "bridge",
+     "text": "Ghost Town Radio. Hollis Vane, with you at three o'clock in the afternoon. "
+    },
+    {
+     "id": "h15-sil",
+     "type": "silence",
+     "text": ""
+    },
+    {
+     "id": "h15-out",
+     "type": "bridge",
+     "text": "That is all the archive gives me on that. I will not guess."
+    }
+   ]
+  },
+  {
+   "hour": 16,
+   "theme": "travel",
+   "title": "Distances and routes",
+   "lines": [
+    {
+     "id": "h16-open",
+     "type": "bridge",
+     "text": "This is Hollis Vane, four o'clock in the afternoon, on Ghost Town Radio. "
+    },
+    {
+     "id": "h16-sil",
+     "type": "silence",
+     "text": ""
+    },
+    {
+     "id": "h16-out",
+     "type": "bridge",
+     "text": "Where the paper goes quiet, so do I."
+    }
+   ]
+  },
+  {
+   "hour": 17,
+   "theme": "community",
+   "title": "Supper hour",
+   "lines": [
+    {
+     "id": "h17-open",
+     "type": "bridge",
+     "text": "five o'clock in the afternoon, and the dial is still warm. Hollis Vane here. Let us see what the papers said about the town."
+    },
+    {
+     "id": "in.ernet.dli.2015.35213-p20-f0-c",
+     "type": "claim",
+     "fact_id": "in.ernet.dli.2015.35213-p20-f0",
+     "text": "Now a page from the archive. From The Gazetteer Of Bombay City And Island Vol Iii, published in nineteen ten. The chapel of Mount Carmel was erected in the year 1721. Word for word."
+    },
+    {
+     "id": "in.ernet.dli.2015.35213-p20-f0-q",
+     "type": "quote",
+     "fact_id": "in.ernet.dli.2015.35213-p20-f0",
+     "text": "The chapel of Mount Carmel, was erected in 1721.",
+     "speak": "The chapel of Mount Carmel, was erected in 1721."
+    },
+    {
+     "id": "in.ernet.dli.2015.35213-p12-f0-c",
+     "type": "claim",
+     "fact_id": "in.ernet.dli.2015.35213-p12-f0",
+     "text": "Listen to this one. From The Gazetteer Of Bombay City And Island Vol Iii, published in nineteen ten. The Society for promoting the education of the poor within the Government of Bombay was founded in 1815 and is now known as the Bombay Education Society. In the paper's own words."
+    },
+    {
+     "id": "in.ernet.dli.2015.35213-p12-f0-q",
+     "type": "quote",
+     "fact_id": "in.ernet.dli.2015.35213-p12-f0",
+     "text": "Society for promoting the education of the poor within the Government of Bomba}',\u201d which was founded in that year (1815) and is now known as the Bombay Education Society.",
+     "speak": "Society for promoting the education of the poor within the Government of Bomba ',\u201d which was founded in that year (1815) and is now known as the Bombay Education Society."
+    },
+    {
+     "id": "h17-out",
+     "type": "bridge",
+     "text": "Static for a moment. Stay on the dial."
+    }
+   ]
+  },
+  {
+   "hour": 18,
+   "theme": "commerce",
+   "title": "Evening trade",
+   "lines": [
+    {
+     "id": "h18-open",
+     "type": "bridge",
+     "text": "Ghost Town Radio. Hollis Vane, with you at six o'clock in the evening. Let us see what the papers said about trade."
+    },
+    {
+     "id": "in.ernet.dli.2015.96511-p13-f0-c",
+     "type": "claim",
+     "fact_id": "in.ernet.dli.2015.96511-p13-f0",
+     "text": "Listen to this one. From The Gazetteer Of Bombay City And Island Vol, published in nineteen oh nine. The 2-anna silver piece was introduced in the year 1841. In the paper's own words."
+    },
+    {
+     "id": "in.ernet.dli.2015.96511-p13-f0-q",
+     "type": "quote",
+     "fact_id": "in.ernet.dli.2015.96511-p13-f0",
+     "text": "In 1841 the 2-anna silver piece was introduced, and in the same year a proclamation was issued regulating the gold coinage.",
+     "speak": "In 1841 the 2-anna silver piece was introduced, and in the same year a proclamation was issued regulating the gold coinage."
+    },
+    {
+     "id": "h18-out",
+     "type": "bridge",
+     "text": "That is all the archive gives me on that. I will not guess."
+    }
+   ]
+  },
+  {
+   "hour": 19,
+   "theme": "community",
+   "title": "Lamps and lodges",
+   "lines": [
+    {
+     "id": "h19-open",
+     "type": "bridge",
+     "text": "This is Hollis Vane, seven o'clock in the evening, on Ghost Town Radio. Let us see what the papers said about the town."
+    },
+    {
+     "id": "in.ernet.dli.2015.96511-p0-f1-c",
+     "type": "claim",
+     "fact_id": "in.ernet.dli.2015.96511-p0-f1",
+     "text": "Another clipping. From The Gazetteer Of Bombay City And Island Vol, published in nineteen oh nine. In 1735 Bombay had a wind mill for grinding wheat on the Esplanade, which had disappeared by 1808. The words themselves."
+    },
+    {
+     "id": "in.ernet.dli.2015.96511-p0-f1-q",
+     "type": "quote",
+     "fact_id": "in.ernet.dli.2015.96511-p0-f1",
+     "text": "In 1735 Bombay contained a wind mill for the grinding of wheat situated on the Esplanade ; but this had dis- appeared by 1808.",
+     "speak": "In 1735 Bombay contained a wind mill for the grinding of wheat situated on the Esplanade ; but this had disappeared by 1808."
+    },
+    {
+     "id": "h19-out",
+     "type": "bridge",
+     "text": "Where the paper goes quiet, so do I."
+    }
+   ]
+  },
+  {
+   "hour": 20,
+   "theme": "nightlife",
+   "title": "Evening, no word on the nightlife",
+   "lines": [
+    {
+     "id": "h20-open",
+     "type": "bridge",
+     "text": "eight o'clock in the evening, and the dial is still warm. Hollis Vane here. "
+    },
+    {
+     "id": "h20-sil",
+     "type": "silence",
+     "text": ""
+    },
+    {
+     "id": "h20-out",
+     "type": "bridge",
+     "text": "Static for a moment. Stay on the dial."
+    }
+   ]
+  },
+  {
+   "hour": 21,
+   "theme": "community",
+   "title": "Late evening, the town",
+   "lines": [
+    {
+     "id": "h21-open",
+     "type": "bridge",
+     "text": "Ghost Town Radio. Hollis Vane, with you at nine o'clock in the evening. Let us see what the papers said about the town."
+    },
+    {
+     "id": "in.ernet.dli.2015.35213-p7-f1-c",
+     "type": "claim",
+     "fact_id": "in.ernet.dli.2015.35213-p7-f1",
+     "text": "Now a page from the archive. From The Gazetteer Of Bombay City And Island Vol Iii, published in nineteen ten. The Grant Medical College was founded in 1845. In the paper's own words."
+    },
+    {
+     "id": "in.ernet.dli.2015.35213-p7-f1-q",
+     "type": "quote",
+     "fact_id": "in.ernet.dli.2015.35213-p7-f1",
+     "text": "The Board also received control of the Grant Medical College, founded in 1845.",
+     "speak": "The Board also received control of the Grant Medical College, founded in 1845."
+    },
+    {
+     "id": "h21-out",
+     "type": "bridge",
+     "text": "That is all the archive gives me on that. I will not guess."
+    }
+   ]
+  },
+  {
+   "hour": 22,
+   "theme": "commerce",
+   "title": "Night accounts",
+   "lines": [
+    {
+     "id": "h22-open",
+     "type": "bridge",
+     "text": "This is Hollis Vane, ten o'clock in the evening, on Ghost Town Radio. Let us see what the papers said about trade."
+    },
+    {
+     "id": "in.ernet.dli.2015.96511-p0-f2-c",
+     "type": "claim",
+     "fact_id": "in.ernet.dli.2015.96511-p0-f2",
+     "text": "Listen to this one. From The Gazetteer Of Bombay City And Island Vol, published in nineteen oh nine. In 1909 Bombay had four large flour mills: the Bombay Flour Mill, the Union Mill, a mill on Mount Road, Mazagon, and the Wallace Flour Mill. The words themselves."
+    },
+    {
+     "id": "in.ernet.dli.2015.96511-p0-f2-q",
+     "type": "quote",
+     "fact_id": "in.ernet.dli.2015.96511-p0-f2",
+     "text": "At the present date (1909) Bombay contiuns 4 large flour mills, vis., the Bombay Flour Mill,* the Union Mill, a Mill in Mount Road, Mazagon, and the Wallace Flour Mill.",
+     "speak": "At the present date (1909) Bombay contiuns 4 large flour mills, vis., the Bombay Flour Mill,* the Union Mill, a Mill in Mount Road, Mazagon, and the Wallace Flour Mill."
+    },
+    {
+     "id": "h22-out",
+     "type": "bridge",
+     "text": "Where the paper goes quiet, so do I."
+    }
+   ]
+  },
+  {
+   "hour": 23,
+   "theme": "news",
+   "title": "The last word",
+   "lines": [
+    {
+     "id": "h23-open",
+     "type": "bridge",
+     "text": "eleven o'clock in the evening, and the dial is still warm. Hollis Vane here. "
+    },
+    {
+     "id": "h23-sil",
+     "type": "silence",
+     "text": ""
+    },
+    {
+     "id": "h23-out",
+     "type": "bridge",
+     "text": "Static for a moment. Stay on the dial."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,922 @@
+{
+ "station": {
+  "name": "Ghost Town Radio",
+  "dj": "Hollis Vane (fictional)",
+  "place": "Bangalore, India"
+ },
+ "hours": [
+  {
+   "hour": 0,
+   "theme": "nightlife",
+   "title": "Midnight, no word on the nightlife",
+   "lines": [
+    {
+     "id": "h0-open",
+     "type": "bridge",
+     "text": "Ghost Town Radio. Hollis Vane, with you at midnight. ",
+     "audio": "audio/lines/9f1c6e6711.mp3",
+     "dur": 3.41
+    },
+    {
+     "id": "h0-sil",
+     "type": "silence",
+     "text": "",
+     "audio": null,
+     "dur": 3.5
+    },
+    {
+     "id": "h0-out",
+     "type": "bridge",
+     "text": "That is all the archive gives me on that. I will not guess.",
+     "audio": "audio/lines/c37de14d67.mp3",
+     "dur": 3.38
+    }
+   ]
+  },
+  {
+   "hour": 1,
+   "theme": "crime",
+   "title": "Trouble and the law",
+   "lines": [
+    {
+     "id": "h1-open",
+     "type": "bridge",
+     "text": "This is Hollis Vane, one o'clock in the morning, on Ghost Town Radio. ",
+     "audio": "audio/lines/53b2eed65c.mp3",
+     "dur": 4.1
+    },
+    {
+     "id": "h1-sil",
+     "type": "silence",
+     "text": "",
+     "audio": null,
+     "dur": 3.5
+    },
+    {
+     "id": "h1-out",
+     "type": "bridge",
+     "text": "Where the paper goes quiet, so do I.",
+     "audio": "audio/lines/44a2e56641.mp3",
+     "dur": 2.4
+    }
+   ]
+  },
+  {
+   "hour": 2,
+   "theme": "weather",
+   "title": "The sky and the seasons",
+   "lines": [
+    {
+     "id": "h2-open",
+     "type": "bridge",
+     "text": "two o'clock in the morning, and the dial is still warm. Hollis Vane here. ",
+     "audio": "audio/lines/75e927efdd.mp3",
+     "dur": 4.06
+    },
+    {
+     "id": "h2-sil",
+     "type": "silence",
+     "text": "",
+     "audio": null,
+     "dur": 3.5
+    },
+    {
+     "id": "h2-out",
+     "type": "bridge",
+     "text": "Static for a moment. Stay on the dial.",
+     "audio": "audio/lines/75bfe23a69.mp3",
+     "dur": 2.9
+    }
+   ]
+  },
+  {
+   "hour": 3,
+   "theme": "mining",
+   "title": "Under the ground",
+   "lines": [
+    {
+     "id": "h3-open",
+     "type": "bridge",
+     "text": "Ghost Town Radio. Hollis Vane, with you at three o'clock in the morning. ",
+     "audio": "audio/lines/2cedf51a88.mp3",
+     "dur": 4.2
+    },
+    {
+     "id": "h3-sil",
+     "type": "silence",
+     "text": "",
+     "audio": null,
+     "dur": 3.5
+    },
+    {
+     "id": "h3-out",
+     "type": "bridge",
+     "text": "That is all the archive gives me on that. I will not guess.",
+     "audio": "audio/lines/c37de14d67.mp3",
+     "dur": 3.38
+    }
+   ]
+  },
+  {
+   "hour": 4,
+   "theme": "community",
+   "title": "Before dawn, the town",
+   "lines": [
+    {
+     "id": "h4-open",
+     "type": "bridge",
+     "text": "This is Hollis Vane, four o'clock in the morning, on Ghost Town Radio. Let us see what the papers said about the town.",
+     "audio": "audio/lines/03eac3bba9.mp3",
+     "dur": 6.72
+    },
+    {
+     "id": "mysoregazetteerc01rice-p7-f0-c",
+     "type": "claim",
+     "fact_id": "mysoregazetteerc01rice-p7-f0",
+     "text": "Here is what the paper printed. From Mysore a gazetteer compiled for government, published in eighteen ninety-seven. There were 83 municipalities in 1881, excluding the Civil and Military Station of Bangalore. The words themselves.",
+     "audio": "audio/lines/604dc63940.mp3",
+     "dur": 14.88
+    },
+    {
+     "id": "mysoregazetteerc01rice-p7-f0-q",
+     "type": "quote",
+     "fact_id": "mysoregazetteerc01rice-p7-f0",
+     "text": "Excluding that of the Civil and .Military Station of Bangalore, which remained under British Administration, there were 83 Municipalities in 1881.",
+     "speak": "Excluding that of the Civil and .Military Station of Bangalore, which remained under British Administration, there were 83 Municipalities in 1881.",
+     "audio": "audio/lines/8f3728df62.mp3",
+     "dur": 10.13
+    },
+    {
+     "id": "h4-out",
+     "type": "bridge",
+     "text": "Where the paper goes quiet, so do I.",
+     "audio": "audio/lines/44a2e56641.mp3",
+     "dur": 2.4
+    }
+   ]
+  },
+  {
+   "hour": 5,
+   "theme": "travel",
+   "title": "Roads and rails",
+   "lines": [
+    {
+     "id": "h5-open",
+     "type": "bridge",
+     "text": "five o'clock in the morning, and the dial is still warm. Hollis Vane here. Let us see what the papers said about the roads.",
+     "audio": "audio/lines/fbe0e807ea.mp3",
+     "dur": 6.62
+    },
+    {
+     "id": "BangaloreGazetteer1875-p2-f0-c",
+     "type": "claim",
+     "fact_id": "BangaloreGazetteer1875-p2-f0",
+     "text": "Now a page from the archive. From Bangalore Gazetteer, published in eighteen seventy-five. Nelamangala is a town located about 17 miles northwest of Bangalore on the Bangalore\u2011Tumkur road. Word for word.",
+     "audio": "audio/lines/f53b30a3b4.mp3",
+     "dur": 13.03
+    },
+    {
+     "id": "BangaloreGazetteer1875-p2-f0-q",
+     "type": "quote",
+     "fact_id": "BangaloreGazetteer1875-p2-f0",
+     "text": "Nelamangala \u2014 A town situated in 13=6 N.lat. 77\u00b027E. long, 17 miles north-west of Bangalore on the Bangalore-Tumkur road.",
+     "speak": "Nelamangala \u2014 A town situated in 13=6 N.lat. 77\u00b027E. long, 17 miles north-west of Bangalore on the Bangalore-Tumkur road.",
+     "audio": "audio/lines/41fffada5b.mp3",
+     "dur": 11.14
+    },
+    {
+     "id": "h5-out",
+     "type": "bridge",
+     "text": "Static for a moment. Stay on the dial.",
+     "audio": "audio/lines/75bfe23a69.mp3",
+     "dur": 2.9
+    }
+   ]
+  },
+  {
+   "hour": 6,
+   "theme": "commerce",
+   "title": "Early trade",
+   "lines": [
+    {
+     "id": "h6-open",
+     "type": "bridge",
+     "text": "Ghost Town Radio. Hollis Vane, with you at six o'clock in the morning. Let us see what the papers said about trade.",
+     "audio": "audio/lines/34dcfb737a.mp3",
+     "dur": 6.77
+    },
+    {
+     "id": "mysoreagazettee02ricegoog-p20-f2-c",
+     "type": "claim",
+     "fact_id": "mysoreagazettee02ricegoog-p20-f2",
+     "text": "Listen to this one. From Mysore a gazetteer compiled for government, published in eighteen ninety-seven. Hay is cultivated in the neighbourhood of Hoskote for the Bangalore market. In the paper's own words.",
+     "audio": "audio/lines/0da3b7e60d.mp3",
+     "dur": 11.54
+    },
+    {
+     "id": "mysoreagazettee02ricegoog-p20-f2-q",
+     "type": "quote",
+     "fact_id": "mysoreagazettee02ricegoog-p20-f2",
+     "text": "Considerable attention is given to the cultivation of hay for the Bangalore market, especially in the neighbourhood of Hoskote.",
+     "speak": "Considerable attention is given to the cultivation of hay for the Bangalore market, especially in the neighbourhood of Hoskote.",
+     "audio": "audio/lines/0ea6d99800.mp3",
+     "dur": 7.08
+    },
+    {
+     "id": "h6-out",
+     "type": "bridge",
+     "text": "That is all the archive gives me on that. I will not guess.",
+     "audio": "audio/lines/c37de14d67.mp3",
+     "dur": 3.38
+    }
+   ]
+  },
+  {
+   "hour": 7,
+   "theme": "community",
+   "title": "Schools and temples",
+   "lines": [
+    {
+     "id": "h7-open",
+     "type": "bridge",
+     "text": "This is Hollis Vane, seven o'clock in the morning, on Ghost Town Radio. Let us see what the papers said about the town.",
+     "audio": "audio/lines/8f5586ab51.mp3",
+     "dur": 6.89
+    },
+    {
+     "id": "mysoreagazettee02ricegoog-p19-f1-c",
+     "type": "claim",
+     "fact_id": "mysoreagazettee02ricegoog-p19-f1",
+     "text": "Another clipping. From Mysore a gazetteer compiled for government, published in eighteen ninety-seven. Closepet has a large number of Muhammadan residents belonging to the I^bbe and Daira sects. The words themselves.",
+     "audio": "audio/lines/7743dee981.mp3",
+     "dur": 12.38
+    },
+    {
+     "id": "mysoreagazettee02ricegoog-p19-f1-q",
+     "type": "quote",
+     "fact_id": "mysoreagazettee02ricegoog-p19-f1",
+     "text": "It is the residence of a large number of Muhammadans belonging to the I^bbe and Daira sects",
+     "speak": "It is the residence of a large number of Muhammadans belonging to the I^bbe and Daira sects",
+     "audio": "audio/lines/ade0796185.mp3",
+     "dur": 5.52
+    },
+    {
+     "id": "h7-out",
+     "type": "bridge",
+     "text": "Where the paper goes quiet, so do I.",
+     "audio": "audio/lines/44a2e56641.mp3",
+     "dur": 2.4
+    }
+   ]
+  },
+  {
+   "hour": 8,
+   "theme": "commerce",
+   "title": "Markets and prices",
+   "lines": [
+    {
+     "id": "h8-open",
+     "type": "bridge",
+     "text": "eight o'clock in the morning, and the dial is still warm. Hollis Vane here. Let us see what the papers said about trade.",
+     "audio": "audio/lines/58e69ba675.mp3",
+     "dur": 6.5
+    },
+    {
+     "id": "mysoreagazettee02ricegoog-p13-f0-c",
+     "type": "claim",
+     "fact_id": "mysoreagazettee02ricegoog-p13-f0",
+     "text": "Here is what the paper printed. From Mysore a gazetteer compiled for government, published in eighteen ninety-seven. Very good cows are reared in Bangalore, where they sell for from Rs. 40 to 80 apiece. Word for word.",
+     "audio": "audio/lines/d543f01df3.mp3",
+     "dur": 12.55
+    },
+    {
+     "id": "mysoreagazettee02ricegoog-p13-f0-q",
+     "type": "quote",
+     "fact_id": "mysoreagazettee02ricegoog-p13-f0",
+     "text": "Very good cows are reared in Bangalore, where they sell for from Rs. 40 to 80 apiece.",
+     "speak": "Very good cows are reared in Bangalore, where they sell for from Rs. 40 to 80 apiece.",
+     "audio": "audio/lines/5b53117425.mp3",
+     "dur": 5.47
+    },
+    {
+     "id": "h8-out",
+     "type": "bridge",
+     "text": "Static for a moment. Stay on the dial.",
+     "audio": "audio/lines/75bfe23a69.mp3",
+     "dur": 2.9
+    }
+   ]
+  },
+  {
+   "hour": 9,
+   "theme": "community",
+   "title": "Morning, the people",
+   "lines": [
+    {
+     "id": "h9-open",
+     "type": "bridge",
+     "text": "Ghost Town Radio. Hollis Vane, with you at nine o'clock in the morning. Let us see what the papers said about the town.",
+     "audio": "audio/lines/06a1679ddc.mp3",
+     "dur": 6.79
+    },
+    {
+     "id": "mysoreagazettee02ricegoog-p13-f1-c",
+     "type": "claim",
+     "fact_id": "mysoreagazettee02ricegoog-p13-f1",
+     "text": "Now a page from the archive. From Mysore a gazetteer compiled for government, published in eighteen ninety-seven. Cattle-shows were held for some years by Government, at which liberal prizes were given, with the view of promoting an improvement in the breed of domestic cattle. In the paper's own words.",
+     "audio": "audio/lines/6ab084976a.mp3",
+     "dur": 16.46
+    },
+    {
+     "id": "mysoreagazettee02ricegoog-p13-f1-q",
+     "type": "quote",
+     "fact_id": "mysoreagazettee02ricegoog-p13-f1",
+     "text": "Cattle-shows were held for some years by Government, at which liberal prizes were given, with the view of promoting an improvement in the breed of domestic cattle.",
+     "speak": "Cattle-shows were held for some years by Government, at which liberal prizes were given, with the view of promoting an improvement in the breed of domestic cattle.",
+     "audio": "audio/lines/583faebea2.mp3",
+     "dur": 8.64
+    },
+    {
+     "id": "mysoregazetteerc01rice-p3-f2-c",
+     "type": "claim",
+     "fact_id": "mysoregazetteerc01rice-p3-f2",
+     "text": "Listen to this one. From Mysore a gazetteer compiled for government, published in eighteen ninety-seven. The actual strength of the two regiments in 1895 was 1,194 in total. The words themselves.",
+     "audio": "audio/lines/b45369fdec.mp3",
+     "dur": 14.28
+    },
+    {
+     "id": "mysoregazetteerc01rice-p3-f2-q",
+     "type": "quote",
+     "fact_id": "mysoregazetteerc01rice-p3-f2",
+     "text": "The actual strength of the two regiments in 1895 was : Imperial Service Regiment, 645 ; Local Service Regiment, 549 ; or 1,194 altogether.",
+     "speak": "The actual strength of the two regiments in 1895 was : Imperial Service Regiment, 645 ; Local Service Regiment, 549 ; or 1,194 altogether.",
+     "audio": "audio/lines/8b113acd11.mp3",
+     "dur": 13.08
+    },
+    {
+     "id": "h9-out",
+     "type": "bridge",
+     "text": "That is all the archive gives me on that. I will not guess.",
+     "audio": "audio/lines/c37de14d67.mp3",
+     "dur": 3.38
+    }
+   ]
+  },
+  {
+   "hour": 10,
+   "theme": "news",
+   "title": "Word of the day",
+   "lines": [
+    {
+     "id": "h10-open",
+     "type": "bridge",
+     "text": "This is Hollis Vane, ten o'clock in the morning, on Ghost Town Radio. Let us see what the papers carried from far away.",
+     "audio": "audio/lines/e295fbf7f4.mp3",
+     "dur": 6.91
+    },
+    {
+     "id": "mysoregazetteerc01rice-p1-f0-c",
+     "type": "claim",
+     "fact_id": "mysoregazetteerc01rice-p1-f0",
+     "text": "Listen to this one. From Mysore a gazetteer compiled for government, published in eighteen ninety-seven. In December, the aggregate of mortality experienced a marked reduction. The words themselves.",
+     "audio": "audio/lines/15e2e18151.mp3",
+     "dur": 11.3
+    },
+    {
+     "id": "mysoregazetteerc01rice-p1-f0-q",
+     "type": "quote",
+     "fact_id": "mysoregazetteerc01rice-p1-f0",
+     "text": "In December there was a marked reduction in the aggregate of mortality.",
+     "speak": "In December there was a marked reduction in the aggregate of mortality.",
+     "audio": "audio/lines/19e99676c8.mp3",
+     "dur": 4.18
+    },
+    {
+     "id": "h10-out",
+     "type": "bridge",
+     "text": "Where the paper goes quiet, so do I.",
+     "audio": "audio/lines/44a2e56641.mp3",
+     "dur": 2.4
+    }
+   ]
+  },
+  {
+   "hour": 11,
+   "theme": "travel",
+   "title": "Late morning, the roads",
+   "lines": [
+    {
+     "id": "h11-open",
+     "type": "bridge",
+     "text": "eleven o'clock in the morning, and the dial is still warm. Hollis Vane here. Let us see what the papers said about the roads.",
+     "audio": "audio/lines/7cb27a3d2a.mp3",
+     "dur": 6.84
+    },
+    {
+     "id": "mysoreagazettee02ricegoog-p15-f1-c",
+     "type": "claim",
+     "fact_id": "mysoreagazettee02ricegoog-p15-f1",
+     "text": "Another clipping. From Mysore a gazetteer compiled for government, published in eighteen ninety-seven. The trunk road from Bangalore to Salem runs through the taluq from north-west to south-east, with a branch road to Anekal from near Hebbagod. Word for word.",
+     "audio": "audio/lines/b7dc624c26.mp3",
+     "dur": 14.23
+    },
+    {
+     "id": "mysoreagazettee02ricegoog-p15-f1-q",
+     "type": "quote",
+     "fact_id": "mysoreagazettee02ricegoog-p15-f1",
+     "text": "The trunk road from Bangalore to Salem runs through the taluq\u00bb from north-west to south-east, with a branch road to Anekal from near Hebbagod.",
+     "speak": "The trunk road from Bangalore to Salem runs through the taluq\u00bb from north-west to south-east, with a branch road to Anekal from near Hebbagod.",
+     "audio": "audio/lines/3f9cf041dd.mp3",
+     "dur": 8.02
+    },
+    {
+     "id": "h11-out",
+     "type": "bridge",
+     "text": "Static for a moment. Stay on the dial.",
+     "audio": "audio/lines/75bfe23a69.mp3",
+     "dur": 2.9
+    }
+   ]
+  },
+  {
+   "hour": 12,
+   "theme": "community",
+   "title": "Noon, the town talks",
+   "lines": [
+    {
+     "id": "h12-open",
+     "type": "bridge",
+     "text": "Ghost Town Radio. Hollis Vane, with you at noon. Let us see what the papers said about the town.",
+     "audio": "audio/lines/b4ca68ac69.mp3",
+     "dur": 5.74
+    },
+    {
+     "id": "BangaloreGazetteer1875-p18-f0-c",
+     "type": "claim",
+     "fact_id": "BangaloreGazetteer1875-p18-f0",
+     "text": "Here is what the paper printed. From Bangalore Gazetteer, published in eighteen seventy-five. Smallpox was always somewhat prevalent in the district during the hot season and the beginning of the rains. In the paper's own words.",
+     "audio": "audio/lines/8ef505df8c.mp3",
+     "dur": 12.62
+    },
+    {
+     "id": "BangaloreGazetteer1875-p18-f0-q",
+     "type": "quote",
+     "fact_id": "BangaloreGazetteer1875-p18-f0",
+     "text": "Small pox is always more or less prevalont in the District daring the hot season and commencement of the rains.",
+     "speak": "Small pox is always more or less prevalont in the District daring the hot season and commencement of the rains.",
+     "audio": "audio/lines/50d1a2286d.mp3",
+     "dur": 6.41
+    },
+    {
+     "id": "h12-out",
+     "type": "bridge",
+     "text": "That is all the archive gives me on that. I will not guess.",
+     "audio": "audio/lines/c37de14d67.mp3",
+     "dur": 3.38
+    }
+   ]
+  },
+  {
+   "hour": 13,
+   "theme": "commerce",
+   "title": "Afternoon trade",
+   "lines": [
+    {
+     "id": "h13-open",
+     "type": "bridge",
+     "text": "This is Hollis Vane, one o'clock in the afternoon, on Ghost Town Radio. Let us see what the papers said about trade.",
+     "audio": "audio/lines/2a1fe04819.mp3",
+     "dur": 6.98
+    },
+    {
+     "id": "mysoreagazettee02ricegoog-p19-f0-c",
+     "type": "claim",
+     "fact_id": "mysoreagazettee02ricegoog-p19-f0",
+     "text": "Now a page from the archive. From Mysore a gazetteer compiled for government, published in eighteen ninety-seven. Closepet is known for making lacquered ware, toys, fine steel wires for musical instruments, and glass bracelets. The words themselves.",
+     "audio": "audio/lines/304be5c213.mp3",
+     "dur": 14.21
+    },
+    {
+     "id": "mysoreagazettee02ricegoog-p19-f0-q",
+     "type": "quote",
+     "fact_id": "mysoreagazettee02ricegoog-p19-f0",
+     "text": "It is celebrated for the manufacture of lacquered ware and toys, of fine steel wires for strings of musical instruments, and of glass bracelets",
+     "speak": "It is celebrated for the manufacture of lacquered ware and toys, of fine steel wires for strings of musical instruments, and of glass bracelets",
+     "audio": "audio/lines/2ca4ac96f4.mp3",
+     "dur": 8.18
+    },
+    {
+     "id": "mysoreagazettee02ricegoog-p17-f0-c",
+     "type": "claim",
+     "fact_id": "mysoreagazettee02ricegoog-p17-f0",
+     "text": "Listen to this one. From Mysore a gazetteer compiled for government, published in eighteen ninety-seven. The town has become a rising and busy centre since the railway arrived in 1889 and the taluq headquarters was located there. Word for word.",
+     "audio": "audio/lines/1d957549da.mp3",
+     "dur": 15.17
+    },
+    {
+     "id": "mysoreagazettee02ricegoog-p17-f0-q",
+     "type": "quote",
+     "fact_id": "mysoreagazettee02ricegoog-p17-f0",
+     "text": "Since the advent of the railway in 1889, and the location here of the taluq head-quarters, it has developed into a rising and busy centre.",
+     "speak": "Since the advent of the railway in 1889, and the location here of the taluq head-quarters, it has developed into a rising and busy centre.",
+     "audio": "audio/lines/3cb51c3a74.mp3",
+     "dur": 9.46
+    },
+    {
+     "id": "h13-out",
+     "type": "bridge",
+     "text": "Where the paper goes quiet, so do I.",
+     "audio": "audio/lines/44a2e56641.mp3",
+     "dur": 2.4
+    }
+   ]
+  },
+  {
+   "hour": 14,
+   "theme": "community",
+   "title": "Afternoon, the people",
+   "lines": [
+    {
+     "id": "h14-open",
+     "type": "bridge",
+     "text": "two o'clock in the afternoon, and the dial is still warm. Hollis Vane here. Let us see what the papers said about the town.",
+     "audio": "audio/lines/bc59f2339c.mp3",
+     "dur": 6.86
+    },
+    {
+     "id": "mysoreagazettee02ricegoog-p20-f1-c",
+     "type": "claim",
+     "fact_id": "mysoreagazettee02ricegoog-p20-f1",
+     "text": "Listen to this one. From Mysore a gazetteer compiled for government, published in eighteen ninety-seven. The country is largely open and easily crossed, except for some low hills on the north. Word for word.",
+     "audio": "audio/lines/7c7bd4d7db.mp3",
+     "dur": 11.45
+    },
+    {
+     "id": "mysoreagazettee02ricegoog-p20-f1-q",
+     "type": "quote",
+     "fact_id": "mysoreagazettee02ricegoog-p20-f1",
+     "text": "With the exception of some low hills on the north, the country is open and easily crossed in all parts.",
+     "speak": "With the exception of some low hills on the north, the country is open and easily crossed in all parts.",
+     "audio": "audio/lines/35e25bd519.mp3",
+     "dur": 5.76
+    },
+    {
+     "id": "h14-out",
+     "type": "bridge",
+     "text": "Static for a moment. Stay on the dial.",
+     "audio": "audio/lines/75bfe23a69.mp3",
+     "dur": 2.9
+    }
+   ]
+  },
+  {
+   "hour": 15,
+   "theme": "news",
+   "title": "The government and the record",
+   "lines": [
+    {
+     "id": "h15-open",
+     "type": "bridge",
+     "text": "Ghost Town Radio. Hollis Vane, with you at three o'clock in the afternoon. Let us see what the papers carried from far away.",
+     "audio": "audio/lines/22239d21e5.mp3",
+     "dur": 7.32
+    },
+    {
+     "id": "mysoregazetteerc01rice-p1-f2-c",
+     "type": "claim",
+     "fact_id": "mysoregazetteerc01rice-p1-f2",
+     "text": "Another clipping. From Mysore a gazetteer compiled for government, published in eighteen ninety-seven. The total registered mortality amounted to 3,139. In the paper's own words.",
+     "audio": "audio/lines/9aeb96ebed.mp3",
+     "dur": 11.78
+    },
+    {
+     "id": "mysoregazetteerc01rice-p1-f2-q",
+     "type": "quote",
+     "fact_id": "mysoregazetteerc01rice-p1-f2",
+     "text": "The total mortality registered amounted to 3,139, of which 1,828 were males and 1,311 females.",
+     "speak": "The total mortality registered amounted to 3,139, of which 1,828 were males and 1,311 females.",
+     "audio": "audio/lines/597411c356.mp3",
+     "dur": 10.22
+    },
+    {
+     "id": "h15-out",
+     "type": "bridge",
+     "text": "That is all the archive gives me on that. I will not guess.",
+     "audio": "audio/lines/c37de14d67.mp3",
+     "dur": 3.38
+    }
+   ]
+  },
+  {
+   "hour": 16,
+   "theme": "travel",
+   "title": "Distances and routes",
+   "lines": [
+    {
+     "id": "h16-open",
+     "type": "bridge",
+     "text": "This is Hollis Vane, four o'clock in the afternoon, on Ghost Town Radio. Let us see what the papers said about the roads.",
+     "audio": "audio/lines/9476603365.mp3",
+     "dur": 7.13
+    },
+    {
+     "id": "mysoregazetteerc01rice-p15-f0-c",
+     "type": "claim",
+     "fact_id": "mysoregazetteerc01rice-p15-f0",
+     "text": "Here is what the paper printed. From Mysore a gazetteer compiled for government, published in eighteen ninety-seven. The headquarters were moved from Bangalore to Mysore in May 1894. The words themselves.",
+     "audio": "audio/lines/86f6bad049.mp3",
+     "dur": 12.91
+    },
+    {
+     "id": "mysoregazetteerc01rice-p15-f0-q",
+     "type": "quote",
+     "fact_id": "mysoregazetteerc01rice-p15-f0",
+     "text": "The headquarters were removed from Bangalore to Mysore in May 1894.",
+     "speak": "The headquarters were removed from Bangalore to Mysore in May 1894.",
+     "audio": "audio/lines/887e826bfe.mp3",
+     "dur": 5.47
+    },
+    {
+     "id": "h16-out",
+     "type": "bridge",
+     "text": "Where the paper goes quiet, so do I.",
+     "audio": "audio/lines/44a2e56641.mp3",
+     "dur": 2.4
+    }
+   ]
+  },
+  {
+   "hour": 17,
+   "theme": "community",
+   "title": "Supper hour",
+   "lines": [
+    {
+     "id": "h17-open",
+     "type": "bridge",
+     "text": "five o'clock in the afternoon, and the dial is still warm. Hollis Vane here. Let us see what the papers said about the town.",
+     "audio": "audio/lines/b36549bdff.mp3",
+     "dur": 6.96
+    },
+    {
+     "id": "mysoreagazettee02ricegoog-p21-f1-c",
+     "type": "claim",
+     "fact_id": "mysoreagazettee02ricegoog-p21-f1",
+     "text": "Now a page from the archive. From Mysore a gazetteer compiled for government, published in eighteen ninety-seven. A fair held on Thursday is attended by 2,000 people. Word for word.",
+     "audio": "audio/lines/c93501ea3f.mp3",
+     "dur": 11.18
+    },
+    {
+     "id": "mysoreagazettee02ricegoog-p21-f1-q",
+     "type": "quote",
+     "fact_id": "mysoreagazettee02ricegoog-p21-f1",
+     "text": "A fair held on Thursday is attended by 2,000 people.",
+     "speak": "A fair held on Thursday is attended by 2,000 people.",
+     "audio": "audio/lines/513115c202.mp3",
+     "dur": 3.62
+    },
+    {
+     "id": "mysoregazetteerc01rice-p3-f1-c",
+     "type": "claim",
+     "fact_id": "mysoregazetteerc01rice-p3-f1",
+     "text": "Listen to this one. From Mysore a gazetteer compiled for government, published in eighteen ninety-seven. In 1892, the two regiments were broken up and two new corps were formed, with final sanction granted in July 1893. In the paper's own words.",
+     "audio": "audio/lines/ec70c3b469.mp3",
+     "dur": 16.54
+    },
+    {
+     "id": "mysoregazetteerc01rice-p3-f1-q",
+     "type": "quote",
+     "fact_id": "mysoregazetteerc01rice-p3-f1",
+     "text": "In 1892 the two regiments were broken up and two fresh corps formed, as finally sanctioned in July 1893",
+     "speak": "In 1892 the two regiments were broken up and two fresh corps formed, as finally sanctioned in July 1893",
+     "audio": "audio/lines/4ce1e05436.mp3",
+     "dur": 9.26
+    },
+    {
+     "id": "h17-out",
+     "type": "bridge",
+     "text": "Static for a moment. Stay on the dial.",
+     "audio": "audio/lines/75bfe23a69.mp3",
+     "dur": 2.9
+    }
+   ]
+  },
+  {
+   "hour": 18,
+   "theme": "commerce",
+   "title": "Evening trade",
+   "lines": [
+    {
+     "id": "h18-open",
+     "type": "bridge",
+     "text": "Ghost Town Radio. Hollis Vane, with you at six o'clock in the evening. Let us see what the papers said about trade.",
+     "audio": "audio/lines/a683087f0d.mp3",
+     "dur": 6.91
+    },
+    {
+     "id": "BangaloreGazetteer1875-p0-f2-c",
+     "type": "claim",
+     "fact_id": "BangaloreGazetteer1875-p0-f2",
+     "text": "Listen to this one. From Bangalore Gazetteer, published in eighteen seventy-five. A fair is held every Friday and is attended by 400 persons. In the paper's own words.",
+     "audio": "audio/lines/5dc51d6ed7.mp3",
+     "dur": 10.51
+    },
+    {
+     "id": "BangaloreGazetteer1875-p0-f2-q",
+     "type": "quote",
+     "fact_id": "BangaloreGazetteer1875-p0-f2",
+     "text": "A fair is held every Friday, attended by 400 persons.",
+     "speak": "A fair is held every Friday, attended by 400 persons.",
+     "audio": "audio/lines/bb7d1db4ce.mp3",
+     "dur": 4.1
+    },
+    {
+     "id": "h18-out",
+     "type": "bridge",
+     "text": "That is all the archive gives me on that. I will not guess.",
+     "audio": "audio/lines/c37de14d67.mp3",
+     "dur": 3.38
+    }
+   ]
+  },
+  {
+   "hour": 19,
+   "theme": "community",
+   "title": "Lamps and lodges",
+   "lines": [
+    {
+     "id": "h19-open",
+     "type": "bridge",
+     "text": "This is Hollis Vane, seven o'clock in the evening, on Ghost Town Radio. Let us see what the papers said about the town.",
+     "audio": "audio/lines/4250ac6517.mp3",
+     "dur": 7.01
+    },
+    {
+     "id": "mysoregazetteerc01rice-p21-f0-c",
+     "type": "claim",
+     "fact_id": "mysoregazetteerc01rice-p21-f0",
+     "text": "Another clipping. From Mysore a gazetteer compiled for government, published in eighteen ninety-seven. The Patvegar caste are silk weavers who speak a language allied to Mahratti and mostly live in the Bangalore District. The words themselves.",
+     "audio": "audio/lines/a1d710710c.mp3",
+     "dur": 13.37
+    },
+    {
+     "id": "mysoregazetteerc01rice-p21-f0-q",
+     "type": "quote",
+     "fact_id": "mysoregazetteerc01rice-p21-f0",
+     "text": "The Patvegar, of whom the majority are in Bangalore District, are silk weavers and speak a language allied to Mahratti.",
+     "speak": "The Patvegar, of whom the majority are in Bangalore District, are silk weavers and speak a language allied to Mahratti.",
+     "audio": "audio/lines/5878cf385f.mp3",
+     "dur": 6.7
+    },
+    {
+     "id": "h19-out",
+     "type": "bridge",
+     "text": "Where the paper goes quiet, so do I.",
+     "audio": "audio/lines/44a2e56641.mp3",
+     "dur": 2.4
+    }
+   ]
+  },
+  {
+   "hour": 20,
+   "theme": "nightlife",
+   "title": "Evening, no word on the nightlife",
+   "lines": [
+    {
+     "id": "h20-open",
+     "type": "bridge",
+     "text": "eight o'clock in the evening, and the dial is still warm. Hollis Vane here. ",
+     "audio": "audio/lines/d521f1dd0e.mp3",
+     "dur": 4.15
+    },
+    {
+     "id": "h20-sil",
+     "type": "silence",
+     "text": "",
+     "audio": null,
+     "dur": 3.5
+    },
+    {
+     "id": "h20-out",
+     "type": "bridge",
+     "text": "Static for a moment. Stay on the dial.",
+     "audio": "audio/lines/75bfe23a69.mp3",
+     "dur": 2.9
+    }
+   ]
+  },
+  {
+   "hour": 21,
+   "theme": "community",
+   "title": "Late evening, the town",
+   "lines": [
+    {
+     "id": "h21-open",
+     "type": "bridge",
+     "text": "Ghost Town Radio. Hollis Vane, with you at nine o'clock in the evening. Let us see what the papers said about the town.",
+     "audio": "audio/lines/3d92f73c97.mp3",
+     "dur": 6.94
+    },
+    {
+     "id": "mysoregazetteerc01rice-p0-f0-c",
+     "type": "claim",
+     "fact_id": "mysoregazetteerc01rice-p0-f0",
+     "text": "Now a page from the archive. From Mysore a gazetteer compiled for government, published in eighteen ninety-seven. The High School was established in Bangalore in the year 1847. In the paper's own words.",
+     "audio": "audio/lines/5050af8da9.mp3",
+     "dur": 13.22
+    },
+    {
+     "id": "mysoregazetteerc01rice-p0-f0-q",
+     "type": "quote",
+     "fact_id": "mysoregazetteerc01rice-p0-f0",
+     "text": "The principal institution is the High School (established in 1847 in Bangalore) and its branches, educating up to the standard of matriculation at the Madras University.",
+     "speak": "The principal institution is the High School (established in 1847 in Bangalore) and its branches, educating up to the standard of matriculation at the Madras University.",
+     "audio": "audio/lines/a0faad9071.mp3",
+     "dur": 11.59
+    },
+    {
+     "id": "h21-out",
+     "type": "bridge",
+     "text": "That is all the archive gives me on that. I will not guess.",
+     "audio": "audio/lines/c37de14d67.mp3",
+     "dur": 3.38
+    }
+   ]
+  },
+  {
+   "hour": 22,
+   "theme": "commerce",
+   "title": "Night accounts",
+   "lines": [
+    {
+     "id": "h22-open",
+     "type": "bridge",
+     "text": "This is Hollis Vane, ten o'clock in the evening, on Ghost Town Radio. Let us see what the papers said about trade.",
+     "audio": "audio/lines/91273b403f.mp3",
+     "dur": 6.77
+    },
+    {
+     "id": "mysoreagazettee02ricegoog-p13-f2-c",
+     "type": "claim",
+     "fact_id": "mysoreagazettee02ricegoog-p13-f2",
+     "text": "Listen to this one. From Mysore a gazetteer compiled for government, published in eighteen ninety-seven. The quality of the mutton sold in Bangalore has been greatly improved by means of prizes offered by the Municipality at the new market. The words themselves.",
+     "audio": "audio/lines/fc7ff1a7e6.mp3",
+     "dur": 14.69
+    },
+    {
+     "id": "mysoreagazettee02ricegoog-p13-f2-q",
+     "type": "quote",
+     "fact_id": "mysoreagazettee02ricegoog-p13-f2",
+     "text": "The quality of the mutton sold in Bangalore has been greatly improved by means of prizes offered by the Municipality at the new market.",
+     "speak": "The quality of the mutton sold in Bangalore has been greatly improved by means of prizes offered by the Municipality at the new market.",
+     "audio": "audio/lines/10ea9de146.mp3",
+     "dur": 7.99
+    },
+    {
+     "id": "h22-out",
+     "type": "bridge",
+     "text": "Where the paper goes quiet, so do I.",
+     "audio": "audio/lines/44a2e56641.mp3",
+     "dur": 2.4
+    }
+   ]
+  },
+  {
+   "hour": 23,
+   "theme": "news",
+   "title": "The last word",
+   "lines": [
+    {
+     "id": "h23-open",
+     "type": "bridge",
+     "text": "eleven o'clock in the evening, and the dial is still warm. Hollis Vane here. Let us see what the papers carried from far away.",
+     "audio": "audio/lines/d00c20be7d.mp3",
+     "dur": 7.1
+    },
+    {
+     "id": "mysoregazetteerc01rice-p1-f1-c",
+     "type": "claim",
+     "fact_id": "mysoregazetteerc01rice-p1-f1",
+     "text": "Another clipping. From Mysore a gazetteer compiled for government, published in eighteen ninety-seven. Cholera attacked Bangalore in September. Word for word.",
+     "audio": "audio/lines/4f33e085a9.mp3",
+     "dur": 9.17
+    },
+    {
+     "id": "mysoregazetteerc01rice-p1-f1-q",
+     "type": "quote",
+     "fact_id": "mysoregazetteerc01rice-p1-f1",
+     "text": "Cholera attacked Bangalore in September, and in November the mortality amounted to 225, and December to 95.",
+     "speak": "Cholera attacked Bangalore in September, and in November the mortality amounted to 225, and December to 95.",
+     "audio": "audio/lines/abd4781748.mp3",
+     "dur": 7.75
+    },
+    {
+     "id": "h23-out",
+     "type": "bridge",
+     "text": "Static for a moment. Stay on the dial.",
+     "audio": "audio/lines/75bfe23a69.mp3",
+     "dur": 2.9
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,202 @@
+{
+ "split": "all",
+ "raw_facts": 137,
+ "passing_all": 88,
+ "pct_raw_llm_quote_verbatim": 90.5,
+ "snapped_to_source": 11,
+ "pct_pass_all": 64.2,
+ "per_check_pct": {
+  "schema_ok": 95.6,
+  "has_source_id": 100.0,
+  "has_quote": 100.0,
+  "quote_readable": 91.2,
+  "quote_verbatim": 90.5,
+  "quote_len_ok": 97.8,
+  "claim_numbers_in_quote": 96.4,
+  "claim_grounded": 77.4,
+  "claim_ok_len": 99.3
+ },
+ "fail_examples": [
+  {
+   "fact_id": "manualcoorgagaz00richgoog-p0-f1",
+   "failed": [
+    "claim_grounded"
+   ],
+   "quote": "The R^jah freely opened his country to the Bombay forces, which marched from Tellicherry to Mysore, and was most zealous in providing the Company's troops with "
+  },
+  {
+   "fact_id": "manualcoorgagaz00richgoog-p1-f0",
+   "failed": [
+    "claim_grounded"
+   ],
+   "quote": "established at Vfrdjpet, Kiggatndd and Fraserpet with a total of 245 pupils are to serve a double purpose."
+  },
+  {
+   "fact_id": "manualcoorgagaz00richgoog-p2-f0",
+   "failed": [
+    "quote_verbatim"
+   ],
+   "quote": "The teaching of the native languages, Hindustani at Mercara, and Canarese in the districts, consisted in reading and writing of the alphabets, getting by heart "
+  },
+  {
+   "fact_id": "manualcoorgagaz00richgoog-p2-f1",
+   "failed": [
+    "quote_len_ok",
+    "claim_ok_len"
+   ],
+   "quote": "In 1855, encouraged by Sir MarkCubbon, Dr. Moegling, the first Protestant Missionary in Coorg, esta.blished an English School at Mercara, the charge of which wa"
+  },
+  {
+   "fact_id": "manualcoorgagaz00richgoog-p3-f1",
+   "failed": [
+    "quote_readable"
+   ],
+   "quote": "After a success- ful examination the teachers' former pittance of Rs. 2^ per mensem was increased to a monthly salary of Rs. 7 with the prospect of Rs. 12 p. m."
+  },
+  {
+   "fact_id": "manualcoorgagaz00richgoog-p5-f0",
+   "failed": [
+    "claim_grounded"
+   ],
+   "quote": "It contains now 326 houses, mostly tiled, and a population of 1,213 souls, of whom 360 are Christians, 388 Mussulmans and 465 Hindus."
+  },
+  {
+   "fact_id": "manualcoorgagaz00richgoog-p5-f1",
+   "failed": [
+    "claim_grounded"
+   ],
+   "quote": "Every Monday there is market, hence the name of the place."
+  },
+  {
+   "fact_id": "manualcoorgagaz00richgoog-p8-f0",
+   "failed": [
+    "claim_numbers_in_quote",
+    "claim_grounded"
+   ],
+   "quote": "with its five Ndds is twice the size of Mercara-taluq, but contains the same number of villages viz. 57 with a population of 20,303 souls, of whom 5611 are Coor"
+  },
+  {
+   "fact_id": "manualcoorgagaz00richgoog-p9-f0",
+   "failed": [
+    "quote_len_ok"
+   ],
+   "quote": "On the 17tli September 1832, I. A, Casamajor, Eesident in Mysore, reported to the Chief Secretary to the Government of Fort St. George, that a Coorg of the name"
+  },
+  {
+   "fact_id": "manualcoorgagaz00richgoog-p11-f2",
+   "failed": [
+    "quote_len_ok"
+   ],
+   "quote": "Besides, numbers of people, men and women, Coorgs and slaves, relatives of the Rdjah's family and others, ivho were believed to have been privy to the plans of "
+  },
+  {
+   "fact_id": "manualcoorgagaz00richgoog-p15-f1",
+   "failed": [
+    "claim_grounded"
+   ],
+   "quote": "A detachment of Sappers and Miners having been stationed in the Province since 1834, all the needful Public Works were carried out by them and after they had be"
+  },
+  {
+   "fact_id": "manualcoorgagaz00richgoog-p17-f2",
+   "failed": [
+    "claim_grounded"
+   ],
+   "quote": "Under the Coorg Rdjahs, the assessment had been paid in kind. The Collector of Mangalore now demand- ed cash payment."
+  },
+  {
+   "fact_id": "in.ernet.dli.2015.94276-p0-f1",
+   "failed": [
+    "claim_grounded"
+   ],
+   "quote": "The R&jah freely opened his country to the Bombay forces, which marched from Tellicherry to Mysore, and was most zealous in providing the Company\u2019s troops with "
+  },
+  {
+   "fact_id": "in.ernet.dli.2015.94276-p1-f0",
+   "failed": [
+    "claim_grounded"
+   ],
+   "quote": "the first decisive step having been taken in 1862, when the Coorg Headmen petitioned Government for assistance"
+  },
+  {
+   "fact_id": "in.ernet.dli.2015.94276-p1-f1",
+   "failed": [
+    "schema_ok",
+    "quote_verbatim",
+    "claim_grounded"
+   ],
+   "quote": "the Central School at Mercara gradually advanced to its present position, the first decisive step having been taken in 1862"
+  },
+  {
+   "fact_id": "in.ernet.dli.2015.94276-p1-f2",
+   "failed": [
+    "claim_grounded"
+   ],
+   "quote": "We, the undersigned Headmen of Coorg, being the representatives of our countrymen, beg most respectfully to lay before you what is now upper- most in our minds "
+  },
+  {
+   "fact_id": "in.ernet.dli.2015.94276-p3-f1",
+   "failed": [
+    "quote_readable"
+   ],
+   "quote": "After a success- ful examination the teachers\u2019 former pittance of Rs. 2^ per mensem was increased to a monthly salary of Rs. 7 with the prospect of Rs. 12 p. m."
+  },
+  {
+   "fact_id": "in.ernet.dli.2015.94276-p4-f0",
+   "failed": [
+    "claim_grounded"
+   ],
+   "quote": "It contains now 326 houses, mostly tiled, and a population of 1,213 souls, of whom 360 are Christians, 388 Mussulmans and 465 Hindus."
+  },
+  {
+   "fact_id": "in.ernet.dli.2015.94276-p4-f2",
+   "failed": [
+    "claim_grounded"
+   ],
+   "quote": "Every Monday there is market, hence the name of the place."
+  },
+  {
+   "fact_id": "in.ernet.dli.2015.94276-p5-f0",
+   "failed": [
+    "claim_grounded"
+   ],
+   "quote": "257 \u2014 had to pay th*ee crores of Rupees and to cede one half of his dominions to the Company and to its allies, the Nizam and PeiBhwa, \u201cfrom the countries adjac"
+  },
+  {
+   "fact_id": "in.ernet.dli.2015.94276-p6-f0",
+   "failed": [
+    "schema_ok",
+    "quote_readable"
+   ],
+   "quote": "the maintenance of the Mrrcara boarding- house s, the upkeep of the Vernacular and Anglo -vernacular school-houses and the extension of Vernacular education thr"
+  },
+  {
+   "fact_id": "in.ernet.dli.2015.94276-p6-f1",
+   "failed": [
+    "schema_ok"
+   ],
+   "quote": "The management of the Cess-fund should be vested in the Principal of the Central School conjointly with the three principal Coorg Officials and the eight Bahadu"
+  },
+  {
+   "fact_id": "in.ernet.dli.2015.94276-p6-f2",
+   "failed": [
+    "schema_ok",
+    "claim_grounded"
+   ],
+   "quote": "the German Mission School at Anandapnr and the Roman Catholic Boys* and Girls\u2019 schools at Vfr&jpet"
+  },
+  {
+   "fact_id": "in.ernet.dli.2015.94276-p7-f1",
+   "failed": [
+    "claim_grounded"
+   ],
+   "quote": "For the last two centuries they are known as a compact body of mountaineers who resemble more a Scotch clan than a Hindu caste."
+  },
+  {
+   "fact_id": "in.ernet.dli.2015.94276-p9-f0",
+   "failed": [
+    "quote_readable"
+   ],
+   "quote": "By similar fair speeches and promises you have formerly deceived and ruined Coorg."
+  }
+ ]
+}

@@ -1,0 +1,201 @@
+[
+ {
+  "fact_id": "in.ernet.dli.2015.96511-p15-f0",
+  "source_id": "in.ernet.dli.2015.96511",
+  "split": "heldout",
+  "claim": "The Vereadores estimated the total damage at Rs. 14,330, but the Committee of Accounts reduced it to Rs. 8,500, a sum sanctioned by the Government.",
+  "quote": "The Vereadores calculated the total damage at Rs. 14,330, but the Committee of Accounts reduced this estimate to Rs. 8,500, which amount was sanctioned by Government.",
+  "theme": "commerce",
+  "passage_id": "in.ernet.dli.2015.96511-p15"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.96511-p20-f1",
+  "source_id": "in.ernet.dli.2015.96511",
+  "split": "dev",
+  "claim": "A provident fund was established for the benefit of the company employees in the year 1872.",
+  "quote": "A provident fund, which is on a sound financial footing, was established for their benefit in 1872.",
+  "theme": "commerce",
+  "passage_id": "in.ernet.dli.2015.96511-p20"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.96511-p16-f0",
+  "source_id": "in.ernet.dli.2015.96511",
+  "split": "dev",
+  "claim": "The Wallace Flour Mill was initially established in 1888 as a joint stock company.",
+  "quote": "The Wallace Four Mill, originally started in 1888 as a joint stock com- pany, was purchased soon after by a wealthy Bhattia and is not a purely private concern.",
+  "theme": "commerce",
+  "passage_id": "in.ernet.dli.2015.96511-p16"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.96511-p13-f0",
+  "source_id": "in.ernet.dli.2015.96511",
+  "split": "dev",
+  "claim": "The 2-anna silver piece was introduced in the year 1841.",
+  "quote": "In 1841 the 2-anna silver piece was introduced, and in the same year a proclamation was issued regulating the gold coinage.",
+  "theme": "commerce",
+  "passage_id": "in.ernet.dli.2015.96511-p13"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.96511-p9-f1",
+  "source_id": "in.ernet.dli.2015.96511",
+  "split": "dev",
+  "claim": "Due to line expansion, the company moved its workshops from Byculla to Parel in 1878.",
+  "quote": "In course of. time the expansion of the line forced the company to look for a larger area and in 1878 a move was made from Byculla to the present workshops at Parel.",
+  "theme": "commerce",
+  "passage_id": "in.ernet.dli.2015.96511-p9"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.207009-p13-f1",
+  "source_id": "in.ernet.dli.2015.207009",
+  "split": "dev",
+  "claim": "The Great Indian Peninsula Railway has been a state line since 1900.",
+  "quote": "Since 1900 the Great Indian Peninsula Railway has been a state line, worked by a company.",
+  "theme": "commerce",
+  "passage_id": "in.ernet.dli.2015.207009-p13"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.35213-p18-f0",
+  "source_id": "in.ernet.dli.2015.35213",
+  "split": "dev",
+  "claim": "Up to 1896, the Government Savings Bank was managed by the Bank before being transferred to the Post Office.",
+  "quote": "Up to 1896 the Government Savings Bank Avas also managed by the Bank but was transferred in that year to the charge of the Post Ofiice.",
+  "theme": "commerce",
+  "passage_id": "in.ernet.dli.2015.35213-p18"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.207009-p20-f1",
+  "source_id": "in.ernet.dli.2015.207009",
+  "split": "heldout",
+  "claim": "Naslrabad is noted for the manufacture of glass bangles by Musal- mans.",
+  "quote": "The town is noted for the manufacture of glass bangles by Musal- mans.",
+  "theme": "commerce",
+  "passage_id": "in.ernet.dli.2015.207009-p20"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.96511-p0-f1",
+  "source_id": "in.ernet.dli.2015.96511",
+  "split": "heldout",
+  "claim": "In 1735 Bombay had a wind mill for grinding wheat on the Esplanade, which had disappeared by 1808.",
+  "quote": "In 1735 Bombay contained a wind mill for the grinding of wheat situated on the Esplanade ; but this had dis- appeared by 1808.",
+  "theme": "community",
+  "passage_id": "in.ernet.dli.2015.96511-p0"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.207009-p17-f0",
+  "source_id": "in.ernet.dli.2015.207009",
+  "split": "dev",
+  "claim": "Sarsa has two schools, one for boys with 230 pupils and one for girls with 74 pupils.",
+  "quote": "There are two schools, one for boys and one for girls, attended by 230 and 74 pupils respectively.",
+  "theme": "community",
+  "passage_id": "in.ernet.dli.2015.207009-p17"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.207009-p10-f2",
+  "source_id": "in.ernet.dli.2015.207009",
+  "split": "dev",
+  "claim": "Mandvi Town had a dispensary and four schools, including an English school for boys, with 302 boys and 58 girls attending.",
+  "quote": "The town contains a dispensary and four schools, three (in- cluding an English school) for boys and one for girls, attended respectively by 302 and 58 pupils.",
+  "theme": "community",
+  "passage_id": "in.ernet.dli.2015.207009-p10",
+  "snapped": true
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.207009-p4-f1",
+  "source_id": "in.ernet.dli.2015.207009",
+  "split": "dev",
+  "claim": "Khandala has a hotel for Europeans, a convalescent home, and a dispensary.",
+  "quote": "There are a hotel for Europeans, a convalescent home, and a dispensary.",
+  "theme": "community",
+  "passage_id": "in.ernet.dli.2015.207009-p4"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.35213-p2-f1",
+  "source_id": "in.ernet.dli.2015.35213",
+  "split": "heldout",
+  "claim": "Mr. Clow arrived in India as the first Church of Scotland Chaplain in Bombay two years later.",
+  "quote": "Two years later Mr. Clow, the first Church of Scotland Chaplain in Bombay, reached India, and in 1816 the foundations of St. Andrew's Church were laid between what was then the Court House and the Ramparts.",
+  "theme": "community",
+  "passage_id": "in.ernet.dli.2015.35213-p2"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.35213-p20-f0",
+  "source_id": "in.ernet.dli.2015.35213",
+  "split": "heldout",
+  "claim": "The chapel of Mount Carmel was erected in the year 1721.",
+  "quote": "The chapel of Mount Carmel, was erected in 1721.",
+  "theme": "community",
+  "passage_id": "in.ernet.dli.2015.35213-p20"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.96511-p21-f1",
+  "source_id": "in.ernet.dli.2015.96511",
+  "split": "dev",
+  "claim": "Mahim, Varli, and Sion contained the largest number of primitive type huts.",
+  "quote": "Mahim, Varli and Sion contain the largest number of huts of a primitive type.",
+  "theme": "community",
+  "passage_id": "in.ernet.dli.2015.96511-p21"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.207009-p20-f2",
+  "source_id": "in.ernet.dli.2015.207009",
+  "split": "heldout",
+  "claim": "Naslrabad contains a cotton-ginning and pressing factory and six schools with 773 pupils, of which two schools have 92 pupils for girls.",
+  "quote": "The town contains a cotton-ginning and pressing factory, and six schools, with 773 pupils, of which two, with 92 pupils, are for girls.",
+  "theme": "community",
+  "passage_id": "in.ernet.dli.2015.207009-p20"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.207009-p16-f1",
+  "source_id": "in.ernet.dli.2015.207009",
+  "split": "dev",
+  "claim": "The village contains a poorly attended boys\u2019 school.",
+  "quote": "The village contains a poorly attended boys\u2019 school.",
+  "theme": "community",
+  "passage_id": "in.ernet.dli.2015.207009-p16"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.35213-p6-f1",
+  "source_id": "in.ernet.dli.2015.35213",
+  "split": "dev",
+  "claim": "Forbes described the single Protestant church on the island as a large and commodious building featuring a neat tower.",
+  "quote": "The only Protestant Church on the island stood near the centre of the town, a large and commodious building with a neat tower.",
+  "theme": "community",
+  "passage_id": "in.ernet.dli.2015.35213-p6"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.96511-p3-f2",
+  "source_id": "in.ernet.dli.2015.96511",
+  "split": "heldout",
+  "claim": "The total number of the Christian community of the church is 631.",
+  "quote": "The total num^r of the Christian community of the church is 631.",
+  "theme": "community",
+  "passage_id": "in.ernet.dli.2015.96511-p3"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.35213-p17-f0",
+  "source_id": "in.ernet.dli.2015.35213",
+  "split": "heldout",
+  "claim": "The site chosen in 1902 for the magnetic branch of the observatory is at Alibag on the coast of the mainland.",
+  "quote": "The site, which was finally chosen in 1902, is at Alibag on the coast of the mainland, about 18 miles south-east of Bombay.",
+  "theme": "travel",
+  "passage_id": "in.ernet.dli.2015.35213-p17"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.96511-p19-f0",
+  "source_id": "in.ernet.dli.2015.96511",
+  "split": "dev",
+  "claim": "Colaba is divided into Upper and Lower Colaba by an imaginary line drawn at the north wall of St. John's Memorial Church.",
+  "quote": "is divided into Upper and Lower Colaba by an imaginary line drawn across the land at the north wall of St. John's Memorial Church.",
+  "theme": "travel",
+  "passage_id": "in.ernet.dli.2015.96511-p19"
+ },
+ {
+  "fact_id": "in.ernet.dli.2015.207009-p4-f0",
+  "source_id": "in.ernet.dli.2015.207009",
+  "split": "dev",
+  "claim": "Khandala's importance comes from being a station on the Great Indian Peninsula Railway.",
+  "quote": "Khandala owes its importance entirely to the Great Indian Peninsula Railway, on which it is a station.",
+  "theme": "travel",
+  "passage_id": "in.ernet.dli.2015.207009-p4"
+ }
+]

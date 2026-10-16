@@ -1,0 +1,47 @@
+[
+ {
+  "slug": "bodie",
+  "name": "Bodie",
+  "place": "Bodie, California",
+  "era": "1879 and 1880",
+  "dir": "",
+  "claims": 40,
+  "footer": "Sources: Internet Archive, California Revealed, Mammoth Museum. Public domain newspapers."
+ },
+ {
+  "slug": "bangalore",
+  "name": "Bangalore",
+  "place": "Bangalore, India",
+  "era": "1870s to 1890s",
+  "dir": "bangalore/",
+  "claims": 22,
+  "footer": "Sources: Internet Archive. Public domain gazetteers (Bangalore Gazetteer 1875, Rice's Mysore gazetteers)."
+ },
+ {
+  "slug": "coorg",
+  "name": "Coorg",
+  "place": "Coorg (Kodagu), India",
+  "era": "1870s",
+  "dir": "coorg/",
+  "claims": 23,
+  "footer": "Sources: Internet Archive. Public domain gazetteers and manuals of Coorg from the 1870s."
+ },
+ {
+  "slug": "hyderabad",
+  "name": "Hyderabad",
+  "place": "Hyderabad, India",
+  "era": "1880s to 1910",
+  "dir": "hyderabad/",
+  "claims": 17,
+  "footer": "Sources: Internet Archive. Public domain books on Hyderabad from 1884 to 1910."
+ },
+ {
+  "slug": "mumbai",
+  "name": "Mumbai",
+  "place": "Mumbai (Bombay), India",
+  "era": "1909 and 1910",
+  "dir": "mumbai/",
+  "claims": 18,
+  "footer": "Sources: Internet Archive. Public domain Bombay city gazetteers (1909, 1910) and the Imperial Gazetteer."
+ }
+]

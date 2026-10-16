@@ -3,8 +3,8 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
-<title>Ghost Town Radio · Bodie, California</title>
-<meta name="description" content="A radio station for Bodie, California. A fictional DJ reads only what 1879 and 1880 newspapers actually said. Every line links to its source.">
+<title>Ghost Town Radio</title>
+<meta name="description" content="A radio station for five old towns: Bodie, Bangalore, Coorg, Hyderabad and Mumbai. A fictional DJ reads only what public domain sources actually said. Every line links to its source.">
 <meta name="theme-color" content="#07060b">
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 viewBox=%270 0 32 32%27%3E%3Ccircle cx=%2716%27 cy=%2716%27 r=%2712%27 fill=%27%23ff5b3a%27/%3E%3C/svg%3E">
 <link rel="stylesheet" href="style.css">
@@ -22,7 +22,8 @@
 <main>
   <header class="top">
     <div class="brand"><span class="dot" id="onair"></span><h1>Ghost Town Radio</h1></div>
-    <p class="sub">Bodie, California · 1879 and 1880 · <span id="freq">0.0</span> kHz of dust</p>
+    <p class="sub"><span id="place">Bodie, California · 1879 and 1880</span> · <span id="freq">0.0</span> kHz of dust</p>
+    <div class="towns" id="towns" role="radiogroup" aria-label="Town"></div>
   </header>
 
   <section class="deck" aria-label="Tuner">
@@ -57,7 +58,7 @@
   </section>
 
   <footer>
-    <p>The DJ, “Hollis Vane”, is fictional and synthetic. The facts and the quotes are not. Sources: Internet Archive, California Revealed, Mammoth Museum. Public domain newspapers. <a href="https://github.com/sivaratrisrinivas/ghost-town-radio">Code, evals and honest limits</a>.</p>
+    <p>The DJ, “Hollis Vane”, is fictional and synthetic. The facts and the quotes are not. <span id="foot"></span> <a href="https://github.com/sivaratrisrinivas/ghost-town-radio">Code, evals and honest limits</a>.</p>
   </footer>
 </main>
 <audio id="voice" preload="auto" crossorigin="anonymous"></audio>

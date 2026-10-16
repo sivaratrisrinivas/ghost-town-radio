@@ -1,0 +1,736 @@
+{
+ "station": {
+  "name": "Ghost Town Radio",
+  "dj": "Hollis Vane (fictional)",
+  "place": "Coorg (Kodagu), India"
+ },
+ "hours": [
+  {
+   "hour": 0,
+   "theme": "nightlife",
+   "title": "Midnight, no word on the nightlife",
+   "lines": [
+    {
+     "id": "h0-open",
+     "type": "bridge",
+     "text": "Ghost Town Radio. Hollis Vane, with you at midnight. "
+    },
+    {
+     "id": "h0-sil",
+     "type": "silence",
+     "text": ""
+    },
+    {
+     "id": "h0-out",
+     "type": "bridge",
+     "text": "That is all the archive gives me on that. I will not guess."
+    }
+   ]
+  },
+  {
+   "hour": 1,
+   "theme": "crime",
+   "title": "Trouble and the law",
+   "lines": [
+    {
+     "id": "h1-open",
+     "type": "bridge",
+     "text": "This is Hollis Vane, one o'clock in the morning, on Ghost Town Radio. Let us see what the papers said about trouble."
+    },
+    {
+     "id": "manualcoorgagaz00richgoog-p11-f1-c",
+     "type": "claim",
+     "fact_id": "manualcoorgagaz00richgoog-p11-f1",
+     "text": "Now a page from the archive. From Manual of Coorg a gazetter of the natural features of the country, and the social and political condition of its inhabitants, published in eighteen seventy. A man from the north of Coorg reported that Vfrardja shot at Ndrdyana Ndyaka with a blunt arrow and then a sharp arrow that killed him. The words themselves."
+    },
+    {
+     "id": "manualcoorgagaz00richgoog-p11-f1-q",
+     "type": "quote",
+     "fact_id": "manualcoorgagaz00richgoog-p11-f1",
+     "text": "A man from the north of Coorg deposed: that he saw Vfrardja, on a hunting excursion, shooting atNdrdyana Ndyaka, Hobliddra, first with blunt arrows, then with a sharp arrow which killed him, in presence of all his retinue.",
+     "speak": "A man from the north of Coorg deposed: that he saw Vfrardja, on a hunting excursion, shooting atNdrdyana Ndyaka, Hobliddra, first with blunt arrows, then with a sharp arrow which killed him, in presence of all his retinue."
+    },
+    {
+     "id": "h1-out",
+     "type": "bridge",
+     "text": "Where the paper goes quiet, so do I."
+    }
+   ]
+  },
+  {
+   "hour": 2,
+   "theme": "weather",
+   "title": "The sky and the seasons",
+   "lines": [
+    {
+     "id": "h2-open",
+     "type": "bridge",
+     "text": "two o'clock in the morning, and the dial is still warm. Hollis Vane here. Let us see what the papers said about the sky."
+    },
+    {
+     "id": "in.ernet.dli.2015.94276-p17-f1-c",
+     "type": "claim",
+     "fact_id": "in.ernet.dli.2015.94276-p17-f1",
+     "text": "Listen to this one. From Gazetteer Of Coorg, published in eighteen seventy. During the cold months, from October to January inclusive, the daily average variation ranges over 24\u00b0 Fahrenheit between the extremes, giving a daily mean of 65\u00b0. Word for word."
+    },
+    {
+     "id": "in.ernet.dli.2015.94276-p17-f1-q",
+     "type": "quote",
+     "fact_id": "in.ernet.dli.2015.94276-p17-f1",
+     "text": "During the cold months, from October to January inclusive, the daily average variation ranges over 24\u00b0 Fahrenheit between the extremes, giving a daily mean of 65\u00b0;",
+     "speak": "During the cold months, from October to January inclusive, the daily average variation ranges over 24\u00b0 Fahrenheit between the extremes, giving a daily mean of 65\u00b0;"
+    },
+    {
+     "id": "h2-out",
+     "type": "bridge",
+     "text": "Static for a moment. Stay on the dial."
+    }
+   ]
+  },
+  {
+   "hour": 3,
+   "theme": "mining",
+   "title": "Under the ground",
+   "lines": [
+    {
+     "id": "h3-open",
+     "type": "bridge",
+     "text": "Ghost Town Radio. Hollis Vane, with you at three o'clock in the morning. "
+    },
+    {
+     "id": "h3-sil",
+     "type": "silence",
+     "text": ""
+    },
+    {
+     "id": "h3-out",
+     "type": "bridge",
+     "text": "That is all the archive gives me on that. I will not guess."
+    }
+   ]
+  },
+  {
+   "hour": 4,
+   "theme": "community",
+   "title": "Before dawn, the town",
+   "lines": [
+    {
+     "id": "h4-open",
+     "type": "bridge",
+     "text": "This is Hollis Vane, four o'clock in the morning, on Ghost Town Radio. Let us see what the papers said about the town."
+    },
+    {
+     "id": "cu31924071131605-p3-f0-c",
+     "type": "claim",
+     "fact_id": "cu31924071131605-p3-f0",
+     "text": "Here is what the paper printed. From Mysore and Coorg A gazetteer compiled for the government of India, published in eighteen seventy-six. The Coorg officials and pensioners are ready to contribute half a month's pay, which, together with the subscriptions of the farmers, will amount to about Es. 6,000. The words themselves."
+    },
+    {
+     "id": "cu31924071131605-p3-f0-q",
+     "type": "quote",
+     "fact_id": "cu31924071131605-p3-f0",
+     "text": "The Coorg officials and pension- ers are ready to contribute half a month's pay, which, together with the subscriptions of the farmers, will amount to about Es. 6,000.",
+     "speak": "The Coorg officials and pensioners are ready to contribute half a month's pay, which, together with the subscriptions of the farmers, will amount to about Es. 6,000."
+    },
+    {
+     "id": "h4-out",
+     "type": "bridge",
+     "text": "Where the paper goes quiet, so do I."
+    }
+   ]
+  },
+  {
+   "hour": 5,
+   "theme": "travel",
+   "title": "Roads and rails",
+   "lines": [
+    {
+     "id": "h5-open",
+     "type": "bridge",
+     "text": "five o'clock in the morning, and the dial is still warm. Hollis Vane here. Let us see what the papers said about the roads."
+    },
+    {
+     "id": "in.ernet.dli.2015.94276-p12-f2-c",
+     "type": "claim",
+     "fact_id": "in.ernet.dli.2015.94276-p12-f2",
+     "text": "Now a page from the archive. From Gazetteer Of Coorg, published in eighteen seventy. Coorg has two trunk roads intersecting at Mercara and a branch road near Vfr&jpet connecting the highroads. Word for word."
+    },
+    {
+     "id": "in.ernet.dli.2015.94276-p12-f2-q",
+     "type": "quote",
+     "fact_id": "in.ernet.dli.2015.94276-p12-f2",
+     "text": "Coorg is crossed by two trunk-roads from east to west and from north to south, intersecting each other at Mercara, and by a branch-road near Vfr&jpet the western and eastern highroads are connected.",
+     "speak": "Coorg is crossed by two trunk-roads from east to west and from north to south, intersecting each other at Mercara, and by a branch-road near Vfr&jpet the western and eastern highroads are connected."
+    },
+    {
+     "id": "h5-out",
+     "type": "bridge",
+     "text": "Static for a moment. Stay on the dial."
+    }
+   ]
+  },
+  {
+   "hour": 6,
+   "theme": "commerce",
+   "title": "Early trade",
+   "lines": [
+    {
+     "id": "h6-open",
+     "type": "bridge",
+     "text": "Ghost Town Radio. Hollis Vane, with you at six o'clock in the morning. Let us see what the papers said about trade."
+    },
+    {
+     "id": "cu31924071131605-p15-f0-c",
+     "type": "claim",
+     "fact_id": "cu31924071131605-p15-f0",
+     "text": "Listen to this one. From Mysore and Coorg A gazetteer compiled for the government of India, published in eighteen seventy-six. The Raja of Coorg agreed to send an elephant each year to the Company in lieu of the former tribute of Rs. 24,000. In the paper's own words."
+    },
+    {
+     "id": "cu31924071131605-p15-f0-q",
+     "type": "quote",
+     "fact_id": "cu31924071131605-p15-f0",
+     "text": "Before Capt. Mahoney left, it was settled that the Raja of Coorg should every year send an elephant to the Company in lieu of the former tribute of Rs. 24,000.",
+     "speak": "Before Capt. Mahoney left, it was settled that the Raja of Coorg should every year send an elephant to the Company in lieu of the former tribute of Rs. 24,000."
+    },
+    {
+     "id": "h6-out",
+     "type": "bridge",
+     "text": "That is all the archive gives me on that. I will not guess."
+    }
+   ]
+  },
+  {
+   "hour": 7,
+   "theme": "community",
+   "title": "Schools and temples",
+   "lines": [
+    {
+     "id": "h7-open",
+     "type": "bridge",
+     "text": "This is Hollis Vane, seven o'clock in the morning, on Ghost Town Radio. Let us see what the papers said about the town."
+    },
+    {
+     "id": "in.ernet.dli.2015.94276-p8-f2-c",
+     "type": "claim",
+     "fact_id": "in.ernet.dli.2015.94276-p8-f2",
+     "text": "Another clipping. From Gazetteer Of Coorg, published in eighteen seventy. The Keilmiirta festival is considered the most glorious by young Coorgs. The words themselves."
+    },
+    {
+     "id": "in.ernet.dli.2015.94276-p8-f2-q",
+     "type": "quote",
+     "fact_id": "in.ernet.dli.2015.94276-p8-f2",
+     "text": "The Keilmiirta, to the taste of young Coorg, is the most glorious of all the festivals.",
+     "speak": "The Keilmiirta, to the taste of young Coorg, is the most glorious of all the festivals."
+    },
+    {
+     "id": "h7-out",
+     "type": "bridge",
+     "text": "Where the paper goes quiet, so do I."
+    }
+   ]
+  },
+  {
+   "hour": 8,
+   "theme": "commerce",
+   "title": "Markets and prices",
+   "lines": [
+    {
+     "id": "h8-open",
+     "type": "bridge",
+     "text": "eight o'clock in the morning, and the dial is still warm. Hollis Vane here. Let us see what the papers said about trade."
+    },
+    {
+     "id": "in.ernet.dli.2015.94276-p13-f1-c",
+     "type": "claim",
+     "fact_id": "in.ernet.dli.2015.94276-p13-f1",
+     "text": "Here is what the paper printed. From Gazetteer Of Coorg, published in eighteen seventy. A man named Kdryagdra from Ndlkandd took a large amount of the Rajah's treasure and informed Capt. Le Hardy about it. Word for word."
+    },
+    {
+     "id": "in.ernet.dli.2015.94276-p13-f1-q",
+     "type": "quote",
+     "fact_id": "in.ernet.dli.2015.94276-p13-f1",
+     "text": "A certain Kdryagdra from Ndlkandd who accompanied the Rajah afterwards help- ed himself to a large amount of this treasure and when the secret oozed out, he found it necessary to inform Capt. Le Hardy, that he knew of treasure secreted by the Rdjah.",
+     "speak": "A certain Kdryagdra from Ndlkandd who accompanied the Rajah afterwards helped himself to a large amount of this treasure and when the secret oozed out, he found it necessary to inform Capt. Le Hardy, that he knew of treasure secreted by the Rdjah."
+    },
+    {
+     "id": "h8-out",
+     "type": "bridge",
+     "text": "Static for a moment. Stay on the dial."
+    }
+   ]
+  },
+  {
+   "hour": 9,
+   "theme": "community",
+   "title": "Morning, the people",
+   "lines": [
+    {
+     "id": "h9-open",
+     "type": "bridge",
+     "text": "Ghost Town Radio. Hollis Vane, with you at nine o'clock in the morning. Let us see what the papers said about the town."
+    },
+    {
+     "id": "cu31924071131605-p16-f1-c",
+     "type": "claim",
+     "fact_id": "cu31924071131605-p16-f1",
+     "text": "Now a page from the archive. From Mysore and Coorg A gazetteer compiled for the government of India, published in eighteen seventy-six. Coorg was considered thinly populated with inhabitants living in separate houses scattered among jungles and hills. In the paper's own words."
+    },
+    {
+     "id": "cu31924071131605-p16-f1-q",
+     "type": "quote",
+     "fact_id": "cu31924071131605-p16-f1",
+     "text": "Viewing Coorg as a thinly populated country, and one more- over the inhabitants of which lived chiefly in separate houses scattered among jungles and hills",
+     "speak": "Viewing Coorg as a thinly populated country, and one moreover the inhabitants of which lived chiefly in separate houses scattered among jungles and hills"
+    },
+    {
+     "id": "cu31924071131605-p14-f0-c",
+     "type": "claim",
+     "fact_id": "cu31924071131605-p14-f0",
+     "text": "Listen to this one. From Mysore and Coorg A gazetteer compiled for the government of India, published in eighteen seventy-six. The arable land within the barriers of Coorg was divided into vargas or farms. The words themselves."
+    },
+    {
+     "id": "cu31924071131605-p14-f0-q",
+     "type": "quote",
+     "fact_id": "cu31924071131605-p14-f0",
+     "text": "The whole of the arable land with- in the barriers of Coorg was divided into vargas or farms.",
+     "speak": "The whole of the arable land within the barriers of Coorg was divided into vargas or farms."
+    },
+    {
+     "id": "h9-out",
+     "type": "bridge",
+     "text": "That is all the archive gives me on that. I will not guess."
+    }
+   ]
+  },
+  {
+   "hour": 10,
+   "theme": "news",
+   "title": "Word of the day",
+   "lines": [
+    {
+     "id": "h10-open",
+     "type": "bridge",
+     "text": "This is Hollis Vane, ten o'clock in the morning, on Ghost Town Radio. Let us see what the papers carried from far away."
+    },
+    {
+     "id": "manualcoorgagaz00richgoog-p0-f0-c",
+     "type": "claim",
+     "fact_id": "manualcoorgagaz00richgoog-p0-f0",
+     "text": "Listen to this one. From Manual of Coorg a gazetter of the natural features of the country, and the social and political condition of its inhabitants, published in eighteen seventy. The Rdjah of Coorg has recovered his hereditary principality from Tippu Sultan. The words themselves."
+    },
+    {
+     "id": "manualcoorgagaz00richgoog-p0-f0-q",
+     "type": "quote",
+     "fact_id": "manualcoorgagaz00richgoog-p0-f0",
+     "text": "The Rdjah of Coorg has himself recovered his here- ditary principality from Tippu Sultan.",
+     "speak": "The Rdjah of Coorg has himself recovered his hereditary principality from Tippu Sultan."
+    },
+    {
+     "id": "h10-out",
+     "type": "bridge",
+     "text": "Where the paper goes quiet, so do I."
+    }
+   ]
+  },
+  {
+   "hour": 11,
+   "theme": "travel",
+   "title": "Late morning, the roads",
+   "lines": [
+    {
+     "id": "h11-open",
+     "type": "bridge",
+     "text": "eleven o'clock in the morning, and the dial is still warm. Hollis Vane here. Let us see what the papers said about the roads."
+    },
+    {
+     "id": "cu31924071131605-p5-f2-c",
+     "type": "claim",
+     "fact_id": "cu31924071131605-p5-f2",
+     "text": "Another clipping. From Mysore and Coorg A gazetteer compiled for the government of India, published in eighteen seventy-six. One Coorg studied law at Cambridge in England but returned and died of consumption. Word for word."
+    },
+    {
+     "id": "cu31924071131605-p5-f2-q",
+     "type": "quote",
+     "fact_id": "cu31924071131605-p5-f2",
+     "text": "One Coorg went to England to study law at Cam- bridge, but shortly returned in a consumption, of which he died.",
+     "speak": "One Coorg went to England to study law at Cambridge, but shortly returned in a consumption, of which he died."
+    },
+    {
+     "id": "h11-out",
+     "type": "bridge",
+     "text": "Static for a moment. Stay on the dial."
+    }
+   ]
+  },
+  {
+   "hour": 12,
+   "theme": "community",
+   "title": "Noon, the town talks",
+   "lines": [
+    {
+     "id": "h12-open",
+     "type": "bridge",
+     "text": "Ghost Town Radio. Hollis Vane, with you at noon. Let us see what the papers said about the town."
+    },
+    {
+     "id": "in.ernet.dli.2015.94276-p4-f1-c",
+     "type": "claim",
+     "fact_id": "in.ernet.dli.2015.94276-p4-f1",
+     "text": "Here is what the paper printed. From Gazetteer Of Coorg, published in eighteen seventy. Fraserpet has a Roman Catholic Church, a newly built shrine dedicated to Ganapati with a public well, an Anglo-Vernacular School, a native rest-house with a tank, and a Government wood-yard. In the paper's own words."
+    },
+    {
+     "id": "in.ernet.dli.2015.94276-p4-f1-q",
+     "type": "quote",
+     "fact_id": "in.ernet.dli.2015.94276-p4-f1",
+     "text": "The town can boast of a Roman Catholic Church, a newly built shrine, dedicated to Ganapati, with a very useful public well in front of it, an Anglo- Vernacular School, a native rest- house with a tank and a Government wood-yard, besides the European bungalows.",
+     "speak": "The town can boast of a Roman Catholic Church, a newly built shrine, dedicated to Ganapati, with a very useful public well in front of it, an AngloVernacular School, a native resthouse with a tank and a Government wood-yard, besides the European bungalows."
+    },
+    {
+     "id": "h12-out",
+     "type": "bridge",
+     "text": "That is all the archive gives me on that. I will not guess."
+    }
+   ]
+  },
+  {
+   "hour": 13,
+   "theme": "commerce",
+   "title": "Afternoon trade",
+   "lines": [
+    {
+     "id": "h13-open",
+     "type": "bridge",
+     "text": "This is Hollis Vane, one o'clock in the afternoon, on Ghost Town Radio. Let us see what the papers said about trade."
+    },
+    {
+     "id": "manualcoorgagaz00richgoog-p8-f2-c",
+     "type": "claim",
+     "fact_id": "manualcoorgagaz00richgoog-p8-f2",
+     "text": "Now a page from the archive. From Manual of Coorg a gazetter of the natural features of the country, and the social and political condition of its inhabitants, published in eighteen seventy. Rice cultivation is so deficient that even the largest farms cannot produce enough rice for their own consumption, forcing ryots to buy rice for six months a year. The words themselves."
+    },
+    {
+     "id": "manualcoorgagaz00richgoog-p8-f2-q",
+     "type": "quote",
+     "fact_id": "manualcoorgagaz00richgoog-p8-f2",
+     "text": "Rice cultivation, owing to the want of suitable land, is so deficient, that even the largest farms are not : able to produce sufficient rice for their own consumption; the ryots in general have to buy rice for six months in the year",
+     "speak": "Rice cultivation, owing to the want of suitable land, is so deficient, that even the largest farms are not : able to produce sufficient rice for their own consumption; the ryots in general have to buy rice for six months in the year"
+    },
+    {
+     "id": "in.ernet.dli.2015.94276-p5-f1-c",
+     "type": "claim",
+     "fact_id": "in.ernet.dli.2015.94276-p5-f1",
+     "text": "Listen to this one. From Gazetteer Of Coorg, published in eighteen seventy. Tippu transferred his claims of allegiance and the tribute of Rs. 24,000 annually from the R&jah to the English and peace was concluded in March 1792. Word for word."
+    },
+    {
+     "id": "in.ernet.dli.2015.94276-p5-f1-q",
+     "type": "quote",
+     "fact_id": "in.ernet.dli.2015.94276-p5-f1",
+     "text": "he transferred his claims of allegi- ance and the tribute of Rs. 24,000 annually from the R&jah to the English and peace was concluded (March 1792).",
+     "speak": "he transferred his claims of allegiance and the tribute of Rs. 24,000 annually from the R&jah to the English and peace was concluded (March 1792)."
+    },
+    {
+     "id": "h13-out",
+     "type": "bridge",
+     "text": "Where the paper goes quiet, so do I."
+    }
+   ]
+  },
+  {
+   "hour": 14,
+   "theme": "community",
+   "title": "Afternoon, the people",
+   "lines": [
+    {
+     "id": "h14-open",
+     "type": "bridge",
+     "text": "two o'clock in the afternoon, and the dial is still warm. Hollis Vane here. Let us see what the papers said about the town."
+    },
+    {
+     "id": "manualcoorgagaz00richgoog-p16-f1-c",
+     "type": "claim",
+     "fact_id": "manualcoorgagaz00richgoog-p16-f1",
+     "text": "Listen to this one. From Manual of Coorg a gazetter of the natural features of the country, and the social and political condition of its inhabitants, published in eighteen seventy. The man who has killed the animal receives a hind-quarter and the head, the rest belongs to the company. Word for word."
+    },
+    {
+     "id": "manualcoorgagaz00richgoog-p16-f1-q",
+     "type": "quote",
+     "fact_id": "manualcoorgagaz00richgoog-p16-f1",
+     "text": "the man who has killed the animal, receives a hind-quarter and the head, the rest belongs to the company.",
+     "speak": "the man who has killed the animal, receives a hind-quarter and the head, the rest belongs to the company."
+    },
+    {
+     "id": "h14-out",
+     "type": "bridge",
+     "text": "Static for a moment. Stay on the dial."
+    }
+   ]
+  },
+  {
+   "hour": 15,
+   "theme": "news",
+   "title": "The government and the record",
+   "lines": [
+    {
+     "id": "h15-open",
+     "type": "bridge",
+     "text": "Ghost Town Radio. Hollis Vane, with you at three o'clock in the afternoon. Let us see what the papers carried from far away."
+    },
+    {
+     "id": "manualcoorgagaz00richgoog-p13-f0-c",
+     "type": "claim",
+     "fact_id": "manualcoorgagaz00richgoog-p13-f0",
+     "text": "Another clipping. From Manual of Coorg a gazetter of the natural features of the country, and the social and political condition of its inhabitants, published in eighteen seventy. No schooling fees should be levied on children of taxed ryots; fees from other children in Anglo-vernacular schools should be added to the local cess fund. In the paper's own words."
+    },
+    {
+     "id": "manualcoorgagaz00richgoog-p13-f0-q",
+     "type": "quote",
+     "fact_id": "manualcoorgagaz00richgoog-p13-f0",
+     "text": "From the children of the ryots thus taxed, no schooling fees should be levied; the fees from other children in the Anglo-vernacular Schools only should be added to the local-cess-fund.",
+     "speak": "From the children of the ryots thus taxed, no schooling fees should be levied; the fees from other children in the Anglo-vernacular Schools only should be added to the local-cess-fund."
+    },
+    {
+     "id": "h15-out",
+     "type": "bridge",
+     "text": "That is all the archive gives me on that. I will not guess."
+    }
+   ]
+  },
+  {
+   "hour": 16,
+   "theme": "travel",
+   "title": "Distances and routes",
+   "lines": [
+    {
+     "id": "h16-open",
+     "type": "bridge",
+     "text": "This is Hollis Vane, four o'clock in the afternoon, on Ghost Town Radio. Let us see what the papers said about the roads."
+    },
+    {
+     "id": "cu31924071131605-p6-f0-c",
+     "type": "claim",
+     "fact_id": "cu31924071131605-p6-f0",
+     "text": "Here is what the paper printed. From Mysore and Coorg A gazetteer compiled for the government of India, published in eighteen seventy-six. Fraserpet is a trading town on the east frontier, situated on the left bank of the Kaveri, on the main road from Seringapatam to Mercara, 20 miles east of the latter. The words themselves."
+    },
+    {
+     "id": "cu31924071131605-p6-f0-q",
+     "type": "quote",
+     "fact_id": "cu31924071131605-p6-f0",
+     "text": "Fraserpet- \u2014 A trading town on the east frontier, situated in N. lat. 12\u00b0 27\u00bb, E. long. 76\u00b0 2', on the left bank of the Kaveri, on the main road' from Seringapatam to Mercara, 20 miles east of the latter.",
+     "speak": "Fraserpet- \u2014 A trading town on the east frontier, situated in N. lat. 12\u00b0 27\u00bb, E. long. 76\u00b0 2', on the left bank of the Kaveri, on the main road' from Seringapatam to Mercara, 20 miles east of the latter."
+    },
+    {
+     "id": "h16-out",
+     "type": "bridge",
+     "text": "Where the paper goes quiet, so do I."
+    }
+   ]
+  },
+  {
+   "hour": 17,
+   "theme": "community",
+   "title": "Supper hour",
+   "lines": [
+    {
+     "id": "h17-open",
+     "type": "bridge",
+     "text": "five o'clock in the afternoon, and the dial is still warm. Hollis Vane here. Let us see what the papers said about the town."
+    },
+    {
+     "id": "in.ernet.dli.2015.94276-p3-f0-c",
+     "type": "claim",
+     "fact_id": "in.ernet.dli.2015.94276-p3-f0",
+     "text": "Now a page from the archive. From Gazetteer Of Coorg, published in eighteen seventy. The number of Vernacular district-schools was raised to 25 and the teachers, nearly all of them Coorgs, were trained by the Principal four at a time for 3 or 4 months at the Central School, which served as a Normal School. Word for word."
+    },
+    {
+     "id": "in.ernet.dli.2015.94276-p3-f0-q",
+     "type": "quote",
+     "fact_id": "in.ernet.dli.2015.94276-p3-f0",
+     "text": "The number of Vernacular district-schools was raised to 25 and the teachers, nearly all of them Coorgs, were trained by the Principal four at a time for 3 or 4 months at the Central School, which served as a Normal School.",
+     "speak": "The number of Vernacular district-schools was raised to 25 and the teachers, nearly all of them Coorgs, were trained by the Principal four at a time for 3 or 4 months at the Central School, which served as a Normal School."
+    },
+    {
+     "id": "in.ernet.dli.2015.94276-p12-f0-c",
+     "type": "claim",
+     "fact_id": "in.ernet.dli.2015.94276-p12-f0",
+     "text": "Listen to this one. From Gazetteer Of Coorg, published in eighteen seventy. In 1862, the government organized a regular establishment for public works in Coorg. In the paper's own words."
+    },
+    {
+     "id": "in.ernet.dli.2015.94276-p12-f0-q",
+     "type": "quote",
+     "fact_id": "in.ernet.dli.2015.94276-p12-f0",
+     "text": "It was not until the year 1862, that the wants of Coorg were sufficiently recognised, to induce Government to organize a regular establishment for the execution of Public Works in Coorg.",
+     "speak": "It was not until the year 1862, that the wants of Coorg were sufficiently recognised, to induce Government to organize a regular establishment for the execution of Public Works in Coorg."
+    },
+    {
+     "id": "h17-out",
+     "type": "bridge",
+     "text": "Static for a moment. Stay on the dial."
+    }
+   ]
+  },
+  {
+   "hour": 18,
+   "theme": "commerce",
+   "title": "Evening trade",
+   "lines": [
+    {
+     "id": "h18-open",
+     "type": "bridge",
+     "text": "Ghost Town Radio. Hollis Vane, with you at six o'clock in the evening. Let us see what the papers said about trade."
+    },
+    {
+     "id": "cu31924071131605-p0-f1-c",
+     "type": "claim",
+     "fact_id": "cu31924071131605-p0-f1",
+     "text": "Listen to this one. From Mysore and Coorg A gazetteer compiled for the government of India, published in eighteen seventy-six. The Raja freely opened his country to the Bombay forces and supplied them with grain, cattle, and other provisions. In the paper's own words."
+    },
+    {
+     "id": "cu31924071131605-p0-f1-q",
+     "type": "quote",
+     "fact_id": "cu31924071131605-p0-f1",
+     "text": "The Raja freely opened his country to the Bombay forces which marched from Tellicherry to Mysore, and was most zealous in pro- viding the Company's troops with every thing he could procure for them in Coorg and Mysore.",
+     "speak": "The Raja freely opened his country to the Bombay forces which marched from Tellicherry to Mysore, and was most zealous in providing the Company's troops with every thing he could procure for them in Coorg and Mysore."
+    },
+    {
+     "id": "h18-out",
+     "type": "bridge",
+     "text": "That is all the archive gives me on that. I will not guess."
+    }
+   ]
+  },
+  {
+   "hour": 19,
+   "theme": "community",
+   "title": "Lamps and lodges",
+   "lines": [
+    {
+     "id": "h19-open",
+     "type": "bridge",
+     "text": "This is Hollis Vane, seven o'clock in the evening, on Ghost Town Radio. Let us see what the papers said about the town."
+    },
+    {
+     "id": "cu31924071131605-p5-f0-c",
+     "type": "claim",
+     "fact_id": "cu31924071131605-p5-f0",
+     "text": "Another clipping. From Mysore and Coorg A gazetteer compiled for the government of India, published in eighteen seventy-six. The Government educational institutions of Coorg in 1875-76 included the Mercara Central School with Canarese and Hindustani branches, which had 348 pupils, 230 of whom were Coorgs. The words themselves."
+    },
+    {
+     "id": "cu31924071131605-p5-f0-q",
+     "type": "quote",
+     "fact_id": "cu31924071131605-p5-f0",
+     "text": "The Government educational institutions of Coorg in 1875 \u2014 76, comprised the Mercara Central School, with Canarese and Hindustani branches attached, containing altogether 348 pupils, of whom 230 were Ooorgs ;",
+     "speak": "The Government educational institutions of Coorg in 1875 \u2014 76, comprised the Mercara Central School, with Canarese and Hindustani branches attached, containing altogether 348 pupils, of whom 230 were Ooorgs ;"
+    },
+    {
+     "id": "h19-out",
+     "type": "bridge",
+     "text": "Where the paper goes quiet, so do I."
+    }
+   ]
+  },
+  {
+   "hour": 20,
+   "theme": "nightlife",
+   "title": "Evening, no word on the nightlife",
+   "lines": [
+    {
+     "id": "h20-open",
+     "type": "bridge",
+     "text": "eight o'clock in the evening, and the dial is still warm. Hollis Vane here. "
+    },
+    {
+     "id": "h20-sil",
+     "type": "silence",
+     "text": ""
+    },
+    {
+     "id": "h20-out",
+     "type": "bridge",
+     "text": "Static for a moment. Stay on the dial."
+    }
+   ]
+  },
+  {
+   "hour": 21,
+   "theme": "community",
+   "title": "Late evening, the town",
+   "lines": [
+    {
+     "id": "h21-open",
+     "type": "bridge",
+     "text": "Ghost Town Radio. Hollis Vane, with you at nine o'clock in the evening. Let us see what the papers said about the town."
+    },
+    {
+     "id": "in.ernet.dli.2015.94276-p3-f2-c",
+     "type": "claim",
+     "fact_id": "in.ernet.dli.2015.94276-p3-f2",
+     "text": "Now a page from the archive. From Gazetteer Of Coorg, published in eighteen seventy. Once in 3 or 4 months all the teachers assemble in Mercara for a conference with the Principal to give an oral report in each other\u2019s presence on the state of their work and to receive further instruction in educational topics. In the paper's own words."
+    },
+    {
+     "id": "in.ernet.dli.2015.94276-p3-f2-q",
+     "type": "quote",
+     "fact_id": "in.ernet.dli.2015.94276-p3-f2",
+     "text": "Once in 3 or 4 months all the teachers assemble in Mercara for a conference with the Principal to give an oral report in each other\u2019s presence on the state of their work and to receive further instruction in educational topics.",
+     "speak": "Once in 3 or 4 months all the teachers assemble in Mercara for a conference with the Principal to give an oral report in each other\u2019s presence on the state of their work and to receive further instruction in educational topics."
+    },
+    {
+     "id": "h21-out",
+     "type": "bridge",
+     "text": "That is all the archive gives me on that. I will not guess."
+    }
+   ]
+  },
+  {
+   "hour": 22,
+   "theme": "commerce",
+   "title": "Night accounts",
+   "lines": [
+    {
+     "id": "h22-open",
+     "type": "bridge",
+     "text": "This is Hollis Vane, ten o'clock in the evening, on Ghost Town Radio. "
+    },
+    {
+     "id": "h22-sil",
+     "type": "silence",
+     "text": ""
+    },
+    {
+     "id": "h22-out",
+     "type": "bridge",
+     "text": "Where the paper goes quiet, so do I."
+    }
+   ]
+  },
+  {
+   "hour": 23,
+   "theme": "news",
+   "title": "The last word",
+   "lines": [
+    {
+     "id": "h23-open",
+     "type": "bridge",
+     "text": "eleven o'clock in the evening, and the dial is still warm. Hollis Vane here. Let us see what the papers carried from far away."
+    },
+    {
+     "id": "manualcoorgagaz00richgoog-p6-f2-c",
+     "type": "claim",
+     "fact_id": "manualcoorgagaz00richgoog-p6-f2",
+     "text": "Another clipping. From Manual of Coorg a gazetter of the natural features of the country, and the social and political condition of its inhabitants, published in eighteen seventy. He prohibited his Coorgs from confronting Company troops to allow easy advance. Word for word."
+    },
+    {
+     "id": "manualcoorgagaz00richgoog-p6-f2-q",
+     "type": "quote",
+     "fact_id": "manualcoorgagaz00richgoog-p6-f2",
+     "text": "he sent orders, prohibiting his Coorgs from encountering the troops of the Company, hence the easy advance of the latter.",
+     "speak": "he sent orders, prohibiting his Coorgs from encountering the troops of the Company, hence the easy advance of the latter."
+    },
+    {
+     "id": "h23-out",
+     "type": "bridge",
+     "text": "Static for a moment. Stay on the dial."
+    }
+   ]
+  }
+ ]
+}
