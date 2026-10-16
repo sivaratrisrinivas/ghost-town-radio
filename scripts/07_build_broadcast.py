@@ -1,4 +1,4 @@
-"""Assemble the 24-hour schedule from VERIFIED facts only. Deterministic (seeded). Writes site/data/*.json"""
+"""Assemble the 24-hour schedule from VERIFIED facts only. Deterministic (seeded). Writes docs/data/*.json"""
 import json,random,re,sys
 from common import *
 meta=load_meta()
@@ -51,6 +51,6 @@ for h,(theme,title,quota) in enumerate(HOURS):
     lines.append({"id":f"h{h}-out","type":"bridge","text":OUTRO[h%3]})
     broadcast.append({"hour":h,"theme":theme,"title":title,"lines":lines})
 json.dump({"station":{"name":"Ghost Town Radio","dj":"Hollis Vane (fictional)","place":"Bodie, California"},"hours":broadcast},open("data/broadcast_text.json","w"),indent=1)
-json.dump({k:{"claim":v["claim"],"quote":norm(v["quote"]),"source_id":v["source_id"]} for k,v in used_facts.items()},open("site/data/facts.json","w"),indent=1)
-json.dump(sources,open("site/data/sources.json","w"),indent=1)
+json.dump({k:{"claim":v["claim"],"quote":norm(v["quote"]),"source_id":v["source_id"]} for k,v in used_facts.items()},open("docs/data/facts.json","w"),indent=1)
+json.dump(sources,open("docs/data/sources.json","w"),indent=1)
 print("facts used",len(used_facts),"of",len(facts),"| hours with silence:",sum(1 for H in broadcast if any(l['type']=='silence' for l in H['lines'])))

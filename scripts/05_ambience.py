@@ -14,4 +14,4 @@ for i in rng.choice(n,int(n/sr*9),replace=False):
 crack=np.roll(crack,0)*0.25
 x=wind*0.5+hiss+crack; x=x/np.abs(x).max()*0.6
 sf.write("/tmp/amb.wav",x.astype(np.float32),sr)
-subprocess.run(["ffmpeg","-v","error","-y","-i","/tmp/amb.wav","-ac","1","-b:a","40k","site/audio/ambience.mp3"],check=True)
+subprocess.run(["ffmpeg","-v","error","-y","-i","/tmp/amb.wav","-ac","1","-b:a","40k","docs/audio/ambience.mp3"],check=True)

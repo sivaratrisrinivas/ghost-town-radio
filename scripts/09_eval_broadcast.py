@@ -25,7 +25,7 @@ def check(B,F,S):
     return {"claims":claims,"pct_quote_verbatim":round(100*ok_verb/max(1,claims),1),"pct_source_ok":round(100*ok_src/max(1,claims),1),
             "pct_claim_text_intact_and_quoted":round(100*ok_pair/max(1,claims),1),"violations":res+bridge_bad}
 if __name__=="__main__":
-    B=json.load(open("site/data/broadcast.json"));F=json.load(open("site/data/facts.json"));S=json.load(open("site/data/sources.json"))
+    B=json.load(open("docs/data/broadcast.json"));F=json.load(open("docs/data/facts.json"));S=json.load(open("docs/data/sources.json"))
     r=check(B,F,S); 
     # self-test: planted failures must be caught
     import copy

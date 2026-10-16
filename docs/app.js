@@ -103,7 +103,7 @@ function show(l) {
   k.textContent = l.type === 'quote' ? 'Word for word, from the paper' : 'The claim, and the words behind it';
   said.textContent = f.claim;
   q.innerHTML = l.type === 'quote' ? `<mark>“${esc(f.quote)}”</mark>` : `“${esc(f.quote)}”`;
-  c.innerHTML = `${esc(s.title)} · ${s.date} · <a href="${s.url}" target="_blank" rel="noopener">Read the page on archive.org</a> · ${esc(s.license_short)}`;
+  c.innerHTML = `${esc(s.title.replace(/\s*\d{4}-\d{1,2}-\d{1,2}\s*$/,''))} · ${s.date} · <a href="${s.url}" target="_blank" rel="noopener">Read the page on archive.org</a> · ${esc(s.license_short)}`;
 }
 // ---- ghosts canvas (30fps, DPR capped, pauses when hidden)
 function initGhosts() {

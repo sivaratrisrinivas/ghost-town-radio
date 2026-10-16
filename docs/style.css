@@ -6,7 +6,7 @@ html,body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.5 ui-sans-s
 main{position:relative;z-index:2;max-width:760px;margin:0 auto;padding:max(20px,env(safe-area-inset-top)) 20px 60px;display:flex;flex-direction:column;gap:28px}
 .top{padding-top:8px}
 .brand{display:flex;align-items:center;gap:12px}
-h1{margin:0;font:600 clamp(26px,6vw,40px)/1.05 "New York",ui-serif,Georgia,serif;letter-spacing:-.02em}
+h1{text-shadow:calc(var(--lvl)*-6px) 0 hsla(var(--h),100%,60%,.6),calc(var(--lvl)*6px) 0 hsla(calc(var(--h) + 120),100%,60%,.6);margin:0;font:600 clamp(26px,6vw,40px)/1.05 "New York",ui-serif,Georgia,serif;letter-spacing:-.02em}
 .dot{width:10px;height:10px;border-radius:50%;background:#5b5568;box-shadow:0 0 0 0 transparent;transition:.6s}
 .dot.live{background:#ff5b3a;box-shadow:0 0 16px 4px rgba(255,91,58,.7)}
 .sub{margin:8px 0 0;color:var(--mute);font-size:14px}
@@ -22,7 +22,7 @@ h1{margin:0;font:600 clamp(26px,6vw,40px)/1.05 "New York",ui-serif,Georgia,serif
 .readout{position:absolute;left:18px;bottom:12px;right:18px;display:flex;justify-content:space-between;align-items:baseline}
 #clock{font:300 34px/1 ui-serif,Georgia,serif;font-variant-numeric:tabular-nums;letter-spacing:.02em}
 #theme{color:var(--ink);opacity:.85;text-transform:uppercase;letter-spacing:.14em;font-size:11px}
-.controls{display:flex;align-items:center;justify-content:center;gap:26px}
+.controls{display:flex;align-items:center;justify-content:center;gap:22px;flex-wrap:nowrap}
 .knob{all:unset;cursor:grab;touch-action:none;border-radius:50%;width:116px;height:116px;display:block;-webkit-tap-highlight-color:transparent}
 .knob:focus-visible,.play:focus-visible,.skip:focus-visible,#schedule button:focus-visible,a:focus-visible{outline:3px solid #ffd27a;outline-offset:3px}
 .knob:active{cursor:grabbing}
@@ -58,7 +58,7 @@ mark{background:#ffd27a;color:inherit}
 #schedule span{font-size:13px;opacity:.9}
 footer{color:var(--mute);font-size:13px}
 footer a{color:#ffd27a}
-@media (min-width:700px){.deck{grid-template-columns:1.5fr 1fr;align-items:center}.glass{height:190px}.controls{flex-wrap:wrap}.card{padding:30px 32px}.said{font-size:22px}blockquote{font-size:20px}}
+@media (min-width:700px){.deck{grid-template-columns:1.5fr 1fr;align-items:center}.glass{height:190px}.knob{width:104px;height:104px}.play{width:72px;height:72px}.card{padding:30px 32px}.said{font-size:22px}blockquote{font-size:20px}}
 .reduced #ghosts{display:none}
 .reduced body,body.reduced{background:radial-gradient(120% 80% at 50% 0,#241a3a,#07060b)}
 .reduced .card{animation:none}.reduced .needle,.reduced .knob-face{transition:none}
