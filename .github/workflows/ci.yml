@@ -1,0 +1,21 @@
+name: ci
+on:
+  pull_request:
+  push:
+    branches: [main]
+jobs:
+  evals:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install rapidfuzz
+      - name: Every quote verbatim, every claim sourced, planted-failure self test
+        run: PYTHONPATH=scripts python scripts/09_eval_broadcast.py
+      - name: Audio under 40 MB
+        run: |
+          size=$(du -sm docs/audio | cut -f1)
+          echo "audio MB: $size"
+          test "$size" -lt 40
