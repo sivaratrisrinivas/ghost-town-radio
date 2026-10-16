@@ -1,0 +1,44 @@
+1
+00:00:00,600 --> 00:00:09,234
+Most AI history tools sound sure of themselves, and you cannot tell what is real. So I built a radio station that is not allowed to guess.
+
+2
+00:00:09,784 --> 00:00:21,630
+This is Ghost Town Radio. It began with Bodie, California. Now it also tunes Bangalore, Coorg, Hyderabad and Mumbai, from public domain newspapers, gazetteers and books.
+
+3
+00:00:22,180 --> 00:00:28,816
+Pick a town with these buttons. Each town has its own sources, its own schedule, and its own silent hours.
+
+4
+00:00:29,366 --> 00:00:33,421
+Turn the dial to pick an hour. It works by touch, mouse, or keyboard.
+
+5
+00:00:33,971 --> 00:00:41,050
+Press play. The D J is fictional. But look at the card. Every line shows the exact quote, and a link to the page.
+
+6
+00:00:41,600 --> 00:00:54,068
+DJ Hollis Vane (fictional): The chapel of Mount Carmel was erected in the year 1721.
+
+7
+00:00:54,518 --> 00:00:59,824
+Quote: “The chapel of Mount Carmel, was erected in 1721.”
+
+8
+00:01:00,024 --> 00:01:06,117
+The quote is word for word, typos and all. A code check rejects any quote that is not in the source.
+
+9
+00:01:06,667 --> 00:01:11,188
+Some hours are silent. When the archive has nothing, the D J says nothing.
+
+10
+00:01:11,738 --> 00:01:23,714
+Across the five towns, one hundred twenty claims are on air, and every quote passes the code check. I read the new ones by hand, and threw out eighteen of one hundred fourteen that did not hold up.
+
+11
+00:01:24,264 --> 00:01:27,916
+It is open source, and the link is below. Ghost Town Radio.
+

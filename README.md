@@ -15,7 +15,7 @@ Same rule everywhere: a claim goes on air only if its quote is found word for wo
 **Bodie, California, 1879 and 1880.** At its peak, thousands of people lived here, and the town had its own daily newspapers. Today it is a ghost town. This is a radio station that plays what those newspapers said. A fictional DJ, Hollis Vane, reads it out. If the archive says nothing about a subject, he says nothing. Four hours of the schedule are deliberately silent for that reason.
 
 **Listen:** https://sivaratrisrinivas.github.io/ghost-town-radio/ (press play, or turn the knob to pick an hour)
-**Demo video (71 s):** https://sivaratrisrinivas.github.io/ghost-town-radio/demo/ghost-town-radio-demo.mp4
+**Demo video (five towns, 90 s):** https://sivaratrisrinivas.github.io/ghost-town-radio/demo/ghost-town-radio-demo-5towns.mp4 (original Bodie only cut, 71 s: `demo/ghost-town-radio-demo.mp4`)
 
 Every claim has a source link, the exact quote, and a license on a live card. The quote is shown exactly as the OCR has it, typos included. The DJ's voice is synthetic. The DJ is not a real person. The facts are not made up.
 
